@@ -48,17 +48,16 @@ processDevice() {
     echo "Processing $DEVICE"
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
     LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[0]')
-    [ ! -f "$DATADIR"/"$DEVICE".json ] && echo "{\"datetime\": 0}" > "$DATADIR"/"$DEVICE".json
+    [ ! -f "$DATADIR"/devices/"$DEVICE".json ] && echo "{\"datetime\": 0}" > "$DATADIR"/devices/"$DEVICE".json
     echo "$LATEST"
     LATESTTIME=$(echo "$LATEST" | jq '."datetime"')
-    SAVEDTIME=$(cat "$DATADIR"/"$DEVICE".json | jq '."datetime"')
-    [ $LATESTTIME -le $SAVEDTIME ] && return # no new updates found
+    SAVEDTIME=$(cat "$DATADIR"/devices/"$DEVICE".json | jq '."datetime"')
+    [ $LATESTTIME -le $SAVEDTIME ] && echo "No new update for $DEVICE found!" && return
     echo "New update for $DEVICE found!"
-    echo "$LATEST" > "$DATADIR"/"$DEVICE".json
+    echo "$LATEST" > "$DATADIR"/devices/"$DEVICE".json
     cd "$DATADIR"
-    git add "$DEVICE".json
+    git add devices/"$DEVICE".json
     git commit -m "Process update for $DEVICE"
-    git branch -a
     git push origin trackdata
     cd "$WORKDIR"
     sendDeviceUpdateMessage "$DEVICE"
@@ -66,7 +65,7 @@ processDevice() {
 
 sendDeviceUpdateMessage() {
     DEVICECODENAME="$1"
-    JSON="$DATADIR"/"$DEVICE".json
+    JSON="$DATADIR"/devices/"$DEVICE".json
     VERSION=$(jq -r '."version"' "$JSON")
     DOWNLOADURL=$(jq -r '."url"' "$JSON")
     DOWNLOADSHA=$(curl -s "$DOWNLOADURL?sha256" | cut -d' ' -f 1)
