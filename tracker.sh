@@ -21,6 +21,14 @@ for cmd in git curl jq numfmt sed cut; do
     [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
 done
 
+# push to github on script exit to not send duplicate messages
+function cleanup() {
+    echo "Pushing trackdata"
+    cd "$WORKDIR"
+    git push origin trackdata
+}
+trap cleanup EXIT
+
 # prepare DATABRANCH in DATADIR for saving data
 [ -z "$(git branch | grep "$DATABRANCH")" ] && git fetch origin $DATABRANCH:$DATABRANCH
 [ -d "$DATADIR" ] && rm -rf "$DATADIR"
@@ -48,6 +56,7 @@ processDevice() {
     echo "Processing $DEVICE"
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
     LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[-1]')
+    [ ! -d "$DATADIR"/devices ] && mkdir "$DATADIR"/devices
     [ ! -f "$DATADIR"/devices/"$DEVICE".json ] && echo "{\"datetime\": 0}" > "$DATADIR"/devices/"$DEVICE".json
     echo "$LATEST"
     LATESTTIME=$(echo "$LATEST" | jq '."datetime"')
@@ -55,12 +64,12 @@ processDevice() {
     [ $LATESTTIME -le $SAVEDTIME ] && echo "No new update for $DEVICE found!" && return
     echo "New update for $DEVICE found!"
     echo "$LATEST" > "$DATADIR"/devices/"$DEVICE".json
+    sendDeviceUpdateMessage "$DEVICE"
     cd "$DATADIR"
     git add devices/"$DEVICE".json
     git commit -m "Process update for $DEVICE"
     git push origin trackdata
     cd "$WORKDIR"
-    sendDeviceUpdateMessage "$DEVICE"
 }
 
 sendDeviceUpdateMessage() {
@@ -98,7 +107,7 @@ sendDeviceUpdateMessage() {
     KEYBOARD=$(echo "$KEYBOARD" | sed "s|\$SIZE|$SIZE|g")
     KEYBOARD=$(echo "$KEYBOARD" | sed "s|\$DATE|$DATE|g")
     KEYBOARD=$(echo "$KEYBOARD" | sed "s|\$WIKIURL|$WIKIURL|g")
-    sendMessage "$MSG" "$KEYBOARD"
+    sendMessage "$MSG" "$KEYBOARD" || return 1
 }
 
 sendMessage() {
@@ -108,9 +117,10 @@ sendMessage() {
     echo "$MSG"
     [ -n "$KEYBOARD" ] && echo "(with keyboard)"
     [ -n "$KEYBOARD" ] && KEYBOARDARGS=(--data "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
-    curl --data-urlencode "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendMessage'
+    RES=$(curl --data-urlencode "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendMessage')
+    echo $RES
     echo
-    echo
+    [ "$(echo "$RES" | jq .'ok')" = "false" ] && return 1
     sleep $TIMEOUT
 }
 
@@ -118,5 +128,3 @@ echo "Start process devices"
 for DEVICE in $(cat "$DATADIR"/"$BUILDTARGETSFILE"); do
     processDevice "$DEVICE"
 done
-
-git push origin trackdata
