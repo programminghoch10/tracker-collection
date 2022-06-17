@@ -47,7 +47,7 @@ processDevice() {
     DEVICE="$1"
     echo "Processing $DEVICE"
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
-    LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[0]')
+    LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[-1]')
     [ ! -f "$DATADIR"/devices/"$DEVICE".json ] && echo "{\"datetime\": 0}" > "$DATADIR"/devices/"$DEVICE".json
     echo "$LATEST"
     LATESTTIME=$(echo "$LATEST" | jq '."datetime"')
