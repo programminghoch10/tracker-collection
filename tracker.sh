@@ -111,6 +111,9 @@ sendDeviceUpdateMessage() {
     DATE=$(date -u -d @$(jq -r '."datetime"' "$JSON") +%Y/%m/%d)
     printf -v WIKIURL "$LINEAGEOS_WIKI_URL" "$DEVICECODENAME"
 
+    # if a device name starts with the manufacturer we omit it
+    DEVICENAME=$(echo "$DEVICENAME" | sed "s|^$DEVICEOEM ||g")
+
     # escape sed replacement strings
     DEVICECODENAME=$(sed 's/[&/\]/\\&/g' <<< "$DEVICECODENAME")
     VERSION=$(sed 's/[&/\]/\\&/g' <<< "$VERSION")
