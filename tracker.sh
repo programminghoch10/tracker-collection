@@ -3,6 +3,8 @@ set -e
 
 LINEAGEOS_BUILD_TARGETS="https://raw.githubusercontent.com/LineageOS/hudson/master/lineage-build-targets"
 LINEAGEOS_DEVICES="https://raw.githubusercontent.com/LineageOS/hudson/master/updater/devices.json"
+LINEAGEOS_BUILDCONFIG_GENERATOR="https://raw.githubusercontent.com/lineageos-infra/build-config/main/android/generator.py"
+LINEAGEOS_BUILDCONFIG_PYTHON="python2.7"
 LINEAGEOS_API_URL="https://download.lineageos.org/api/v1/%s/nightly/*"
 LINEAGEOS_WIKI_URL="https://wiki.lineageos.org/devices/%s"
 
@@ -11,13 +13,14 @@ DATABRANCH="trackdata"
 WORKDIR="$(pwd)"
 BUILDTARGETSFILE="buildtargets"
 DEVICESFILE="devices.json"
+BUILDCONFIGGENERATORFILE="$(basename $LINEAGEOS_BUILDCONFIG_GENERATOR)"
 
 CHAT_ID="-1001161392252"
 TIMEOUT=5
 GIT_USERNAME="github-actions[bot]"
 GIT_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
 
-for cmd in git curl jq numfmt sed cut; do
+for cmd in git curl jq numfmt sed cut $LINEAGEOS_BUILDCONFIG_PYTHON; do
     [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
 done
 
@@ -25,6 +28,12 @@ done
 [ -f "channel.txt" ] && CHAT_ID=$(cat channel.txt)
 [ -z "$BOT_TOKEN" ] && echo "Missing Telegram Bot token!" && exit 1
 [ -z "$CHAT_ID" ] && echo "Missing target telegram channel id!" && exit 1
+
+# full - check all devices
+# nightly - check only devices queued to build today
+# force - force check all devices even when last check is less than a week ago
+CHECKTYPE="$1"
+[ -z "$CHECKTYPE" ] && CHECKTYPE="full"
 
 # push to github on script exit to not send duplicate messages
 function cleanup() {
@@ -46,23 +55,39 @@ git config --local user.name "$GIT_USERNAME"
 git config --local user.email "$GIT_EMAIL"
 cd "$WORKDIR"
 
+saveTrackDataFile() {
+    PREVWD="$(pwd)"
+    FILE="$1"
+    COMMITMESSAGE="$2"
+    cd "$DATADIR"
+    git add "$FILE"
+    git commit -m "$COMMITMESSAGE" || true
+    git push origin trackdata
+    cd "$PREVWD"
+}
+
 # acquire latest device list
-cd "$DATADIR"
-curl -s "$LINEAGEOS_BUILD_TARGETS" | sed '/^#/d' | sed '/^\s*$/d' | cut -d' ' -f 1 > "$BUILDTARGETSFILE"
-git add "$BUILDTARGETSFILE"
-git commit -m "Update build targets" || true
-curl -s "$LINEAGEOS_DEVICES" | jq '.' > "$DEVICESFILE"
-git add "$DEVICESFILE"
-git commit -m "Update devices" || true
-cd "$WORKDIR"
+curl -s "$LINEAGEOS_BUILD_TARGETS" | sed '/^#/d' | sed '/^\s*$/d' > "$DATADIR"/"$BUILDTARGETSFILE"
+saveTrackDataFile "$BUILDTARGETSFILE" "Update build targets"
+curl -s "$LINEAGEOS_DEVICES" | jq '.' > "$DATADIR"/"$DEVICESFILE"
+saveTrackDataFile "$DEVICESFILE" "Update devices"
+
+BUILDTARGETSLIST=$(cat "$DATADIR"/"$BUILDTARGETSFILE" | cut -d' ' -f 1)
 
 processDevice() {
     DEVICE="$1"
+    FORCE="$2"
     echo "Processing $DEVICE"
-    printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
-    LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[-1]')
     [ ! -d "$DATADIR"/devices ] && mkdir "$DATADIR"/devices
     [ ! -f "$DATADIR"/devices/"$DEVICE".json ] && echo "{\"datetime\": 0}" > "$DATADIR"/devices/"$DEVICE".json
+    [ -z "$FORCE" ] && {
+        LASTBUILDDATE=$(cat "$DATADIR"/devices/"$DEVICE".json | jq -r '."datetime"')
+        TODAY=$(date -u +%s)
+        LASTWEEK=$(($TODAY - (60 * 60 * 24 * 7) ))
+        [ "$LASTBUILDDATE" -gt "$LASTWEEK" ] && echo "Already checked $DEVICE this week" && return
+    }
+    printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
+    LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[-1]')
     echo "$LATEST"
     LATESTTIME=$(echo "$LATEST" | jq '."datetime"')
     SAVEDTIME=$(cat "$DATADIR"/devices/"$DEVICE".json | jq '."datetime"')
@@ -70,11 +95,7 @@ processDevice() {
     echo "New update for $DEVICE found!"
     echo "$LATEST" > "$DATADIR"/devices/"$DEVICE".json
     sendDeviceUpdateMessage "$DEVICE"
-    cd "$DATADIR"
-    git add devices/"$DEVICE".json
-    git commit -m "Process update for $DEVICE"
-    git push origin trackdata
-    cd "$WORKDIR"
+    saveTrackDataFile devices/"$DEVICE".json "Process update for $DEVICE"
 }
 
 sendDeviceUpdateMessage() {
@@ -141,7 +162,28 @@ sendMessage() {
     sleep $TIMEOUT
 }
 
-echo "Start process devices"
-for DEVICE in $(cat "$DATADIR"/"$BUILDTARGETSFILE"); do
-    processDevice "$DEVICE"
-done
+case "$CHECKTYPE" in
+    "full")
+        echo "Start process all devices"
+        for DEVICE in $BUILDTARGETSLIST; do
+            processDevice "$DEVICE"
+        done
+        ;;
+    "nightly")
+        curl "$LINEAGEOS_BUILDCONFIG_GENERATOR" | sed -e 's|^import yaml$||g' -e 's|yaml.dump(\(.*\))|\1|g' > "$DATADIR"/"$BUILDCONFIGGENERATORFILE"
+        saveTrackDataFile "$BUILDCONFIGGENERATORFILE" "Update device generator"
+        TARGETS_TODAY=$($LINEAGEOS_BUILDCONFIG_PYTHON "$DATADIR"/"$BUILDCONFIGGENERATORFILE" < "$DATADIR"/"$BUILDTARGETSFILE" | sed "s|'|\"|g" | jq -r '."steps" | map(."build"."env"."DEVICE") | .[]')
+        for DEVICE in $TARGETS_TODAY; do
+            processDevice "$DEVICE"
+        done
+        ;;
+    "force")
+        echo "Start process all devices with forced update check"
+        for DEVICE in $BUILDTARGETSLIST; do
+            processDevice "$DEVICE" y
+        done
+        ;;
+    *)
+        echo "Unrecognized checktype $CHECKTYPE"
+        exit 1
+esac
