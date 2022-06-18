@@ -21,6 +21,11 @@ for cmd in git curl jq numfmt sed cut; do
     [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
 done
 
+[ -z "$BOT_TOKEN" ] && [ -f "token.txt" ] && BOT_TOKEN=$(cat token.txt)
+[ -f "channel.txt" ] && CHAT_ID=$(cat channel.txt)
+[ -z "$BOT_TOKEN" ] && echo "Missing Telegram Bot token!" && exit 1
+[ -z "$CHAT_ID" ] && echo "Missing target telegram channel id!" && exit 1
+
 # push to github on script exit to not send duplicate messages
 function cleanup() {
     echo "Pushing trackdata"
