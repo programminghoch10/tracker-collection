@@ -31,7 +31,6 @@ done
 
 # full - check all devices
 # nightly - check only devices queued to build today
-# force - force check all devices even when last check is less than a week ago
 CHECKTYPE="$1"
 [ -z "$CHECKTYPE" ] && CHECKTYPE="full"
 
@@ -169,7 +168,7 @@ case "$CHECKTYPE" in
     "full")
         echo "Start process all devices"
         for DEVICE in $BUILDTARGETSLIST; do
-            processDevice "$DEVICE"
+            processDevice "$DEVICE" y
         done
         ;;
     "nightly")
@@ -178,12 +177,6 @@ case "$CHECKTYPE" in
         TARGETS_TODAY=$($LINEAGEOS_BUILDCONFIG_PYTHON "$DATADIR"/"$BUILDCONFIGGENERATORFILE" < "$DATADIR"/"$BUILDTARGETSFILE" | sed "s|'|\"|g" | jq -r '."steps" | map(."build"."env"."DEVICE") | .[]')
         for DEVICE in $TARGETS_TODAY; do
             processDevice "$DEVICE"
-        done
-        ;;
-    "force")
-        echo "Start process all devices with forced update check"
-        for DEVICE in $BUILDTARGETSLIST; do
-            processDevice "$DEVICE" y
         done
         ;;
     *)
