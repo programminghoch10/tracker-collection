@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 LINEAGEOS_BUILD_TARGETS="https://raw.githubusercontent.com/LineageOS/hudson/master/lineage-build-targets"
 LINEAGEOS_DEVICES="https://raw.githubusercontent.com/LineageOS/hudson/master/updater/devices.json"
@@ -10,49 +9,24 @@ LINEAGEOS_WIKI_URL="https://wiki.lineageos.org/devices/%s"
 
 DATADIR="trackdata"
 DATABRANCH="trackdata"
-WORKDIR="$(pwd)"
 BUILDTARGETSFILE="buildtargets"
 DEVICESFILE="devices.json"
 BUILDCONFIGGENERATORFILE="$(basename $LINEAGEOS_BUILDCONFIG_GENERATOR)"
 
 CHAT_ID="-1001161392252"
-TIMEOUT=5
-GIT_USERNAME="github-actions[bot]"
-GIT_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
+
+WORKDIR=$(dirname $(readlink -f "$0"))
+cd "$WORKDIR"
+source ../../framework.sh
 
 for cmd in git curl jq numfmt sed cut $LINEAGEOS_BUILDCONFIG_PYTHON; do
     [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
 done
 
-[ -z "$BOT_TOKEN" ] && [ -f "token.txt" ] && BOT_TOKEN=$(cat token.txt)
-[ -f "channel.txt" ] && CHAT_ID=$(cat channel.txt)
-[ -z "$BOT_TOKEN" ] && echo "Missing Telegram Bot token!" && exit 1
-[ -z "$CHAT_ID" ] && echo "Missing target telegram channel id!" && exit 1
-
 # full - check all devices
 # nightly - check only devices queued to build today
 CHECKTYPE="$1"
 [ -z "$CHECKTYPE" ] && CHECKTYPE="full"
-
-# push to github on script exit to not send duplicate messages
-function cleanup() {
-    echo "Pushing trackdata"
-    cd "$WORKDIR"
-    git push origin trackdata
-}
-trap cleanup EXIT
-
-# prepare DATABRANCH in DATADIR for saving data
-[ -z "$(git branch | grep "$DATABRANCH")" ] && git fetch origin $DATABRANCH:$DATABRANCH
-[ -d "$DATADIR" ] && rm -rf "$DATADIR"
-mkdir "$DATADIR"
-git clone . "$DATADIR"
-cd "$DATADIR"
-git fetch origin $DATABRANCH:$DATABRANCH
-git checkout $DATABRANCH
-git config --local user.name "$GIT_USERNAME"
-git config --local user.email "$GIT_EMAIL"
-cd "$WORKDIR"
 
 saveTrackDataFile() {
     PREVWD="$(pwd)"
@@ -148,20 +122,6 @@ sendDeviceUpdateMessage() {
     KEYBOARD=$(sed "s|\$DATE|$DATE|g" <<< "$KEYBOARD")
     KEYBOARD=$(sed "s|\$WIKIURL|$WIKIURL|g" <<< "$KEYBOARD")
     sendMessage "$MSG" "$KEYBOARD" || return 1
-}
-
-sendMessage() {
-    MSG="$1"
-    KEYBOARD="$2"
-    echo "Sending message:"
-    echo "$MSG"
-    [ -n "$KEYBOARD" ] && echo "(with keyboard)"
-    [ -n "$KEYBOARD" ] && KEYBOARDARGS=(--data "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
-    RES=$(curl --data-urlencode "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendMessage')
-    echo $RES
-    echo
-    [ "$(echo "$RES" | jq .'ok')" = "false" ] && return 1
-    sleep $TIMEOUT
 }
 
 case "$CHECKTYPE" in

@@ -1,12 +1,12 @@
-name: LineageOS Tracker Full Check
+name: LineageOS Devices Tracker Nightly
 
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 concurrency: 
-  group: lineageos-tracker
+  group: lineageos-devices-tracker
   cancel-in-progress: false
 
 jobs:
@@ -22,5 +22,4 @@ jobs:
       - name: Run tracker.sh
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-        run: |
-          ./tracker.sh full
+        run: ./lineageos/devices/tracker.sh nightly
