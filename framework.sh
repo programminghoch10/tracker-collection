@@ -47,15 +47,31 @@ git config --local user.email "$GIT_EMAIL"
 cd "$WORKDIR"
 
 sendMessage() {
-    MSG="$1"
-    KEYBOARD="$2"
+    local MSG="$1"
+    local KEYBOARD="$2"
     echo "Sending message:"
     echo "$MSG"
     [ -n "$KEYBOARD" ] && echo "(with keyboard)"
-    [ -n "$KEYBOARD" ] && KEYBOARDARGS=(--data "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
-    RES=$(curl --data-urlencode "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendMessage')
+    [ -n "$KEYBOARD" ] && local KEYBOARDARGS=(--data-urlencode "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
+    local RES=$(curl -s --data-urlencode "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendMessage')
     echo $RES
-    echo
     [ "$(echo "$RES" | jq .'ok')" != "true" ] && return 1
+    TELEGRAM_MESSAGE_ID="$(jq .'result'.'message_id' <<< "$RES")"
+    sleep $TELEGRAM_TIMEOUT
+}
+
+sendImageMessage() {
+    local IMGURL="$1"
+    local MSG="$2"
+    local KEYBOARD="$3"
+    local KEYBOARDARGS
+    echo "Sending message:"
+    echo "$MSG"
+    [ -n "$KEYBOARD" ] && echo "(with keyboard)"
+    [ -n "$KEYBOARD" ] && local KEYBOARDARGS=(--data-urlencode "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
+    local RES=$(curl -s --data-urlencode "photo=$IMGURL" --data-urlencode "caption=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendPhoto')
+    echo $RES
+    [ "$(echo "$RES" | jq .'ok')" != "true" ] && return 1
+    TELEGRAM_MESSAGE_ID="$(jq .'result'.'message_id' <<< "$RES")"
     sleep $TELEGRAM_TIMEOUT
 }

@@ -1,0 +1,25 @@
+name: GSMArena Releases Tracker
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+concurrency: 
+  group: gsmarena-releases-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    name: Track
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Run tracker.sh
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        run: ./gsmarena/release/tracker.sh
