@@ -35,7 +35,7 @@ saveTrackDataFile() {
     cd "$DATADIR"
     git add "$FILE"
     git commit -m "$COMMITMESSAGE" || true
-    git push origin trackdata
+    git push origin "$DATABRANCH"
     cd "$PREVWD"
 }
 
@@ -62,6 +62,7 @@ processDevice() {
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
     LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[-1]')
     echo "$LATEST"
+    [ "$LATEST" = "null" ] && echo "No builds for $DEVICE found!" && return
     LATESTTIME=$(echo "$LATEST" | jq '."datetime"')
     SAVEDTIME=$(cat "$DATADIR"/devices/"$DEVICE".json | jq '."datetime"')
     [ $LATESTTIME -le $SAVEDTIME ] && echo "No new update for $DEVICE found!" && return
