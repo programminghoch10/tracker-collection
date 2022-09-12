@@ -26,32 +26,18 @@ saveTrackDataFile() {
     COMMITMESSAGE="$2"
     cd "$DATADIR"
     git add "$FILE"
-    git commit -m "$COMMITMESSAGE"
+    git commit -m "$COMMITMESSAGE" || true
     git push origin "$DATABRANCH"
     cd "$PREVWD"
 }
 
 [ ! -d "$DATADIR/latest" ] && mkdir "$DATADIR/latest"
 
-allbrands="$(curl -s -f "$GSMARENA_ALL_BRANDS_URL" | pup 'table td' | pup 'a attr{href}')"
-
-set -a #automatically export new variables, needed for envsubst later
-for brandlink in $allbrands; do
-    sleep $GSMARENA_TIMEOUT
-    brandlink="$(sed 's|-\([[:digit:]]*\).php|-f-\1-2.php|' <<< "$brandlink")" # apply filter "available"
-    brand="${brandlink%%-*}"
-    echo "Processing brand $brand"
-    brandpage=$(curl -f -s "$GSMARENA_BASE_URL/$brandlink")
-    devicelink="$(pup '#review-body > div.makers > ul > li' <<< "$brandpage" | pup 'a attr{href}' | head -n 1)"
-    [ -z "$devicelink" ] && echo "$brand has no devices available" && continue
-    echo "\"$devicelink\" is the newest device"
-    [ ! -f "$DATADIR/latest/$brand" ] && touch "$DATADIR/latest/$brand"
-    [ "$(cat "$DATADIR/latest/$brand")" = "$devicelink" ] && {
-        echo "$brand latest device is up to date."
-        continue
-    }
-    echo "$devicelink" > "$DATADIR/latest/$brand"
-    devicepage="$(curl -f -s "$GSMARENA_BASE_URL/$devicelink")"
+processNewDevice() {
+    device="$1"
+    set -a #automatically export new variables, needed for envsubst later
+    
+    devicepage="$(curl -f -s "$GSMARENA_BASE_URL/$device")"
     for spec in year status modelname weight chipset internalmemory displaytype displayresolution os price cam1modules cam2modules wlan bluetooth gps nfc usb batdescription1 cpu gpu dimensions memoryslot colors models; do
         declare "device$spec"="$(pup "[data-spec=$spec] text{}" <<< "$devicepage" | sed ':a;N;$!ba;s/\n\n/\n/g; s|\n| / |g;')"
     done
@@ -69,6 +55,45 @@ for brandlink in $allbrands; do
 
     sendImageMessage "$deviceimageurl" "$IMAGECAPTION"
     sendMessage "$MESSAGE" "$KEYBOARD"
-    saveTrackDataFile "latest/$brand" "Process $devicemodelname"
 
+}
+
+allbrands="$(curl -s -f "$GSMARENA_ALL_BRANDS_URL" | pup 'table td' | pup 'a attr{href}')"
+
+for brandlink in $allbrands; do
+    sleep $GSMARENA_TIMEOUT
+    brandlink="$(sed 's|-\([[:digit:]]*\).php|-f-\1-2.php|' <<< "$brandlink")" # apply filter "available"
+    export brand="${brandlink%%-*}"
+    echo "Processing brand $brand"
+    brandpage=$(curl -f -s "$GSMARENA_BASE_URL/$brandlink")
+    devicelinks="$(pup '#review-body > div.makers > ul > li' 'a attr{href}' <<< "$brandpage")"
+    [ -z "$devicelinks" ] && echo "$brand has no devices available" && continue
+    addeddevicesdiff="$(diff --text --new-file --new-line-format="+%L" --old-line-format="" --unchanged-line-format="#%L" "$DATADIR/latest/$brand" <(echo "$devicelinks") || true)"
+    [ -z "$(sed -e 's/^#.*//' <<<"$addeddevicesdiff")" ] && {
+        echo "$brand is up to date."
+        continue
+    }
+    for devicediff in $addeddevicesdiff; do 
+        case "$devicediff" in 
+            \+*)
+                echo "Found new device $devicediff"
+                device=$(sed -e 's/^+//' <<< "$devicediff")
+                ;;
+            \#*)
+                echo "Device $devicediff is already known. Stopping diff evaluation of $brand."
+                break
+                ;;
+            *)
+                echo "diffing $brand devices failed on line $devicediff"
+                echo "diff devices are: $addeddevicesdiff"
+                echo "new devices are: $devicelinks"
+                echo "old devices were:"
+                cat "$DATADIR/latest/$brand"
+                exit 1
+        esac
+        echo "Processing new device $device"
+        processNewDevice "$device"
+    done
+    echo "$devicelinks" > "$DATADIR/latest/$brand"
+    saveTrackDataFile "latest/$brand" "Process $brand"
 done

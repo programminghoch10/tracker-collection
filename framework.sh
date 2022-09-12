@@ -28,6 +28,7 @@ done
 
 # push to github on script exit to not send duplicate messages
 function cleanup() {
+    echo "Executing EXIT handler"
     echo "Pushing $DATABRANCH"
     cd "$WORKDIR"
     git push origin $DATABRANCH
