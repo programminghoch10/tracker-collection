@@ -19,6 +19,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - name: Setup Go
+        uses: actions/setup-go@v3
+      - name: Setup Go Environment
+        run: echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+      - name: Install pup
+        run: go install github.com/ericchiang/pup@latest
       - name: Run tracker.sh
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
