@@ -1,0 +1,14 @@
+{
+    "inline_keyboard": [
+        [
+            {
+                "text": "View Commit",
+                "url": "$commit_url"
+            },
+            {
+                "text": "View Metadata",
+                "url": "$commit_metadata_url"
+            }
+        ]
+    ]
+}

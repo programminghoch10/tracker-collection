@@ -55,9 +55,9 @@ cd "$WORKDIR"
 sendMessage() {
     local MSG="$1"
     local KEYBOARD="$2"
-    echo "Sending message:"
-    echo "$MSG"
-    [ -n "$KEYBOARD" ] && echo "(with keyboard)"
+    echo "Sending message:" >&2
+    echo "$MSG" >&2
+    [ -n "$KEYBOARD" ] && echo "(with keyboard)" >&2
     [ -n "$KEYBOARD" ] && local KEYBOARDARGS=(--data-urlencode "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
     local RES=$(curl -s --data-urlencode "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendMessage')
     echo $RES
@@ -71,9 +71,9 @@ sendImageMessage() {
     local MSG="$2"
     local KEYBOARD="$3"
     local KEYBOARDARGS
-    echo "Sending message:"
-    echo "$MSG"
-    [ -n "$KEYBOARD" ] && echo "(with keyboard)"
+    echo "Sending message:" >&2
+    echo "$MSG" >&2
+    [ -n "$KEYBOARD" ] && echo "(with keyboard)" >&2
     [ -n "$KEYBOARD" ] && local KEYBOARDARGS=(--data-urlencode "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
     local RES=$(curl -s --data-urlencode "photo=$IMGURL" --data-urlencode "caption=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendPhoto')
     echo $RES
@@ -86,6 +86,6 @@ GitHubApiRequest() {
     local URL="$1"
     local CURL_ARGS=()
     [ -n "$GITHUB_TOKEN" ] && CURL_ARGS+=("-H" "Authorization: Bearer $GITHUB_TOKEN")
-    curl -s "${CURL_ARGS[@]}" "$URL"
+    curl -s -f "${CURL_ARGS[@]}" "$URL"
     sleep $GITHUB_TIMEOUT
 }
