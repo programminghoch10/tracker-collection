@@ -21,6 +21,11 @@ GIT_ROOT="$(git rev-parse --show-toplevel)"
 [ -z "$DATADIR" ] && echo "Missing Data Directory!" && exit 1
 [ -z "$WORKDIR" ] && WORKDIR="$(pwd)"
 
+# github api checks
+[ -z "$GITHUB_TOKEN" ] && [ -f "$GIT_ROOT/githubapitoken.txt" ] && GITHUB_TOKEN="$(cat $GIT_ROOT/githubapitoken.txt)"
+GITHUB_TIMEOUT=10 # 60 requests per hour => 10s per request
+[ -n "$GITHUB_TOKEN" ] && GITHUB_TIMEOUT=1 # 5000 requests per hour => ~0.8s per request
+
 # host system checks
 for cmd in git curl jq; do
     [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
@@ -75,4 +80,12 @@ sendImageMessage() {
     [ "$(echo "$RES" | jq .'ok')" != "true" ] && return 1
     TELEGRAM_MESSAGE_ID="$(jq .'result'.'message_id' <<< "$RES")"
     sleep $TELEGRAM_TIMEOUT
+}
+
+GitHubApiRequest() {
+    local URL="$1"
+    local CURL_ARGS=()
+    [ -n "$GITHUB_TOKEN" ] && CURL_ARGS+=("-H" "Authorization: Bearer $GITHUB_TOKEN")
+    curl -s "${CURL_ARGS[@]}" "$URL"
+    sleep $GITHUB_TIMEOUT
 }
