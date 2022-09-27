@@ -59,6 +59,7 @@ getCommitTitle() {
 IFS=$'\n'
 for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?&sort=pushed&per_page=$GITHUB_CHECK_REPOSITORIES_AMOUNT" | jq -c '.[]'); do
     reponame=$(jq -r '.name' <<< "$repojson")
+    reponametag=$(sed 's/[^[:alpha:]]/_/g' <<< "$reponame")
     repofullname=$(jq -r '.full_name' <<< "$repojson")
     repofullname_sanitized="${repofullname//\//_}"
     saved_repo_path="$DATADIR"/"$repofullname_sanitized"
@@ -70,9 +71,10 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
     saved_last_pushed=$(cat "$saved_repo_path"/last_pushed)
     echo "  saved last pushed: $saved_last_pushed"
     [ "$last_pushed" = "$saved_last_pushed" ] && continue
-    echo "  Found new changes!"
+    echo "  Repo has been updated since last check!"
     [ ! -f "$saved_repo_path"/last_change ] && touch "$saved_repo_path"/last_change
     saved_last_change=$(cat "$saved_repo_path"/last_change)
+    echo "  saved last change: $saved_last_change"
 
     repo_folder="${repofullname_sanitized}_dummy"
     [ -d "$repo_folder" ] && rm -rf "$repo_folder"
@@ -82,7 +84,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
     # repo_url=$(jq -r '.clone_url' <<< "$repojson")
     printf -v repo_url "$REMOTE_REPO_URL" "$repofullname"
     git remote add origin "$repo_url"
-    refs="$(git ls-remote --refs)"
+    refs="$(git ls-remote --refs -q)"
     cd "$WORKDIR"
     rm -rf "$repo_folder"
     
@@ -90,14 +92,15 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
     [ -z "$changes" ] && continue
     changeids="$(cut -f2 <<< "$changes" | cut -d'/' -f4 | sort -u -n)"
     newchangeids=$(filterNewChanges "$saved_last_change" <<< "$changeids")
-    echo "found $(wc -l <<< "$newchangeids") new changes"
+    [ -n "$newchangeids" ] && echo "  Found $(wc -l <<< "$newchangeids") new changes"
+    [ -z "$newchangeids" ] && echo "  Found no new changes"
     for change in $newchangeids; do
         [ -z "$change" ] && {
             echo "Got empty change!"
             echo "change list is \"$newchangeids\""
             continue
         }
-        echo "Processing change $change"
+        echo "    Processing change $change"
         echo "$change" > "$saved_repo_path"/last_change
 
         printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
@@ -111,9 +114,9 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
 
         printf -v commit_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$commit"
         printf -v commit_metadata_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$metacommit"
-        echo "Found private change $change: "$commit_url" $changetitle"
+        echo "  Found private change $change: "$commit_url" $changetitle"
 
-        declare -x reponame change repofullname commit_url changetitle commitpatchnumber
+        declare -x reponametag change repofullname commit_url changetitle commitpatchnumber
         MESSAGE="$(envsubst < message.html)"
         declare -x commit_url commit_metadata_url
         KEYBOARD="$(envsubst < message-keyboard.json)"
@@ -125,7 +128,6 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         saveTrackDataFiles "Process change $change" "$saved_repo_path"/"$change"
     done
 
-    echo "$change" > "$saved_repo_path"/last_change
     echo "$last_pushed" > "$saved_repo_path"/last_pushed
     saveTrackDataFiles "Process $repofullname" "$saved_repo_path"/last_pushed "$saved_repo_path"/last_change
 done
