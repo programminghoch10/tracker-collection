@@ -5,6 +5,11 @@ GSMARENA_ALL_BRANDS_URL="$GSMARENA_BASE_URL/makers.php3"
 GSMARENA_COMPARE_URL="$GSMARENA_BASE_URL/compare.php3?idPhone1=%s"
 GOOGLE_SHOPPING_URL="https://www.google.com/search?q=%s&tbm=shop"
 
+CURL_ARGS=()
+CURL_ARGS+=('--fail')
+CURL_ARGS+=('--silent')
+CURL_ARGS+=('--user-agent' '')
+
 CHAT_ID="-1001763351429"
 
 DATADIR="trackdata"
@@ -34,9 +39,9 @@ saveTrackDataFile() {
 [ ! -d "$DATADIR/latest" ] && mkdir "$DATADIR/latest"
 
 processNewDevice() {
-    device="$1"
+    devicelink="$1"
     
-    devicepage="$(curl -f -s "$GSMARENA_BASE_URL/$device")"
+    devicepage="$(curl "${CURL_ARGS[@]}" "$GSMARENA_BASE_URL/$devicelink")"
     for spec in year status modelname weight chipset internalmemory displaytype displayresolution os price cam1modules cam2modules wlan bluetooth gps nfc usb batdescription1 cpu gpu dimensions memoryslot colors models; do
         declare "device$spec"="$(pup "[data-spec=$spec] text{}" <<< "$devicepage" | sed ':a;N;$!ba;s/\n\n/\n/g; s|\n| / |g;')"
     done
@@ -57,14 +62,14 @@ processNewDevice() {
 
 }
 
-allbrands="$(curl -s -f "$GSMARENA_ALL_BRANDS_URL" | pup 'table td' | pup 'a attr{href}')"
+allbrands="$(curl "${CURL_ARGS[@]}" "$GSMARENA_ALL_BRANDS_URL" | pup 'table td' | pup 'a attr{href}')"
 
 for brandlink in $allbrands; do
     sleep $GSMARENA_TIMEOUT
     brandlink="$(sed 's|-\([[:digit:]]*\).php|-f-\1-2.php|' <<< "$brandlink")" # apply filter "available"
     brand="${brandlink%%-*}"
     echo "Processing brand $brand"
-    brandpage=$(curl -f -s "$GSMARENA_BASE_URL/$brandlink")
+    brandpage=$(curl "${CURL_ARGS[@]}" "$GSMARENA_BASE_URL/$brandlink")
     devicelinks="$(pup '#review-body > div.makers > ul > li' 'a attr{href}' <<< "$brandpage")"
     [ -z "$devicelinks" ] && echo "$brand has no devices available" && continue
     addeddevicesdiff="$(diff --text --new-file --new-line-format="+%L" --old-line-format="" --unchanged-line-format="#%L" "$DATADIR/latest/$brand" <(echo "$devicelinks") || true)"
