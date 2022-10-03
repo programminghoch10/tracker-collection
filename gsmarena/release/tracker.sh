@@ -35,7 +35,6 @@ saveTrackDataFile() {
 
 processNewDevice() {
     device="$1"
-    set -a #automatically export new variables, needed for envsubst later
     
     devicepage="$(curl -f -s "$GSMARENA_BASE_URL/$device")"
     for spec in year status modelname weight chipset internalmemory displaytype displayresolution os price cam1modules cam2modules wlan bluetooth gps nfc usb batdescription1 cpu gpu dimensions memoryslot colors models; do
@@ -49,9 +48,9 @@ processNewDevice() {
     devicegsmarenaid="$(sed -e 's|.*-\([[:digit:]]*\).php$|\1|' <<< "$devicelink")"
     printf -v devicecompareurl "$GSMARENA_COMPARE_URL" "$devicegsmarenaid"
 
-    MESSAGE="$(envsubst < message.html)"
-    IMAGECAPTION="$(envsubst < imagecaption.html)"
-    KEYBOARD="$(envsubst < message-keyboard.json)"
+    MESSAGE="$(envsubstadvanced < message.html)"
+    IMAGECAPTION="$(envsubstadvanced < imagecaption.html)"
+    KEYBOARD="$(envsubstadvanced < message-keyboard.json)"
 
     sendImageMessage "$deviceimageurl" "$IMAGECAPTION"
     sendMessage "$MESSAGE" "$KEYBOARD"
@@ -63,7 +62,7 @@ allbrands="$(curl -s -f "$GSMARENA_ALL_BRANDS_URL" | pup 'table td' | pup 'a att
 for brandlink in $allbrands; do
     sleep $GSMARENA_TIMEOUT
     brandlink="$(sed 's|-\([[:digit:]]*\).php|-f-\1-2.php|' <<< "$brandlink")" # apply filter "available"
-    export brand="${brandlink%%-*}"
+    brand="${brandlink%%-*}"
     echo "Processing brand $brand"
     brandpage=$(curl -f -s "$GSMARENA_BASE_URL/$brandlink")
     devicelinks="$(pup '#review-body > div.makers > ul > li' 'a attr{href}' <<< "$brandpage")"

@@ -27,7 +27,7 @@ GITHUB_TIMEOUT=10 # 60 requests per hour => 10s per request
 [ -n "$GITHUB_TOKEN" ] && GITHUB_TIMEOUT=1 # 5000 requests per hour => ~0.8s per request
 
 # host system checks
-for cmd in git curl jq; do
+for cmd in git curl jq envsubst; do
     [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
 done
 
@@ -88,4 +88,10 @@ GitHubApiRequest() {
     [ -n "$GITHUB_TOKEN" ] && CURL_ARGS+=("-H" "Authorization: Bearer $GITHUB_TOKEN")
     curl -s -f "${CURL_ARGS[@]}" "$URL"
     sleep $GITHUB_TIMEOUT
+}
+
+envsubstadvanced() {
+    local MSG="$(cat -)"
+    declare -g -x $(grep -E '\$\w+' -o <<< "$MSG" | sed 's/^\$//')
+    envsubst <<< "$MSG"
 }

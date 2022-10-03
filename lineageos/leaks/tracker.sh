@@ -116,10 +116,8 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         printf -v commit_metadata_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$metacommit"
         echo "  Found private change $change: "$commit_url" $changetitle"
 
-        declare -x reponametag change repofullname commit_url changetitle commitpatchnumber
-        MESSAGE="$(envsubst < message.html)"
-        declare -x commit_url commit_metadata_url
-        KEYBOARD="$(envsubst < message-keyboard.json)"
+        MESSAGE="$(envsubstadvanced < message.html)"
+        KEYBOARD="$(envsubstadvanced < message-keyboard.json)"
 
         [ ! -d "$saved_repo_path"/"$change" ] && mkdir "$saved_repo_path"/"$change"
         sendMessage "$MESSAGE" "$KEYBOARD" > "$saved_repo_path"/"$change"/message
