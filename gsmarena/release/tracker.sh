@@ -43,7 +43,7 @@ processNewDevice() {
     
     devicepage="$(curl "${CURL_ARGS[@]}" "$GSMARENA_BASE_URL/$devicelink")"
     for spec in year status modelname weight chipset internalmemory displaytype displayresolution os price cam1modules cam2modules wlan bluetooth gps nfc usb batdescription1 cpu gpu dimensions memoryslot colors models; do
-        declare "device$spec"="$(pup "[data-spec=$spec] text{}" <<< "$devicepage" | sed ':a;N;$!ba;s/\n\n/\n/g; s|\n| / |g;')"
+        declare -g "device$spec"="$(pup "[data-spec=$spec] text{}" <<< "$devicepage" | sed ':a;N;$!ba;s/\n\n/\n/g; s|\n| / |g;')"
     done
     deviceannounced="$deviceyear"
     devicereleased="$(sed -e 's/Available. //' -e 's/Released //' <<< "$devicestatus")"
