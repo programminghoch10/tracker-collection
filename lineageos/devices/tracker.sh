@@ -56,8 +56,8 @@ processDevice() {
     [ -z "$FORCE" ] && {
         LASTBUILDDATE=$(cat "$DATADIR"/devices/"$DEVICE".json | jq -r '."datetime"')
         TODAY=$(date -u +%s)
-        LASTWEEK=$(($TODAY - (60 * 60 * 24 * 7) ))
-        [ "$LASTBUILDDATE" -gt "$LASTWEEK" ] && echo "Already checked $DEVICE this week" && return
+        LASTWEEK=$(($TODAY - (60 * 60 * 24 * 1) ))
+        [ "$LASTBUILDDATE" -gt "$LASTWEEK" ] && echo "Already checked $DEVICE today" && return
     }
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
     LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[-1]')
@@ -129,7 +129,7 @@ case "$CHECKTYPE" in
     "full")
         echo "Start process all devices"
         for DEVICE in $BUILDTARGETSLIST; do
-            processDevice "$DEVICE" y
+            processDevice "$DEVICE"
         done
         ;;
     "nightly")
