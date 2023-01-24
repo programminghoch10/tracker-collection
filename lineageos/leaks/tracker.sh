@@ -10,6 +10,7 @@
 
 REMOTE_REPO_URL="https://github.com/%s"
 REMOTE_GERRIT_CHANGE_URL="https://review.lineageos.org/changes/%s"
+REMOTE_GERRIT_CHANGE_LINK_URL="https://review.lineageos.org/c/%s"
 REMOTE_REPO_COMMIT_URL="$REMOTE_REPO_URL/commit/%s"
 
 DATADIR="trackdata"
@@ -124,6 +125,51 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         echo "$commitpatchnumber" > "$saved_repo_path"/"$change"/patch
         
         saveTrackDataFiles "Process change $change" "$saved_repo_path"/"$change"
+    done
+
+    for change in "$saved_repo_path"/*; do
+        change="$(basename "$change")"
+        grep -q -E "^[0-9]+$" <<< "$change" || continue
+        echo "  Checking $change"
+
+        [ -f "$saved_repo_path/$change/message_public" ] && continue
+        
+        lastpatch=$(cat "$saved_repo_path"/$change/patch)
+        echo "    saved patch is $lastpatch"
+        
+        commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | cut -f1 | tail -n 1)"
+        commitpatchnumber="$(grep -i -e "^$commit" <<< "$changes" | cut -f2 | cut -d'/' -f5)"
+        metacommit="$(grep -i "/${change}/" <<< "$changes" | grep -e '/meta$' | cut -f1)"
+        changetitle="$(getCommitTitle "$repofullname" "$commit")"
+        printf -v commit_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$commit"
+        printf -v commit_metadata_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$metacommit"
+        echo "    current patch is $commitpatchnumber"
+
+        printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
+	    [ -z "$(curl --silent --head "$change_url" | grep '404 Not Found')" ] && {
+            echo "    change is now public"
+            printf -v gerrit_change_url "$REMOTE_GERRIT_CHANGE_LINK_URL" "$change"
+            
+            MESSAGE="$(envsubstadvanced < message_public.html)"
+            KEYBOARD="$(envsubstadvanced < message-keyboard_public.json)"
+            
+            sendMessage "$MESSAGE" "$KEYBOARD" > "$saved_repo_path"/"$change"/message_public
+            echo "$commitpatchnumber" > "$saved_repo_path"/"$change"/patch
+            
+            saveTrackDataFiles "Process change $change (public)" "$saved_repo_path"/"$change"
+            continue
+        }
+
+        [ "$lastpatch" = "$commitpatchnumber" ] && continue
+        echo "    found patchset update"
+        
+        MESSAGE="$(envsubstadvanced < message_update.html)"
+        KEYBOARD="$(envsubstadvanced < message-keyboard.json)"
+        
+        sendMessage "$MESSAGE" "$KEYBOARD" > "$saved_repo_path"/"$change"/message_update_$commitpatchnumber
+        echo "$commitpatchnumber" > "$saved_repo_path"/"$change"/patch
+        
+        saveTrackDataFiles "Process change $change (patchset update)" "$saved_repo_path"/"$change"
     done
 
     echo "$last_pushed" > "$saved_repo_path"/last_pushed
