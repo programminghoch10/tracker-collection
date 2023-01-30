@@ -2,7 +2,7 @@ name: LineageOS Devices Tracker Full Check
 
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 12,18 * * *'
   workflow_dispatch:
 
 concurrency: 
