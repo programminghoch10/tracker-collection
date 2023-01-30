@@ -8,7 +8,7 @@ LINEAGEOS_API_URL="https://download.lineageos.org/api/v1/%s/nightly/*"
 LINEAGEOS_WIKI_URL="https://wiki.lineageos.org/devices/%s"
 
 DATADIR="trackdata"
-DATABRANCH="trackdata"
+DATABRANCH="trackdata-lineageos-devices"
 BUILDTARGETSFILE="buildtargets"
 DEVICESFILE="devices.json"
 BUILDCONFIGGENERATORFILE="$(basename $LINEAGEOS_BUILDCONFIG_GENERATOR)"
