@@ -107,7 +107,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
 	    [ -z "$(curl --silent --head "$change_url" | grep '404 Not Found')" ] && continue
 
-        commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | cut -f1 | tail -n 1)"
+        commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | sort -t'/' -k5 -g | cut -f1 | tail -n 1)"
         commitpatchnumber="$(grep -i -e "^$commit" <<< "$changes" | cut -f2 | cut -d'/' -f5)"
         metacommit="$(grep -i "/${change}/" <<< "$changes" | grep -e '/meta$' | cut -f1)"
         
@@ -137,7 +137,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         lastpatch=$(cat "$saved_repo_path"/$change/patch)
         echo "    saved patch is $lastpatch"
         
-        commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | cut -f1 | tail -n 1)"
+        commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | sort -t'/' -k5 -g | cut -f1 | tail -n 1)"
         commitpatchnumber="$(grep -i -e "^$commit" <<< "$changes" | cut -f2 | cut -d'/' -f5)"
         metacommit="$(grep -i "/${change}/" <<< "$changes" | grep -e '/meta$' | cut -f1)"
         changetitle="$(getCommitTitle "$repofullname" "$commit")"
