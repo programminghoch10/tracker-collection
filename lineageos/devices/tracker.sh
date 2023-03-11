@@ -60,7 +60,7 @@ processDevice() {
         [ "$LASTBUILDDATE" -gt "$LASTWEEK" ] && echo "Already checked $DEVICE today" && return
     }
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
-    LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[-1]')
+    LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[0]')
     echo "$LATEST"
     [ -z "$LATEST" ] && echo "Failed to fetch latest builds for $DEVICE" && return
     [ "$LATEST" = "null" ] && echo "No builds for $DEVICE found!" && return
