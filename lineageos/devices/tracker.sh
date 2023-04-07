@@ -4,7 +4,7 @@ LINEAGEOS_BUILD_TARGETS="https://raw.githubusercontent.com/LineageOS/hudson/mast
 LINEAGEOS_DEVICES="https://raw.githubusercontent.com/LineageOS/hudson/master/updater/devices.json"
 LINEAGEOS_BUILDCONFIG_GENERATOR="https://raw.githubusercontent.com/lineageos-infra/build-config/main/android/generator.py"
 LINEAGEOS_BUILDCONFIG_PYTHON="python2.7"
-LINEAGEOS_API_URL="https://download.lineageos.org/api/v1/%s/nightly/*"
+LINEAGEOS_API_URL="https://download.lineageos.org/api/v2/devices/%s/builds"
 LINEAGEOS_WIKI_URL="https://wiki.lineageos.org/devices/%s"
 
 DATADIR="trackdata"
@@ -60,7 +60,7 @@ processDevice() {
         [ "$LASTBUILDDATE" -gt "$LASTWEEK" ] && echo "Already checked $DEVICE today" && return
     }
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
-    LATEST=$(curl -s "$DEVICE_API_URL" | jq '."response"[0]')
+    LATEST="$(curl -s "$DEVICE_API_URL" | jq 'sort_by(.datetime) | .[-1]')"
     echo "$LATEST"
     [ -z "$LATEST" ] && echo "Failed to fetch latest builds for $DEVICE" && return
     [ "$LATEST" = "null" ] && echo "No builds for $DEVICE found!" && return
@@ -75,15 +75,16 @@ processDevice() {
 
 sendDeviceUpdateMessage() {
     DEVICECODENAME="$1"
-    JSON="$DATADIR"/devices/"$DEVICE".json
-    VERSION=$(jq -r '."version"' "$JSON")
-    DOWNLOADURL=$(jq -r '."url"' "$JSON")
-    DOWNLOADSHA=$(curl -s "$DOWNLOADURL?sha256" | cut -d' ' -f 1)
+    JSON="$(cat "$DATADIR"/devices/"$DEVICE".json)"
+    VERSION=$(jq -r '."version"' <<< "$JSON")
+    ZIPFILE="$(jq -r '."files"[0]' <<< "$JSON")"
+    DOWNLOADURL=$(jq -r '."url"' <<< "$ZIPFILE")
+    DOWNLOADSHA=$(jq -r '."sha256"' <<< "$ZIPFILE")
     DEVICEOEM=$(jq -r '.[] | select(."model"=="'$DEVICECODENAME'") | .oem' "$DATADIR"/"$DEVICESFILE")
     DEVICENAME=$(jq -r '.[] | select(."model"=="'$DEVICECODENAME'") | .name' "$DATADIR"/"$DEVICESFILE")
-    ROMTYPE=$(jq -r '."romtype"' "$JSON")
-    SIZE=$(jq -r '."size"' "$JSON" | numfmt --to=si --suffix=B)
-    DATE=$(date -u -d @$(jq -r '."datetime"' "$JSON") +%Y/%m/%d)
+    ROMTYPE=$(jq -r '."type"' <<< "$ZIPFILE")
+    SIZE=$(jq -r '."size"' <<< "$ZIPFILE" | numfmt --to=si --suffix=B)
+    DATE=$(date -u -d @$(jq -r '."datetime"' <<< "$ZIPFILE") +%Y/%m/%d)
     printf -v WIKIURL "$LINEAGEOS_WIKI_URL" "$DEVICECODENAME"
 
     # if a device name starts with the manufacturer we omit it
