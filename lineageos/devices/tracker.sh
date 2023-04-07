@@ -78,6 +78,7 @@ sendDeviceUpdateMessage() {
     JSON="$(cat "$DATADIR"/devices/"$DEVICE".json)"
     VERSION=$(jq -r '."version"' <<< "$JSON")
     ZIPFILE="$(jq -r '."files"[0]' <<< "$JSON")"
+    DOWNLOADFILENAME=$(jq -r '."filename"' <<< "$ZIPFILE")
     DOWNLOADURL=$(jq -r '."url"' <<< "$ZIPFILE")
     DOWNLOADSHA=$(jq -r '."sha256"' <<< "$ZIPFILE")
     DEVICEOEM=$(jq -r '.[] | select(."model"=="'$DEVICECODENAME'") | .oem' "$DATADIR"/"$DEVICESFILE")
@@ -90,7 +91,16 @@ sendDeviceUpdateMessage() {
     # if a device name starts with the manufacturer we omit it
     DEVICENAME=$(echo "$DEVICENAME" | sed "s|^$DEVICEOEM ||g")
 
-    MSG="$(envsubstadvanced < message.html)"
+    ADDITIONALFILES=""
+    for addfilejson in $(jq --compact-output ".[\"files\"][] | select(.\"filename\" != \"$DOWNLOADFILENAME\")" <<< "$JSON"); do
+        ADDFILEURL=$(jq -r '.url' <<< "$addfilejson")
+        ADDFILENAME=$(jq -r '.filename' <<< "$addfilejson")
+        ADDFILESIZE=$(jq -r '.size' <<< "$addfilejson" | numfmt --to=si --suffix=B)
+        ADDITIONALFILES="$ADDITIONALFILES"$'\n'"$(envsubstadvanced < message-additional-file.html)"
+    done
+    ADDITIONALFILES="$(stripEmptyLines <<< "$ADDITIONALFILES")"
+
+    MSG="$(envsubstadvanced < message.html | stripEmptyLines)"
     KEYBOARD="$(envsubstadvanced < message-keyboard.json)"
 
     sendMessage "$MSG" "$KEYBOARD" || return 1

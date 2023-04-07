@@ -95,3 +95,7 @@ envsubstadvanced() {
     declare -g -x $(grep -E '\$\w+' -o <<< "$MSG" | sed 's/^\$//')
     envsubst <<< "$MSG"
 }
+
+stripEmptyLines() {
+    sed -e '/^$/ d'
+}
