@@ -73,9 +73,12 @@ sendImageMessage() {
     local KEYBOARDARGS
     echo "Sending message:" >&2
     echo "$MSG" >&2
+    echo "(with image: $IMGURL)" >&2
     [ -n "$KEYBOARD" ] && echo "(with keyboard)" >&2
-    [ -n "$KEYBOARD" ] && local KEYBOARDARGS=(--data-urlencode "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
-    local RES=$(curl -s --data-urlencode "photo=$IMGURL" --data-urlencode "caption=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" ${KEYBOARDARGS[@]} 'https://api.telegram.org/bot'$BOT_TOKEN'/sendPhoto')
+    [ -n "$KEYBOARD" ] && local KEYBOARDARGS=(--form-string "reply_markup=$(echo "$KEYBOARD" | jq -r tostring)")
+    local RES=$(curl -s --output - "$IMGURL" | \
+        curl -s --form photo=@- --form-string caption="$MSG" --form-string chat_id="$CHAT_ID" --form-string parse_mode=HTML ${KEYBOARDARGS[@]} \
+        'https://api.telegram.org/bot'$BOT_TOKEN'/sendPhoto')
     echo $RES
     [ "$(echo "$RES" | jq .'ok')" != "true" ] && return 1
     TELEGRAM_MESSAGE_ID="$(jq .'result'.'message_id' <<< "$RES")"
