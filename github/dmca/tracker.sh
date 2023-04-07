@@ -50,7 +50,7 @@ echo "Latest local:    $LATEST_LOCAL"
 }
 echo
 
-for COMMIT in $(git log --pretty='%H' --no-merges origin/$LOCALDMCABRANCH..dmca/$GITHUBDMCABRANCH); do
+for COMMIT in $(git log --pretty='%H' --no-merges --reverse origin/$LOCALDMCABRANCH..dmca/$GITHUBDMCABRANCH); do
     processCommit "$COMMIT"
     sleep $TIMEOUT
 done
