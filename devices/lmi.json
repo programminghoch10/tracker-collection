@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-lmi-signed.zip",
-  "id": "420a3ce48379dce3b05615049431267b403928b45071861c2eb9f53688f1be81",
-  "romtype": "nightly",
-  "size": 1284865588,
-  "url": "https://mirrorbits.lineageos.org/full/lmi/20230401/lineage-20.0-20230401-nightly-lmi-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-lmi-signed.zip",
+      "filepath": "/full/lmi/20230408/lineage-20.0-20230408-nightly-lmi-signed.zip",
+      "sha1": "a3f04727b2fd2b0e8cb1ee559db8d410e8326c1a",
+      "sha256": "0499b1fcb42f1cbe35bc0a63e10e049be7e279f96e8e1376b6359c0a160ed491",
+      "size": 1284863061,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/lmi/20230408/lineage-20.0-20230408-nightly-lmi-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/lmi/20230408/boot.img",
+      "sha1": "2433f8ccd20f2c4dbf2259efd7112f6156891207",
+      "sha256": "6af3ae4da75b4dc0da2fe32693a09c212f5bf728ae62b05514cd2a48cb30a0c0",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/lmi/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/lmi/20230408/dtbo.img",
+      "sha1": "15bf4081611e01ca24c8f1a432440706202fbb7b",
+      "sha256": "2671eea3534523d5d5ffb2de4548aa756b8c653ed2a1e9f4dccb954315801f38",
+      "size": 33554432,
+      "url": "https://mirrorbits.lineageos.org/full/lmi/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/lmi/20230408/recovery.img",
+      "sha1": "f370c22c5e3a5b14162a0997da129710e7782dac",
+      "sha256": "aa8359052fa1c4cb1aae21b782c9716d9a1476082833fa13a08c53ec2c0f55c9",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/lmi/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/lmi/20230408/super_empty.img",
+      "sha1": "0d6daeef5186fd05890935bd1b1873041f63fe69",
+      "sha256": "b43f88216ecfb647e522a3ea9c21b6152bc0f6d16ee29e0875f56094680a5739",
+      "size": 4644,
+      "url": "https://mirrorbits.lineageos.org/full/lmi/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/lmi/20230408/vbmeta.img",
+      "sha1": "0707f1fc8ef08bffccc0d6365116437d9a73fb9c",
+      "sha256": "8f7da20475728383f05904ec09c5a882bdfd26e522d449de65dce4fcebb764ba",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/lmi/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
