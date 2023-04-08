@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-berlin-signed.zip",
-  "id": "a9d26a8d7e53d8b46acc1125266c5551fc2101dc8d7202e8292cfbe45ca9aae1",
-  "romtype": "nightly",
-  "size": 1117203495,
-  "url": "https://mirrorbits.lineageos.org/full/berlin/20230401/lineage-20.0-20230401-nightly-berlin-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-berlin-signed.zip",
+      "filepath": "/full/berlin/20230408/lineage-20.0-20230408-nightly-berlin-signed.zip",
+      "sha1": "2411579c18ab2793bb51a4ed3cb985aa64f26bb2",
+      "sha256": "9e1600bbc81f7d7a18f729ec48b5183a487cc08380a4f81b7f032b76973edf30",
+      "size": 1117222510,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20230408/lineage-20.0-20230408-nightly-berlin-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/berlin/20230408/boot.img",
+      "sha1": "160cab8193d09829b839de5b9965d7cb7dc66282",
+      "sha256": "9fb759f902a967c032a2fd65eeb1947705e34e0358203fb4dfb7c9d717c6e00c",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/berlin/20230408/dtbo.img",
+      "sha1": "583e59f635a346bfd855e69c4264ed3586237815",
+      "sha256": "996f4bda20731b6b20b71cef2fbe1b2e7032ab8160031557ea6b1b1e82fe1641",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20230408/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/berlin/20230408/super_empty.img",
+      "sha1": "2af443ec0ca97ca3cdc1bcb981da1413a4fd7178",
+      "sha256": "0ccd9800d70543eee39baa55c517ca2d9ee19973dd559a4e9981f0029ae1df83",
+      "size": 4848,
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/berlin/20230408/vbmeta.img",
+      "sha1": "9be0222e71ffe9b504103f366d3cd879ae18e8df",
+      "sha256": "ab1262650db8da43b85ab362d3742dc7e0ddf5be79f0160833e1662b14aad019",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20230408/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/berlin/20230408/vendor_boot.img",
+      "sha1": "09021fea89c23d5fc183be323f3666aea826d985",
+      "sha256": "76683100823b3ca37a4ad94cf138acfca806d9cbc66780cf98812d26bb5161a1",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20230408/vendor_boot.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
