@@ -1,9 +1,51 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-zippo-signed.zip",
-  "id": "eec5d96a8f6bd13b4a81162186ee3d4e82aef9c794378b18d04891c72ac91da1",
-  "romtype": "nightly",
-  "size": 906806903,
-  "url": "https://mirrorbits.lineageos.org/full/zippo/20230401/lineage-20.0-20230401-nightly-zippo-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-zippo-signed.zip",
+      "filepath": "/full/zippo/20230408/lineage-20.0-20230408-nightly-zippo-signed.zip",
+      "sha1": "9f78420407399da713cf1953c270db60c837b77d",
+      "sha256": "d9dcf7b539f5d17e00978c3faa6a91eb49404626b7f466a349bf2895d5830cb2",
+      "size": 906772284,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230408/lineage-20.0-20230408-nightly-zippo-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/zippo/20230408/boot.img",
+      "sha1": "973f4c2fced4899481dd307d464dc7969e06a0d6",
+      "sha256": "735bfc8ca28c18774cd861ced05bd560b9278b97ff6dd676e683da7aeb7c2c4a",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/zippo/20230408/dtbo.img",
+      "sha1": "4171f85ab902783f2213e3a6d1f27c9e85183381",
+      "sha256": "f6aa12ca997dc9b8b09fdfc5a336077a6f9ebe67b644a00668def3f1e06dff62",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/zippo/20230408/recovery.img",
+      "sha1": "704b1b83897d92369631a34e2cabab190083704c",
+      "sha256": "9ed4b8ced3e194a0117506e4683a14727874c62c6f41a1905a7e748e35d1f8db",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230408/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/zippo/20230408/vbmeta.img",
+      "sha1": "be3be6a9d351741abc676629e56099c51c4d5e91",
+      "sha256": "434b0e2d0c4a361b1f8c4cfaab25dc7af3deb5b774e755715b6291fa6996d53a",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
