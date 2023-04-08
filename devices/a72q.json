@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-a72q-signed.zip",
-  "id": "97e32c8e5d6f68dfa581d4dbb6a64f1ddc364bf0056994bd6aa89cb2fa1c95a2",
-  "romtype": "nightly",
-  "size": 1082017725,
-  "url": "https://mirrorbits.lineageos.org/full/a72q/20230401/lineage-20.0-20230401-nightly-a72q-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-a72q-signed.zip",
+      "filepath": "/full/a72q/20230408/lineage-20.0-20230408-nightly-a72q-signed.zip",
+      "sha1": "39e8cef66cd3c45d0eed494665a085e72cbdc18a",
+      "sha256": "502936b4f54195e6802b3b350ab7994fff109288dab509f697f449fe6d2f532a",
+      "size": 1081945802,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/a72q/20230408/lineage-20.0-20230408-nightly-a72q-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/a72q/20230408/boot.img",
+      "sha1": "fba9842d340555c00e8e98170bed69423734af34",
+      "sha256": "cf14993fdf52b59f7c5b850054e825bba3104656666d84794cbf98105880c70b",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/a72q/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/a72q/20230408/dtbo.img",
+      "sha1": "4e128de79b0fcec42f77006226781969842d00a9",
+      "sha256": "76b770f4acaa4ed03881404b5efee45b585604d9c23eadfa0bf07bd04196ad3a",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/a72q/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/a72q/20230408/recovery.img",
+      "sha1": "fa042ee010dbc975720b7cb7dff59745ed3e360a",
+      "sha256": "c2dbd6049b538e9dff7277bd65742419fca0013d1d0de74f148b73163c29116d",
+      "size": 81788928,
+      "url": "https://mirrorbits.lineageos.org/full/a72q/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/a72q/20230408/super_empty.img",
+      "sha1": "c5798a2d86c5b2d2118cd2edc14ab449c18db3b4",
+      "sha256": "fe89e17f44703a2a3b6cb4d3fec39c84cd9054ba246642613b41b1e32356efd0",
+      "size": 4592,
+      "url": "https://mirrorbits.lineageos.org/full/a72q/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/a72q/20230408/vbmeta.img",
+      "sha1": "e402599f3c2783c2901846688201a639a58a4daf",
+      "sha256": "8a93a356fb4d303eeb9bbb262b01808299e8f62a22966a0c076265a1be930389",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/a72q/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
