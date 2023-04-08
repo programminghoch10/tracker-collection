@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-19.1-20230401-nightly-lisa-signed.zip",
-  "id": "d71bd40f5a700ae01834b3ca8e52e169f629e8e4803cfd911a5df6a443917787",
-  "romtype": "nightly",
-  "size": 1264850361,
-  "url": "https://mirrorbits.lineageos.org/full/lisa/20230401/lineage-19.1-20230401-nightly-lisa-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-19.1-20230408-nightly-lisa-signed.zip",
+      "filepath": "/full/lisa/20230408/lineage-19.1-20230408-nightly-lisa-signed.zip",
+      "sha1": "615cf36c2fcc6b63450ceea81b465e5d74376053",
+      "sha256": "35ce9e99cba8c1898b7b7abbb96df8322178b56875f377cddaf731d302225e65",
+      "size": 1264852381,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/lisa/20230408/lineage-19.1-20230408-nightly-lisa-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/lisa/20230408/boot.img",
+      "sha1": "bf5ab2276b02a75ab921c50b4cd40ee9b7f2e4c2",
+      "sha256": "81301004b0da30a456e7d1b9f139c3c4ff4bb844fff76a7a92ed16dabcf1ea92",
+      "size": 201326592,
+      "url": "https://mirrorbits.lineageos.org/full/lisa/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/lisa/20230408/dtbo.img",
+      "sha1": "33dfd25efc3c5f67529267a0cef24f0ec028b53c",
+      "sha256": "6468bde636b7dd8c853c84b2cd2837a8fbe10027c67a07e2d801e537b5765fb2",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/lisa/20230408/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/lisa/20230408/super_empty.img",
+      "sha1": "372c4ac73a562add66c3bc414f082bcc7a507fda",
+      "sha256": "65a0ed7b2efd1edc10dc3b1069ef5357ef52d5dccdfa86a4b5abbbb2a070c787",
+      "size": 5184,
+      "url": "https://mirrorbits.lineageos.org/full/lisa/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/lisa/20230408/vbmeta.img",
+      "sha1": "06daee0312856f665774d48d2fdbeebfaab4a0cd",
+      "sha256": "5882a3f298d720fc2ee1ed96b74ab1990741fc43cad1a9834ead3fb7024da764",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/lisa/20230408/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/lisa/20230408/vendor_boot.img",
+      "sha1": "68ee11924f337d0e019fe1409831d4876c39d9f1",
+      "sha256": "a7c55bc16906eb0192f8744eff14e95ca2071056ffdd7f4d636da45babbd95e1",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/lisa/20230408/vendor_boot.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
