@@ -1,9 +1,43 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-G-signed.zip",
-  "id": "4870d971519252e900e8657be2c5c7ceca9e22bd687ecd044a4276d3486cc71e",
-  "romtype": "nightly",
-  "size": 764208484,
-  "url": "https://mirrorbits.lineageos.org/full/G/20230401/lineage-20.0-20230401-nightly-G-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-G-signed.zip",
+      "filepath": "/full/G/20230408/lineage-20.0-20230408-nightly-G-signed.zip",
+      "sha1": "bb6b2d811b531c60570b149dad1fd66df14906a7",
+      "sha256": "12d9d887ee8fa8dc0592ab6e2aab2f2b3f36742e75bd1b8499d53f3a7978cb6e",
+      "size": 764198523,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/G/20230408/lineage-20.0-20230408-nightly-G-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/G/20230408/boot.img",
+      "sha1": "a359a51f19fb62c95a7c6f5cbe53f823a67afb5d",
+      "sha256": "772a4dd3fabec8867f0a9fd30556580468ab075e7e03dcb7d6b1110be04071c5",
+      "size": 13733888,
+      "url": "https://mirrorbits.lineageos.org/full/G/20230408/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/G/20230408/recovery.img",
+      "sha1": "f3dc6ab7ca98625aeef4da99af4203263d3cae83",
+      "sha256": "e9882ea72fe2d8fc412047352692be6c90628580f6b588b43a6002bc34be7df4",
+      "size": 24545280,
+      "url": "https://mirrorbits.lineageos.org/full/G/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/G/20230408/super_empty.img",
+      "sha1": "6abac50fc92388028e40c5530bccc96a05a35798",
+      "sha256": "713c718ff42035bb948054dc78dec19296e139bc746b191136dd408857f6968b",
+      "size": 4708,
+      "url": "https://mirrorbits.lineageos.org/full/G/20230408/super_empty.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
