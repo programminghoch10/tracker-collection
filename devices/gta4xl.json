@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-19.1-20230401-nightly-gta4xl-signed.zip",
-  "id": "d46daabbde6aa1f84f78f2c5ec27519d786d64e70672bae85a8acfa7ca65e767",
-  "romtype": "nightly",
-  "size": 778354519,
-  "url": "https://mirrorbits.lineageos.org/full/gta4xl/20230401/lineage-19.1-20230401-nightly-gta4xl-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-19.1-20230408-nightly-gta4xl-signed.zip",
+      "filepath": "/full/gta4xl/20230408/lineage-19.1-20230408-nightly-gta4xl-signed.zip",
+      "sha1": "ed83678fa850cc44e48d4ad84bbb4d86541b7d82",
+      "sha256": "e4372a25cacaef6ed31f1117035c60d642437c67d7e513aceb78fc8451eac0dc",
+      "size": 778408284,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gta4xl/20230408/lineage-19.1-20230408-nightly-gta4xl-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/gta4xl/20230408/boot.img",
+      "sha1": "b5f1446a62c6b8e228200d3de999afe9a1f93609",
+      "sha256": "67ef834c83897c47da34fdb4e2fc669d92c890e763e101009ccda1a8fe48fdfc",
+      "size": 61865984,
+      "url": "https://mirrorbits.lineageos.org/full/gta4xl/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/gta4xl/20230408/dtbo.img",
+      "sha1": "2c023996cbbcf9a0bcfa471daddf6c17e6082050",
+      "sha256": "1d7213faeeac3e892381c06e37b022b30b6c8cdf63b0629aa77e64fb9257591e",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/gta4xl/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/gta4xl/20230408/recovery.img",
+      "sha1": "54551d2d1f4e3ee8f682f9b05307416c70b5f1ff",
+      "sha256": "4a1d6ec7cf873fcf991f878153987a8e32eb7bfb8b91ef48385e0a1cdebe6713",
+      "size": 71106560,
+      "url": "https://mirrorbits.lineageos.org/full/gta4xl/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/gta4xl/20230408/super_empty.img",
+      "sha1": "9ef9fe924bc162325dbd7e6faf9658c08f108826",
+      "sha256": "3df47fa96a9ebf8ed1fbddee459461485b9ebc28b2c830278c3b766e9642164b",
+      "size": 4644,
+      "url": "https://mirrorbits.lineageos.org/full/gta4xl/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/gta4xl/20230408/vbmeta.img",
+      "sha1": "f99da79324960e2f9ece736b2303a39ed1bbed4f",
+      "sha256": "87acbac782c938dcad039f1695548d3ab3f6324e7cfe7b781692e9b7f4fe7e56",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/gta4xl/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
