@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-pyxis-signed.zip",
-  "id": "ad637bac903f60f797abae8bab467176b5d8cc40ec3d879c02c20b130344c0de",
-  "romtype": "nightly",
-  "size": 1135934004,
-  "url": "https://mirrorbits.lineageos.org/full/pyxis/20230401/lineage-20.0-20230401-nightly-pyxis-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-pyxis-signed.zip",
+      "filepath": "/full/pyxis/20230408/lineage-20.0-20230408-nightly-pyxis-signed.zip",
+      "sha1": "3bba7646096e0b3db69bbf2914d274f3e1c5a7e4",
+      "sha256": "1f97210d75b3e2ac44140df0d4328beec78776ca8ef0b38c902cbf9701fa7ee1",
+      "size": 1135950028,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20230408/lineage-20.0-20230408-nightly-pyxis-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/pyxis/20230408/boot.img",
+      "sha1": "d5cfe4fe7efa31a4991825c8a3b6d7a543ec82a8",
+      "sha256": "8be930b6bced74c3e43cac0e35ac3522906ea2925942dec10704f2e5cda89a7d",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/pyxis/20230408/dtbo.img",
+      "sha1": "4d4f324eb8445dc4b21995176dc057bcbb25827b",
+      "sha256": "97a7adb84cea3313f5443006f7b32c702216759bcb6c08bb053d973a4a3a86c7",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/pyxis/20230408/recovery.img",
+      "sha1": "612e37a6dd22c862f7620d6ce93e4eb01b2524e9",
+      "sha256": "295a64fd27b5da0157e0a0b223d4d19589d7cde42261bfc200e4ab1c4eb42eab",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/pyxis/20230408/super_empty.img",
+      "sha1": "14de7ac7c66df8a2c631fe353887d4a0681db911",
+      "sha256": "bc894d1a965674cea0262a820167452ab3efdc56e5f6e68cea693701251f8866",
+      "size": 4772,
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/pyxis/20230408/vbmeta.img",
+      "sha1": "702aa3faf7c2f8d9f4e22e55e74d05216de215c8",
+      "sha256": "9f0575d37d3ee05cac7043ad0fc97dd9c26fd601d914308f326a45de112c8a2d",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
