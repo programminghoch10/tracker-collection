@@ -1,9 +1,35 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-ocean-signed.zip",
-  "id": "7b80471fdac3cf20540ff8f6babe209b5b778f82356cecb7fe01eac2d64bb2a1",
-  "romtype": "nightly",
-  "size": 747589261,
-  "url": "https://mirrorbits.lineageos.org/full/ocean/20230401/lineage-20.0-20230401-nightly-ocean-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-ocean-signed.zip",
+      "filepath": "/full/ocean/20230408/lineage-20.0-20230408-nightly-ocean-signed.zip",
+      "sha1": "295a9ee8fd4cd9f0ac0b6e5cef9b200bac6f80bd",
+      "sha256": "bdd1b4a77cae5e4f6d44fd75fc60d8c519db408640c49bc79acec8320970901d",
+      "size": 747569538,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/ocean/20230408/lineage-20.0-20230408-nightly-ocean-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/ocean/20230408/boot.img",
+      "sha1": "a01bb9d9d0bd5c385b3d1de7b456367709b2f656",
+      "sha256": "f7cab28580a0862b609630e7c0f50c4e5fbee7eda3a4f58b4fe68ed9ad5d789e",
+      "size": 25628672,
+      "url": "https://mirrorbits.lineageos.org/full/ocean/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/ocean/20230408/dtbo.img",
+      "sha1": "890e7cd41ad8f55e281726594449bdfb15ef0e32",
+      "sha256": "94ad2d5c0be10d5b7d8ec1c335d88b3dff5b21c3d2e7ffb64a560c2bb09a38b0",
+      "size": 1794291,
+      "url": "https://mirrorbits.lineageos.org/full/ocean/20230408/dtbo.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
