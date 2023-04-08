@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-19.1-20230401-nightly-apollon-signed.zip",
-  "id": "64690941781ce00e04171162a180d23cee36c9b7400eb04149adab68826b5d1f",
-  "romtype": "nightly",
-  "size": 1370938255,
-  "url": "https://mirrorbits.lineageos.org/full/apollon/20230401/lineage-19.1-20230401-nightly-apollon-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-19.1-20230408-nightly-apollon-signed.zip",
+      "filepath": "/full/apollon/20230408/lineage-19.1-20230408-nightly-apollon-signed.zip",
+      "sha1": "75a1e4d8897372748ee82ce049012a091a273085",
+      "sha256": "843527501ace5b453f814d6cf0d01bda58cc0677257f570132ddba8c61c97d48",
+      "size": 1371009679,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20230408/lineage-19.1-20230408-nightly-apollon-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/apollon/20230408/boot.img",
+      "sha1": "9de62e44cf28a81d5bd3713851131936a2cdceaa",
+      "sha256": "f5d6be029c891d7d987b25cf08095feac34eabd3999507d56f074ee2825a2ca8",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/apollon/20230408/dtbo.img",
+      "sha1": "1800de460df98435572828f436796f98e71a1c46",
+      "sha256": "4c1763b34aa401971d71c1c081935f53dc6f4d07fbcdbe2e468edb3460942d04",
+      "size": 33554432,
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/apollon/20230408/recovery.img",
+      "sha1": "a57ae390d8ae1ac91d2c90fa26dee09b284182a7",
+      "sha256": "54b0fdc2af71dbfb66eaffe9cd34df1683dc35f164cc01cf0f025e74d4d6dd6d",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/apollon/20230408/super_empty.img",
+      "sha1": "0d6daeef5186fd05890935bd1b1873041f63fe69",
+      "sha256": "b43f88216ecfb647e522a3ea9c21b6152bc0f6d16ee29e0875f56094680a5739",
+      "size": 4644,
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/apollon/20230408/vbmeta.img",
+      "sha1": "4b8e877a31dc063a351e6401c4351d6e37d3747f",
+      "sha256": "d4caaa89cd44280e741113a3534024fc5f1c5de067105ed7017fcc5ff1c91976",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
