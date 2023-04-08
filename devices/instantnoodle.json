@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-instantnoodle-signed.zip",
-  "id": "73616f4e972b9b7b86cd647f3ed54d194b35ba983bb95e5159d6099209e230a8",
-  "romtype": "nightly",
-  "size": 1157733747,
-  "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20230401/lineage-20.0-20230401-nightly-instantnoodle-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-instantnoodle-signed.zip",
+      "filepath": "/full/instantnoodle/20230408/lineage-20.0-20230408-nightly-instantnoodle-signed.zip",
+      "sha1": "b12fb8b593cf547a0581e9f6c26a54492613f325",
+      "sha256": "c4f65679237929e8f99a7c6680ebd304b34147c5de8a72893ad5080b86ba5a32",
+      "size": 1157751276,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20230408/lineage-20.0-20230408-nightly-instantnoodle-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/instantnoodle/20230408/boot.img",
+      "sha1": "9a375aaead77d8e85d16e46f63fc4f99ff186bdd",
+      "sha256": "5db12cbcd0613f2e65b4aa021400ab02515b677e6c052436b6bca4e49925beae",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/instantnoodle/20230408/dtbo.img",
+      "sha1": "27bcc5e46c1cef9a7be14f409326db97b737d6d9",
+      "sha256": "ab6266992f959394ad7a6e96b58e03b86262ff4d6632c69234e6a0cfd4a697f8",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/instantnoodle/20230408/recovery.img",
+      "sha1": "dc8aafb3befe251b112a1ecff6962ef4203e2022",
+      "sha256": "b6287382691e7044fd7670ff84f15a0a73cc6a0dfa526eefa4fb0e2ca8685a05",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/instantnoodle/20230408/super_empty.img",
+      "sha1": "9902666530c073be5dbee695f7d431aff32fafb8",
+      "sha256": "1677e377fb4a2e961f9feb785884ce855ee580beff1224e00ec83fa4ec1ac267",
+      "size": 4952,
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/instantnoodle/20230408/vbmeta.img",
+      "sha1": "c55631bfbdbe9805b4adb28c29e2d97561b24b31",
+      "sha256": "3563c9ec009253f8fc07583199c94bf68d8d4ce68652501ea3b0e28f25c0e3ac",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
