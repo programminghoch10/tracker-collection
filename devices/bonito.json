@@ -1,9 +1,51 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-19.1-20230401-nightly-bonito-signed.zip",
-  "id": "b74d10ba0569b319be6f7ab6baf0b4884ac3a09ace6f265e57ab1c28bde77199",
-  "romtype": "nightly",
-  "size": 954446788,
-  "url": "https://mirrorbits.lineageos.org/full/bonito/20230401/lineage-19.1-20230401-nightly-bonito-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-19.1-20230408-nightly-bonito-signed.zip",
+      "filepath": "/full/bonito/20230408/lineage-19.1-20230408-nightly-bonito-signed.zip",
+      "sha1": "d73fb953d49e841294ed79e5229189f98dca8b47",
+      "sha256": "8e88426f5e8ea66b9c25523ad6d323f2f8a3210fa4ee9f72bd9f0da40f0b529b",
+      "size": 954451134,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20230408/lineage-19.1-20230408-nightly-bonito-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/bonito/20230408/boot.img",
+      "sha1": "db5c60e34c93ef09bc7ba68299151dcbb3e46b30",
+      "sha256": "c85ccd682651cd72941c8c06110669054e1c740b87b7b09a6822333570d04df5",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/bonito/20230408/dtbo.img",
+      "sha1": "f9949bfe15c44379619fc0711c547e2a4d0ee2ad",
+      "sha256": "bed5deb81cb8ef141ebde2ae5614a456f6f5ae18691e5672743fde5f5b746b6b",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20230408/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/bonito/20230408/super_empty.img",
+      "sha1": "9cbf6e6b6b90f17dce0cb0bbae73d131270dbb7f",
+      "sha256": "e1c9e3c94123304dc402eb0cd81a8557e1b0ed48bafe77bc19477ea74d4a30c7",
+      "size": 4656,
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/bonito/20230408/vbmeta.img",
+      "sha1": "4369703bb3d54f0e8bd4731b05852cc3b27ac6b7",
+      "sha256": "868df60f549de7fea568209f9a0b2751611194f1b9f93e5c4e3b5afc94781b05",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
