@@ -1,9 +1,59 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-kiev-signed.zip",
-  "id": "ce1d026cd7dd21b46bb46b87b9aea180ecd5aedf4fe770deed28139996d078f0",
-  "romtype": "nightly",
-  "size": 963729282,
-  "url": "https://mirrorbits.lineageos.org/full/kiev/20230401/lineage-20.0-20230401-nightly-kiev-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-kiev-signed.zip",
+      "filepath": "/full/kiev/20230408/lineage-20.0-20230408-nightly-kiev-signed.zip",
+      "sha1": "2878984ee9e51dd03f0214f8f6cb5f104376e0f7",
+      "sha256": "1ec31231b3a19dc45b6ecda127e45598fcdc0e6694265328939b95886d3b3ed8",
+      "size": 963753214,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20230408/lineage-20.0-20230408-nightly-kiev-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/kiev/20230408/boot.img",
+      "sha1": "c43bd328b4d7f24ceffc8d40604dae8f05d0b09a",
+      "sha256": "f6f07934a4390a807be9bfb0eb85ded0e20c4b197ca208356e36cac60cda50b4",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20230408/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/kiev/20230408/dtbo.img",
+      "sha1": "22f044d761a959237fb149a5a853e933f7d1938a",
+      "sha256": "8210d0872b081f77f6f4d79d65bb7fbd163b989bfbf1124e5e80dd3e499fbd09",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20230408/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/kiev/20230408/recovery.img",
+      "sha1": "acd45fc56dadba7a210e5edcf1df9e2d023673f0",
+      "sha256": "9d375a4dcbdfb34f699b2d37f1a77e8398ac281876217f53f30c417a2943b24c",
+      "size": 104857600,
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20230408/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/kiev/20230408/super_empty.img",
+      "sha1": "8043a00ea7911fdec41e3ffce0e6f1b80fa936e8",
+      "sha256": "80e39460caca50443fa68d849bd8f7cbcbd02d1f0ae1dc88195a23adf899c325",
+      "size": 4744,
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20230408/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/kiev/20230408/vbmeta.img",
+      "sha1": "9304f3b1b20614c66a97db8850e39df7727bac95",
+      "sha256": "83d9682f961b8df799d8a3906d78eae4d4ceab8fdaa939b5c15d4d648a424ed5",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20230408/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
