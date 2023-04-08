@@ -1,9 +1,27 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-chef-signed.zip",
-  "id": "33afbbedf898a738ae75509277087ac4cd7bee9944c7c033f18dc1a1cf9bc5d3",
-  "romtype": "nightly",
-  "size": 729155130,
-  "url": "https://mirrorbits.lineageos.org/full/chef/20230401/lineage-20.0-20230401-nightly-chef-signed.zip",
+  "date": "2023-04-08",
+  "datetime": 1680912000,
+  "files": [
+    {
+      "date": "2023-04-08",
+      "datetime": 1680912000,
+      "filename": "lineage-20.0-20230408-nightly-chef-signed.zip",
+      "filepath": "/full/chef/20230408/lineage-20.0-20230408-nightly-chef-signed.zip",
+      "sha1": "344d6b57e21a3fc6dc1688a7f0b390f8ff5c89fe",
+      "sha256": "cd1a011a1270c3f37f51c902d9be8759944882314f62395026b979d58abe4439",
+      "size": 729128021,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/chef/20230408/lineage-20.0-20230408-nightly-chef-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/chef/20230408/boot.img",
+      "sha1": "2e8e6effc7aa391e608563d3c956f06388ecfaa3",
+      "sha256": "6c74f1afaa92943881d17e93fca75dd8087a9383c12253d5891d81c2c55b6fef",
+      "size": 28669224,
+      "url": "https://mirrorbits.lineageos.org/full/chef/20230408/boot.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
