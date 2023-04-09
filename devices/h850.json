@@ -1,9 +1,35 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-19.1-20230402-nightly-h850-signed.zip",
-  "id": "46181bed5d6b1d3f42c4e5f86482e17de96656e9573d1e2c456ad6ef47eb51b6",
-  "romtype": "nightly",
-  "size": 765120591,
-  "url": "https://mirrorbits.lineageos.org/full/h850/20230402/lineage-19.1-20230402-nightly-h850-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-19.1-20230409-nightly-h850-signed.zip",
+      "filepath": "/full/h850/20230409/lineage-19.1-20230409-nightly-h850-signed.zip",
+      "sha1": "8be19a12d5f19a9be082a195efdeef9f61f062ae",
+      "sha256": "04b76260b5f8f1a079b2d6a5f28e73ac36e231c8423a18ca4bb6ccd0046e2af9",
+      "size": 765103754,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/h850/20230409/lineage-19.1-20230409-nightly-h850-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/h850/20230409/boot.img",
+      "sha1": "4e67b032f156784794018bb5e6670a0a5e6216a6",
+      "sha256": "15b14e219af697397b95445bcd7bb30e28e3e707f42d0823893ed61b10ae911b",
+      "size": 13090816,
+      "url": "https://mirrorbits.lineageos.org/full/h850/20230409/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/h850/20230409/recovery.img",
+      "sha1": "00237fa6ec58a24dcb0c5282cfe777e264fdb756",
+      "sha256": "feb723eef34e6c68bbc3096d55e95b3dc84cd7b8bb1358a7e72f9c5c2c44dfc2",
+      "size": 18817024,
+      "url": "https://mirrorbits.lineageos.org/full/h850/20230409/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
