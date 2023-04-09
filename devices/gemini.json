@@ -1,9 +1,35 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-19.1-20230402-nightly-gemini-signed.zip",
-  "id": "045ace92dbe1b9728507daf86ee955050ee8cb4b18add81b22654421e257397f",
-  "romtype": "nightly",
-  "size": 758640601,
-  "url": "https://mirrorbits.lineageos.org/full/gemini/20230402/lineage-19.1-20230402-nightly-gemini-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-19.1-20230409-nightly-gemini-signed.zip",
+      "filepath": "/full/gemini/20230409/lineage-19.1-20230409-nightly-gemini-signed.zip",
+      "sha1": "e0cbfb81f19d3e01e9cd215ddaac3ba8382f2b97",
+      "sha256": "b89832f26c35eef100c77f1b7256b4c054e8dff0f1d936e948f99cabdabfb8bb",
+      "size": 758632867,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gemini/20230409/lineage-19.1-20230409-nightly-gemini-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/gemini/20230409/boot.img",
+      "sha1": "11931de86942437420815bdccabcab5e291c8a9e",
+      "sha256": "d2e6583f77c32e9aa2fa28bba8a01c09a0ea39d1ff280055dec77e47cd2e1b46",
+      "size": 17186816,
+      "url": "https://mirrorbits.lineageos.org/full/gemini/20230409/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/gemini/20230409/recovery.img",
+      "sha1": "4de37bf4bcf47c19f880008d2b5d9b5c52a1f61d",
+      "sha256": "9e990ae40824dafea7b6694de38fa23703334aef9d52991301455741adbba9dc",
+      "size": 22568960,
+      "url": "https://mirrorbits.lineageos.org/full/gemini/20230409/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
