@@ -1,9 +1,51 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-20.0-20230402-nightly-coral-signed.zip",
-  "id": "2c893871167df318c52b470b65fce9657ebd5a766144a437e09ac863ee015b6c",
-  "romtype": "nightly",
-  "size": 1170254636,
-  "url": "https://mirrorbits.lineageos.org/full/coral/20230402/lineage-20.0-20230402-nightly-coral-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-20.0-20230409-nightly-coral-signed.zip",
+      "filepath": "/full/coral/20230409/lineage-20.0-20230409-nightly-coral-signed.zip",
+      "sha1": "e5ecfe94322c81f7dc9c56fc70b268149e4dae95",
+      "sha256": "97f0b09588b7159d227e32a9a81fd8f2f54f6518a831c7e7ed8cc69218d24f7d",
+      "size": 1170237993,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/coral/20230409/lineage-20.0-20230409-nightly-coral-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/coral/20230409/boot.img",
+      "sha1": "8994d1f5b4e6e3991fef814f6bcd919a8d27a215",
+      "sha256": "d5e27260cf0b55a9cbec2577b1e2ef381d5e7410642cc33ca3c82f3e76ca76c1",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/coral/20230409/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/coral/20230409/dtbo.img",
+      "sha1": "2639066c53ed86fe97e82264fd9d4a486f5ff50b",
+      "sha256": "72c14f93c6db96ff603e909dcb0a32cc81c66927259d4fa8d30cea4f003295f4",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/coral/20230409/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/coral/20230409/super_empty.img",
+      "sha1": "650537c380d2d16b3ead68eabaf1e20fef773ac9",
+      "sha256": "11fcbda3c1136b37a4181a117ccbbc19b944d83a5b1f2bcb83d04ee88f2b59ae",
+      "size": 4848,
+      "url": "https://mirrorbits.lineageos.org/full/coral/20230409/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/coral/20230409/vbmeta.img",
+      "sha1": "6404e35b10dbda6fd63c3e019a4689286d48963b",
+      "sha256": "79fad2b3e2202c5f4d04c2b66e8a37ad9e0b6c05c9ace9a7185ed81ca5204248",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/coral/20230409/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
