@@ -1,9 +1,35 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-19.1-20230402-nightly-ls997-signed.zip",
-  "id": "35be5fe61ddedeaffba152e6e83b2c2936d398df500eda7a13ded55e9f2208f2",
-  "romtype": "nightly",
-  "size": 767830365,
-  "url": "https://mirrorbits.lineageos.org/full/ls997/20230402/lineage-19.1-20230402-nightly-ls997-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-19.1-20230409-nightly-ls997-signed.zip",
+      "filepath": "/full/ls997/20230409/lineage-19.1-20230409-nightly-ls997-signed.zip",
+      "sha1": "7a4e4d89c4ad6e6d1c27d8ad794d004d25cb76f7",
+      "sha256": "ad0f9cc81a997a72cd93276dfb2bfd82a31e63023832c182e565c844ff83f36e",
+      "size": 768034814,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/ls997/20230409/lineage-19.1-20230409-nightly-ls997-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/ls997/20230409/boot.img",
+      "sha1": "ba941177b17c9857ff0ff9f50a1ef2d15832c408",
+      "sha256": "38c8df2ba4ac026dcc1c658b13850b2481cf8d31b3916518da6d54b0862153ca",
+      "size": 20463616,
+      "url": "https://mirrorbits.lineageos.org/full/ls997/20230409/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/ls997/20230409/recovery.img",
+      "sha1": "065ea686dcc4625ed4b2489e793131f136d48b0f",
+      "sha256": "e7c7ab7323579cffc251a7cfc4f5ab4aa4dd7641f91a710999c320cac9261c40",
+      "size": 26185728,
+      "url": "https://mirrorbits.lineageos.org/full/ls997/20230409/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
