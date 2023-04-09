@@ -1,9 +1,59 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-20.0-20230402-nightly-FP4-signed.zip",
-  "id": "87494b8a4fff340220d5bcb01b35ad228babb6154ddc80a808ba3658c0dabf14",
-  "romtype": "nightly",
-  "size": 949568032,
-  "url": "https://mirrorbits.lineageos.org/full/FP4/20230402/lineage-20.0-20230402-nightly-FP4-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-20.0-20230409-nightly-FP4-signed.zip",
+      "filepath": "/full/FP4/20230409/lineage-20.0-20230409-nightly-FP4-signed.zip",
+      "sha1": "1453de942faaae53858c34022e3c7b1f47db29dd",
+      "sha256": "5d26d313b947a80f9b28269f1ed507a0173f183583183b7e3f7c1bab4d49ccba",
+      "size": 949576646,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20230409/lineage-20.0-20230409-nightly-FP4-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/FP4/20230409/boot.img",
+      "sha1": "a8f73887af8d1e6b47bed81231ef800bcecd7d8d",
+      "sha256": "e1cef8ef255486bc3028ea8755702dbf4f9b3c3295df1e0c6fa9488dcffc2a03",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20230409/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/FP4/20230409/dtbo.img",
+      "sha1": "5f2ceb1eb2af2a96752638d85386ff019b636fd5",
+      "sha256": "9fc4155f235cc0d5becd5c78911a7de9f07e993fff7de0a47876e67cd30f9cab",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20230409/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/FP4/20230409/recovery.img",
+      "sha1": "3400bfe961b7039845b0b28e0e6e3dc3044bc795",
+      "sha256": "c0b5e7c26c657b09b3a3d82bf398d5b2049d81ee6cbc8fd4a2df9aecdd2105b4",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20230409/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/FP4/20230409/super_empty.img",
+      "sha1": "b67b5f0e79c6f7a0a8de31d6fd610446733d71e7",
+      "sha256": "9b8b6bfd83c487540aa736ef3a7493b2a9d7dcca6e578df515c4ed831abdfea9",
+      "size": 5080,
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20230409/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/FP4/20230409/vbmeta.img",
+      "sha1": "849f1544f101d08a89f7dff0d789acf08a8a9abf",
+      "sha256": "b3b3e5d76ce28f596756ed93ec3555ffe591faa1448a251918296842e809f32c",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20230409/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
