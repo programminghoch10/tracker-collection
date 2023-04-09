@@ -1,9 +1,59 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-20.0-20230402-nightly-bramble-signed.zip",
-  "id": "cf1feb9f81d1ae2a458a0b363336957340b9f642fff7ee2b8bf064e4cfffe22e",
-  "romtype": "nightly",
-  "size": 1121195422,
-  "url": "https://mirrorbits.lineageos.org/full/bramble/20230402/lineage-20.0-20230402-nightly-bramble-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-20.0-20230409-nightly-bramble-signed.zip",
+      "filepath": "/full/bramble/20230409/lineage-20.0-20230409-nightly-bramble-signed.zip",
+      "sha1": "413fc84a7ff660c1c5ef8e4fbd7a67bae3808546",
+      "sha256": "5abb198477416db24f638d00ce69c285fd3ff87592f07fb76eea1c9b7a7146d4",
+      "size": 1121180641,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230409/lineage-20.0-20230409-nightly-bramble-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/bramble/20230409/boot.img",
+      "sha1": "e6f45bb307614df3013223d27f2b219f00390064",
+      "sha256": "5bb56151d70b43e41497a25679e1abdfb23728fd11a2d7012633084680fcc79f",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230409/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/bramble/20230409/dtbo.img",
+      "sha1": "60cc1decddb9ccd2fdd3981ac46bcf7d5e99270a",
+      "sha256": "19e62f58cec8dc58693adb2113fd39c9926138aee3962ddc52e593d41150ace5",
+      "size": 16777216,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230409/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/bramble/20230409/super_empty.img",
+      "sha1": "a6768f7133719a2dee9c325651cbd4bbdfbe6e32",
+      "sha256": "6bb18232cb1c0a9e3c8d0a6dcad6f1e74e90a1f98f736fe11d260ceb1befde59",
+      "size": 4976,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230409/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/bramble/20230409/vbmeta.img",
+      "sha1": "bf878d2df1806f31b812ef2f49ee4794842d4361",
+      "sha256": "6a1831c6b1182c9a34fbeaa501b74f7e4bacef20e368436fd32ef1eef629ebb0",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230409/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/bramble/20230409/vendor_boot.img",
+      "sha1": "f3a7f6da52ea092ab598e12c74831ca5811fce5a",
+      "sha256": "3b229239dabc0584a1c5941391dde69d72d4c7fa0abf322076ed337b532795e0",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230409/vendor_boot.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
