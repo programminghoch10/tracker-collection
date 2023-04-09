@@ -1,9 +1,59 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-19.1-20230402-nightly-renoir-signed.zip",
-  "id": "84bf8e0a092e3e059dc29af01e8be16eb676cee2c2c3eada5ff0672524d29de8",
-  "romtype": "nightly",
-  "size": 1257123092,
-  "url": "https://mirrorbits.lineageos.org/full/renoir/20230402/lineage-19.1-20230402-nightly-renoir-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-19.1-20230409-nightly-renoir-signed.zip",
+      "filepath": "/full/renoir/20230409/lineage-19.1-20230409-nightly-renoir-signed.zip",
+      "sha1": "a0c2b84d4649a1bab141329804bbdd901d79bd08",
+      "sha256": "97378348cb0eef98ef80d1512d237665734a5ccf0572fcfb569a0987033f00df",
+      "size": 1257124940,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20230409/lineage-19.1-20230409-nightly-renoir-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/renoir/20230409/boot.img",
+      "sha1": "ccf479d06db9f28f8e14b4b4fd22633f38c3e229",
+      "sha256": "4db69b0a6b9d28c9114ca9ffe5f09a2af0fa29e251979bc18819f4672a28591d",
+      "size": 201326592,
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20230409/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/renoir/20230409/dtbo.img",
+      "sha1": "643380b3ffa2659a713ad131bab39b67db57f0af",
+      "sha256": "af0134b3340f98725a35f8664d010d0a83cb6544dd51922caa9a8c07810cd255",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20230409/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/renoir/20230409/super_empty.img",
+      "sha1": "372c4ac73a562add66c3bc414f082bcc7a507fda",
+      "sha256": "65a0ed7b2efd1edc10dc3b1069ef5357ef52d5dccdfa86a4b5abbbb2a070c787",
+      "size": 5184,
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20230409/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/renoir/20230409/vbmeta.img",
+      "sha1": "846dfa0257d862ae2d844d79ba37e6ec2a3d7289",
+      "sha256": "1a8083476d812be051098d5cfc6286c2e01b099ef53ebec21be252d708ba1a3c",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20230409/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/renoir/20230409/vendor_boot.img",
+      "sha1": "b13f8ac76a78bd19d0cf93411a47cb8f1147a637",
+      "sha256": "a4067263fa510ac949e1db68d6d3304e58bae06510dff2082497b6f5d0a43fc5",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20230409/vendor_boot.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
