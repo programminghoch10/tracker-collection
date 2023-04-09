@@ -1,9 +1,51 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-19.1-20230402-nightly-onclite-signed.zip",
-  "id": "cd18a47720d41a250b9dbdb4debaa9d1ac8d7046db8f8b6e6b91b9671ace6f42",
-  "romtype": "nightly",
-  "size": 891832225,
-  "url": "https://mirrorbits.lineageos.org/full/onclite/20230402/lineage-19.1-20230402-nightly-onclite-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-19.1-20230409-nightly-onclite-signed.zip",
+      "filepath": "/full/onclite/20230409/lineage-19.1-20230409-nightly-onclite-signed.zip",
+      "sha1": "b0f19087ccea3efc335fbc567f172fc0ab1faf58",
+      "sha256": "3175322fe75e629588a06caff890d68daef75dbfca1fabca417f6c97dd0806a7",
+      "size": 892251016,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/onclite/20230409/lineage-19.1-20230409-nightly-onclite-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/onclite/20230409/boot.img",
+      "sha1": "0cb4851ee6ee13be0a1ddce7154863041eafc702",
+      "sha256": "46a0709d06517242dab5cdc39e651e6db39263f2647abee76fe0327b839e9920",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/onclite/20230409/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/onclite/20230409/dtbo.img",
+      "sha1": "9cc7919e3c6f2d4bdf65b5e73e6d5dea90a4c60e",
+      "sha256": "dd90096888dc2d6a4a37601a933d3450e4ef21127fb59316e74b77250465b2f2",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/onclite/20230409/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/onclite/20230409/recovery.img",
+      "sha1": "775c79e8197be9c8be4ccb40f19ba5d5450bb34a",
+      "sha256": "66fe560c7d10ecaa681ba8c98bf64278c985f6a2ca5728b68104e43d01ddced9",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/onclite/20230409/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/onclite/20230409/vbmeta.img",
+      "sha1": "491c04d552b109613b7f83c2e470dbfbe439a05d",
+      "sha256": "d36872390c288eec1dfa261101393c0528b0f4ecd0fff122a502dd8b5e7ece10",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/onclite/20230409/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
