@@ -1,9 +1,35 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-19.1-20230402-nightly-rs988-signed.zip",
-  "id": "e702c87f80e229b8f2b7a7824a92e2e63f369a661123419552e61f75c54a87cd",
-  "romtype": "nightly",
-  "size": 766110294,
-  "url": "https://mirrorbits.lineageos.org/full/rs988/20230402/lineage-19.1-20230402-nightly-rs988-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-19.1-20230409-nightly-rs988-signed.zip",
+      "filepath": "/full/rs988/20230409/lineage-19.1-20230409-nightly-rs988-signed.zip",
+      "sha1": "f64f853a53bd7e33d36a19c05b500ecc38975225",
+      "sha256": "fe84210e4be42d1ad979a286f67e484d4c304e6e8a67d3d41de49bd4c7d23008",
+      "size": 766086194,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/rs988/20230409/lineage-19.1-20230409-nightly-rs988-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/rs988/20230409/boot.img",
+      "sha1": "72ded777558949ccb5cd46de2b23ad96b0887841",
+      "sha256": "7f7c97a3df2f8e57e12ece27bcddba9f3f63098c0cd0731546417c987047f98f",
+      "size": 15527936,
+      "url": "https://mirrorbits.lineageos.org/full/rs988/20230409/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/rs988/20230409/recovery.img",
+      "sha1": "3621470caf1618e1d171e24c0513c06dfddb5b3e",
+      "sha256": "2034d0bb0ba41b80c70e13428637444a2554ca37f15a22ffeac1deb4dfba2b05",
+      "size": 21254144,
+      "url": "https://mirrorbits.lineageos.org/full/rs988/20230409/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
