@@ -1,9 +1,59 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-20.0-20230402-nightly-wade-signed.zip",
-  "id": "6466a519851dfc10a6d6173e6df9814dd4ff982ba1a0dbec355eb6713c4b7760",
-  "romtype": "nightly",
-  "size": 472893236,
-  "url": "https://mirrorbits.lineageos.org/full/wade/20230402/lineage-20.0-20230402-nightly-wade-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-20.0-20230409-nightly-wade-signed.zip",
+      "filepath": "/full/wade/20230409/lineage-20.0-20230409-nightly-wade-signed.zip",
+      "sha1": "515f7ee8d665eded6dce9ce9b2fd06b1a4b29035",
+      "sha256": "bd32f32ef291ac8e49398a792afb1cc241d8183339ba5c0eaf30737c2fe2205c",
+      "size": 472995210,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/wade/20230409/lineage-20.0-20230409-nightly-wade-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/wade/20230409/boot.img",
+      "sha1": "8d413bdcc022d053c8e833e0f452b5bd3acaaccf",
+      "sha256": "54bcc67e390987d10ec2186d115c8fb1c2c87226d808bb00e63e5e04f6ab5122",
+      "size": 16777216,
+      "url": "https://mirrorbits.lineageos.org/full/wade/20230409/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/wade/20230409/dtbo.img",
+      "sha1": "69d87bc300ecccfd46ebab75a57fb00986bbf1de",
+      "sha256": "c73dd38e981f02e03ad66598526f81215835c41015ce2d3f1d38da8984155f62",
+      "size": 2097152,
+      "url": "https://mirrorbits.lineageos.org/full/wade/20230409/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/wade/20230409/recovery.img",
+      "sha1": "2f0a1ee7d4cf2539062fc72b75b1c4e490da016e",
+      "sha256": "238a3734b2199cc29e03f0bf15cd8fa16e9d122dd672527d3f6b0e69a39ea7ae",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/wade/20230409/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/wade/20230409/super_empty.img",
+      "sha1": "46a8d21c8db8fd8dca59d47c5ade413c0406f780",
+      "sha256": "a572455896d87cdeb06b52e10564dbdd1710c44f159516c125f57db470cccef5",
+      "size": 4644,
+      "url": "https://mirrorbits.lineageos.org/full/wade/20230409/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/wade/20230409/vbmeta.img",
+      "sha1": "fd214fc91dd9fb95df8a15c008e9e72e26950ab3",
+      "sha256": "1330301c9323c2c16dd4f199c500eb15761272d5215ecf002b197196b223a69d",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/wade/20230409/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
