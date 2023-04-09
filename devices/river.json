@@ -1,9 +1,35 @@
 {
-  "datetime": 1680393600,
-  "filename": "lineage-20.0-20230402-nightly-river-signed.zip",
-  "id": "fed6aa623ee0b4de85c7acd562e11031461fd2eb5aad68c7ad3105ef44a3f113",
-  "romtype": "nightly",
-  "size": 749058377,
-  "url": "https://mirrorbits.lineageos.org/full/river/20230402/lineage-20.0-20230402-nightly-river-signed.zip",
+  "date": "2023-04-09",
+  "datetime": 1680998400,
+  "files": [
+    {
+      "date": "2023-04-09",
+      "datetime": 1680998400,
+      "filename": "lineage-20.0-20230409-nightly-river-signed.zip",
+      "filepath": "/full/river/20230409/lineage-20.0-20230409-nightly-river-signed.zip",
+      "sha1": "8fe84a058ec15a7e782aa81c5b4848a53824aa45",
+      "sha256": "fd351a8d71b16778c34f095fabc4e646533d42e56f38815aeca10c69bb2ae3d2",
+      "size": 748828647,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/river/20230409/lineage-20.0-20230409-nightly-river-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/river/20230409/boot.img",
+      "sha1": "28757d5d36688ebed4e3be7e12dda8c548ecd246",
+      "sha256": "efe307850a239f98af8d40799562656c5da4416c8abe111f4e026b8bdd2007b7",
+      "size": 26216448,
+      "url": "https://mirrorbits.lineageos.org/full/river/20230409/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/river/20230409/dtbo.img",
+      "sha1": "307979e63ebee90ec465e6c3c3c1b278f1186fac",
+      "sha256": "3dd6b905449db1216d823dc4695fd2eef73b67d7d2a64e3a550cff10cfa347db",
+      "size": 574813,
+      "url": "https://mirrorbits.lineageos.org/full/river/20230409/dtbo.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
