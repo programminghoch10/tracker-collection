@@ -1,9 +1,43 @@
 {
-  "datetime": 1680480000,
-  "filename": "lineage-20.0-20230403-nightly-FP3-signed.zip",
-  "id": "46c8cd98383e0b27364953ad70d78fb6b740a436e7993869c4771b94d034a280",
-  "romtype": "nightly",
-  "size": 869663380,
-  "url": "https://mirrorbits.lineageos.org/full/FP3/20230403/lineage-20.0-20230403-nightly-FP3-signed.zip",
+  "date": "2023-04-10",
+  "datetime": 1681084800,
+  "files": [
+    {
+      "date": "2023-04-10",
+      "datetime": 1681084800,
+      "filename": "lineage-20.0-20230410-nightly-FP3-signed.zip",
+      "filepath": "/full/FP3/20230410/lineage-20.0-20230410-nightly-FP3-signed.zip",
+      "sha1": "15d553ef2e38bca53d51c1be2e58f06806f6cfaf",
+      "sha256": "c75148b50f065df1122f593b5a6edc0fce5d42ac1022235a62a35e6dcc6330fe",
+      "size": 869674407,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/FP3/20230410/lineage-20.0-20230410-nightly-FP3-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/FP3/20230410/boot.img",
+      "sha1": "5dbdbf8a349c5743d606adca4d0bbf722b01a685",
+      "sha256": "76e2ce74f0453a9367b02314d495b7fb855ef6c58e261931169e1ed11b4edfd8",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/FP3/20230410/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/FP3/20230410/dtbo.img",
+      "sha1": "f0bb18c87a1a3f6edb870969c65f1ec8822b7a5a",
+      "sha256": "c4907bae77da579d95bf9f0e486304516483ddcc32f070452c19ed7c0f1835c1",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/FP3/20230410/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/FP3/20230410/vbmeta.img",
+      "sha1": "c0d10b034b3e7f6c4fbf2aa8a87ddfe4327ca92f",
+      "sha256": "36d08061645a7cf95fe80b504f285c20b5fc9635ed63664339c016a173f0b488",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/FP3/20230410/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
