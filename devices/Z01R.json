@@ -1,9 +1,43 @@
 {
-  "datetime": 1680480000,
-  "filename": "lineage-20.0-20230403-nightly-Z01R-signed.zip",
-  "id": "e9c6fa0c6ad11e7a957aecac85da39ac3f0d11f5d93eeb70b6f232e9d88634e4",
-  "romtype": "nightly",
-  "size": 874371666,
-  "url": "https://mirrorbits.lineageos.org/full/Z01R/20230403/lineage-20.0-20230403-nightly-Z01R-signed.zip",
+  "date": "2023-04-10",
+  "datetime": 1681084800,
+  "files": [
+    {
+      "date": "2023-04-10",
+      "datetime": 1681084800,
+      "filename": "lineage-20.0-20230410-nightly-Z01R-signed.zip",
+      "filepath": "/full/Z01R/20230410/lineage-20.0-20230410-nightly-Z01R-signed.zip",
+      "sha1": "c68f2eeb6b23edb65724f1a6aa49c7de2cd39afd",
+      "sha256": "3f7924c389dbd4eb03bfaab275cf79f6fe1732623d6caa4a2b6d2549c8c9b348",
+      "size": 874432961,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Z01R/20230410/lineage-20.0-20230410-nightly-Z01R-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/Z01R/20230410/boot.img",
+      "sha1": "0bc19edd9fde0f07927662665ee9fa16967b7e7b",
+      "sha256": "3a8567e5e8d3becc556ce916fc0685d296da100f5c4b49d4ce30df322b25d097",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/Z01R/20230410/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/Z01R/20230410/dtbo.img",
+      "sha1": "896a78735ef764636e0fd62c0e87944db075251d",
+      "sha256": "c94a25b98e35f39ac5491b81b30e6b889d01bd14cdc355c9ec0bf55dadf13d85",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/Z01R/20230410/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/Z01R/20230410/vbmeta.img",
+      "sha1": "2b0cf04d6b4b0e9cdbb95ea8cae122c489f6890c",
+      "sha256": "a6a62c4f3a3d3f550cd09891fc95a7cf7a185f79a2d58edf60877401bd3371d5",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/Z01R/20230410/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
