@@ -1,9 +1,43 @@
 {
-  "datetime": 1680480000,
-  "filename": "lineage-20.0-20230403-nightly-pro1-signed.zip",
-  "id": "7434715f7cb424d8853b15ffb243b3f9b9387a613090a7cebb5ef6fa28ed44d4",
-  "romtype": "nightly",
-  "size": 812241578,
-  "url": "https://mirrorbits.lineageos.org/full/pro1/20230403/lineage-20.0-20230403-nightly-pro1-signed.zip",
+  "date": "2023-04-10",
+  "datetime": 1681084800,
+  "files": [
+    {
+      "date": "2023-04-10",
+      "datetime": 1681084800,
+      "filename": "lineage-20.0-20230410-nightly-pro1-signed.zip",
+      "filepath": "/full/pro1/20230410/lineage-20.0-20230410-nightly-pro1-signed.zip",
+      "sha1": "a099b37a43976d48c603b273f4596ff85b8d5ac0",
+      "sha256": "6b4519002399f7cd4c967c64f9a7b54659cf674c91b051f2794615577ae791d0",
+      "size": 812230835,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pro1/20230410/lineage-20.0-20230410-nightly-pro1-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/pro1/20230410/boot.img",
+      "sha1": "7fae2ff80ab114a24199d6ea7dbb1d10eceadff2",
+      "sha256": "68ee0501c6575a0bcc8a93a68a8461d3efb55e174851d45786e11ece031bfa4a",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/pro1/20230410/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/pro1/20230410/dtbo.img",
+      "sha1": "69f653c2f41d8e5327f15dc6cbe404780ec4928f",
+      "sha256": "a8ccf7808ed4876644b1d43250e53c62894ddf72f0f85d34ddfe61e72a49d014",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/pro1/20230410/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/pro1/20230410/vbmeta.img",
+      "sha1": "d44d264df1ca75f4247cd58b94daaf5393a79311",
+      "sha256": "e3a84f9a8d5dcb61345e36e6fb6ed0680699f1808cd79666d43787ac12e82eb5",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/pro1/20230410/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
