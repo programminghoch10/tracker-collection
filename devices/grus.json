@@ -1,9 +1,59 @@
 {
-  "datetime": 1680480000,
-  "filename": "lineage-20.0-20230403-nightly-grus-signed.zip",
-  "id": "2c309c7b3fe9a1886501a3220815c923971594b9e5971079fad557a8be3fdce8",
-  "romtype": "nightly",
-  "size": 1041290803,
-  "url": "https://mirrorbits.lineageos.org/full/grus/20230403/lineage-20.0-20230403-nightly-grus-signed.zip",
+  "date": "2023-04-10",
+  "datetime": 1681084800,
+  "files": [
+    {
+      "date": "2023-04-10",
+      "datetime": 1681084800,
+      "filename": "lineage-20.0-20230410-nightly-grus-signed.zip",
+      "filepath": "/full/grus/20230410/lineage-20.0-20230410-nightly-grus-signed.zip",
+      "sha1": "2a763b197f733bad4fe8ff9a3096ed2135faecfa",
+      "sha256": "d960ef0c1db1e846b637a25173c1c7d85f372cac798fe77e19413f0acf9cc82c",
+      "size": 1041292863,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/grus/20230410/lineage-20.0-20230410-nightly-grus-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/grus/20230410/boot.img",
+      "sha1": "dcfd1e2481b8ea09ee588ea8af9e176510d037eb",
+      "sha256": "d9b498e5323c9aa57753bc7b13ec8f24960f338a8fb4fca7ea6dd6c6e8fded6f",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/grus/20230410/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/grus/20230410/dtbo.img",
+      "sha1": "6f9bb8788159aec7c0e17d4a7b764cb5a4bf3261",
+      "sha256": "f9c17a23605f0d798df7b8844eeba5a2b09af4ab245511ca384bc2a89e12ecde",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/grus/20230410/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/grus/20230410/recovery.img",
+      "sha1": "3575789e804396b31627901e85c8a8172ca44ad0",
+      "sha256": "ae2a77ff367a55b8701e3c6a9779a8afb63af4df6d25684dcf833f6540befb41",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/grus/20230410/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/grus/20230410/super_empty.img",
+      "sha1": "14de7ac7c66df8a2c631fe353887d4a0681db911",
+      "sha256": "bc894d1a965674cea0262a820167452ab3efdc56e5f6e68cea693701251f8866",
+      "size": 4772,
+      "url": "https://mirrorbits.lineageos.org/full/grus/20230410/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/grus/20230410/vbmeta.img",
+      "sha1": "8b4adb34db666a0a3eac4365181689d3255a41cf",
+      "sha256": "168cc3733b9dbc8f3907a654b15105e9bb2cf02c225dcf0d8f19640e11b5f7aa",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/grus/20230410/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
