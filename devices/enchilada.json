@@ -1,9 +1,43 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-20.0-20230404-nightly-enchilada-signed.zip",
-  "id": "0b8e5db75650f147d73f29d8906d3d7061866bf0f5ea911661fddef430783b0b",
-  "romtype": "nightly",
-  "size": 853115575,
-  "url": "https://mirrorbits.lineageos.org/full/enchilada/20230404/lineage-20.0-20230404-nightly-enchilada-signed.zip",
+  "date": "2023-04-11",
+  "datetime": 1681171200,
+  "files": [
+    {
+      "date": "2023-04-11",
+      "datetime": 1681171200,
+      "filename": "lineage-20.0-20230411-nightly-enchilada-signed.zip",
+      "filepath": "/full/enchilada/20230411/lineage-20.0-20230411-nightly-enchilada-signed.zip",
+      "sha1": "a6715ae7025ba602291860b46bde451b234462d3",
+      "sha256": "82f504173af64c5cca96ecabc2011e98ff1a27d455d3c037c72848ebf18ef540",
+      "size": 852886295,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20230411/lineage-20.0-20230411-nightly-enchilada-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/enchilada/20230411/boot.img",
+      "sha1": "7c3a6a86c3dbaa24bcc107db403d0eb8fe5be2bb",
+      "sha256": "e3ae668500de31ed3b7bff1424b25eecdf66bbc9d7692de656cb36cf5ec039ea",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20230411/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/enchilada/20230411/dtbo.img",
+      "sha1": "f8e6c3a61ef8a20f47ebf30e77394c056a425917",
+      "sha256": "1ef1145378b07ee0a30c7ecca2fb542c187305070cbace9fb259a55af013c5d8",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20230411/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/enchilada/20230411/vbmeta.img",
+      "sha1": "869a849e6de378cf43caf7f85cea30345824961c",
+      "sha256": "9ea615498b55d86aedb7d1124feaa57398fd48133d06589bbe9024d8d8a9c54e",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20230411/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
