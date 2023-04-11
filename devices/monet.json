@@ -1,9 +1,59 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-19.1-20230404-nightly-monet-signed.zip",
-  "id": "2e824f4a64e45889f2551aef4b382758f724bc3a3ae32b36ca4545165e2a3342",
-  "romtype": "nightly",
-  "size": 1283216026,
-  "url": "https://mirrorbits.lineageos.org/full/monet/20230404/lineage-19.1-20230404-nightly-monet-signed.zip",
+  "date": "2023-04-11",
+  "datetime": 1681171200,
+  "files": [
+    {
+      "date": "2023-04-11",
+      "datetime": 1681171200,
+      "filename": "lineage-19.1-20230411-nightly-monet-signed.zip",
+      "filepath": "/full/monet/20230411/lineage-19.1-20230411-nightly-monet-signed.zip",
+      "sha1": "89c57f06faee22845a5a83aa1a066dde2500d95e",
+      "sha256": "2a136b9e185abc9926c909fc7c098681af4892b2c51784b63cb85b6cdf3fb7cf",
+      "size": 1283614546,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/monet/20230411/lineage-19.1-20230411-nightly-monet-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/monet/20230411/boot.img",
+      "sha1": "e5b24481bb109e8420862691bc4436bfd5d8cba9",
+      "sha256": "9e8313b2af9efd0148e4586b92a27ffc19f1fe61345cd60f2c76f95175ee6dbe",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/monet/20230411/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/monet/20230411/dtbo.img",
+      "sha1": "38b22a779b7f6085a57f67699b975d0b1f596229",
+      "sha256": "5227f1b69c03688c05d5fb3d27c9f69c4f17932e0b6b960a14ce9dda9f386a1f",
+      "size": 33554432,
+      "url": "https://mirrorbits.lineageos.org/full/monet/20230411/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/monet/20230411/recovery.img",
+      "sha1": "7e7760aacd8ed7a934d8428f4279898b25306332",
+      "sha256": "29bd9f35e1965ea839bc09f5b1c7b372eb418250240b66d713442dd9cb4ed18f",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/monet/20230411/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/monet/20230411/super_empty.img",
+      "sha1": "155786ad1575f54e6a657cdae47256e276813a26",
+      "sha256": "c461775c24e342ffb2ec3f0fefa7be5b451ad5f3d505687b8a0c4d5ea834795c",
+      "size": 4644,
+      "url": "https://mirrorbits.lineageos.org/full/monet/20230411/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/monet/20230411/vbmeta.img",
+      "sha1": "2e3b28b32b88bc7fb6f9e8ce30320f835e62f49c",
+      "sha256": "6775ee2ea61801f3774e45bd6c9d24ceb73a7d8df322bfef182cc4cc621c65e2",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/monet/20230411/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
