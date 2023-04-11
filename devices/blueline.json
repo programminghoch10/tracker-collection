@@ -1,9 +1,51 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-19.1-20230404-nightly-blueline-signed.zip",
-  "id": "e5cdd52b39e837c5620a6c109b6cbde6f162322dd3d03604787da80fbd7ae397",
-  "romtype": "nightly",
-  "size": 921377111,
-  "url": "https://mirrorbits.lineageos.org/full/blueline/20230404/lineage-19.1-20230404-nightly-blueline-signed.zip",
+  "date": "2023-04-11",
+  "datetime": 1681171200,
+  "files": [
+    {
+      "date": "2023-04-11",
+      "datetime": 1681171200,
+      "filename": "lineage-19.1-20230411-nightly-blueline-signed.zip",
+      "filepath": "/full/blueline/20230411/lineage-19.1-20230411-nightly-blueline-signed.zip",
+      "sha1": "a1e9cd7fe4b1b4d8c5a5356e14e9d8a452c5f27c",
+      "sha256": "537a35bd6e46f080d5a8925a18cbd8dc59b77ab4380452b046334db2db1c7f1c",
+      "size": 921799497,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230411/lineage-19.1-20230411-nightly-blueline-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/blueline/20230411/boot.img",
+      "sha1": "c1e0fce066393ae9fbd41f5d3344dc1ccce5a368",
+      "sha256": "44ab41af933a8990447efe1119c2efa0ed19a7796d20f2b5a5c6d2d8e8ad2216",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230411/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/blueline/20230411/dtbo.img",
+      "sha1": "c91f535253113c7bb15806e1d9cdabdddd195173",
+      "sha256": "3cdc605532e9efeb43df28802dc4d6e660f55096a7ada500ee086145a332958e",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230411/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/blueline/20230411/super_empty.img",
+      "sha1": "3a7c22ec945d448f8e432fed494344bb7eca2469",
+      "sha256": "dfeeccfa7c48196f73cf73ae28267ded9903b92019a97a80ae6aeb3b4d7293ec",
+      "size": 4720,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230411/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/blueline/20230411/vbmeta.img",
+      "sha1": "8bfa370576b2ea9d615976cd78d6feaed82c8404",
+      "sha256": "2f765033e82433529f836f0be780b2d9327774289fec7e333164dd3485860fec",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230411/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
