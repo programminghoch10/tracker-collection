@@ -1,9 +1,35 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-20.0-20230404-nightly-lake-signed.zip",
-  "id": "67d9cb0be9d262a4f4fee1b981468e925b88dfd540e87a4ef65ccbd70ef26ed1",
-  "romtype": "nightly",
-  "size": 781957070,
-  "url": "https://mirrorbits.lineageos.org/full/lake/20230404/lineage-20.0-20230404-nightly-lake-signed.zip",
+  "date": "2023-04-11",
+  "datetime": 1681171200,
+  "files": [
+    {
+      "date": "2023-04-11",
+      "datetime": 1681171200,
+      "filename": "lineage-20.0-20230411-nightly-lake-signed.zip",
+      "filepath": "/full/lake/20230411/lineage-20.0-20230411-nightly-lake-signed.zip",
+      "sha1": "b0cb241b0185f946248e0902184aff699679f9c8",
+      "sha256": "d713890c8a9f6dc625e78d1d5ed78a268ddb6f015df2891196a00994739c19b4",
+      "size": 782827547,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/lake/20230411/lineage-20.0-20230411-nightly-lake-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/lake/20230411/boot.img",
+      "sha1": "bc30b6cc59c469eaec2fb16464c36ae86fe5e8f6",
+      "sha256": "7a839560e0f61394a8257aa17e14e4ba0e77ccb0096298ed6e6ffbaf94852721",
+      "size": 27182376,
+      "url": "https://mirrorbits.lineageos.org/full/lake/20230411/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/lake/20230411/dtbo.img",
+      "sha1": "0a60577015eb6a91b218fb54442cd9c0e4768bfd",
+      "sha256": "51ca2b91984cb6dfc751dfaab819b7307498d47043aaf4e35b75cb180ece1a07",
+      "size": 8939,
+      "url": "https://mirrorbits.lineageos.org/full/lake/20230411/dtbo.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
