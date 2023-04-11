@@ -1,9 +1,51 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-20.0-20230404-nightly-TP1803-signed.zip",
-  "id": "3ddd7ea7353196f2a668e7c076129917cb16f1deae83b135b0b9566566511372",
-  "romtype": "nightly",
-  "size": 987113148,
-  "url": "https://mirrorbits.lineageos.org/full/TP1803/20230404/lineage-20.0-20230404-nightly-TP1803-signed.zip",
+  "date": "2023-04-11",
+  "datetime": 1681171200,
+  "files": [
+    {
+      "date": "2023-04-11",
+      "datetime": 1681171200,
+      "filename": "lineage-20.0-20230411-nightly-TP1803-signed.zip",
+      "filepath": "/full/TP1803/20230411/lineage-20.0-20230411-nightly-TP1803-signed.zip",
+      "sha1": "abd0f143be101f1fccfa8ea64a645ac7357e6eef",
+      "sha256": "a64e65b7486c6bd5ec173d916da30dfd06b1e1798d9188b7bead4c44786a3e27",
+      "size": 987467729,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230411/lineage-20.0-20230411-nightly-TP1803-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/TP1803/20230411/boot.img",
+      "sha1": "37cb4cfd120127df1f3706023da832f5cb092213",
+      "sha256": "4adfbb7d3ebd8ed75383a4e2188a9ec8dc2e508f5bf9dec317779e3dc64776f6",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230411/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/TP1803/20230411/dtbo.img",
+      "sha1": "eec282e3d61f02a4082c33b91d3a4d1229175107",
+      "sha256": "68f8e1cd8de1f4737fbcb1c518fa5b9908ccbae4cd5efb5790dc3f4fc4204eba",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230411/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/TP1803/20230411/recovery.img",
+      "sha1": "1359e5eb3e33c5ce55b446bd8301ff065da9feeb",
+      "sha256": "64a1a644631d5cf3961579a80e10145c97a8b28a329e9c0343250f81b37c381b",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230411/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/TP1803/20230411/vbmeta.img",
+      "sha1": "334c545ff8f5e1691a176c5c7a567f690eceba19",
+      "sha256": "1e6b32a9e3ad82bedc17c4d59ac6e3607c2fee6264d78c8653508043494a1256",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230411/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
