@@ -1,9 +1,51 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-19.1-20230404-nightly-crosshatch-signed.zip",
-  "id": "b4d5723460df82b3a055b6dc281d8be6bdca05250b03379ca825ecea0773388e",
-  "romtype": "nightly",
-  "size": 925066250,
-  "url": "https://mirrorbits.lineageos.org/full/crosshatch/20230404/lineage-19.1-20230404-nightly-crosshatch-signed.zip",
+  "date": "2023-04-11",
+  "datetime": 1681171200,
+  "files": [
+    {
+      "date": "2023-04-11",
+      "datetime": 1681171200,
+      "filename": "lineage-19.1-20230411-nightly-crosshatch-signed.zip",
+      "filepath": "/full/crosshatch/20230411/lineage-19.1-20230411-nightly-crosshatch-signed.zip",
+      "sha1": "c33f85c221d50bd0d02a58056dcd774b2a639e34",
+      "sha256": "40741ad20b8dda72602da6943cac46d6a2bdadc0240eaa11c8063a4a1bdee572",
+      "size": 925690748,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20230411/lineage-19.1-20230411-nightly-crosshatch-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/crosshatch/20230411/boot.img",
+      "sha1": "de7a7a49b2d3b1d80b3f88a636041322093f491d",
+      "sha256": "6e000f67044253aa8fbf7fef88d4f3a2b0399b90fd822a4af7e5f5181ddabb53",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20230411/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/crosshatch/20230411/dtbo.img",
+      "sha1": "fdde5e81b05a9878d31f9d15b0595f04a10c9e2f",
+      "sha256": "b0875aba0ae49f07870947fad5a3678f8b0937dc773bc375c9a2b25a684ae452",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20230411/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/crosshatch/20230411/super_empty.img",
+      "sha1": "3a7c22ec945d448f8e432fed494344bb7eca2469",
+      "sha256": "dfeeccfa7c48196f73cf73ae28267ded9903b92019a97a80ae6aeb3b4d7293ec",
+      "size": 4720,
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20230411/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/crosshatch/20230411/vbmeta.img",
+      "sha1": "a8b09853d89f6629900f5dece54b62e422e83f67",
+      "sha256": "bd86a10bf9be6d33a6fffbff2ed21cd1f5dd7d0ffd41b10382d4c652bc85a9dc",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20230411/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
