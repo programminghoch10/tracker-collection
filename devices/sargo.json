@@ -1,9 +1,51 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-19.1-20230404-nightly-sargo-signed.zip",
-  "id": "a4074f386c1878b3cb06d6d57771dec03cd9cbcb87eee162dd781684c1dc72c7",
-  "romtype": "nightly",
-  "size": 955213083,
-  "url": "https://mirrorbits.lineageos.org/full/sargo/20230404/lineage-19.1-20230404-nightly-sargo-signed.zip",
+  "date": "2023-04-11",
+  "datetime": 1681171200,
+  "files": [
+    {
+      "date": "2023-04-11",
+      "datetime": 1681171200,
+      "filename": "lineage-19.1-20230411-nightly-sargo-signed.zip",
+      "filepath": "/full/sargo/20230411/lineage-19.1-20230411-nightly-sargo-signed.zip",
+      "sha1": "b6ad5cd6a54dd84d4e88bf22efb037d068652627",
+      "sha256": "ba2050b9442715d325f6809f73690656fec201dbe6d89a8cc4b94e4d885484c3",
+      "size": 955466927,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20230411/lineage-19.1-20230411-nightly-sargo-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/sargo/20230411/boot.img",
+      "sha1": "0b82d1b2f16b281c4fc2ac534912e4bda6ce61bd",
+      "sha256": "ed5715e9e33c18aeaee9aa5d40e7a86d7ee3eed1299d7b590bf6729017459dd2",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20230411/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/sargo/20230411/dtbo.img",
+      "sha1": "0d4dca771bd7cae0aeef279fcdbf7589ef564dbb",
+      "sha256": "600de2dab37b77d71ca8a041315a808055bb6f482bc69aa2c014e3596f70e4bd",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20230411/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/sargo/20230411/super_empty.img",
+      "sha1": "9cbf6e6b6b90f17dce0cb0bbae73d131270dbb7f",
+      "sha256": "e1c9e3c94123304dc402eb0cd81a8557e1b0ed48bafe77bc19477ea74d4a30c7",
+      "size": 4656,
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20230411/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/sargo/20230411/vbmeta.img",
+      "sha1": "ed9a67914bc5c85b364014038decaf02a64a5be1",
+      "sha256": "a61b2926770243ffd212f0c97ec521c41c5c0c1a251a99dab2422f9cc588ecc4",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20230411/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
