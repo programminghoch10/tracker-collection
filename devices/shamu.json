@@ -1,9 +1,35 @@
 {
-  "datetime": 1678579200,
-  "filename": "lineage-18.1-20230312-nightly-shamu-signed.zip",
-  "id": "5116a5985a829d3d8725897b1bea9b3f8d898520ecb2d32594a255378d3f7364",
-  "romtype": "nightly",
-  "size": 487206149,
-  "url": "https://mirrorbits.lineageos.org/full/shamu/20230312/lineage-18.1-20230312-nightly-shamu-signed.zip",
+  "date": "2023-04-12",
+  "datetime": 1681257600,
+  "files": [
+    {
+      "date": "2023-04-12",
+      "datetime": 1681257600,
+      "filename": "lineage-18.1-20230412-nightly-shamu-signed.zip",
+      "filepath": "/full/shamu/20230412/lineage-18.1-20230412-nightly-shamu-signed.zip",
+      "sha1": "4c1b4b00964d44b045811631a95b30c5c6a527ef",
+      "sha256": "93e439a4a09e34a7bb094a5a848fd27ef9d87cc2f44c2fa5147781e9fea61b2e",
+      "size": 489341064,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/shamu/20230412/lineage-18.1-20230412-nightly-shamu-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/shamu/20230412/boot.img",
+      "sha1": "82941205a65ee98aac3699415e3a91023ffa1120",
+      "sha256": "e83a3faa5927b5305b4a7fed6650f05ed56e688ae9f365a3bcb2d5d30552ebd2",
+      "size": 6766592,
+      "url": "https://mirrorbits.lineageos.org/full/shamu/20230412/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/shamu/20230412/recovery.img",
+      "sha1": "8307e49d42aff74f18ad4c8c196cfee2835bb789",
+      "sha256": "d5efb1eaad3e2b49b183e1620d3f9b5b36c855dafbfc5fec04b8bb3194186752",
+      "size": 12474368,
+      "url": "https://mirrorbits.lineageos.org/full/shamu/20230412/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
