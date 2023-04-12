@@ -1,9 +1,59 @@
 {
-  "datetime": 1680652800,
-  "filename": "lineage-20.0-20230405-nightly-Mi439-signed.zip",
-  "id": "0842f0cce2184bf1803d46925ac99f48080792e7f1e77843f738efad4dbf73a1",
-  "romtype": "nightly",
-  "size": 891800581,
-  "url": "https://mirrorbits.lineageos.org/full/Mi439/20230405/lineage-20.0-20230405-nightly-Mi439-signed.zip",
+  "date": "2023-04-12",
+  "datetime": 1681257600,
+  "files": [
+    {
+      "date": "2023-04-12",
+      "datetime": 1681257600,
+      "filename": "lineage-20.0-20230412-nightly-Mi439-signed.zip",
+      "filepath": "/full/Mi439/20230412/lineage-20.0-20230412-nightly-Mi439-signed.zip",
+      "sha1": "b92b7959a1e12d9b50c57a32ee98f9a4ec80b6d4",
+      "sha256": "576d3dc9e34ac16dd470213abc668f12a295461f0601324ef22531c35a06e699",
+      "size": 892198533,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Mi439/20230412/lineage-20.0-20230412-nightly-Mi439-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/Mi439/20230412/boot.img",
+      "sha1": "100249af2cb8addd29b5885b20e8a36308b5bfd2",
+      "sha256": "e780abfb118965c822477ac3078de86f624dbef893f576e31f28d0db06535ed2",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/Mi439/20230412/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/Mi439/20230412/dtbo.img",
+      "sha1": "f3af13ad31e7a7e252c31bb08add3ff94e4b6399",
+      "sha256": "f7836f5181e98098ae1b22b836894a81b79af065d571148d1d7bece681e22ef1",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/Mi439/20230412/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/Mi439/20230412/recovery.img",
+      "sha1": "79aef533a0da9aada406218010211f955ce395f9",
+      "sha256": "54697d4b3c04208987c17011438b45835eaea3c3d610444f366890d7a21f7eff",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/Mi439/20230412/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/Mi439/20230412/super_empty.img",
+      "sha1": "a5bca1c028fd54750de4f11af98d6896b4528f35",
+      "sha256": "d7bb0114f4f31d97e48482ef8ff81e770f7ebab5fec359fcc09a1358d6e28a26",
+      "size": 4772,
+      "url": "https://mirrorbits.lineageos.org/full/Mi439/20230412/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/Mi439/20230412/vbmeta.img",
+      "sha1": "3c32b482449398631be7d4da0ffa9d1162fe5771",
+      "sha256": "326d30ec7636940577127b4fd043ec28d8757d60e4481ed9f987b9ccd8f014c5",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/Mi439/20230412/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
