@@ -1,9 +1,51 @@
 {
-  "datetime": 1680652800,
-  "filename": "lineage-19.1-20230405-nightly-d2x-signed.zip",
-  "id": "716b498ed9e2b84c5b0d25d9f810f41b4dc4b146f338fff60bdc780e91b64d1b",
-  "romtype": "nightly",
-  "size": 822997216,
-  "url": "https://mirrorbits.lineageos.org/full/d2x/20230405/lineage-19.1-20230405-nightly-d2x-signed.zip",
+  "date": "2023-04-12",
+  "datetime": 1681257600,
+  "files": [
+    {
+      "date": "2023-04-12",
+      "datetime": 1681257600,
+      "filename": "lineage-19.1-20230412-nightly-d2x-signed.zip",
+      "filepath": "/full/d2x/20230412/lineage-19.1-20230412-nightly-d2x-signed.zip",
+      "sha1": "472ee32901e467fa27735aac5660a3692b83422d",
+      "sha256": "9f6fa4616bee0e44dcc01615e337a095abc29f6ca366e2d21114b6e9a25bc004",
+      "size": 823607710,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/d2x/20230412/lineage-19.1-20230412-nightly-d2x-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/d2x/20230412/boot.img",
+      "sha1": "0e6ed7c26889483e894015fa82d0b296381afdec",
+      "sha256": "374f4e927448ee52ca3c69940fb8be04f576a340d0172405c7b040132f48f934",
+      "size": 57671680,
+      "url": "https://mirrorbits.lineageos.org/full/d2x/20230412/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/d2x/20230412/dtbo.img",
+      "sha1": "1b27964d75bb2ce6a15e5238131dac5a14b84e80",
+      "sha256": "5b2821b059e28bb298712482185948d82d804076c60cb613c19e304f39cd415c",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/d2x/20230412/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/d2x/20230412/recovery.img",
+      "sha1": "97cbd070df79d7e2e56462c220e7c630f24fc588",
+      "sha256": "b587f822741dfa951cfda0edb3b58010dc0fca1c6c2d00635789d6df2ab17aa9",
+      "size": 67633152,
+      "url": "https://mirrorbits.lineageos.org/full/d2x/20230412/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/d2x/20230412/vbmeta.img",
+      "sha1": "745d9fb93e4ac7cb0ad3fd01de7d0252a999858d",
+      "sha256": "f5ed56d1238bcdb0a493a443f17e293e8667d8133799d1302f7e438902542884",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/d2x/20230412/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
