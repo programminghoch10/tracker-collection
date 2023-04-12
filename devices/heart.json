@@ -1,9 +1,51 @@
 {
-  "datetime": 1680652800,
-  "filename": "lineage-20.0-20230405-nightly-heart-signed.zip",
-  "id": "05e46d1350ec5d0311a27fce20ddeb3c3986ab2b353e0c5625067d60dfab8a67",
-  "romtype": "nightly",
-  "size": 899997276,
-  "url": "https://mirrorbits.lineageos.org/full/heart/20230405/lineage-20.0-20230405-nightly-heart-signed.zip",
+  "date": "2023-04-12",
+  "datetime": 1681257600,
+  "files": [
+    {
+      "date": "2023-04-12",
+      "datetime": 1681257600,
+      "filename": "lineage-20.0-20230412-nightly-heart-signed.zip",
+      "filepath": "/full/heart/20230412/lineage-20.0-20230412-nightly-heart-signed.zip",
+      "sha1": "3a9a2852054007d88afb0a5c0f3089d6c7e21df6",
+      "sha256": "e7adc9762acae719598a2ec63d12bd30922e94b7eef252453d6a4ded696afd7f",
+      "size": 900547669,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/heart/20230412/lineage-20.0-20230412-nightly-heart-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/heart/20230412/boot.img",
+      "sha1": "d051beff3c5ef6fd2eab65d5f96c74a2a8348206",
+      "sha256": "1d3c0ca1bd00ae3154f74851dcce948c2c504d085b00811f95bfaf536d0dbbb0",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/heart/20230412/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/heart/20230412/dtbo.img",
+      "sha1": "e0141c4abc49dcda41639495d9d79bb02d43f15e",
+      "sha256": "b2320171b56ab7eac680cde837b9ec62ed0019d8af5b1f3550ab887ce64cb9bb",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/heart/20230412/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/heart/20230412/recovery.img",
+      "sha1": "30322a3b293aed51c84250de5e78540c37c5b858",
+      "sha256": "dc72faf28db577ff2cd65e03e17625d84295e9c1ed2186f26f971e76dcb6ea81",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/heart/20230412/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/heart/20230412/vbmeta.img",
+      "sha1": "aa99c88ec318aed533948bbc0d790c2043b3c720",
+      "sha256": "5a6ce7282821a6932624c2244b063a3646e7f3ad7e4b958e742bbfe5b15b1518",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/heart/20230412/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
