@@ -1,9 +1,59 @@
 {
-  "datetime": 1680652800,
-  "filename": "lineage-20.0-20230405-nightly-axolotl-signed.zip",
-  "id": "979afb782146dec9329799fd05df00d757c7527a292147dfe44938e1371d547f",
-  "romtype": "nightly",
-  "size": 886268810,
-  "url": "https://mirrorbits.lineageos.org/full/axolotl/20230405/lineage-20.0-20230405-nightly-axolotl-signed.zip",
+  "date": "2023-04-12",
+  "datetime": 1681257600,
+  "files": [
+    {
+      "date": "2023-04-12",
+      "datetime": 1681257600,
+      "filename": "lineage-20.0-20230412-nightly-axolotl-signed.zip",
+      "filepath": "/full/axolotl/20230412/lineage-20.0-20230412-nightly-axolotl-signed.zip",
+      "sha1": "b88527d1c4af0f8e594a495d2cea2176d748d32a",
+      "sha256": "d84021ac44ec13175c564fd27c91ed12fe1a861d1bc9271b746e8a3f4b3b6233",
+      "size": 886673450,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20230412/lineage-20.0-20230412-nightly-axolotl-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/axolotl/20230412/boot.img",
+      "sha1": "a98c503c5d8bc3c6087fbd52644453308bad7bc6",
+      "sha256": "54f4d406811e3c5a0fec54f60cf7e1ec93fe0eca3fd6c60aee2a35d7ade27de8",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20230412/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/axolotl/20230412/dtbo.img",
+      "sha1": "fedcb35227cbea8a84a107f4ac98503f1b0d8192",
+      "sha256": "e9eaad7eba20849731baf7cb12bf6d05929e72566352570f29408345cdebcfc6",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20230412/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/axolotl/20230412/recovery.img",
+      "sha1": "ced9fef73d446d3ee033bcb9b837a9c0c054e682",
+      "sha256": "8198ae82236da6811831323f9a5dc4c3bbe9a6b12f46a973a8b9f8852c5674a5",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20230412/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/axolotl/20230412/super_empty.img",
+      "sha1": "e5168362d01af156ca12a5a43f2f10a7b3788bcc",
+      "sha256": "440b510a670cba2bcc377146f42a7d401eff4989bc9d5050fd610da85e4a52c9",
+      "size": 4848,
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20230412/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/axolotl/20230412/vbmeta.img",
+      "sha1": "331bc4877f02b5cfabd1c040c28c8c396003c710",
+      "sha256": "2986af556c2e6dc47b25f01ec8c8745bc11306782e77b901374c90f1db6567f1",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20230412/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
