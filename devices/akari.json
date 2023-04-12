@@ -1,9 +1,43 @@
 {
-  "datetime": 1680652800,
-  "filename": "lineage-20.0-20230405-nightly-akari-signed.zip",
-  "id": "bdecba00250c729125f71a191574b1523ec7f56ab1f1d1c0bb024067ca7469b2",
-  "romtype": "nightly",
-  "size": 802387149,
-  "url": "https://mirrorbits.lineageos.org/full/akari/20230405/lineage-20.0-20230405-nightly-akari-signed.zip",
+  "date": "2023-04-12",
+  "datetime": 1681257600,
+  "files": [
+    {
+      "date": "2023-04-12",
+      "datetime": 1681257600,
+      "filename": "lineage-20.0-20230412-nightly-akari-signed.zip",
+      "filepath": "/full/akari/20230412/lineage-20.0-20230412-nightly-akari-signed.zip",
+      "sha1": "548990a29a485d4bb1a74a51265c9ca1b774b62f",
+      "sha256": "09da358ca052d251b9771ecfc59ae48b9fef68f011fe76f30d4b8c23f31b2259",
+      "size": 801957666,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/akari/20230412/lineage-20.0-20230412-nightly-akari-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/akari/20230412/boot.img",
+      "sha1": "c5dc0cb9a4b00010d122faeb9871e600898f1ed3",
+      "sha256": "8f07f899e0825c07355a4cd0ec92be3ed55d40d9947cad3c1471b07066af18fe",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/akari/20230412/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/akari/20230412/dtbo.img",
+      "sha1": "75c8943d9aec931e7423b22ec178b14fcd432abc",
+      "sha256": "6dd0162f4d9486a2ef2393cdb1c63ba2997a5e691cdad33c87e58d6a301d0480",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/akari/20230412/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/akari/20230412/vbmeta.img",
+      "sha1": "4f475a3d6da87a883664f91b55a93f5875e4bb5b",
+      "sha256": "21b8f2ac87cf50d307226bfaece7e30205bb3320a4d34c79ee5453cd56d795e6",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/akari/20230412/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
