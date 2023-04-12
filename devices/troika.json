@@ -1,9 +1,43 @@
 {
-  "datetime": 1680652800,
-  "filename": "lineage-20.0-20230405-nightly-troika-signed.zip",
-  "id": "b8fee552eed7b35519212b6e6f77a25c5659de05f27c7bded8b9803dbf1fb253",
-  "romtype": "nightly",
-  "size": 820908260,
-  "url": "https://mirrorbits.lineageos.org/full/troika/20230405/lineage-20.0-20230405-nightly-troika-signed.zip",
+  "date": "2023-04-12",
+  "datetime": 1681257600,
+  "files": [
+    {
+      "date": "2023-04-12",
+      "datetime": 1681257600,
+      "filename": "lineage-20.0-20230412-nightly-troika-signed.zip",
+      "filepath": "/full/troika/20230412/lineage-20.0-20230412-nightly-troika-signed.zip",
+      "sha1": "403c5fec25640eb34740c76ae8267a4fdb9931a2",
+      "sha256": "71b67bbaa08323969d6ad7787d88ed7b8b16c090428064dbf92e63e649e4b9d0",
+      "size": 821257157,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230412/lineage-20.0-20230412-nightly-troika-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/troika/20230412/boot.img",
+      "sha1": "1469a67e039f0fc1feff9cd33da4b0cd4b5548b4",
+      "sha256": "48a32150d0efe1bfd3324400b4c6f3bf98f27f2bbba0880cd2dded3b329eb514",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230412/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/troika/20230412/dtbo.img",
+      "sha1": "29527182635c4ca33944024a360ee7491fbcfd97",
+      "sha256": "2df63206af6486b01b475946025f422e40e23a75679bb8fc3ad1605386090267",
+      "size": 1048576,
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230412/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/troika/20230412/vbmeta.img",
+      "sha1": "bfc66b1a2362ecb7ca782c3d78564586e8841c8b",
+      "sha256": "c640a09266ea1aa84ad248f8a8cc50587cd4444b1024a0de3436e0862d25e3c1",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230412/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
