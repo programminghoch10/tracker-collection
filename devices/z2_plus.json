@@ -1,9 +1,35 @@
 {
-  "datetime": 1680739200,
-  "filename": "lineage-19.1-20230406-nightly-z2_plus-signed.zip",
-  "id": "85a06620c97f407b9a2cdbcc9b75eccb7b98943b320094a7b538f77220d3b049",
-  "romtype": "nightly",
-  "size": 809816755,
-  "url": "https://mirrorbits.lineageos.org/full/z2_plus/20230406/lineage-19.1-20230406-nightly-z2_plus-signed.zip",
+  "date": "2023-04-13",
+  "datetime": 1681344000,
+  "files": [
+    {
+      "date": "2023-04-13",
+      "datetime": 1681344000,
+      "filename": "lineage-19.1-20230413-nightly-z2_plus-signed.zip",
+      "filepath": "/full/z2_plus/20230413/lineage-19.1-20230413-nightly-z2_plus-signed.zip",
+      "sha1": "f8f9c821ccbb4c05b04783719176fab6ef9164bc",
+      "sha256": "d031df6cf8899f90b1ca2301a81e4539ad76ddd0b63b91fd4443905100a305c7",
+      "size": 810427668,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/z2_plus/20230413/lineage-19.1-20230413-nightly-z2_plus-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/z2_plus/20230413/boot.img",
+      "sha1": "28c65990588777919211b852ed52e7b91307f397",
+      "sha256": "73171090c3c70f31b604d20aeb6c116a9dca5fdf26cb20cc46b63116f0e816ab",
+      "size": 12317992,
+      "url": "https://mirrorbits.lineageos.org/full/z2_plus/20230413/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/z2_plus/20230413/recovery.img",
+      "sha1": "75ea34f45abab8d2bb47c4b68a514c032e13815b",
+      "sha256": "36ec591b2e1b31179755333b1cae6025d587202c8878b8013f2049b85ccfc2bd",
+      "size": 21415212,
+      "url": "https://mirrorbits.lineageos.org/full/z2_plus/20230413/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
