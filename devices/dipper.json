@@ -1,9 +1,43 @@
 {
-  "datetime": 1680739200,
-  "filename": "lineage-20.0-20230406-nightly-dipper-signed.zip",
-  "id": "15c3bcdf33ffabb679358b849e4d9a3a6e6e6357e42305fb492ebb3fdaef1ee3",
-  "romtype": "nightly",
-  "size": 1042249180,
-  "url": "https://mirrorbits.lineageos.org/full/dipper/20230406/lineage-20.0-20230406-nightly-dipper-signed.zip",
+  "date": "2023-04-13",
+  "datetime": 1681344000,
+  "files": [
+    {
+      "date": "2023-04-13",
+      "datetime": 1681344000,
+      "filename": "lineage-20.0-20230413-nightly-dipper-signed.zip",
+      "filepath": "/full/dipper/20230413/lineage-20.0-20230413-nightly-dipper-signed.zip",
+      "sha1": "0bdc1764a56504f975733dabd98cc7d382e2a271",
+      "sha256": "a6f15bd2fbb4bc620aa5ca03577e050b8911f5b43e4475fd3774112f4f30bb87",
+      "size": 1042609301,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/dipper/20230413/lineage-20.0-20230413-nightly-dipper-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/dipper/20230413/boot.img",
+      "sha1": "258ad3e207d6a7a95c4ec784936198012e53a4b7",
+      "sha256": "acd50922f2efe952f8451e8d580876f8d9c5732c7bd6afa6914463803971021d",
+      "size": 67092480,
+      "url": "https://mirrorbits.lineageos.org/full/dipper/20230413/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/dipper/20230413/recovery.img",
+      "sha1": "be7266abf4af422743b0eac7502e1c0ff74ecab9",
+      "sha256": "91ba770326d12d7496913fc4c0bc2526c7fdfc087aa032edd5312577b2ac4d9a",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/dipper/20230413/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/dipper/20230413/vbmeta.img",
+      "sha1": "83f2f736502c29ff072fc3eb5589a772fcfac84b",
+      "sha256": "60ac770b4dc52e66520477b4655f673089f4f1e3a44b83adc4e12b0d4e2c4010",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/dipper/20230413/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
