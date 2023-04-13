@@ -1,9 +1,35 @@
 {
-  "datetime": 1680739200,
-  "filename": "lineage-20.0-20230406-nightly-chiron-signed.zip",
-  "id": "1eb3c77a5e3e1e2142cf56955775ad5f920d0a545bb1f0c8fb8e7c7bb58e5527",
-  "romtype": "nightly",
-  "size": 855249265,
-  "url": "https://mirrorbits.lineageos.org/full/chiron/20230406/lineage-20.0-20230406-nightly-chiron-signed.zip",
+  "date": "2023-04-13",
+  "datetime": 1681344000,
+  "files": [
+    {
+      "date": "2023-04-13",
+      "datetime": 1681344000,
+      "filename": "lineage-20.0-20230413-nightly-chiron-signed.zip",
+      "filepath": "/full/chiron/20230413/lineage-20.0-20230413-nightly-chiron-signed.zip",
+      "sha1": "f14e29224e7707a96db53d714910009ff0def1e5",
+      "sha256": "69fd7b4e8abb50c9855b6ec5227d27c5432628075765a0cf1ca0e98c38db9ca1",
+      "size": 855588623,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/chiron/20230413/lineage-20.0-20230413-nightly-chiron-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/chiron/20230413/boot.img",
+      "sha1": "f92115da723366aa3721c07fda2566331eed63a2",
+      "sha256": "e65a5e93740dabca8d62e64bb0a15492becb20830688fd9f2191fd2b48c00aed",
+      "size": 16146432,
+      "url": "https://mirrorbits.lineageos.org/full/chiron/20230413/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/chiron/20230413/recovery.img",
+      "sha1": "32026c8196fa02bbdae459ade12d4a83a1b618cc",
+      "sha256": "3c9ba68bd3ab733ce17a69c186d2021b9b37fb4102a85907a618d9b58bfb4e71",
+      "size": 26177536,
+      "url": "https://mirrorbits.lineageos.org/full/chiron/20230413/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
