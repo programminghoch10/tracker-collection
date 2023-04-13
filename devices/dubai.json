@@ -1,9 +1,59 @@
 {
-  "datetime": 1680739200,
-  "filename": "lineage-20.0-20230406-nightly-dubai-signed.zip",
-  "id": "bf9d90baf1f36f091f8425a8fb2b70bf48b4708880190fa99cc11c067d2c94bb",
-  "romtype": "nightly",
-  "size": 1258678255,
-  "url": "https://mirrorbits.lineageos.org/full/dubai/20230406/lineage-20.0-20230406-nightly-dubai-signed.zip",
+  "date": "2023-04-13",
+  "datetime": 1681344000,
+  "files": [
+    {
+      "date": "2023-04-13",
+      "datetime": 1681344000,
+      "filename": "lineage-20.0-20230413-nightly-dubai-signed.zip",
+      "filepath": "/full/dubai/20230413/lineage-20.0-20230413-nightly-dubai-signed.zip",
+      "sha1": "53b931750e15a55988bf2ccb923fc521e9b94dbf",
+      "sha256": "c6f06facf62047e1e6743e9bd83978d8335652f6d0626b816a9105fda7caac73",
+      "size": 1259818390,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20230413/lineage-20.0-20230413-nightly-dubai-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/dubai/20230413/boot.img",
+      "sha1": "01c23c9000519011bd7c3c52d0abc49b5fba332a",
+      "sha256": "3e166b0605d7e80760c020c409abf2d3fb69f98a5088c17c5e4bf2c020a36a59",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20230413/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/dubai/20230413/dtbo.img",
+      "sha1": "ef23f8b7b0c1684bbe1820ee0176f1c97f6a7c71",
+      "sha256": "bc3015fde8738ab4050bcc903840f7088a4b679ee68687cdb11325681412ffc3",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20230413/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/dubai/20230413/super_empty.img",
+      "sha1": "325da06e76217b60114b3dbd5f32ef9706e6ae79",
+      "sha256": "bf4982b5568861136393119ace9d2c42bec78285636ecfa48ce92d3e8d978c19",
+      "size": 4976,
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20230413/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/dubai/20230413/vbmeta.img",
+      "sha1": "993710a974ad9b7887273fa115e120ff9eef223e",
+      "sha256": "770549d3392deb5f8e2b273235c74cc2d9fc2edb340d10dd087c4cf422a51e97",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20230413/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/dubai/20230413/vendor_boot.img",
+      "sha1": "d878068ac8e757fa8a9ad8545830fc93b496721b",
+      "sha256": "44a6d9ae7301010d98cb585984f722e5e147feffdc82f1646f24b6741742e979",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20230413/vendor_boot.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
