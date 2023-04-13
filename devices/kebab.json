@@ -1,9 +1,59 @@
 {
-  "datetime": 1680739200,
-  "filename": "lineage-20.0-20230406-nightly-kebab-signed.zip",
-  "id": "e406f46449d5fe6eb0e8bc165f7de15cb6475055c0e47fc69a429cb82d135fbf",
-  "romtype": "nightly",
-  "size": 1062288109,
-  "url": "https://mirrorbits.lineageos.org/full/kebab/20230406/lineage-20.0-20230406-nightly-kebab-signed.zip",
+  "date": "2023-04-13",
+  "datetime": 1681344000,
+  "files": [
+    {
+      "date": "2023-04-13",
+      "datetime": 1681344000,
+      "filename": "lineage-20.0-20230413-nightly-kebab-signed.zip",
+      "filepath": "/full/kebab/20230413/lineage-20.0-20230413-nightly-kebab-signed.zip",
+      "sha1": "5be13eb0cd2bca0a58cd60a3668330d1a7d78092",
+      "sha256": "1969932c125d58f7d8e146de429a4d7c7b8f1d0c3b49444026a119f249cd0d1e",
+      "size": 1062415260,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20230413/lineage-20.0-20230413-nightly-kebab-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/kebab/20230413/boot.img",
+      "sha1": "b162a90417525a12d770e5e008ea0a7031347c0c",
+      "sha256": "bae8ea7bcc8225dc488c16e93fbb5e2a36242fb92f169bb81bfc23c105be4e52",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20230413/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/kebab/20230413/dtbo.img",
+      "sha1": "3a3b18cd3f11fcd172c88d060a6dbded5676a360",
+      "sha256": "07cc283c883ee37eda02147be22686dd82e9b2b28cebc31fa1252dfdf74ec370",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20230413/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/kebab/20230413/recovery.img",
+      "sha1": "502f90020dd5e755f3d0be5bda8cc1a16ac4faa5",
+      "sha256": "3b27a1d650046892d8477a5140da2abc3ed302ee65e59b58239e58b62e5e332d",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20230413/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/kebab/20230413/super_empty.img",
+      "sha1": "26f2ec36f2a023deb5fc57c23fa9cc3a8f263baf",
+      "sha256": "066989bead5877ede9aaa0c967ebfa69026537246edf198c325de8ab5b1649de",
+      "size": 5080,
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20230413/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/kebab/20230413/vbmeta.img",
+      "sha1": "ea591bc571b40855c0baaa7a7d1f2ab4fc15dbde",
+      "sha256": "79ead50617eecf24c3d8a1f3d14606cc35d3f5248239b1cbebe486bb661882d3",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20230413/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
