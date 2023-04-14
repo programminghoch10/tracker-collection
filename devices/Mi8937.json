@@ -1,9 +1,43 @@
 {
-  "datetime": 1680825600,
-  "filename": "lineage-20.0-20230407-nightly-Mi8937-signed.zip",
-  "id": "f733507f16ee27f6fd16492ec508758a953b1617aa036b192840ce3a22ea7685",
-  "romtype": "nightly",
-  "size": 807971409,
-  "url": "https://mirrorbits.lineageos.org/full/Mi8937/20230407/lineage-20.0-20230407-nightly-Mi8937-signed.zip",
+  "date": "2023-04-14",
+  "datetime": 1681430400,
+  "files": [
+    {
+      "date": "2023-04-14",
+      "datetime": 1681430400,
+      "filename": "lineage-20.0-20230414-nightly-Mi8937-signed.zip",
+      "filepath": "/full/Mi8937/20230414/lineage-20.0-20230414-nightly-Mi8937-signed.zip",
+      "sha1": "39144923dd965613e02b31eda5b3d339223d4b5e",
+      "sha256": "b1149d9c0c0bbeed6f56c110e46fb5068a5549d40d140117ccca3ee41a6c2b27",
+      "size": 808335593,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20230414/lineage-20.0-20230414-nightly-Mi8937-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/Mi8937/20230414/boot.img",
+      "sha1": "664b401545a5470ec6d030e6732ed6bb089e01aa",
+      "sha256": "8fd1f5fb8bb241fc2de20c1e6ab8c3d6595c03b6bdb3f256fef1dfb30b6330fc",
+      "size": 15708160,
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20230414/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/Mi8937/20230414/recovery.img",
+      "sha1": "09a48f9fef8e3a3dec14a4b3fa18a7f504914d20",
+      "sha256": "3545972b8db59d2defcf7e0f8eef125ceb32395ed298927f86bd561e4b269577",
+      "size": 26255360,
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20230414/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/Mi8937/20230414/super_empty.img",
+      "sha1": "9ba6b74bc4dd3fd2129eeb251a382bfe8e24ee26",
+      "sha256": "d8eebea2dea61f3ef477256fee5374569331d087bb4b281b17e1e465353fea3c",
+      "size": 4708,
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20230414/super_empty.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
