@@ -1,9 +1,59 @@
 {
-  "datetime": 1680825600,
-  "filename": "lineage-20.0-20230407-nightly-merlinx-signed.zip",
-  "id": "1135dce6550db1778016ed818fad5ea4776f4678bf67e9309367aabb6653fee1",
-  "romtype": "nightly",
-  "size": 968467353,
-  "url": "https://mirrorbits.lineageos.org/full/merlinx/20230407/lineage-20.0-20230407-nightly-merlinx-signed.zip",
+  "date": "2023-04-14",
+  "datetime": 1681430400,
+  "files": [
+    {
+      "date": "2023-04-14",
+      "datetime": 1681430400,
+      "filename": "lineage-20.0-20230414-nightly-merlinx-signed.zip",
+      "filepath": "/full/merlinx/20230414/lineage-20.0-20230414-nightly-merlinx-signed.zip",
+      "sha1": "8aeb0cee97f0bf4bb596eb1387f693019ec743b6",
+      "sha256": "ef67bfc3062efe3b76ca4258961999f9d6bb479efb0b9022cabaab75c9cb7e36",
+      "size": 968595496,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20230414/lineage-20.0-20230414-nightly-merlinx-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/merlinx/20230414/boot.img",
+      "sha1": "a0f55309ef2ba61b1d16313ce6332f3c0b706544",
+      "sha256": "e90fa62e016d0f80eaab4ee229c3aff7e52d6cf6adaf56e22e617801a1872170",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20230414/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/merlinx/20230414/dtbo.img",
+      "sha1": "d10666eb4ff9b070d79867bfdcf030d79e71d8c9",
+      "sha256": "08f1053f33358bb74e635e52e120f68945aa1ca1f4938048e9b5b09751be2c55",
+      "size": 16777216,
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20230414/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/merlinx/20230414/recovery.img",
+      "sha1": "2334accb64ee547c98af37e32cffad6788fe38af",
+      "sha256": "a137ad6353d1a6a9f600d0b2ad9077415772a64f50bbdfc5218491a6bfc32ceb",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20230414/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/merlinx/20230414/super_empty.img",
+      "sha1": "110b4e975f0fced155b209fdada3b92853026f68",
+      "sha256": "ae9c47b9bb35cf536a1b9fcae4633068d5051e1d2d83a50f1948f069f1a24944",
+      "size": 4592,
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20230414/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/merlinx/20230414/vbmeta.img",
+      "sha1": "51d040defd09181bc4d7dd9a5756040f25c21835",
+      "sha256": "5048d0bb95124663067a4d5bbb169b49716ebf8438ab3312cf2dbbe7bfe891e0",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20230414/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
