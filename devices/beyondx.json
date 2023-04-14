@@ -1,9 +1,51 @@
 {
-  "datetime": 1680825600,
-  "filename": "lineage-19.1-20230407-nightly-beyondx-signed.zip",
-  "id": "a677b1522eaac971e9fcbed3f37056dd45a88288f56250c974a29245f670d9ab",
-  "romtype": "nightly",
-  "size": 819262742,
-  "url": "https://mirrorbits.lineageos.org/full/beyondx/20230407/lineage-19.1-20230407-nightly-beyondx-signed.zip",
+  "date": "2023-04-14",
+  "datetime": 1681430400,
+  "files": [
+    {
+      "date": "2023-04-14",
+      "datetime": 1681430400,
+      "filename": "lineage-19.1-20230414-nightly-beyondx-signed.zip",
+      "filepath": "/full/beyondx/20230414/lineage-19.1-20230414-nightly-beyondx-signed.zip",
+      "sha1": "2452f180f66d50b42164b80921706c7e18e4dee7",
+      "sha256": "361acef123238ad4edb9969caa708bf3714520a6555a4e3898e8b76ceaafbe86",
+      "size": 819880132,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/beyondx/20230414/lineage-19.1-20230414-nightly-beyondx-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/beyondx/20230414/boot.img",
+      "sha1": "74c87c431f3fdc3dd6cb463251b3a9537480f99d",
+      "sha256": "e8033fba988a9875529eed884d0891259b18cb44d3c6fcc531c63ef1f97afabc",
+      "size": 57671680,
+      "url": "https://mirrorbits.lineageos.org/full/beyondx/20230414/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/beyondx/20230414/dtbo.img",
+      "sha1": "19f2666458ade80944eaf64d1cf14a99fe5af68b",
+      "sha256": "dad16cb6b6be6475bdc8192d701a22fd10806ab8dc704126e18e76f3072ffb17",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/beyondx/20230414/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/beyondx/20230414/recovery.img",
+      "sha1": "7519c0f9b850a5a1be56481537652b167e97f95c",
+      "sha256": "eedf4919c53e28c4d592c99e3b150074faa385c66578c76cbb685b3c899c8de6",
+      "size": 67633152,
+      "url": "https://mirrorbits.lineageos.org/full/beyondx/20230414/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/beyondx/20230414/vbmeta.img",
+      "sha1": "77da34ab6032add797cffc387f42b3b2e06466ca",
+      "sha256": "211c9ea8670c204920897476a43c205b1f79bd470ea535134f949534db061afa",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/beyondx/20230414/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "19.1"
 }
