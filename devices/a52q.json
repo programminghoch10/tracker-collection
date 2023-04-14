@@ -1,9 +1,59 @@
 {
-  "datetime": 1680825600,
-  "filename": "lineage-20.0-20230407-nightly-a52q-signed.zip",
-  "id": "552ccf24a45c96eaf55eed7ab000d0bef9d091261ce5f928baf78d2a8048ff8f",
-  "romtype": "nightly",
-  "size": 1083329635,
-  "url": "https://mirrorbits.lineageos.org/full/a52q/20230407/lineage-20.0-20230407-nightly-a52q-signed.zip",
+  "date": "2023-04-14",
+  "datetime": 1681430400,
+  "files": [
+    {
+      "date": "2023-04-14",
+      "datetime": 1681430400,
+      "filename": "lineage-20.0-20230414-nightly-a52q-signed.zip",
+      "filepath": "/full/a52q/20230414/lineage-20.0-20230414-nightly-a52q-signed.zip",
+      "sha1": "3146dfc6b11dd5e9d2226a2fd011f9d830420829",
+      "sha256": "c041bfd899967b68d5969c3f5b755b3661f53b13d1d75872771f238f4614d086",
+      "size": 1083633732,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/a52q/20230414/lineage-20.0-20230414-nightly-a52q-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/a52q/20230414/boot.img",
+      "sha1": "8f0aacddeaabe431dcb5b2792a972d7cadb0f289",
+      "sha256": "9ad39eaaf9ab07955bb90426a787e9dbdffde0c725fa31ea5251546a5208bfe2",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/a52q/20230414/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/a52q/20230414/dtbo.img",
+      "sha1": "4b765fd17838b7a856d21d91dca3dc133d4dead3",
+      "sha256": "cef38de093dfd61822fe8b2194464719c068cace8feb121b7a8dea4c878c15fe",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/a52q/20230414/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/a52q/20230414/recovery.img",
+      "sha1": "d7bb4f04ad59f56c677fae1908b2cfaf496069a2",
+      "sha256": "b7a388834aa19b2d7b346ea4ecc3a8089d455c85573ea9331478acdbed52f5ab",
+      "size": 81788928,
+      "url": "https://mirrorbits.lineageos.org/full/a52q/20230414/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/a52q/20230414/super_empty.img",
+      "sha1": "c5798a2d86c5b2d2118cd2edc14ab449c18db3b4",
+      "sha256": "fe89e17f44703a2a3b6cb4d3fec39c84cd9054ba246642613b41b1e32356efd0",
+      "size": 4592,
+      "url": "https://mirrorbits.lineageos.org/full/a52q/20230414/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/a52q/20230414/vbmeta.img",
+      "sha1": "2d74053745b9352f92d5189497d5ee21617164c9",
+      "sha256": "c58af1b811c2b36bea54ebff63b97bc127dac0bf61c3104c76ae01462f660326",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/a52q/20230414/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
