@@ -1,9 +1,43 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-20.0-20230401-nightly-kane-signed.zip",
-  "id": "d8975f29ef7312eca6bf590431245a7742c72fcd47f3342dd5ef2eb079d4bc55",
-  "romtype": "nightly",
-  "size": 820897274,
-  "url": "https://mirrorbits.lineageos.org/full/kane/20230401/lineage-20.0-20230401-nightly-kane-signed.zip",
+  "date": "2023-04-15",
+  "datetime": 1681516800,
+  "files": [
+    {
+      "date": "2023-04-15",
+      "datetime": 1681516800,
+      "filename": "lineage-20.0-20230415-nightly-kane-signed.zip",
+      "filepath": "/full/kane/20230415/lineage-20.0-20230415-nightly-kane-signed.zip",
+      "sha1": "fd77042c90c586f0c06783a3fa47e36ee7a6e40c",
+      "sha256": "cd286371931c695db118af26d10d7ff33c768e13890de6f9e9f36a3628d7ff14",
+      "size": 821233595,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/kane/20230415/lineage-20.0-20230415-nightly-kane-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/kane/20230415/boot.img",
+      "sha1": "0ae47a819472436523034593874846d9f226b82f",
+      "sha256": "c518c5e04ac914d8f15b7a935c3e0e64ce6eb57475123b197f4b74b62140af0f",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/kane/20230415/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/kane/20230415/dtbo.img",
+      "sha1": "38141037103afa565017ef9587e3be7a4777486e",
+      "sha256": "de6143f4213c13a9e773a01b856ba4ec65d70034a8aeb8d10cb156ea91eb4032",
+      "size": 1048576,
+      "url": "https://mirrorbits.lineageos.org/full/kane/20230415/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/kane/20230415/vbmeta.img",
+      "sha1": "c74f4e6fcc36d39f28162ba2481a308ccfbeb81d",
+      "sha256": "6cf96905e20e7b86799ccc97ec2fae0045b4ce4f0a7bcd31c0e9a2e31153fe12",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/kane/20230415/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
