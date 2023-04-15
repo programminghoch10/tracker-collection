@@ -1,9 +1,35 @@
 {
-  "datetime": 1678838400,
-  "filename": "lineage-18.1-20230315-nightly-cedric-signed.zip",
-  "id": "473a230f018e937fe7c109dda83e24082bdf6f24b572153162389be524ed2530",
-  "romtype": "nightly",
-  "size": 710002220,
-  "url": "https://mirrorbits.lineageos.org/full/cedric/20230315/lineage-18.1-20230315-nightly-cedric-signed.zip",
+  "date": "2023-04-15",
+  "datetime": 1681516800,
+  "files": [
+    {
+      "date": "2023-04-15",
+      "datetime": 1681516800,
+      "filename": "lineage-18.1-20230415-nightly-cedric-signed.zip",
+      "filepath": "/full/cedric/20230415/lineage-18.1-20230415-nightly-cedric-signed.zip",
+      "sha1": "31ac62436a7f2363d105edb7cb58a4261e982879",
+      "sha256": "d1efb0db654bd0d109ec392b1f40ec3c96f881d3dc9440e02ff0e0b097a294f5",
+      "size": 710116411,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/cedric/20230415/lineage-18.1-20230415-nightly-cedric-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/cedric/20230415/boot.img",
+      "sha1": "bd2ccec83acb034220aa2e0a0da8dc182f9cd3da",
+      "sha256": "e3d9d3bbb962b6d9330dd34cc83c13958593bf9bb86038e7db5f0f68486eeeca",
+      "size": 12259328,
+      "url": "https://mirrorbits.lineageos.org/full/cedric/20230415/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/cedric/20230415/recovery.img",
+      "sha1": "0246b1aa120ab713a0b5cb9d18dc806ec5f0a256",
+      "sha256": "d2916bb41b36923c15d981dbafc768f4fac60331894c79b5dd0862957742b711",
+      "size": 16275456,
+      "url": "https://mirrorbits.lineageos.org/full/cedric/20230415/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
