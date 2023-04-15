@@ -1,9 +1,35 @@
 {
-  "datetime": 1678838400,
-  "filename": "lineage-18.1-20230315-nightly-jfltexx-signed.zip",
-  "id": "bf4d4c35c45c39ea0d9e08092dc49bd1c20f0aaebcf195708308ece405ff719d",
-  "romtype": "nightly",
-  "size": 487848384,
-  "url": "https://mirrorbits.lineageos.org/full/jfltexx/20230315/lineage-18.1-20230315-nightly-jfltexx-signed.zip",
+  "date": "2023-04-15",
+  "datetime": 1681516800,
+  "files": [
+    {
+      "date": "2023-04-15",
+      "datetime": 1681516800,
+      "filename": "lineage-18.1-20230415-nightly-jfltexx-signed.zip",
+      "filepath": "/full/jfltexx/20230415/lineage-18.1-20230415-nightly-jfltexx-signed.zip",
+      "sha1": "a246f6c9e93636d9d1261b25e08c73a7c06d6074",
+      "sha256": "db36eef409187cd33ba98d529a7bce29bd560debab4d4cd0ca1ae22c65dcfe1c",
+      "size": 488087919,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/jfltexx/20230415/lineage-18.1-20230415-nightly-jfltexx-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/jfltexx/20230415/boot.img",
+      "sha1": "28c15f98875106ba89da28b92be67939172555a6",
+      "sha256": "1019b7523b23e26337ac7859f3e9519d7bd8bf3f78b9046316fd91100a2e9862",
+      "size": 5054480,
+      "url": "https://mirrorbits.lineageos.org/full/jfltexx/20230415/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/jfltexx/20230415/recovery.img",
+      "sha1": "fb6dcee01bd9927425396a558b2f32e4675fb696",
+      "sha256": "31a5022e81eb371eec3e5e0cccf275d09584d92ee9cb8c9869cf8bf339724bd9",
+      "size": 9887760,
+      "url": "https://mirrorbits.lineageos.org/full/jfltexx/20230415/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
