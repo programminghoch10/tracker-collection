@@ -1,9 +1,35 @@
 {
-  "datetime": 1678838400,
-  "filename": "lineage-18.1-20230315-nightly-kltekor-signed.zip",
-  "id": "106c1e1bc46636d8c4905172e8b557383abf35323283ac055d975935610f07f7",
-  "romtype": "nightly",
-  "size": 508569269,
-  "url": "https://mirrorbits.lineageos.org/full/kltekor/20230315/lineage-18.1-20230315-nightly-kltekor-signed.zip",
+  "date": "2023-04-15",
+  "datetime": 1681516800,
+  "files": [
+    {
+      "date": "2023-04-15",
+      "datetime": 1681516800,
+      "filename": "lineage-18.1-20230415-nightly-kltekor-signed.zip",
+      "filepath": "/full/kltekor/20230415/lineage-18.1-20230415-nightly-kltekor-signed.zip",
+      "sha1": "19e643ad83793abcaf71b97ffa780d4e5670976e",
+      "sha256": "a508d18e214e3fc187cb9f291dc5aa414bf89e1a87578ec9b4d450a031df9dc2",
+      "size": 508743055,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/kltekor/20230415/lineage-18.1-20230415-nightly-kltekor-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/kltekor/20230415/boot.img",
+      "sha1": "cb5e199dbced4cc65a33f994612b2a20dd6d4795",
+      "sha256": "580ec4b19c80d26d989c1e5d492d4c01d40d8edd3e00d2ba9b942ef420ffe518",
+      "size": 7424016,
+      "url": "https://mirrorbits.lineageos.org/full/kltekor/20230415/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/kltekor/20230415/recovery.img",
+      "sha1": "4511a6374cb175b0161809117a92adc7ba99b677",
+      "sha256": "bff2491e710793d47c9a6105bbe423076b385277681cfcff8c01de8cbdf9924e",
+      "size": 12537872,
+      "url": "https://mirrorbits.lineageos.org/full/kltekor/20230415/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
