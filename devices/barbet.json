@@ -1,9 +1,59 @@
 {
-  "datetime": 1680739200,
-  "filename": "lineage-20.0-20230406-nightly-barbet-signed.zip",
-  "id": "8c765fa697e8b18494c1794674b4d8b1c4228569dc099939d4170ab2000e342f",
-  "romtype": "nightly",
-  "size": 1119305019,
-  "url": "https://mirrorbits.lineageos.org/full/barbet/20230406/lineage-20.0-20230406-nightly-barbet-signed.zip",
+  "date": "2023-04-20",
+  "datetime": 1681948800,
+  "files": [
+    {
+      "date": "2023-04-20",
+      "datetime": 1681948800,
+      "filename": "lineage-20.0-20230420-nightly-barbet-signed.zip",
+      "filepath": "/full/barbet/20230420/lineage-20.0-20230420-nightly-barbet-signed.zip",
+      "sha1": "d7f282d622f48b8edb4e669d7474bb43858f1ea2",
+      "sha256": "f6a7102b449aab64c50e61ee1d205391cd65f8c74c6236308e033879784fa2ec",
+      "size": 1119494167,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20230420/lineage-20.0-20230420-nightly-barbet-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/barbet/20230420/boot.img",
+      "sha1": "6bcedf4959cb8cb4ae397be53edf87280981bcde",
+      "sha256": "6c1d1c77180b086570df0c5d62f86901ea893d039d0fdbe385210334b61c1306",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20230420/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/barbet/20230420/dtbo.img",
+      "sha1": "95b647546f839d3762c1bc126838fda994161260",
+      "sha256": "e28830ad0751dabbc592025b36e164d9de28b65cb8cd7a22614c39d23cee0868",
+      "size": 16777216,
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20230420/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/barbet/20230420/super_empty.img",
+      "sha1": "a6768f7133719a2dee9c325651cbd4bbdfbe6e32",
+      "sha256": "6bb18232cb1c0a9e3c8d0a6dcad6f1e74e90a1f98f736fe11d260ceb1befde59",
+      "size": 4976,
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20230420/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/barbet/20230420/vbmeta.img",
+      "sha1": "f96c58edc7a5e36a770d770d15ea071c3ee99f15",
+      "sha256": "2b129193ea25c093b668e4d8cc3137d460f40fbf9e21318669883152eb7aee75",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20230420/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/barbet/20230420/vendor_boot.img",
+      "sha1": "d258906657453be3dca17f008f9bfc1c9382643f",
+      "sha256": "7f75afa0a760db90be2ee8ab2a0bb9b4f79decd7f23941cfc0b3a8d22f50e763",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20230420/vendor_boot.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
