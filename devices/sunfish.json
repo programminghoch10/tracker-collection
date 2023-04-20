@@ -1,9 +1,51 @@
 {
-  "datetime": 1680739200,
-  "filename": "lineage-20.0-20230406-nightly-sunfish-signed.zip",
-  "id": "86b1457b402a04ea07bbbc05c8e8ecdac624331350aacbfbb6511885f8744a10",
-  "romtype": "nightly",
-  "size": 1041407466,
-  "url": "https://mirrorbits.lineageos.org/full/sunfish/20230406/lineage-20.0-20230406-nightly-sunfish-signed.zip",
+  "date": "2023-04-20",
+  "datetime": 1681948800,
+  "files": [
+    {
+      "date": "2023-04-20",
+      "datetime": 1681948800,
+      "filename": "lineage-20.0-20230420-nightly-sunfish-signed.zip",
+      "filepath": "/full/sunfish/20230420/lineage-20.0-20230420-nightly-sunfish-signed.zip",
+      "sha1": "ebe0e4d9d6835b359919126129c18665a6542180",
+      "sha256": "f76acfc45e80fb5435b9a34c3b382dfd0e3a83e42b9398efa9bc4a532a9b7acc",
+      "size": 1041725376,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230420/lineage-20.0-20230420-nightly-sunfish-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/sunfish/20230420/boot.img",
+      "sha1": "c97b17bee761a7501d0c88e69d3cd10f57b2a70c",
+      "sha256": "4ecc5a7ffc3e46103ed53d09282ce6cf486836ee6843829587a9781ba3dcff58",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230420/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/sunfish/20230420/dtbo.img",
+      "sha1": "95454ba4f9ba796f2d7d49bb14226898e1ffa31c",
+      "sha256": "46ce65664caefc67b70495f35f9e3095b1c42b9eae28e1c57333fbf477bfe0a4",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230420/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/sunfish/20230420/super_empty.img",
+      "sha1": "650537c380d2d16b3ead68eabaf1e20fef773ac9",
+      "sha256": "11fcbda3c1136b37a4181a117ccbbc19b944d83a5b1f2bcb83d04ee88f2b59ae",
+      "size": 4848,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230420/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/sunfish/20230420/vbmeta.img",
+      "sha1": "b0280e653e6a84f3c00ce980a0917da23ca4718e",
+      "sha256": "42e926801e5de834cc043f2520f5217caaada1f46d8bed786b12e2218efe555c",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230420/vbmeta.img"
+    }
+  ],
+  "type": "nightly",
   "version": "20.0"
 }
