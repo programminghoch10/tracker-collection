@@ -1,9 +1,35 @@
 {
-  "datetime": 1679270400,
-  "filename": "lineage-18.1-20230320-nightly-FP2-signed.zip",
-  "id": "8814b91b784d6febd1cd0717087802e6933ed2961bbb651fd34b8e2b262f547c",
-  "romtype": "nightly",
-  "size": 505212167,
-  "url": "https://mirrorbits.lineageos.org/full/FP2/20230320/lineage-18.1-20230320-nightly-FP2-signed.zip",
+  "date": "2023-04-20",
+  "datetime": 1681948800,
+  "files": [
+    {
+      "date": "2023-04-20",
+      "datetime": 1681948800,
+      "filename": "lineage-18.1-20230420-nightly-FP2-signed.zip",
+      "filepath": "/full/FP2/20230420/lineage-18.1-20230420-nightly-FP2-signed.zip",
+      "sha1": "dc63c016fc47ed44e8904c892672504c6a721617",
+      "sha256": "ac1b600ce2a8ad65c067dba7720b8bce37ee1d0cbb080085da42b193a18f73d8",
+      "size": 505285798,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/FP2/20230420/lineage-18.1-20230420-nightly-FP2-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/FP2/20230420/boot.img",
+      "sha1": "bb402f339244f1b95a79f9481ae0847f17e6ab8f",
+      "sha256": "2506e5a14915a12293ab914bc48e2c0e1af00a0100330e6a92f7bde38fe559a0",
+      "size": 6864896,
+      "url": "https://mirrorbits.lineageos.org/full/FP2/20230420/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/FP2/20230420/recovery.img",
+      "sha1": "668bccf9e0ff33eb33c694a6c318ff90f9670117",
+      "sha256": "6d2ce3111aba3a6b78c225391a46cff52d8f2aafbf671415bd32b2579e2c1f3d",
+      "size": 14493696,
+      "url": "https://mirrorbits.lineageos.org/full/FP2/20230420/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
