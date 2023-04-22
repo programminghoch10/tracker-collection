@@ -1,17 +1,49 @@
 {
-  "date": "2023-04-15",
-  "datetime": 1681516800,
+  "date": "2023-04-22",
+  "datetime": 1682121600,
   "files": [
     {
-      "date": "2023-04-15",
-      "datetime": 1681516800,
-      "filename": "lineage-20.0-20230415-nightly-zippo-signed.zip",
-      "filepath": "/full/zippo/20230415/lineage-20.0-20230415-nightly-zippo-signed.zip",
-      "sha1": "7232c078979df2ee305c7213eedb5f5696d7dc05",
-      "sha256": "f202a7ecd2449155f4d9bcc5f8e3ec911647b1fba749feef7bae65bf42df4b00",
-      "size": 677658624,
+      "date": "2023-04-22",
+      "datetime": 1682121600,
+      "filename": "lineage-20.0-20230422-nightly-zippo-signed.zip",
+      "filepath": "/full/zippo/20230422/lineage-20.0-20230422-nightly-zippo-signed.zip",
+      "sha1": "2493103d96b2638d3b042b16e06e52df528ccc91",
+      "sha256": "2591f2fea260ed24ef8bb48a2ae7b84ee71971e4131e502fd2ab037462001ba7",
+      "size": 907089401,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20230415/lineage-20.0-20230415-nightly-zippo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230422/lineage-20.0-20230422-nightly-zippo-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/zippo/20230422/boot.img",
+      "sha1": "42badca460aadc28e16301de4f1c50a4c8c14d05",
+      "sha256": "362f97654df9a2e5000f23443491e984180d1c4ed6e8edfc7f104a3ca5a69f57",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230422/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/zippo/20230422/dtbo.img",
+      "sha1": "3d93906a0bd12a712f5e61463daaabb02cd97cc3",
+      "sha256": "ae58ed9e94b706988160f82b9820ac9f8bc6852c056e13aeffef9517ad193b4e",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230422/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/zippo/20230422/recovery.img",
+      "sha1": "1313cdcd98e98d5dd49c6fc871e8b1cc0e58ee04",
+      "sha256": "1ddbda4712d39843e0a808906e21e7da0e4e99fe8601336399ac1ee581d16844",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230422/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/zippo/20230422/vbmeta.img",
+      "sha1": "53a10e30f465d820999bfa9ba19a0944af75db23",
+      "sha256": "dcd6521c31da4588632a4f7b33f04ec6ca1fe4580aef43666557eb9d6e1c80e1",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20230422/vbmeta.img"
     }
   ],
   "type": "nightly",
