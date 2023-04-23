@@ -1,9 +1,35 @@
 {
-  "datetime": 1679529600,
-  "filename": "lineage-18.1-20230323-nightly-kltechn-signed.zip",
-  "id": "bc8c2006fc7327f0d41aa18c42b4fa460ae997a564703f7800038382ca06a5a0",
-  "romtype": "nightly",
-  "size": 508862789,
-  "url": "https://mirrorbits.lineageos.org/full/kltechn/20230323/lineage-18.1-20230323-nightly-kltechn-signed.zip",
+  "date": "2023-04-23",
+  "datetime": 1682208000,
+  "files": [
+    {
+      "date": "2023-04-23",
+      "datetime": 1682208000,
+      "filename": "lineage-18.1-20230423-nightly-kltechn-signed.zip",
+      "filepath": "/full/kltechn/20230423/lineage-18.1-20230423-nightly-kltechn-signed.zip",
+      "sha1": "e51eac7029cc1bde3500524d1dd37a0510d644f7",
+      "sha256": "d3e6a5192e8329cc860c3f2f16de882e4a68deafd2365f191a30fdb6ead187af",
+      "size": 509015237,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/kltechn/20230423/lineage-18.1-20230423-nightly-kltechn-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/kltechn/20230423/boot.img",
+      "sha1": "c719261b102c58115f3650782072326eb764ffad",
+      "sha256": "3df2669bed8867e44ba93531e8435f13500ab3328fee60fc9badc029477bfe8e",
+      "size": 8157200,
+      "url": "https://mirrorbits.lineageos.org/full/kltechn/20230423/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/kltechn/20230423/recovery.img",
+      "sha1": "6fec0866dd753a68d2f8bd1f6bfafddb5c3ad939",
+      "sha256": "029d627f0bc72345a1497cd5d3819eff62e0da0f8367076ea02e45ded2de63d6",
+      "size": 13279248,
+      "url": "https://mirrorbits.lineageos.org/full/kltechn/20230423/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
