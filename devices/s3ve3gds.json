@@ -1,9 +1,35 @@
 {
-  "datetime": 1679616000,
-  "filename": "lineage-18.1-20230324-nightly-s3ve3gds-signed.zip",
-  "id": "20fbf2e2c095c368b284adfbf256582b1d33d31c84cae023d624ce75424d594c",
-  "romtype": "nightly",
-  "size": 514081241,
-  "url": "https://mirrorbits.lineageos.org/full/s3ve3gds/20230324/lineage-18.1-20230324-nightly-s3ve3gds-signed.zip",
+  "date": "2023-04-24",
+  "datetime": 1682294400,
+  "files": [
+    {
+      "date": "2023-04-24",
+      "datetime": 1682294400,
+      "filename": "lineage-18.1-20230424-nightly-s3ve3gds-signed.zip",
+      "filepath": "/full/s3ve3gds/20230424/lineage-18.1-20230424-nightly-s3ve3gds-signed.zip",
+      "sha1": "601d052bbcda800cd4428c17fae731cccc1bfacb",
+      "sha256": "03971b8b249bb55a312f9efe782f07c8f8b160738364e4ea93b0607d60312dbb",
+      "size": 514328686,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/s3ve3gds/20230424/lineage-18.1-20230424-nightly-s3ve3gds-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/s3ve3gds/20230424/boot.img",
+      "sha1": "70b7208c2c7efcb781973ea88b0dd861ad6ee8ac",
+      "sha256": "5af3e6c0109f135de1d49028b1d6fa0b863d2737a9eb4a75f2ab50d3f686d49b",
+      "size": 5152784,
+      "url": "https://mirrorbits.lineageos.org/full/s3ve3gds/20230424/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/s3ve3gds/20230424/recovery.img",
+      "sha1": "321de7cb1205aa9e25561e4cdc011c3774dc33db",
+      "sha256": "b4848a336288b3f5aaa38ceb29051cc56f1fe13cd7658c984c45d0771d85f70f",
+      "size": 9967632,
+      "url": "https://mirrorbits.lineageos.org/full/s3ve3gds/20230424/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
