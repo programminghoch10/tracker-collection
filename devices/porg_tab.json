@@ -1,9 +1,35 @@
 {
-  "datetime": 1679616000,
-  "filename": "lineage-18.1-20230324-nightly-porg_tab-signed.zip",
-  "id": "932d6a687b40b9a8ace7e40250b1947a2ebf7aabd26fc7117b9575490fcd374e",
-  "romtype": "nightly",
-  "size": 709972558,
-  "url": "https://mirrorbits.lineageos.org/full/porg_tab/20230324/lineage-18.1-20230324-nightly-porg_tab-signed.zip",
+  "date": "2023-04-24",
+  "datetime": 1682294400,
+  "files": [
+    {
+      "date": "2023-04-24",
+      "datetime": 1682294400,
+      "filename": "lineage-18.1-20230424-nightly-porg_tab-signed.zip",
+      "filepath": "/full/porg_tab/20230424/lineage-18.1-20230424-nightly-porg_tab-signed.zip",
+      "sha1": "f8c8b98c4c8302c096f536bd983db5320eba89a7",
+      "sha256": "e77ceddc97d76c43ca10908e9e198a77cf8793171d9cdd8ea47daf980e399600",
+      "size": 710292142,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20230424/lineage-18.1-20230424-nightly-porg_tab-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/porg_tab/20230424/boot.img",
+      "sha1": "4c22ade7ebbd65e89dcca19f5c1c849f2faed037",
+      "sha256": "484a9638361c0ad1f50249ec7c5a3654e68eaa52f3df112786757bf4635ec9a7",
+      "size": 11667456,
+      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20230424/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/porg_tab/20230424/recovery.img",
+      "sha1": "b756e3ea27ae3d83813513b42946709b71695d1a",
+      "sha256": "62ce90167cd0f11a4fb25ecc189ee6a3cf4d761c002be78a17473b7fb5a3ba33",
+      "size": 19830784,
+      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20230424/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
