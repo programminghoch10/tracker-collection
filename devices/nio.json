@@ -1,17 +1,57 @@
 {
-  "date": "2023-04-22",
-  "datetime": 1682121600,
+  "date": "2023-04-29",
+  "datetime": 1682726400,
   "files": [
     {
-      "date": "2023-04-22",
-      "datetime": 1682121600,
-      "filename": "lineage-20.0-20230422-nightly-nio-signed.zip",
-      "filepath": "/full/nio/20230422/lineage-20.0-20230422-nightly-nio-signed.zip",
-      "sha1": "46753326db9ceab90185b66e6ab70d78f6104027",
-      "sha256": "4a6aaf689255ad0215d4b0c19207a42241d1c2bc162edd795ad7b2864ba54534",
-      "size": 737017856,
+      "date": "2023-04-29",
+      "datetime": 1682726400,
+      "filename": "lineage-20.0-20230429-nightly-nio-signed.zip",
+      "filepath": "/full/nio/20230429/lineage-20.0-20230429-nightly-nio-signed.zip",
+      "sha1": "a24d5fee23d795ae2701b3df661d3da74eb5497b",
+      "sha256": "bb0ca80fbdb5cbb7df44881473510826294b89e874b3727108b19b0b71a54e67",
+      "size": 826786115,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/nio/20230422/lineage-20.0-20230422-nightly-nio-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/nio/20230429/lineage-20.0-20230429-nightly-nio-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/nio/20230429/boot.img",
+      "sha1": "a2bffe9d3c481cb1f207fb544a76e7385e30de81",
+      "sha256": "a9fb1067640a1eb1ca2308585f0eeb1ba1ee69af366af290525490f250c84fd4",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/nio/20230429/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/nio/20230429/dtbo.img",
+      "sha1": "4437bca1dee4c5e910bd7c4a5ef8fc4da6db0c72",
+      "sha256": "078a6ed24f01ca727f99d4de871b71427c9880496fad4a49196d8f6169d3a7be",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/nio/20230429/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/nio/20230429/super_empty.img",
+      "sha1": "c36fbf84f06e445e2b9fc261655f433b32ac97d3",
+      "sha256": "3204f0ff16858ae1daecf0935ca3e6af99b5b692380826c92313ed30ba214d8b",
+      "size": 4952,
+      "url": "https://mirrorbits.lineageos.org/full/nio/20230429/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/nio/20230429/vbmeta.img",
+      "sha1": "2a0eaecb7e1c73a90af1e99ebb3fda20e5702263",
+      "sha256": "54149e43ef32679c42e9b139f9b2de8ed791efb752ae43edee8890d5a349b276",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/nio/20230429/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/nio/20230429/vendor_boot.img",
+      "sha1": "d3e2f09c5c3213370c0f34a58cc77656011673d4",
+      "sha256": "d4229a40338fae7710af8056ddb60de37cf4418da35ad258664822236bb71017",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/nio/20230429/vendor_boot.img"
     }
   ],
   "type": "nightly",
