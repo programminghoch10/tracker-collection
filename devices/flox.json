@@ -1,9 +1,35 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-18.1-20230401-nightly-flox-signed.zip",
-  "id": "44d3be712dfbcb24c7c7149852f2a4202bafa86c83d8cea57957d3fff08ab853",
-  "romtype": "nightly",
-  "size": 459711729,
-  "url": "https://mirrorbits.lineageos.org/full/flox/20230401/lineage-18.1-20230401-nightly-flox-signed.zip",
+  "date": "2023-05-01",
+  "datetime": 1682899200,
+  "files": [
+    {
+      "date": "2023-05-01",
+      "datetime": 1682899200,
+      "filename": "lineage-18.1-20230501-nightly-flox-signed.zip",
+      "filepath": "/full/flox/20230501/lineage-18.1-20230501-nightly-flox-signed.zip",
+      "sha1": "1e753a3f8b40da29e3bbc33c0438714589c5b312",
+      "sha256": "370cfa9a52a6d24630b9f19019d93a263cb6d4a8e59a2577db9c19c532f16a7f",
+      "size": 458910268,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/flox/20230501/lineage-18.1-20230501-nightly-flox-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/flox/20230501/boot.img",
+      "sha1": "df238440bca35b7ae392a0b6c75852a6dded15eb",
+      "sha256": "c9fa78c89945d8f47eca165fa0d2740a6ae4575a628e712c139bce17eb5bd999",
+      "size": 6426624,
+      "url": "https://mirrorbits.lineageos.org/full/flox/20230501/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/flox/20230501/recovery.img",
+      "sha1": "ef2f90464708c0b0d3adf6f49631e43d5063e892",
+      "sha256": "03eccc116039d262e8086955396d167102513c55423aec33d4842731e2ddc4e3",
+      "size": 11139072,
+      "url": "https://mirrorbits.lineageos.org/full/flox/20230501/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
