@@ -1,9 +1,35 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-18.1-20230401-nightly-hltechn-signed.zip",
-  "id": "281e73ba7730983c7b90e6197371e5e696133ceb98818c2c2a118948558e1b5f",
-  "romtype": "nightly",
-  "size": 508004087,
-  "url": "https://mirrorbits.lineageos.org/full/hltechn/20230401/lineage-18.1-20230401-nightly-hltechn-signed.zip",
+  "date": "2023-05-01",
+  "datetime": 1682899200,
+  "files": [
+    {
+      "date": "2023-05-01",
+      "datetime": 1682899200,
+      "filename": "lineage-18.1-20230501-nightly-hltechn-signed.zip",
+      "filepath": "/full/hltechn/20230501/lineage-18.1-20230501-nightly-hltechn-signed.zip",
+      "sha1": "480903f5c8252c254e61ffe7043638a7519c905c",
+      "sha256": "af9465b74157e6a5cfc5c93254c8087bf23bdcada95a9354f004a8fcf9c5fed5",
+      "size": 508189406,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/hltechn/20230501/lineage-18.1-20230501-nightly-hltechn-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/hltechn/20230501/boot.img",
+      "sha1": "7a2aa7a0cb54c21529fe5e744680aa76a478f876",
+      "sha256": "999b84b6735663ef4d6e26909b002a0f63bb90976491053b393ae77efc32909f",
+      "size": 6639632,
+      "url": "https://mirrorbits.lineageos.org/full/hltechn/20230501/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/hltechn/20230501/recovery.img",
+      "sha1": "3ac32fd6101f784f9db34614ffb4eb2420de7c55",
+      "sha256": "ee17dba345b8fac0d31f0b4b675b5b6dc5e4d0a456e3f85a403308b9dc768e2a",
+      "size": 11757584,
+      "url": "https://mirrorbits.lineageos.org/full/hltechn/20230501/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
