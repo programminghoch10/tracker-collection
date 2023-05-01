@@ -1,9 +1,35 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-18.1-20230401-nightly-oneplus3-signed.zip",
-  "id": "48075d40f07a8f6f5c96384b76cd5d5d2b0152aea40f3e339e0711479b52aac8",
-  "romtype": "nightly",
-  "size": 729314609,
-  "url": "https://mirrorbits.lineageos.org/full/oneplus3/20230401/lineage-18.1-20230401-nightly-oneplus3-signed.zip",
+  "date": "2023-05-01",
+  "datetime": 1682899200,
+  "files": [
+    {
+      "date": "2023-05-01",
+      "datetime": 1682899200,
+      "filename": "lineage-18.1-20230501-nightly-oneplus3-signed.zip",
+      "filepath": "/full/oneplus3/20230501/lineage-18.1-20230501-nightly-oneplus3-signed.zip",
+      "sha1": "c8bbfe041fe7647da4f5508cb6eb369a1f73a074",
+      "sha256": "9bd516463b028edab08881e823e42c2b83afc37ab0d5a527c9e3bf778130d709",
+      "size": 729685753,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/oneplus3/20230501/lineage-18.1-20230501-nightly-oneplus3-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/oneplus3/20230501/boot.img",
+      "sha1": "e7fc52631f4251313a63e61b1d29700b4e3d0c87",
+      "sha256": "8bc02ac3c3ed53f412ea9c4ee8acdeb111147c92f48e6178ade9c1d1d445b950",
+      "size": 11756840,
+      "url": "https://mirrorbits.lineageos.org/full/oneplus3/20230501/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/oneplus3/20230501/recovery.img",
+      "sha1": "8dc3161822fefdd139c516f16e35497f671fbedf",
+      "sha256": "6061e37dc1da95b64d35cca8fbb21ca0bc906beee805b48b097320dc68cb7868",
+      "size": 19825964,
+      "url": "https://mirrorbits.lineageos.org/full/oneplus3/20230501/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
