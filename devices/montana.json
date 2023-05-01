@@ -1,9 +1,35 @@
 {
-  "datetime": 1680307200,
-  "filename": "lineage-18.1-20230401-nightly-montana-signed.zip",
-  "id": "d6ff1f8d16a98b26b63f028efd94bbf25aa520419c193ccdfd63c1d30d4df114",
-  "romtype": "nightly",
-  "size": 713156932,
-  "url": "https://mirrorbits.lineageos.org/full/montana/20230401/lineage-18.1-20230401-nightly-montana-signed.zip",
+  "date": "2023-05-01",
+  "datetime": 1682899200,
+  "files": [
+    {
+      "date": "2023-05-01",
+      "datetime": 1682899200,
+      "filename": "lineage-18.1-20230501-nightly-montana-signed.zip",
+      "filepath": "/full/montana/20230501/lineage-18.1-20230501-nightly-montana-signed.zip",
+      "sha1": "e8ea819593c17004d4dd556f8f6207a88d193ede",
+      "sha256": "02c66dfce207d17108f80ae6c09779ed66fc6f69074f2287f38ec2ce6a60f4de",
+      "size": 713552007,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/montana/20230501/lineage-18.1-20230501-nightly-montana-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/montana/20230501/boot.img",
+      "sha1": "cc27cf4fa4072ab97922e9502d2b1babdb34a1b6",
+      "sha256": "e8a79ad24460c7bc90eb63d785378bfcd7abd1b0d857cb9e4cf8f99a9de1d70c",
+      "size": 12234752,
+      "url": "https://mirrorbits.lineageos.org/full/montana/20230501/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/montana/20230501/recovery.img",
+      "sha1": "d7587d203b2bba74fdb5ed4a4becce9b7fac172f",
+      "sha256": "d5c8276ace8ed2d6a81d6cfca7d2359afd5e84c29b9026e368497f7cd5aeda3e",
+      "size": 16248832,
+      "url": "https://mirrorbits.lineageos.org/full/montana/20230501/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
