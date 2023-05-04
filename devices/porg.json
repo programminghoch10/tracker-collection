@@ -1,9 +1,35 @@
 {
-  "datetime": 1680566400,
-  "filename": "lineage-18.1-20230404-nightly-porg-signed.zip",
-  "id": "28cc81e19bc840fe410391c0c86e1cd7547a4daebaf9ddde954a52b9bdf9d31a",
-  "romtype": "nightly",
-  "size": 605166603,
-  "url": "https://mirrorbits.lineageos.org/full/porg/20230404/lineage-18.1-20230404-nightly-porg-signed.zip",
+  "date": "2023-05-04",
+  "datetime": 1683158400,
+  "files": [
+    {
+      "date": "2023-05-04",
+      "datetime": 1683158400,
+      "filename": "lineage-18.1-20230504-nightly-porg-signed.zip",
+      "filepath": "/full/porg/20230504/lineage-18.1-20230504-nightly-porg-signed.zip",
+      "sha1": "987f5eaa18e1347a6601b7b44ceab9f701a80228",
+      "sha256": "fa2b1a59e1be6df7058a6dfdd056f6a27207942b8074d757beaaaae8e9ef802a",
+      "size": 605485395,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/porg/20230504/lineage-18.1-20230504-nightly-porg-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/porg/20230504/boot.img",
+      "sha1": "2285ebab20312b2a4637ad8cc9fdef621e30d076",
+      "sha256": "c987cdaa195d5494a3e02a04185141cb51b96cf4b8db81c9e9dd73a047a8f09d",
+      "size": 11671552,
+      "url": "https://mirrorbits.lineageos.org/full/porg/20230504/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/porg/20230504/recovery.img",
+      "sha1": "5a5dcfc38df2c61fd2fad06ac9775d7e2e8346be",
+      "sha256": "dce673e2dbf070f89d531bdd3969566c5d93d42592129ab9f326f7274091ba94",
+      "size": 19834880,
+      "url": "https://mirrorbits.lineageos.org/full/porg/20230504/recovery.img"
+    }
+  ],
+  "type": "nightly",
   "version": "18.1"
 }
