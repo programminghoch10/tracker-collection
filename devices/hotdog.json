@@ -1,25 +1,57 @@
 {
-  "date": "2023-05-02",
-  "datetime": 1682985600,
+  "date": "2023-05-09",
+  "datetime": 1683590400,
   "files": [
     {
-      "date": "2023-05-02",
-      "datetime": 1682985600,
-      "filename": "lineage-20.0-20230502-nightly-hotdog-signed.zip",
-      "filepath": "/full/hotdog/20230502/lineage-20.0-20230502-nightly-hotdog-signed.zip",
-      "sha1": "29abfac61be15b4c554924d2e8a7b1896571d861",
-      "sha256": "97cd18efb808d80e2b03e628e0dcc0c2a3fa279a23d33a3f9e28c9f7d0b88afa",
-      "size": 967628967,
+      "date": "2023-05-09",
+      "datetime": 1683590400,
+      "filename": "lineage-20.0-20230509-nightly-hotdog-signed.zip",
+      "filepath": "/full/hotdog/20230509/lineage-20.0-20230509-nightly-hotdog-signed.zip",
+      "sha1": "57443dcb5cec80567a6de1ba0ef006ddc160d3ce",
+      "sha256": "746f984fd15c3fb793a468f0971ec1214412cbd51ff7cf988fbab7fc28d65841",
+      "size": 969126582,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230502/lineage-20.0-20230502-nightly-hotdog-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230509/lineage-20.0-20230509-nightly-hotdog-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/hotdog/20230502/boot.img",
-      "sha1": "c0ce64a34a3826b905ee5a3e1f71b694174dec4a",
-      "sha256": "fbae2bcdc05932cfdec64c90a1727361ff7d3e97f0ac65fb33ea02b0f8501f7b",
-      "size": 88817664,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230502/boot.img"
+      "filepath": "/full/hotdog/20230509/boot.img",
+      "sha1": "85f8c386ce4f40c1d4de4d475197ae61924fe495",
+      "sha256": "cce7e1bf711d843cfb7f87dc18fd3493cc8ba841d0b383ce350d9befa4ba809e",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230509/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/hotdog/20230509/dtbo.img",
+      "sha1": "2e60b319b03ede55cd8408e723cbe2e13023cb8a",
+      "sha256": "3fa29db8615ce4fc36da8c0a255b351c39e08e6699e67b1453a444b33243d520",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230509/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/hotdog/20230509/recovery.img",
+      "sha1": "518b1ea2bf3eb2202c39bad3189230c60a724234",
+      "sha256": "bdd7c55b4b8eac59582f8bdbc1b55fb44eb221f3da1326703fef235591b3457b",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230509/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/hotdog/20230509/super_empty.img",
+      "sha1": "9902666530c073be5dbee695f7d431aff32fafb8",
+      "sha256": "1677e377fb4a2e961f9feb785884ce855ee580beff1224e00ec83fa4ec1ac267",
+      "size": 4952,
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230509/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/hotdog/20230509/vbmeta.img",
+      "sha1": "34f9c531d722cea325b605d9e2cac3be5115ec71",
+      "sha256": "0bf543603acf7106cb5d7ebc6457f46f68c6e3e5efa981be864fff4311f6615f",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20230509/vbmeta.img"
     }
   ],
   "type": "nightly",
