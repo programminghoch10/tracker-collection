@@ -1,17 +1,33 @@
 {
-  "date": "2023-05-18",
-  "datetime": 1684368000,
+  "date": "2023-05-25",
+  "datetime": 1684972800,
   "files": [
     {
-      "date": "2023-05-18",
-      "datetime": 1684368000,
-      "filename": "lineage-19.1-20230518-nightly-h910-signed.zip",
-      "filepath": "/full/h910/20230518/lineage-19.1-20230518-nightly-h910-signed.zip",
-      "sha1": "14d7f2af564ca25b3d4bea26341385aa05309097",
-      "sha256": "9bd366866db3dcd87e1fb88333a558e64e2bda8d66e771270d45b6eb3fc2a937",
-      "size": 59834368,
+      "date": "2023-05-25",
+      "datetime": 1684972800,
+      "filename": "lineage-19.1-20230525-nightly-h910-signed.zip",
+      "filepath": "/full/h910/20230525/lineage-19.1-20230525-nightly-h910-signed.zip",
+      "sha1": "6fcef1feb06632f16d28183281de2db155216a6b",
+      "sha256": "32706a7b52dc6b017906b0fd2fde36c1da40103aeee9d045f87fbd92af66eddf",
+      "size": 761103188,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/h910/20230518/lineage-19.1-20230518-nightly-h910-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/h910/20230525/lineage-19.1-20230525-nightly-h910-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/h910/20230525/boot.img",
+      "sha1": "5c7c4a28fc56c8e65c7b8e3cda67ff0addada97c",
+      "sha256": "ae1b1a532c00ca6efb4b9388e8c7dbda42917648259384f8c633f942162840a8",
+      "size": 19574784,
+      "url": "https://mirrorbits.lineageos.org/full/h910/20230525/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/h910/20230525/recovery.img",
+      "sha1": "33b3c062ac34fe00f7de55ea5fc125ea872f9dfd",
+      "sha256": "5da32cc7a831cebcc3ea9d83c723cf9bd4077be039e5fda88d2b3a8a2473d80f",
+      "size": 25284608,
+      "url": "https://mirrorbits.lineageos.org/full/h910/20230525/recovery.img"
     }
   ],
   "type": "nightly",
