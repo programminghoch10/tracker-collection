@@ -1,17 +1,49 @@
 {
-  "date": "2023-05-30",
-  "datetime": 1685404800,
+  "date": "2023-06-06",
+  "datetime": 1686009600,
   "files": [
     {
-      "date": "2023-05-30",
-      "datetime": 1685404800,
-      "filename": "lineage-19.1-20230530-nightly-blueline-signed.zip",
-      "filepath": "/full/blueline/20230530/lineage-19.1-20230530-nightly-blueline-signed.zip",
-      "sha1": "1abdd58d5ef75effc4418e3dafbadaaa3921c657",
-      "sha256": "b7d680438887fcde7b4d8447cbce04155e21fda423232faacf5b3c81954e149a",
-      "size": 57753600,
+      "date": "2023-06-06",
+      "datetime": 1686009600,
+      "filename": "lineage-19.1-20230606-nightly-blueline-signed.zip",
+      "filepath": "/full/blueline/20230606/lineage-19.1-20230606-nightly-blueline-signed.zip",
+      "sha1": "f66e55c4f977aec8cfdb781368959dffdec97682",
+      "sha256": "47b4d6215e4c7c1ba6d279dc15bf1b2127008ed591f75ad8e2a8e91d5af6bd68",
+      "size": 921509766,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20230530/lineage-19.1-20230530-nightly-blueline-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230606/lineage-19.1-20230606-nightly-blueline-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/blueline/20230606/boot.img",
+      "sha1": "0adc9d943c313cb912d48cf6e8af56a247564923",
+      "sha256": "b82393b238259e848206455ea59f7151e54feef40b20219f9e3584b8a3a2401f",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230606/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/blueline/20230606/dtbo.img",
+      "sha1": "308eee08d36100e0f6f28677cad2d658d4803bfe",
+      "sha256": "1780a1b570b39981acbe87d8a73d3744320fbe36424c15da1eb616c8be8a0ede",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230606/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/blueline/20230606/super_empty.img",
+      "sha1": "3a7c22ec945d448f8e432fed494344bb7eca2469",
+      "sha256": "dfeeccfa7c48196f73cf73ae28267ded9903b92019a97a80ae6aeb3b4d7293ec",
+      "size": 4720,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230606/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/blueline/20230606/vbmeta.img",
+      "sha1": "a71a7b687d763e0efeff3026bb9d4e7ba87bcdd8",
+      "sha256": "ecf009c35a261ae3794322c5970c17c4d0c2f1ae7fadf208f002080ccbd74027",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20230606/vbmeta.img"
     }
   ],
   "type": "nightly",
