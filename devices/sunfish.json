@@ -1,17 +1,49 @@
 {
-  "date": "2023-06-01",
-  "datetime": 1685577600,
+  "date": "2023-06-08",
+  "datetime": 1686182400,
   "files": [
     {
-      "date": "2023-06-01",
-      "datetime": 1685577600,
-      "filename": "lineage-20.0-20230601-nightly-sunfish-signed.zip",
-      "filepath": "/full/sunfish/20230601/lineage-20.0-20230601-nightly-sunfish-signed.zip",
-      "sha1": "27dd6f67c4f32ea8d3ecbcf50dc2a39423688e00",
-      "sha256": "78e8f3c774383e5b0162df8d2bc0b416527c1cfbbc6a9891e9b512b0bdc20488",
-      "size": 200720384,
+      "date": "2023-06-08",
+      "datetime": 1686182400,
+      "filename": "lineage-20.0-20230608-nightly-sunfish-signed.zip",
+      "filepath": "/full/sunfish/20230608/lineage-20.0-20230608-nightly-sunfish-signed.zip",
+      "sha1": "489045e0ef76f27bd40e833166efaeb7b8124d71",
+      "sha256": "72d86da89b2c2ff0e3d42cdc4514c110a8bc9bba151d303a9f083d2190f46f47",
+      "size": 1040710069,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230601/lineage-20.0-20230601-nightly-sunfish-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230608/lineage-20.0-20230608-nightly-sunfish-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/sunfish/20230608/boot.img",
+      "sha1": "e27acf8aabe60f5757782c05c0180e39449e517f",
+      "sha256": "b3d7791b7318d1724337621248f3cd902c574eb03e212e536b7135313b83324b",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230608/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/sunfish/20230608/dtbo.img",
+      "sha1": "4f7218aaa096599c033c9ec99e0ed129dc7b9555",
+      "sha256": "c718ff199d65789ca993db286ad483fad14e1bdb7adcfa42cd8d7c2d7095eae6",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230608/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/sunfish/20230608/super_empty.img",
+      "sha1": "650537c380d2d16b3ead68eabaf1e20fef773ac9",
+      "sha256": "11fcbda3c1136b37a4181a117ccbbc19b944d83a5b1f2bcb83d04ee88f2b59ae",
+      "size": 4848,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230608/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/sunfish/20230608/vbmeta.img",
+      "sha1": "70ce3f1c0057e941bd83fd11844b76b3fb23cbf3",
+      "sha256": "9ca433fe864fbc8c6d77514b69d0f1a493f51da13b0b067db11c57cc28c90698",
+      "size": 4096,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20230608/vbmeta.img"
     }
   ],
   "type": "nightly",
