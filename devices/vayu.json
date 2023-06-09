@@ -1,25 +1,57 @@
 {
-  "date": "2023-06-02",
-  "datetime": 1685664000,
+  "date": "2023-06-09",
+  "datetime": 1686268800,
   "files": [
     {
-      "date": "2023-06-02",
-      "datetime": 1685664000,
-      "filename": "lineage-19.1-20230602-nightly-vayu-signed.zip",
-      "filepath": "/full/vayu/20230602/lineage-19.1-20230602-nightly-vayu-signed.zip",
-      "sha1": "34de47e2be027babe88d070f4c9f8685767a88cb",
-      "sha256": "3e09eb466ddc1b8bf2f9bf0cf1148269182a2a75ac36982e0c1c392c70889fb0",
-      "size": 1201350043,
+      "date": "2023-06-09",
+      "datetime": 1686268800,
+      "filename": "lineage-19.1-20230609-nightly-vayu-signed.zip",
+      "filepath": "/full/vayu/20230609/lineage-19.1-20230609-nightly-vayu-signed.zip",
+      "sha1": "085f7dfefb50edcaa92029e5cdd44510715b6009",
+      "sha256": "2aad4399fbacdd464bf81cf1c08bb6a7be2a6a698692dfaef509201775278a9e",
+      "size": 1199858519,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20230602/lineage-19.1-20230602-nightly-vayu-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20230609/lineage-19.1-20230609-nightly-vayu-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/vayu/20230602/boot.img",
-      "sha1": "aed92f5c54184d52692940d10ac9b0d6ebe4e77b",
-      "sha256": "6ef060acf10c52972a5599d893440d0c73ef25b25390e83cd663634662a92eff",
-      "size": 19759104,
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20230602/boot.img"
+      "filepath": "/full/vayu/20230609/boot.img",
+      "sha1": "2f09f817ef851d59cb6809f46982fd75d56bbe2a",
+      "sha256": "520661e27839a656b20045e51ea4bfed48ce87335f4170c4b50958c0ec2a7561",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20230609/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/vayu/20230609/dtbo.img",
+      "sha1": "356f2aed1c2ba41b01f9e76eafbf300b672be4b9",
+      "sha256": "4705128341209d8dbd5f7f7e2da85aeaa15025a1e9645d29dfd3438514b6fece",
+      "size": 33554432,
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20230609/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/vayu/20230609/recovery.img",
+      "sha1": "e1fe6e397d4ea6c52a0ef08bc99a6b44d212f03a",
+      "sha256": "2bf55a4687c63daad4d005629ad9f8350f696b618e2fe36f8e6cbad0d9c70415",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20230609/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/vayu/20230609/super_empty.img",
+      "sha1": "acd6dad5c3f0d24221ce2730d50b13ae621e8d14",
+      "sha256": "378c6475a00c34dba6519c1f463d2eae76e4fe69ab9db2f7c91c8db1b5d39537",
+      "size": 4644,
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20230609/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/vayu/20230609/vbmeta.img",
+      "sha1": "d275383e164b61a096cc190fba8bf982e5cdadd5",
+      "sha256": "00d7bfc888b771ce7e1e730a1ddb0ac91a016403efac00dc0a2e68c8b564b1d0",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20230609/vbmeta.img"
     }
   ],
   "type": "nightly",
