@@ -1,17 +1,57 @@
 {
-  "date": "2023-06-04",
-  "datetime": 1685836800,
+  "date": "2023-06-11",
+  "datetime": 1686441600,
   "files": [
     {
-      "date": "2023-06-04",
-      "datetime": 1685836800,
-      "filename": "lineage-20.0-20230604-nightly-hotdogb-signed.zip",
-      "filepath": "/full/hotdogb/20230604/lineage-20.0-20230604-nightly-hotdogb-signed.zip",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
+      "date": "2023-06-11",
+      "datetime": 1686441600,
+      "filename": "lineage-20.0-20230611-nightly-hotdogb-signed.zip",
+      "filepath": "/full/hotdogb/20230611/lineage-20.0-20230611-nightly-hotdogb-signed.zip",
+      "sha1": "b7eeefc9c57fa2134b550cbe2c815f23b885e75e",
+      "sha256": "afab68aaef01ee299b0ceb10183789d9cfa5bdc1a9bae18526c341c91217e2ff",
+      "size": 950528044,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20230604/lineage-20.0-20230604-nightly-hotdogb-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20230611/lineage-20.0-20230611-nightly-hotdogb-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/hotdogb/20230611/boot.img",
+      "sha1": "e45bb32caf001c4bbffbad9efae996b5a5711ee0",
+      "sha256": "76945fd6a77211df008c5840a94135f66b956b31ab39acf2069adce5aa11e6e8",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20230611/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/hotdogb/20230611/dtbo.img",
+      "sha1": "0143f746fa2f197148e6cf70fdecde8c3fb20fd9",
+      "sha256": "25dc6204e3bae1f833882255deaeee4a9e2671112f05dbbe1716517e445c535c",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20230611/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/hotdogb/20230611/recovery.img",
+      "sha1": "8800cf931fc6cd6b768f54f69667545041097ce7",
+      "sha256": "a0da712746ee6374f6023f079fda790205ee718098d9ff100f1ed17847d94ee3",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20230611/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/hotdogb/20230611/super_empty.img",
+      "sha1": "9902666530c073be5dbee695f7d431aff32fafb8",
+      "sha256": "1677e377fb4a2e961f9feb785884ce855ee580beff1224e00ec83fa4ec1ac267",
+      "size": 4952,
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20230611/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/hotdogb/20230611/vbmeta.img",
+      "sha1": "25b178929b4cd5975576d8280226662e3815c8bf",
+      "sha256": "6814d047f064e35d3c4358849541299e280dd613f78715e4bacbd45e2f544954",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20230611/vbmeta.img"
     }
   ],
   "type": "nightly",
