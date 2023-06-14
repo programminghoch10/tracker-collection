@@ -1,17 +1,41 @@
 {
-  "date": "2023-06-07",
-  "datetime": 1686096000,
+  "date": "2023-06-14",
+  "datetime": 1686700800,
   "files": [
     {
-      "date": "2023-06-07",
-      "datetime": 1686096000,
-      "filename": "lineage-20.0-20230607-nightly-troika-signed.zip",
-      "filepath": "/full/troika/20230607/lineage-20.0-20230607-nightly-troika-signed.zip",
-      "sha1": "a8f15732abf46774dd2ed6091c327579e80fe711",
-      "sha256": "15fc2abad01f06210b6b41df70efa68178b31ac71a72694491ee2adf06f6904a",
-      "size": 93257728,
+      "date": "2023-06-14",
+      "datetime": 1686700800,
+      "filename": "lineage-20.0-20230614-nightly-troika-signed.zip",
+      "filepath": "/full/troika/20230614/lineage-20.0-20230614-nightly-troika-signed.zip",
+      "sha1": "b89d59358e98b127703109e1709fc3f99e27d1c6",
+      "sha256": "15ff0a67edae5fa699d19f236316ab7967c1cad385ff462843d22135270ea2bc",
+      "size": 821123496,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/troika/20230607/lineage-20.0-20230607-nightly-troika-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230614/lineage-20.0-20230614-nightly-troika-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/troika/20230614/boot.img",
+      "sha1": "e62c64a9f6eadca0f62c0c93c6046b36314c8d3d",
+      "sha256": "af556f9d417887ebe6ae29a9bb4ab48dae317832a7a8eb3cda0ebfa5603b051a",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230614/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/troika/20230614/dtbo.img",
+      "sha1": "59e4ff93a826a06042895b24020b8f79e61fcbae",
+      "sha256": "8db9fa2e004b25c08cafbccd56fcdc0356081c00b2fd4ab20b1203cb2d0d18f7",
+      "size": 1048576,
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230614/dtbo.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/troika/20230614/vbmeta.img",
+      "sha1": "5d63e37ddf8be3a573dc2b85b4efbdf4f0b4ac33",
+      "sha256": "7316cd3e104d4c46fb353aef53b47ce95210618920462746ec55434e1dc1f8ca",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/troika/20230614/vbmeta.img"
     }
   ],
   "type": "nightly",
