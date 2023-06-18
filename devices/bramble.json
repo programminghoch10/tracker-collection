@@ -1,17 +1,57 @@
 {
-  "date": "2023-06-11",
-  "datetime": 1686441600,
+  "date": "2023-06-18",
+  "datetime": 1687046400,
   "files": [
     {
-      "date": "2023-06-11",
-      "datetime": 1686441600,
-      "filename": "lineage-20.0-20230611-nightly-bramble-signed.zip",
-      "filepath": "/full/bramble/20230611/lineage-20.0-20230611-nightly-bramble-signed.zip",
-      "sha1": "ab0b06075bf6bda140fd29c224819c2131cf0d47",
-      "sha256": "d67691c93d893ceece3f59e3dab871eead797073d3ee321e81fab147aa9c002c",
-      "size": 576520192,
+      "date": "2023-06-18",
+      "datetime": 1687046400,
+      "filename": "lineage-20.0-20230618-nightly-bramble-signed.zip",
+      "filepath": "/full/bramble/20230618/lineage-20.0-20230618-nightly-bramble-signed.zip",
+      "sha1": "284cf7cfa0c93caebffe45ab1437eb804a41523a",
+      "sha256": "4f77adf7c85e4cb4b9c19398f887580a7de2e52dfd246b0a619a1dc8683ac16f",
+      "size": 1120574417,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bramble/20230611/lineage-20.0-20230611-nightly-bramble-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230618/lineage-20.0-20230618-nightly-bramble-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/bramble/20230618/boot.img",
+      "sha1": "442df6da91405aa71fb6970e6471348cd9c26e50",
+      "sha256": "4c156d5c454920f7e3d606bcfe04bf915206af83e843e07b520720ee43109186",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230618/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/bramble/20230618/dtbo.img",
+      "sha1": "dac02a4451b7af6bf3056199b92fb1ce949807d5",
+      "sha256": "c2d4a58e609300a919c9bdbfac26620dea84db99dcae6c2f64fa43da52bafb7c",
+      "size": 16777216,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230618/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/bramble/20230618/super_empty.img",
+      "sha1": "a6768f7133719a2dee9c325651cbd4bbdfbe6e32",
+      "sha256": "6bb18232cb1c0a9e3c8d0a6dcad6f1e74e90a1f98f736fe11d260ceb1befde59",
+      "size": 4976,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230618/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/bramble/20230618/vbmeta.img",
+      "sha1": "245a55f201b2fad4d6e39bfaa91b161fe142354f",
+      "sha256": "52d197d08fd8f1aedb4b6c5a6cfc917f040c34075b70e25315015ec3c9fdfda8",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230618/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/bramble/20230618/vendor_boot.img",
+      "sha1": "323eb00f450de69fb23f1b4998556f0f2871e833",
+      "sha256": "503aed12bec9159c5cbe386a93f23528fff20e3cdeba71cb6dc504154093e92e",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20230618/vendor_boot.img"
     }
   ],
   "type": "nightly",
