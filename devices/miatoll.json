@@ -1,17 +1,57 @@
 {
-  "date": "2023-06-16",
-  "datetime": 1686873600,
+  "date": "2023-06-23",
+  "datetime": 1687478400,
   "files": [
     {
-      "date": "2023-06-16",
-      "datetime": 1686873600,
-      "filename": "lineage-19.1-20230616-nightly-miatoll-signed.zip",
-      "filepath": "/full/miatoll/20230616/lineage-19.1-20230616-nightly-miatoll-signed.zip",
-      "sha1": "69d9d8e72d9708265039479e8385f4670c93525c",
-      "sha256": "eddb3683dda68bc18b12066d97fb9008615eb4991222fa92ebe67f35b648d65d",
-      "size": 404602880,
+      "date": "2023-06-23",
+      "datetime": 1687478400,
+      "filename": "lineage-19.1-20230623-nightly-miatoll-signed.zip",
+      "filepath": "/full/miatoll/20230623/lineage-19.1-20230623-nightly-miatoll-signed.zip",
+      "sha1": "e7a5f758891189862deea7258c7b18f67b91e498",
+      "sha256": "6e1431109b35538f4af02513f7cb512735cc5a49ac7866121301a997c2bdfefa",
+      "size": 1101980803,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20230616/lineage-19.1-20230616-nightly-miatoll-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20230623/lineage-19.1-20230623-nightly-miatoll-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/miatoll/20230623/boot.img",
+      "sha1": "82da0fc7745f5973d8591ce166eee4f03c7bbe3d",
+      "sha256": "46d3b855c0d9d1c6a71f206e6234647ae8b860d34558c948d9118ed782654a21",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20230623/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/miatoll/20230623/dtbo.img",
+      "sha1": "38430ae5fdbddb00be73c768f89a3faced2abb40",
+      "sha256": "73ae5f383c1973df4812f12d22ff4d7976cd0472a948575bec59fe1f9593f01a",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20230623/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/miatoll/20230623/recovery.img",
+      "sha1": "3e9e74c3ba8b26bd10f0227ab043593ad3429243",
+      "sha256": "eb6ad0e3ad118b9bd8046da23799f5de89755b10cdf234800f01afe825193524",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20230623/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/miatoll/20230623/super_empty.img",
+      "sha1": "a533256f03497789145f1841e4517a9a387223fd",
+      "sha256": "660a501b547354b46fb962e610efb71fb5136ee16b3da5513c4d768b6f981d71",
+      "size": 4592,
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20230623/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/miatoll/20230623/vbmeta.img",
+      "sha1": "30e42c58bcd48222f87fe97c292d6d88f12a5e92",
+      "sha256": "1dffc76d2fe5012cdbb6d2ebc2c6a56fec9a222f91cac130616ab441358e35ce",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20230623/vbmeta.img"
     }
   ],
   "type": "nightly",
