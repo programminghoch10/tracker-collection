@@ -1,17 +1,49 @@
 {
-  "date": "2023-06-20",
-  "datetime": 1687219200,
+  "date": "2023-06-27",
+  "datetime": 1687824000,
   "files": [
     {
-      "date": "2023-06-20",
-      "datetime": 1687219200,
-      "filename": "lineage-20.0-20230620-nightly-TP1803-signed.zip",
-      "filepath": "/full/TP1803/20230620/lineage-20.0-20230620-nightly-TP1803-signed.zip",
-      "sha1": "365bda5bcbb071cafe82516c8127406c8e36d1e5",
-      "sha256": "71a8840480c2abecffb066963f341fb4f6756d55a833a1be4fb371d9cb800e66",
-      "size": 966983680,
+      "date": "2023-06-27",
+      "datetime": 1687824000,
+      "filename": "lineage-20.0-20230627-nightly-TP1803-signed.zip",
+      "filepath": "/full/TP1803/20230627/lineage-20.0-20230627-nightly-TP1803-signed.zip",
+      "sha1": "891ac10341ce2e19c4dabad76c1a3c84a600bf56",
+      "sha256": "0268db04555e4ba66cff3fc1c0adc6b9ae736c6e84f709178e28cb67312faa1e",
+      "size": 990930028,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230620/lineage-20.0-20230620-nightly-TP1803-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230627/lineage-20.0-20230627-nightly-TP1803-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/TP1803/20230627/boot.img",
+      "sha1": "853868c9f6b9361a1736ced78835636e85f470c9",
+      "sha256": "fc911cbca79f36696253af6398d7b17cfaf64b3cb6d69ca90fc41dda7ec026a0",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230627/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/TP1803/20230627/dtbo.img",
+      "sha1": "03984226509a0539585ee3f6b89132911731b68e",
+      "sha256": "91326bff99a6c06de32d247c433de6cd3cb1012de904f7a0ad536ac01eb000c6",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230627/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/TP1803/20230627/recovery.img",
+      "sha1": "e81d25cbcc4795ae23cc0da460ddc6977f563198",
+      "sha256": "e2c86c208353a2cdcefa37baa6618fe6aa53046e9e4c39ed585a0156a2e1201c",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230627/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/TP1803/20230627/vbmeta.img",
+      "sha1": "e352d0f3f3c69c18ab0c3297ae17d4c4043ad20d",
+      "sha256": "910b5fe059d83c5de6a5c105929c5c5bb2ec8c0061f90ba053310c22fe623e0a",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230627/vbmeta.img"
     }
   ],
   "type": "nightly",
