@@ -1,25 +1,57 @@
 {
-  "date": "2023-06-22",
-  "datetime": 1687392000,
+  "date": "2023-06-29",
+  "datetime": 1687996800,
   "files": [
     {
-      "date": "2023-06-22",
-      "datetime": 1687392000,
-      "filename": "lineage-20.0-20230622-nightly-martini-signed.zip",
-      "filepath": "/full/martini/20230622/lineage-20.0-20230622-nightly-martini-signed.zip",
-      "sha1": "b9b2aa0f8feb9513f3875544d65f5502fc74b1ac",
-      "sha256": "adbaf909eb88995212525dbc1e7e157737fd669f6174da87c9c1fb367d1895bd",
-      "size": 1431022045,
+      "date": "2023-06-29",
+      "datetime": 1687996800,
+      "filename": "lineage-20.0-20230629-nightly-martini-signed.zip",
+      "filepath": "/full/martini/20230629/lineage-20.0-20230629-nightly-martini-signed.zip",
+      "sha1": "7fe950741a1967efc96ce6ea7d2debf1a5a59a3e",
+      "sha256": "ff20a3ce08cf27f61ce67e9d8c236a9cf40b67e616b69e12f21a962af054ecd6",
+      "size": 1431000826,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/martini/20230622/lineage-20.0-20230622-nightly-martini-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20230629/lineage-20.0-20230629-nightly-martini-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/martini/20230622/boot.img",
-      "sha1": "05ab8a4ba894494757fec68781a6eeb89e389354",
-      "sha256": "95f6c12581efeff97a0e558c3f1978633e5325048d70238e720b0e2fd79fc2ea",
-      "size": 180174848,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20230622/boot.img"
+      "filepath": "/full/martini/20230629/boot.img",
+      "sha1": "653cf6db02ae2982753b49973b01b59af9d37b7c",
+      "sha256": "b92e75791ab981ff5aa213c94c9704cbf8579d4b42e48be95bf9899fdd270da2",
+      "size": 201326592,
+      "url": "https://mirrorbits.lineageos.org/full/martini/20230629/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/martini/20230629/dtbo.img",
+      "sha1": "3b80b862b4dcb9039e7821c73696499f2934beea",
+      "sha256": "f746c24e2828b67c3ec54b5d27c3dbfff9c01968feea5d0e67012eb5c21a1628",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/martini/20230629/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/martini/20230629/super_empty.img",
+      "sha1": "4e4f34fdf16618b2968165d8cb44b1f9167da109",
+      "sha256": "c91751e71f539898cbf1f204d91c4be966e568aecebddf07fd276793237c5ad2",
+      "size": 5184,
+      "url": "https://mirrorbits.lineageos.org/full/martini/20230629/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/martini/20230629/vbmeta.img",
+      "sha1": "4d6728de21244848ea46ecab693f1fddad50d603",
+      "sha256": "d2512d1cbcf037ebe0677d9ceb55f330b08e513a5512d7185ab999d709313b83",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/martini/20230629/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/martini/20230629/vendor_boot.img",
+      "sha1": "ada4a8b326dc5345b53a0bbaf8dd7ab7fc648672",
+      "sha256": "e543170a49cfe4c1d921f2ba8b566d1df1c24f0363993807e7d9dbe755f41cba",
+      "size": 201326592,
+      "url": "https://mirrorbits.lineageos.org/full/martini/20230629/vendor_boot.img"
     }
   ],
   "type": "nightly",
