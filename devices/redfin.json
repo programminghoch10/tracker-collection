@@ -1,17 +1,57 @@
 {
-  "date": "2023-07-05",
-  "datetime": 1688515200,
+  "date": "2023-07-12",
+  "datetime": 1689120000,
   "files": [
     {
-      "date": "2023-07-05",
-      "datetime": 1688515200,
-      "filename": "lineage-20.0-20230705-nightly-redfin-signed.zip",
-      "filepath": "/full/redfin/20230705/lineage-20.0-20230705-nightly-redfin-signed.zip",
-      "sha1": "a75ff6cba091b4f8f5e940e7ef3ab018d1835f4d",
-      "sha256": "5632c4f2a951548a59787091add6068e26b46a3df88a49f55333d59745a31175",
-      "size": 1036402688,
+      "date": "2023-07-12",
+      "datetime": 1689120000,
+      "filename": "lineage-20.0-20230712-nightly-redfin-signed.zip",
+      "filepath": "/full/redfin/20230712/lineage-20.0-20230712-nightly-redfin-signed.zip",
+      "sha1": "492bfa86a713a42108fd1793d03c5f76ba6b3b3c",
+      "sha256": "4da651348fa2917af1015908518cfa0c695b76c331d2964e20f6b0b43ba02a8c",
+      "size": 1123095064,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20230705/lineage-20.0-20230705-nightly-redfin-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20230712/lineage-20.0-20230712-nightly-redfin-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/redfin/20230712/boot.img",
+      "sha1": "07ca5495b67fc4755ad007bff0670a94c75b006a",
+      "sha256": "770293549e210efee9ea63da1468b989c6407fbdd7c1c670e609d7dc16fdffeb",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20230712/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/redfin/20230712/dtbo.img",
+      "sha1": "43b722089a062468a2379e5167a2e24da14ad5ab",
+      "sha256": "47c900dd3487a43773382b5706a47794a5230617b7945ade41bae442ee953450",
+      "size": 16777216,
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20230712/dtbo.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/redfin/20230712/super_empty.img",
+      "sha1": "a6768f7133719a2dee9c325651cbd4bbdfbe6e32",
+      "sha256": "6bb18232cb1c0a9e3c8d0a6dcad6f1e74e90a1f98f736fe11d260ceb1befde59",
+      "size": 4976,
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20230712/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/redfin/20230712/vbmeta.img",
+      "sha1": "0b2da94497ae57f434a9d4467dd8b02ab8545795",
+      "sha256": "25688fb175d30636b85c5ff1b4aff8d8c69991ce433bb14ee7da8db132798408",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20230712/vbmeta.img"
+    },
+    {
+      "filename": "vendor_boot.img",
+      "filepath": "/full/redfin/20230712/vendor_boot.img",
+      "sha1": "5221a66d3330fd2688b4f2c6c110c2bf4f3fb646",
+      "sha256": "67904929ee5110a6fbfda7548c35dc3a2f7286e2ba028249bab50f7c5fa25b32",
+      "size": 100663296,
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20230712/vendor_boot.img"
     }
   ],
   "type": "nightly",
