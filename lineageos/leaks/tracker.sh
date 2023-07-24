@@ -60,7 +60,7 @@ getCommitTitle() {
 IFS=$'\n'
 for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?&sort=pushed&per_page=$GITHUB_CHECK_REPOSITORIES_AMOUNT" | jq -c '.[]'); do
     reponame=$(jq -r '.name' <<< "$repojson")
-    reponametag=$(sed 's/[^[:alnum:]]/_/g' <<< "$reponame")
+    reponametag=$(convertToTelegramTag <<< "$reponame")
     repofullname=$(jq -r '.full_name' <<< "$repojson")
     repofullname_sanitized="${repofullname//\//_}"
     saved_repo_path="$DATADIR"/"$repofullname_sanitized"

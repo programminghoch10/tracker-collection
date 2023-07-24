@@ -88,7 +88,8 @@ sendImageMessage() {
 GitHubApiRequest() {
     local URL="$1"
     local CURL_ARGS=()
-    [ -n "$GITHUB_TOKEN" ] && CURL_ARGS+=("-H" "Authorization: Bearer $GITHUB_TOKEN")
+    CURL_ARGS+=(-H 'Accept: application/vnd.github+json')
+    [ -n "$GITHUB_TOKEN" ] && CURL_ARGS+=(-H "Authorization: Bearer $GITHUB_TOKEN")
     curl -s -f "${CURL_ARGS[@]}" "$URL"
     sleep $GITHUB_TIMEOUT
 }
@@ -101,4 +102,8 @@ envsubstadvanced() {
 
 stripEmptyLines() {
     sed -e '/^$/ d'
+}
+
+convertToTelegramTag() {
+    sed 's/[^[:alnum:]]/_/g' 
 }
