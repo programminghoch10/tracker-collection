@@ -9,6 +9,8 @@ Click on the tracker name to get more information.
 * [LineageOS Devices Tracker](lineageos/devices/)
 * [Phone Release Radar](gsmarena/release/)
 * [LineageLeaks](lineageos/leaks/)
+* [GitHub Releases Tracker](github/releases)
+* [ReVanced Updates Tracker](github/releases/README-revanced.md)
 
 ## Tracker Status
 [![GitHub DMCA Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-dmca.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-dmca.yml)  
@@ -16,6 +18,7 @@ Click on the tracker name to get more information.
 [![LineageOS Devices Tracker Nightly](https://github.com/programminghoch10/tracker-collection/actions/workflows/lineageos-devices-fullcheck.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/lineageos-devices-fullcheck.yml)  
 [![GSMArena Releases Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/gsmarena-release.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/gsmarena-release.yml)  
 [![LineageOS Leaks Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/lineageos-leaks.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/lineageos-leaks.yml)  
+[![GitHub Releases Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-releases.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-releases.yml)  
 
 ## Rules & Guidelines
 
