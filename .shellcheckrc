@@ -1,0 +1,11 @@
+
+shell=bash
+
+# enable additional checks
+enable=add-default-case
+enable=avoid-nullary-conditions
+enable=check-set-e-suppressed
+enable=check-unassigned-uppercase
+enable=deprecate-which
+
+disable=SC2034 # disable unused variable warning

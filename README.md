@@ -50,6 +50,8 @@ must also adhere to their timeouts
 _(or if not specified at least use sane intervals)_
 to not annoy the other servers.
 
+[![ShellCheck](https://github.com/programminghoch10/tracker-collection/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/shellcheck.yml)  
+
 All trackers must be written purely in BASH
 with the least amount of additional software
 as possible.  
