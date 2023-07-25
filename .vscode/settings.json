@@ -1,3 +1,18 @@
 {
-    "html.format.enable": false
+  // editor and files config
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "off",
+  "editor.detectIndentation": false,
+  "editor.trimAutoWhitespace": true,
+  "editor.autoIndent": "full",
+  "editor.renderWhitespace": "trailing",
+  "editor.wrappingIndent": "same",
+  "editor.formatOnSaveMode": "file",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": false,
+  // html
+  "html.format.enable": false,
 }
