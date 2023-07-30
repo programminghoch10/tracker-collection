@@ -39,7 +39,7 @@ sendMessage() {
     echo
 }
 
-git remote | ! grep -q dmca && git remote add dmca "$GITHUBDMCAREPO"
+! git remote | grep -q dmca && git remote add dmca "$GITHUBDMCAREPO"
 git fetch dmca $GITHUBDMCABRANCH
 LATEST_UPSTREAM=$(git log -1 --pretty="%H" dmca/$GITHUBDMCABRANCH)
 LATEST_LOCAL=$(git log -1 --pretty="%H" origin/$LOCALDMCABRANCH)

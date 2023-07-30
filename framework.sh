@@ -41,7 +41,7 @@ function cleanup() {
 trap cleanup EXIT
 
 # prepare DATABRANCH in DATADIR for saving data
-git branch | ! grep -q "$DATABRANCH" && git fetch origin "$DATABRANCH":"$DATABRANCH"
+! git branch | grep -q "$DATABRANCH" && git fetch origin "$DATABRANCH":"$DATABRANCH"
 [ -d "$DATADIR" ] && rm -rf "$DATADIR"
 mkdir "$DATADIR"
 git clone "$GIT_ROOT" "$DATADIR"

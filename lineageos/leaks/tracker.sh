@@ -106,7 +106,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         echo "$change" > "$saved_repo_path"/last_change
 
         printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
-	    curl --silent --head "$change_url" | ! grep -q '404 Not Found' && continue
+	    ! curl --silent --head "$change_url" | grep -q '404 Not Found' && continue
 
         commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | sort -t'/' -k5 -g | cut -f1 | tail -n 1)"
         commitpatchnumber="$(grep -i -e "^$commit" <<< "$changes" | cut -f2 | cut -d'/' -f5)"
@@ -147,7 +147,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         echo "    current patch is $commitpatchnumber"
 
         printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
-	    curl --silent --head "$change_url" | ! grep -q '404 Not Found' && {
+	    ! curl --silent --head "$change_url" | grep -q '404 Not Found' && {
             echo "    change is now public"
             printf -v gerrit_change_url "$REMOTE_GERRIT_CHANGE_LINK_URL" "$change"
             
