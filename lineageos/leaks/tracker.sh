@@ -15,7 +15,7 @@ REMOTE_REPO_COMMIT_URL="$REMOTE_REPO_URL/commit/%s"
 
 DATADIR="trackdata"
 DATABRANCH="trackdata-lineage-leaks"
-WORKDIR=$(dirname $(readlink -f "$0"))
+WORKDIR=$(dirname "$(readlink -f "$0")")
 
 CHAT_ID="-1001765152232"
 
@@ -25,6 +25,7 @@ cd "$WORKDIR"
 source ../../framework.sh
 
 saveTrackDataFiles() {
+    # shellcheck disable=SC2155
     local PREVWD="$(pwd)"
     local COMMITMESSAGE="$1"
     shift
@@ -43,7 +44,7 @@ filterNewChanges() {
     local old_change="$1"
     [ -z "$old_change" ] && old_change=0
     while read -r change; do
-        [ $change -gt $old_change ] && echo "$change"
+        [ "$change" -gt "$old_change" ] && echo "$change"
     done
     return 0
 }
@@ -105,7 +106,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         echo "$change" > "$saved_repo_path"/last_change
 
         printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
-	    [ -z "$(curl --silent --head "$change_url" | grep '404 Not Found')" ] && continue
+	    curl --silent --head "$change_url" | ! grep -q '404 Not Found' && continue
 
         commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | sort -t'/' -k5 -g | cut -f1 | tail -n 1)"
         commitpatchnumber="$(grep -i -e "^$commit" <<< "$changes" | cut -f2 | cut -d'/' -f5)"
@@ -115,7 +116,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
 
         printf -v commit_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$commit"
         printf -v commit_metadata_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$metacommit"
-        echo "  Found private change $change: "$commit_url" $changetitle"
+        echo "  Found private change $change: $commit_url $changetitle"
 
         MESSAGE="$(envsubstadvanced < message.html)"
         KEYBOARD="$(envsubstadvanced < message-keyboard.json)"
@@ -132,9 +133,9 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         grep -q -E "^[0-9]+$" <<< "$change" || continue
         echo "  Checking $change"
 
-        [ -f "$saved_repo_path/$change/message_public" ] && continue
+        [ -f "$saved_repo_path"/"$change"/message_public ] && continue
         
-        lastpatch=$(cat "$saved_repo_path"/$change/patch)
+        lastpatch=$(cat "$saved_repo_path"/"$change"/patch)
         echo "    saved patch is $lastpatch"
         
         commit="$(grep -i "/${change}/" <<< "$changes" | grep -v -e '/meta$' | sort -t'/' -k5 -g | cut -f1 | tail -n 1)"
@@ -146,7 +147,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         echo "    current patch is $commitpatchnumber"
 
         printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
-	    [ -z "$(curl --silent --head "$change_url" | grep '404 Not Found')" ] && {
+	    curl --silent --head "$change_url" | ! grep -q '404 Not Found' && {
             echo "    change is now public"
             printf -v gerrit_change_url "$REMOTE_GERRIT_CHANGE_LINK_URL" "$change"
             
@@ -166,7 +167,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         MESSAGE="$(envsubstadvanced < message_update.html)"
         KEYBOARD="$(envsubstadvanced < message-keyboard.json)"
         
-        sendMessage "$MESSAGE" "$KEYBOARD" > "$saved_repo_path"/"$change"/message_update_$commitpatchnumber
+        sendMessage "$MESSAGE" "$KEYBOARD" > "$saved_repo_path"/"$change"/"message_update_$commitpatchnumber"
         echo "$commitpatchnumber" > "$saved_repo_path"/"$change"/patch
         
         saveTrackDataFiles "Process change $change (patchset update)" "$saved_repo_path"/"$change"

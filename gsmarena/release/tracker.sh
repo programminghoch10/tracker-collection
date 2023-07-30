@@ -14,7 +14,7 @@ CHAT_ID="-1001763351429"
 
 DATADIR="trackdata"
 DATABRANCH="trackdata-gsm-release"
-WORKDIR=$(dirname $(readlink -f "$0"))
+WORKDIR=$(dirname "$(readlink -f "$0")")
 
 GSMARENA_TIMEOUT=5
 
@@ -22,7 +22,7 @@ cd "$WORKDIR"
 source ../../framework.sh
 
 for cmd in curl pup envsubst; do
-    [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
+    [ -z "$(command -v "$cmd")" ] && echo "Missing command $cmd" && exit 1
 done
 
 saveTrackDataFile() {
@@ -38,6 +38,7 @@ saveTrackDataFile() {
 
 [ ! -d "$DATADIR/latest" ] && mkdir "$DATADIR/latest"
 
+# shellcheck disable=SC2154
 processNewDevice() {
     devicelink="$1"
     

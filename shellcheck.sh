@@ -6,7 +6,8 @@ shellcheck --version
 SHELLCHECK_ARGS=()
 SHELLCHECK_ARGS+=(--wiki-link-count=256)
 
-FILES=( $(find . -type f -name '*.sh') )
+declare -a FILES
+mapfile -t FILES < <(find . -type f -name '*.sh')
 
 shellcheck \
     "${SHELLCHECK_ARGS[@]}" \

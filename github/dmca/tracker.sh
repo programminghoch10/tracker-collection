@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC2140
 git config core.pager cat
 
 CHAT_ID="-1001732693737"
@@ -25,7 +26,7 @@ processCommit() {
     #git log "$COMMIT~1".."$COMMIT"
     FILE=$(git diff --diff-filter=A --name-only "$COMMIT~1".."$COMMIT" | head -n 1)
     LINK="$GITHUBDMCAREPO/blob/master/$FILE"
-    MSG="<a href=\"$LINK\">$(basename $FILE)</a>"
+    MSG="<a href=\"$LINK\">$(basename "$FILE")</a>"
     sendMessage "$MSG"
 }
 
@@ -33,12 +34,12 @@ sendMessage() {
     MSG="$1"
     echo "Sending message:"
     echo "$MSG"
-    curl -s --data "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" 'https://api.telegram.org/bot'$BOT_TOKEN'/sendMessage'
+    curl -s --data "text=$MSG" --data "chat_id=$CHAT_ID" --data "parse_mode=HTML" 'https://api.telegram.org/bot'"$BOT_TOKEN"'/sendMessage'
     echo
     echo
 }
 
-[ -z $(git remote | grep dmca) ] && git remote add dmca "$GITHUBDMCAREPO"
+git remote | ! grep -q dmca && git remote add dmca "$GITHUBDMCAREPO"
 git fetch dmca $GITHUBDMCABRANCH
 LATEST_UPSTREAM=$(git log -1 --pretty="%H" dmca/$GITHUBDMCABRANCH)
 LATEST_LOCAL=$(git log -1 --pretty="%H" origin/$LOCALDMCABRANCH)

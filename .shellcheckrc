@@ -8,4 +8,25 @@ enable=check-set-e-suppressed
 enable=check-unassigned-uppercase
 enable=deprecate-which
 
-disable=SC2034 # disable unused variable warning
+# unused variable warning
+#  when extracting information we usually extract more information than required
+disable=SC2034
+
+# cd fail
+#  this is usually covered by set -e
+disable=SC2164
+
+# dont follow source files info
+#  we check all shell scripts anyways
+disable=SC1091
+
+# unnecessary arithmetic variables style
+#  i dont care whether it says $(($TODAY)) or $((TODAY))
+disable=SC2004
+
+# variables in printf string
+#  we use variables as constants for defining the pattern at the beginning of the file
+disable=SC2059
+
+# redundant sed invocation
+disable=SC2001

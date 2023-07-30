@@ -15,12 +15,12 @@ BUILDCONFIGGENERATORFILE="$(basename $LINEAGEOS_BUILDCONFIG_GENERATOR)"
 
 CHAT_ID="-1001161392252"
 
-WORKDIR=$(dirname $(readlink -f "$0"))
+WORKDIR=$(dirname "$(readlink -f "$0")")
 cd "$WORKDIR"
 source ../../framework.sh
 
 for cmd in git curl jq numfmt sed cut $LINEAGEOS_BUILDCONFIG_PYTHON; do
-    [ -z "$(command -v $cmd)" ] && echo "Missing command $cmd" && exit 1
+    [ -z "$(command -v "$cmd")" ] && echo "Missing command $cmd" && exit 1
 done
 
 # full - check all devices
@@ -45,7 +45,7 @@ saveTrackDataFile "$BUILDTARGETSFILE" "Update build targets"
 curl -s "$LINEAGEOS_DEVICES" | jq '.' > "$DATADIR"/"$DEVICESFILE"
 saveTrackDataFile "$DEVICESFILE" "Update devices"
 
-BUILDTARGETSLIST=$(cat "$DATADIR"/"$BUILDTARGETSFILE" | cut -d' ' -f 1)
+BUILDTARGETSLIST=$(cut -d' ' -f 1 < "$DATADIR"/"$BUILDTARGETSFILE")
 
 processDevice() {
     DEVICE="$1"
@@ -54,7 +54,7 @@ processDevice() {
     [ ! -d "$DATADIR"/devices ] && mkdir "$DATADIR"/devices
     [ ! -f "$DATADIR"/devices/"$DEVICE".json ] && echo "{\"datetime\": 0}" > "$DATADIR"/devices/"$DEVICE".json
     [ -z "$FORCE" ] && {
-        LASTBUILDDATE=$(cat "$DATADIR"/devices/"$DEVICE".json | jq -r '."datetime"')
+        LASTBUILDDATE=$(jq -r '."datetime"' < "$DATADIR"/devices/"$DEVICE".json)
         TODAY=$(date -u +%s)
         LASTWEEK=$(($TODAY - (60 * 60 * 24 * 1) ))
         [ "$LASTBUILDDATE" -gt "$LASTWEEK" ] && echo "Already checked $DEVICE today" && return
@@ -65,8 +65,8 @@ processDevice() {
     [ -z "$LATEST" ] && echo "Failed to fetch latest builds for $DEVICE" && return
     [ "$LATEST" = "null" ] && echo "No builds for $DEVICE found!" && return
     LATESTTIME=$(echo "$LATEST" | jq '."datetime"')
-    SAVEDTIME=$(cat "$DATADIR"/devices/"$DEVICE".json | jq '."datetime"')
-    [ $LATESTTIME -le $SAVEDTIME ] && echo "No new update for $DEVICE found!" && return
+    SAVEDTIME=$(jq '."datetime"' < "$DATADIR"/devices/"$DEVICE".json)
+    [ "$LATESTTIME" -le "$SAVEDTIME" ] && echo "No new update for $DEVICE found!" && return
     echo "New update for $DEVICE found!"
     echo "$LATEST" > "$DATADIR"/devices/"$DEVICE".json
     sendDeviceUpdateMessage "$DEVICE"
@@ -81,11 +81,11 @@ sendDeviceUpdateMessage() {
     DOWNLOADFILENAME=$(jq -r '."filename"' <<< "$ZIPFILE")
     DOWNLOADURL=$(jq -r '."url"' <<< "$ZIPFILE")
     DOWNLOADSHA=$(jq -r '."sha256"' <<< "$ZIPFILE")
-    DEVICEOEM=$(jq -r '.[] | select(."model"=="'$DEVICECODENAME'") | .oem' "$DATADIR"/"$DEVICESFILE")
-    DEVICENAME=$(jq -r '.[] | select(."model"=="'$DEVICECODENAME'") | .name' "$DATADIR"/"$DEVICESFILE")
+    DEVICEOEM=$(jq -r '.[] | select(."model"=="'"$DEVICECODENAME"'") | .oem' "$DATADIR"/"$DEVICESFILE")
+    DEVICENAME=$(jq -r '.[] | select(."model"=="'"$DEVICECODENAME"'") | .name' "$DATADIR"/"$DEVICESFILE")
     ROMTYPE=$(jq -r '."type"' <<< "$ZIPFILE")
     SIZE=$(jq -r '."size"' <<< "$ZIPFILE" | numfmt --to=si --suffix=B)
-    DATE=$(date -u -d @$(jq -r '."datetime"' <<< "$ZIPFILE") +%Y/%m/%d)
+    DATE=$(date -u -d @"$(jq -r '."datetime"' <<< "$ZIPFILE")" +%Y/%m/%d)
     printf -v WIKIURL "$LINEAGEOS_WIKI_URL" "$DEVICECODENAME"
 
     # if a device name starts with the manufacturer we omit it

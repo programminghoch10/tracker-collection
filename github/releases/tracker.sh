@@ -8,7 +8,7 @@ DATADIR="trackdata"
 DATABRANCH="trackdata-github-releases"
 CHAT_ID="--placeholder--"
 
-WORKDIR=$(dirname $(readlink -f "$0"))
+WORKDIR=$(dirname "$(readlink -f "$0")")
 cd "$WORKDIR"
 source ../../framework.sh
 
@@ -40,10 +40,13 @@ processRepo() {
     [ -z "$reponame" ] && echo "missing reponame" && return 1
     chatid="$(getCSV 2 <<< "$config")"
     [ -z "$chatid" ] && echo "missing chatid" && return 1
+    # shellcheck disable=SC2154
     [ -f "$GIT_ROOT"/channel.txt ] && chatid=$(cat "$GIT_ROOT"/channel.txt)
-    local includeprereleases="$(getCSV 3 <<< "$config")"
+    local includeprereleases
+    includeprereleases="$(getCSV 3 <<< "$config")"
     ! isBooleanValue "$includeprereleases" && echo "invalid input for includeprereleases" && return 1
-    local includechangelog="$(getCSV 4 <<< "$config")"
+    local includechangelog
+    includechangelog="$(getCSV 4 <<< "$config")"
     ! isBooleanValue "$includechangelog" && echo "invalid input for includechangelog" && return 1
     
     echo "Processing $owner/$reponame"
@@ -57,7 +60,8 @@ processRepo() {
     local repodatadir="$DATADIR"/"$owner/$reponame"
     [ ! -d "$repodatadir" ] && mkdir -p "$repodatadir"
     [ ! -f "$repodatadir"/latest ] && touch "$repodatadir"/latest
-    local latest_release_tag_saved=$(cat "$repodatadir"/latest)
+    local latest_release_tag_saved
+    latest_release_tag_saved=$(cat "$repodatadir"/latest)
     echo "saved = $latest_release_tag_saved"
     echo "latest = $latest_release_tag"
     [ "$latest_release_tag_saved" = "$latest_release_tag" ] && {
