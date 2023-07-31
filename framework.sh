@@ -92,7 +92,7 @@ GitHubApiRequest() {
     local CURL_ARGS=()
     CURL_ARGS+=(-H 'Accept: application/vnd.github+json')
     [ -n "$GITHUB_TOKEN" ] && CURL_ARGS+=(-H "Authorization: Bearer $GITHUB_TOKEN")
-    curl -s -f "${CURL_ARGS[@]}" "$URL"
+    curl -s -f "${CURL_ARGS[@]}" "$URL" || return
     sleep $GITHUB_TIMEOUT
 }
 

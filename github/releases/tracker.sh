@@ -53,8 +53,10 @@ processRepo() {
 
     latest_release_url="$(printf "$GITHUB_LATEST_RELEASE_URL" "$owner" "$reponame")"
     latest_release="$(GitHubApiRequest "$latest_release_url")"
+    [ -z "$latest_release" ] && echo "empty response from GitHub API!" && return 1
     echo "$latest_release"
-    latest_release_tag="$(jq -r .tag_name <<< "$latest_release")"
+    latest_release_tag="$(jq -r -e .tag_name <<< "$latest_release")"
+    [ -z "$latest_release_tag" ] && echo "empty latest release tag!" && return 1
     echo "$latest_release_tag"
 
     local repodatadir="$DATADIR"/"$owner/$reponame"
