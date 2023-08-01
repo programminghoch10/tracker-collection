@@ -90,9 +90,12 @@ sendImageMessage() {
 GitHubApiRequest() {
     local URL="$1"
     local CURL_ARGS=()
+    CURL_ARGS+=(--silent)
+    CURL_ARGS+=(--fail)
+    CURL_ARGS+=(--location)
     CURL_ARGS+=(-H 'Accept: application/vnd.github+json')
     [ -n "$GITHUB_TOKEN" ] && CURL_ARGS+=(-H "Authorization: Bearer $GITHUB_TOKEN")
-    curl -s -f "${CURL_ARGS[@]}" "$URL" || return
+    curl "${CURL_ARGS[@]}" "$URL" || return
     sleep $GITHUB_TIMEOUT
 }
 
