@@ -1,17 +1,49 @@
 {
-  "date": "2023-07-25",
-  "datetime": 1690243200,
+  "date": "2023-08-01",
+  "datetime": 1690848000,
   "files": [
     {
-      "date": "2023-07-25",
-      "datetime": 1690243200,
-      "filename": "lineage-20.0-20230725-nightly-gtowifi-signed.zip",
-      "filepath": "/full/gtowifi/20230725/lineage-20.0-20230725-nightly-gtowifi-signed.zip",
-      "sha1": "6f0163bf84cc62cec063e77ce3dae446889881df",
-      "sha256": "dc31598ea78e63031e4ebe43a836165147ddb136b3533f7cfa589ea5165a8c71",
-      "size": 104300544,
+      "date": "2023-08-01",
+      "datetime": 1690848000,
+      "filename": "lineage-20.0-20230801-nightly-gtowifi-signed.zip",
+      "filepath": "/full/gtowifi/20230801/lineage-20.0-20230801-nightly-gtowifi-signed.zip",
+      "sha1": "0abe7cac2887e1518502db9cc5ad8aa27d4bc48e",
+      "sha256": "bf2b2d30d04f1cc39ae189c0e4cb0a30311ba2ad4d51a8b1665040952e8d94bb",
+      "size": 857652229,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20230725/lineage-20.0-20230725-nightly-gtowifi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20230801/lineage-20.0-20230801-nightly-gtowifi-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/gtowifi/20230801/boot.img",
+      "sha1": "02e64bbb6bb91fe8080dd8c26ed6201185f4efa2",
+      "sha256": "5ef6aa11cbc93affc9f6a8db9ac691b6dbf4c883b6a2ae55a33ac4a2fa1d760c",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20230801/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/gtowifi/20230801/dtbo.img",
+      "sha1": "d7f4c286b53a972394c66060bb33d71f891d32b4",
+      "sha256": "b4ee26bf0522cc1659c7bac5528bf2cdf81ec49efe15797e898a0d410698b765",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20230801/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/gtowifi/20230801/recovery.img",
+      "sha1": "1db0763c86f892c533775a7d0afa642cb5fc94ac",
+      "sha256": "c4cdcf3fddd1571c116e8dee226119ffad31f0ccce82fde1e4ca626bbce679e8",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20230801/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/gtowifi/20230801/vbmeta.img",
+      "sha1": "dfa06df2b653c0c304ec936d00a37e99247c4680",
+      "sha256": "5f49722fe0aef48f922bc6a651b06a4af93036ffa292a697190a6a8dd9e1113b",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20230801/vbmeta.img"
     }
   ],
   "type": "nightly",
