@@ -1,33 +1,49 @@
 {
-  "date": "2023-07-25",
-  "datetime": 1690243200,
+  "date": "2023-08-01",
+  "datetime": 1690848000,
   "files": [
     {
-      "date": "2023-07-25",
-      "datetime": 1690243200,
-      "filename": "lineage-20.0-20230725-nightly-TP1803-signed.zip",
-      "filepath": "/full/TP1803/20230725/lineage-20.0-20230725-nightly-TP1803-signed.zip",
-      "sha1": "8ad24381d37686b0343c24bc549ac8f69f8c063c",
-      "sha256": "a54c8b729656db31ec575f655e5db969ada72a7fa8cd8d87eb60ca75d53f349b",
-      "size": 991930413,
+      "date": "2023-08-01",
+      "datetime": 1690848000,
+      "filename": "lineage-20.0-20230801-nightly-TP1803-signed.zip",
+      "filepath": "/full/TP1803/20230801/lineage-20.0-20230801-nightly-TP1803-signed.zip",
+      "sha1": "89b3cb9b2d43008a579010243f49df5a84c8af4a",
+      "sha256": "d50724c96b09ef68df654b2b7b92bbc3aa9731f06299d3a5b051bd3ba712cc75",
+      "size": 991957110,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230725/lineage-20.0-20230725-nightly-TP1803-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230801/lineage-20.0-20230801-nightly-TP1803-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/TP1803/20230725/boot.img",
-      "sha1": "90355fb4f32e01f2cfbfd808c8ba1aef0e0aa67d",
-      "sha256": "4bc45546c16a2651e6fd2bb8d0515de721c8cf56879657b6f38f1783e6f99dfd",
+      "filepath": "/full/TP1803/20230801/boot.img",
+      "sha1": "2f3f7c7d1f8476adcd6473e3b4fbf23d90e9ddbf",
+      "sha256": "a8af8bf9b2ce9d4327d55a7b0d6c611d7464f13aa5f2050b4ec516571f246b63",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230725/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230801/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/TP1803/20230801/dtbo.img",
+      "sha1": "658b84772f3ea516bcf89d9e1738acafbb8cef97",
+      "sha256": "6e7fde05eae9beee56ccb62fc7eb1247d79a67e6fc6d5315daf4f40cd39f3500",
+      "size": 25165824,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230801/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/TP1803/20230725/recovery.img",
-      "sha1": "8f412112c761c6dc89c10749a63d4438743a1e72",
-      "sha256": "7a96870550d109455d6056318360f458a1a22b8522cbda14678734b45cf2a981",
-      "size": 66650112,
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230725/recovery.img"
+      "filepath": "/full/TP1803/20230801/recovery.img",
+      "sha1": "13869d6f8d5d33abc96db8d8f640a1657873f85b",
+      "sha256": "40bc4e1b07b1c9d7ad750f0141ab994de1b8ff202b2d7bf7ee3f75dc525e1574",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230801/recovery.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/TP1803/20230801/vbmeta.img",
+      "sha1": "2c89a3b793a70514a5b9e36674a936ede4bb080e",
+      "sha256": "0bac2e7b376057689a3a8328baa1f7df578f29d5a5ac4ac32bccd5ede948a7fb",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20230801/vbmeta.img"
     }
   ],
   "type": "nightly",
