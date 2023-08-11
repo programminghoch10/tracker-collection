@@ -40,9 +40,9 @@ saveTrackDataFile() {
 }
 
 # acquire latest device list
-curl -s "$LINEAGEOS_BUILD_TARGETS" | sed '/^#/d' | sed '/^\s*$/d' > "$DATADIR"/"$BUILDTARGETSFILE"
+curl --fail --silent "$LINEAGEOS_BUILD_TARGETS" | sed '/^#/d' | sed '/^\s*$/d' > "$DATADIR"/"$BUILDTARGETSFILE"
 saveTrackDataFile "$BUILDTARGETSFILE" "Update build targets"
-curl -s "$LINEAGEOS_DEVICES" | jq '.' > "$DATADIR"/"$DEVICESFILE"
+curl --fail --silent "$LINEAGEOS_DEVICES" | jq '.' > "$DATADIR"/"$DEVICESFILE"
 saveTrackDataFile "$DEVICESFILE" "Update devices"
 
 BUILDTARGETSLIST=$(cut -d' ' -f 1 < "$DATADIR"/"$BUILDTARGETSFILE")
@@ -60,7 +60,7 @@ processDevice() {
         [ "$LASTBUILDDATE" -gt "$LASTWEEK" ] && echo "Already checked $DEVICE today" && return
     }
     printf -v DEVICE_API_URL "$LINEAGEOS_API_URL" "$DEVICE"
-    LATEST="$(curl -s "$DEVICE_API_URL" | jq 'sort_by(.datetime) | .[-1]')"
+    LATEST="$(curl --fail --silent "$DEVICE_API_URL" | jq 'sort_by(.datetime) | .[-1]')"
     echo "$LATEST"
     [ -z "$LATEST" ] && echo "Failed to fetch latest builds for $DEVICE" && return
     [ "$LATEST" = "null" ] && echo "No builds for $DEVICE found!" && return
@@ -114,7 +114,7 @@ case "$CHECKTYPE" in
         done
         ;;
     "nightly")
-        curl "$LINEAGEOS_BUILDCONFIG_GENERATOR" | sed -e 's|^import yaml$||g' -e 's|yaml.dump(\(.*\))|\1|g' > "$DATADIR"/"$BUILDCONFIGGENERATORFILE"
+        curl --silent --fail "$LINEAGEOS_BUILDCONFIG_GENERATOR" | sed -e 's|^import yaml$||g' -e 's|yaml.dump(\(.*\))|\1|g' > "$DATADIR"/"$BUILDCONFIGGENERATORFILE"
         saveTrackDataFile "$BUILDCONFIGGENERATORFILE" "Update device generator"
         TARGETS_TODAY=$($LINEAGEOS_BUILDCONFIG_PYTHON "$DATADIR"/"$BUILDCONFIGGENERATORFILE" < "$DATADIR"/"$BUILDTARGETSFILE" | sed "s|'|\"|g" | jq -r '."steps" | map(."build"."env"."DEVICE") | .[]')
         for DEVICE in $TARGETS_TODAY; do
