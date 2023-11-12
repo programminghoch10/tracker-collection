@@ -1,25 +1,57 @@
 {
-  "date": "2023-11-05",
-  "datetime": 1699142400,
+  "date": "2023-11-12",
+  "datetime": 1699747200,
   "files": [
     {
-      "date": "2023-11-05",
-      "datetime": 1699142400,
-      "filename": "lineage-20.0-20231105-nightly-xmsirius-signed.zip",
-      "filepath": "/full/xmsirius/20231105/lineage-20.0-20231105-nightly-xmsirius-signed.zip",
-      "sha1": "caccf790c8b9228cae8a337854455732e2f601b1",
-      "sha256": "ab1f28f19476cc45e9d4f805bbfde51f219c5a6046a45a6148f841e18285f6bf",
-      "size": 999753956,
+      "date": "2023-11-12",
+      "datetime": 1699747200,
+      "filename": "lineage-20.0-20231112-nightly-xmsirius-signed.zip",
+      "filepath": "/full/xmsirius/20231112/lineage-20.0-20231112-nightly-xmsirius-signed.zip",
+      "sha1": "42291fa9cbb057d68d640363f39bab2f9f38fa56",
+      "sha256": "086b9830d52e10591a6a6001c89534fe9b1114cc940b4256dab9fe42e97072c1",
+      "size": 999945516,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231105/lineage-20.0-20231105-nightly-xmsirius-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231112/lineage-20.0-20231112-nightly-xmsirius-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/xmsirius/20231105/boot.img",
-      "sha1": "436f32b129b2164597eb6f86329b3a65af87a0f0",
-      "sha256": "5ab7608607d117f05b6e5b6e99af22af1d55b7982e5f8d945113e2b5aa371779",
+      "filepath": "/full/xmsirius/20231112/boot.img",
+      "sha1": "def694b05ee3c3a87fe7a8ef19ede682b7512567",
+      "sha256": "cc1ac6a0c34f973d4a37afcb898f6a14c0bdc48596afe99c7809d0f601d917c0",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231105/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231112/boot.img"
+    },
+    {
+      "filename": "dtbo.img",
+      "filepath": "/full/xmsirius/20231112/dtbo.img",
+      "sha1": "b135f4914d44994fd10fac8ed599de7e61534302",
+      "sha256": "ee1ebd1facb8f3c1042f8f7f20859d2c6c04f8e4e80a8ff360f479606f166238",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231112/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/xmsirius/20231112/recovery.img",
+      "sha1": "09b4e0021822687f611d841a049b703c95c43568",
+      "sha256": "a42e86f08e15d1d670b4799a1bc24fbb131b6deb081da5b5a4a1b30805a76193",
+      "size": 67108864,
+      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231112/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/xmsirius/20231112/super_empty.img",
+      "sha1": "b77e58a7e8305639b7c71f3f42e5cf28adfc9a72",
+      "sha256": "835a1e2e6ec565c5be5641f6da9a02185e813f628139b0a4a51b430b204780c0",
+      "size": 4772,
+      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231112/super_empty.img"
+    },
+    {
+      "filename": "vbmeta.img",
+      "filepath": "/full/xmsirius/20231112/vbmeta.img",
+      "sha1": "845142c1ebcf5f611f1c31c4a5b7063716e5ca05",
+      "sha256": "a92eadf9305687f3790f95edba103f35798bfbfc92eabf7553a3af49d043a73c",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/xmsirius/20231112/vbmeta.img"
     }
   ],
   "type": "nightly",
