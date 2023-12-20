@@ -1,43 +1,45 @@
 {
-  "date": "2023-12-13",
-  "datetime": 1702425600,
+  "date": "2023-12-20",
+  "datetime": 1703030400,
   "files": [
     {
-      "date": "2023-12-13",
-      "datetime": 1702425600,
-      "filename": "lineage-20.0-20231213-nightly-enchilada-signed.zip",
-      "filepath": "/full/enchilada/20231213/lineage-20.0-20231213-nightly-enchilada-signed.zip",
-      "sha1": "7b1288bae32593e8957ae47aaaf0dc1dc6342d5f",
-      "sha256": "7637a8c33de4260f7ffa09f5cced475559213c56bf8aa83aa14c387271decfe2",
-      "size": 853870094,
+      "date": "2023-12-20",
+      "datetime": 1703030400,
+      "filename": "lineage-20.0-20231220-nightly-enchilada-signed.zip",
+      "filepath": "/full/enchilada/20231220/lineage-20.0-20231220-nightly-enchilada-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "20a10956c22e0f1d80669cb5d9d165651afae288",
+      "sha256": "5bc4cc9ce812c28c5fa0807f10c16eebd4e78da09d91f389c108f902dd6ffa33",
+      "size": 854694913,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231213/lineage-20.0-20231213-nightly-enchilada-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231220/lineage-20.0-20231220-nightly-enchilada-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/enchilada/20231213/boot.img",
-      "sha1": "ff9a1f4831b89fb65d3f8c9d91a3d33474cf1ed1",
-      "sha256": "fad3261ff06b9bb7a27074e380164b795c95007b24f3adfb0b0d57dea04fde09",
+      "filepath": "/full/enchilada/20231220/boot.img",
+      "sha1": "0e99c38c677d589a840d24d4c5fa6624623fae3e",
+      "sha256": "513b306ac78917d04c5a2c041fbeea798be81558c7c21f10a9877f46a56b9fc5",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231213/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231220/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/enchilada/20231213/dtbo.img",
-      "sha1": "bf1cd5c51eaacccd1b649371bbed9c57aaf3ca96",
-      "sha256": "1e88fe9f1644e8c0822e700a2b05e176b85904ee97090b2578c0b773c2d19743",
+      "filepath": "/full/enchilada/20231220/dtbo.img",
+      "sha1": "816f540d98468742b3bbaccc25f1433830466acc",
+      "sha256": "e81d5ccffe00caa6398cb6e914e5e7f28221f2674013db24d8f2e3b807e86f8c",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231213/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231220/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/enchilada/20231213/vbmeta.img",
-      "sha1": "a3223a7f15865f911e203359ee83e6acf1f7be7f",
-      "sha256": "d57040ac637d057711fa26e7907774e826931a6895be489dc3e1f82a22abe667",
+      "filepath": "/full/enchilada/20231220/vbmeta.img",
+      "sha1": "48c06a61b5ea9eb7828650241fbacd619e37d548",
+      "sha256": "496d6d916363a810f369d837447f6b9655d4a4be692cba7c24997ac84a80bac8",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231213/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20231220/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
