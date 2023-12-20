@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-13",
-  "datetime": 1702425600,
+  "date": "2023-12-20",
+  "datetime": 1703030400,
   "files": [
     {
-      "date": "2023-12-13",
-      "datetime": 1702425600,
-      "filename": "lineage-20.0-20231213-nightly-FP4-signed.zip",
-      "filepath": "/full/FP4/20231213/lineage-20.0-20231213-nightly-FP4-signed.zip",
-      "sha1": "5ab4b6cf26f411b5d2cda11252520a42370967d4",
-      "sha256": "fed16ca45ec87777d191cab376d400c7902663a1b1a2813eab0c0c9683d2e0b5",
-      "size": 957139453,
+      "date": "2023-12-20",
+      "datetime": 1703030400,
+      "filename": "lineage-20.0-20231220-nightly-FP4-signed.zip",
+      "filepath": "/full/FP4/20231220/lineage-20.0-20231220-nightly-FP4-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "6241184125d3afc8693b02f16cce861d0cbb872f",
+      "sha256": "231e93988c03244fcca53a9fec0e22f3bf318869e4f287941123d58a7c15f273",
+      "size": 957839987,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/FP4/20231213/lineage-20.0-20231213-nightly-FP4-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20231220/lineage-20.0-20231220-nightly-FP4-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/FP4/20231213/boot.img",
-      "sha1": "54c1c308649cf2ed41a4f2b4026a3f9039df7e2f",
-      "sha256": "e780baf96522eea39407e9a4d28c49535506d313079145099e131b9afdce38c0",
+      "filepath": "/full/FP4/20231220/boot.img",
+      "sha1": "7e48892b786f27e909142328a9e209e1c21c130d",
+      "sha256": "1c1b3d5f856daea1c2714ef3a4e40e256a920737d252f4efb515723a9025bc9b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/FP4/20231213/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20231220/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/FP4/20231213/dtbo.img",
-      "sha1": "a96601dce486c4e996edb13eca9f3a4b63b4bc4f",
-      "sha256": "96a13ddcb0bcecf6f41438fad2638673f940a6a17ed6e57b3775247bbe0957b3",
+      "filepath": "/full/FP4/20231220/dtbo.img",
+      "sha1": "337f4f5fd8a979a08f6f8c3c305629432d6d44b9",
+      "sha256": "d88df51894c0bb7e9200a648739dd21370786da1805fc6df680df5de719c374c",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/FP4/20231213/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20231220/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/FP4/20231213/recovery.img",
-      "sha1": "bc09c86d0b4f98aae816ef4d8a9fcfe377a97fc9",
-      "sha256": "d9c1a83710a0817ba8439004ece99ff3a197cd31aedca81aa0b5a86dd86f1f0f",
+      "filepath": "/full/FP4/20231220/recovery.img",
+      "sha1": "afeed78de853c505b71f313761d94c6cdb14666c",
+      "sha256": "4a62ef6c26e7a244a94270bca6af1f67f96f2ac7a1c6eae960d15741f9137f26",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/FP4/20231213/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20231220/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/FP4/20231213/super_empty.img",
+      "filepath": "/full/FP4/20231220/super_empty.img",
       "sha1": "b67b5f0e79c6f7a0a8de31d6fd610446733d71e7",
       "sha256": "9b8b6bfd83c487540aa736ef3a7493b2a9d7dcca6e578df515c4ed831abdfea9",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/FP4/20231213/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20231220/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/FP4/20231213/vbmeta.img",
-      "sha1": "38cbb64d823a953818bd73687554b6ce0c0fe412",
-      "sha256": "52f67093025f87b068defe0232cfc471a6577231bf78c1e8697786057c24fe3a",
+      "filepath": "/full/FP4/20231220/vbmeta.img",
+      "sha1": "2d5687b5e6b299312e808448ad7bad8780302ab8",
+      "sha256": "d51f2030373f65d6c37058db8115206725c73356df443765bc6eeb1c3fd6b614",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/FP4/20231213/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20231220/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
