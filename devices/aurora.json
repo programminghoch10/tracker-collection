@@ -1,43 +1,45 @@
 {
-  "date": "2023-12-13",
-  "datetime": 1702425600,
+  "date": "2023-12-20",
+  "datetime": 1703030400,
   "files": [
     {
-      "date": "2023-12-13",
-      "datetime": 1702425600,
-      "filename": "lineage-20.0-20231213-nightly-aurora-signed.zip",
-      "filepath": "/full/aurora/20231213/lineage-20.0-20231213-nightly-aurora-signed.zip",
-      "sha1": "7d6dedeb0f73077f2e815dc1998a7b0e705287a1",
-      "sha256": "85d4c808431a4b70c43c5e6595a35876a466d546863acda070af15dded16449d",
-      "size": 806705235,
+      "date": "2023-12-20",
+      "datetime": 1703030400,
+      "filename": "lineage-20.0-20231220-nightly-aurora-signed.zip",
+      "filepath": "/full/aurora/20231220/lineage-20.0-20231220-nightly-aurora-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "f7956b9864459440e5deb8a02365c340fa68742d",
+      "sha256": "9dd16800ceef4000389d05f3b69189f36e48edb087cc8d39c7502d48d98cd559",
+      "size": 807854290,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/aurora/20231213/lineage-20.0-20231213-nightly-aurora-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/aurora/20231220/lineage-20.0-20231220-nightly-aurora-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/aurora/20231213/boot.img",
-      "sha1": "900822d1dae0ede973e13735fe73d857455095d1",
-      "sha256": "1306086dbdc993ba14659066a32192d9c79580b7d01a26bb3c42be88c0249e27",
+      "filepath": "/full/aurora/20231220/boot.img",
+      "sha1": "1f02f801a2ab948e1920dc132594d6207de0f816",
+      "sha256": "d25544098508533df1b83200538d1151c69c6b82bf3b0fde8842837cf160ed0f",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/aurora/20231213/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/aurora/20231220/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/aurora/20231213/dtbo.img",
-      "sha1": "295573b11203bdcc6a170ac8e8561789d1afa34a",
-      "sha256": "910bc9f3160e11aa184778dc0bbc25d4844aeb8984f04a89fccaa1a63111bffb",
+      "filepath": "/full/aurora/20231220/dtbo.img",
+      "sha1": "bf7bd6ec3895cff0c2d9db897320d8cb2dd1b9e2",
+      "sha256": "bf1304e72899e0657bfeb1886982a108c580df73526c867e4aaa192dfd3145f2",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/aurora/20231213/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/aurora/20231220/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/aurora/20231213/vbmeta.img",
-      "sha1": "c87e1ff982e5ceeec7cb8630c54124d58d47b53b",
-      "sha256": "c64c2e335d8d6df56248eda7421a03548c3a3bbd431f5225e3fb2ff031b16d94",
+      "filepath": "/full/aurora/20231220/vbmeta.img",
+      "sha1": "ac29b1e50cb76364f7fbb7da45d2434c992ddcb2",
+      "sha256": "a70b7516804b9a7c035eaf72a306155bd3993c8c99e2c0a2be2175abea599c41",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/aurora/20231213/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/aurora/20231220/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
