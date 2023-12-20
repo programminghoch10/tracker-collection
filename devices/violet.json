@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-13",
-  "datetime": 1702425600,
+  "date": "2023-12-20",
+  "datetime": 1703030400,
   "files": [
     {
-      "date": "2023-12-13",
-      "datetime": 1702425600,
-      "filename": "lineage-20.0-20231213-nightly-violet-signed.zip",
-      "filepath": "/full/violet/20231213/lineage-20.0-20231213-nightly-violet-signed.zip",
-      "sha1": "70bc586549f9bfd2f26654ead3212f87899a33b5",
-      "sha256": "a625f47d4d642c2692b8431657a38b5611f7ab774bbb1012150ac4d10d3fdf58",
-      "size": 1021214173,
+      "date": "2023-12-20",
+      "datetime": 1703030400,
+      "filename": "lineage-20.0-20231220-nightly-violet-signed.zip",
+      "filepath": "/full/violet/20231220/lineage-20.0-20231220-nightly-violet-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "182a625fc6be35d75d7fcf6fcfb7ca853ba2c8db",
+      "sha256": "4f4f5dedf0e44bdd4f716c9dd1d95b7cbd27370670daa55857c25bb3be2477bb",
+      "size": 1044633701,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/violet/20231213/lineage-20.0-20231213-nightly-violet-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20231220/lineage-20.0-20231220-nightly-violet-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/violet/20231213/boot.img",
-      "sha1": "968bd8cbda97792939f5c1996bbcb15f0798cc4e",
-      "sha256": "00316924ce0acfacec2aa2e89fe00833ba4a231f4ca77e737f1c7f581c915ffd",
+      "filepath": "/full/violet/20231220/boot.img",
+      "sha1": "2bb2d809d3361387ac8995b62b3f4e72b3c98f8e",
+      "sha256": "cdd54949bea4bb7156bcd139baf3e8cd1aad08e32ba05b7247f54b0350c17b75",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20231213/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20231220/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/violet/20231213/dtbo.img",
-      "sha1": "e126d61b88a8efdac768f899346cc4727bbc1f72",
-      "sha256": "d0064f8d2efe078622b1023cf1b746e7602eb8adadb114f08849352123cdff6f",
+      "filepath": "/full/violet/20231220/dtbo.img",
+      "sha1": "4d534533fd6ac8dfb7d5b58aadd616ab0743c4b6",
+      "sha256": "33d0a06ccb68129aa69c3e04984f722be8c5ba41e7cb831449b0d5593ac0ce3a",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20231213/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20231220/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/violet/20231213/recovery.img",
-      "sha1": "18f1c4db89f6732cfbe0fb20b2dc8328b4f52ba8",
-      "sha256": "62d42792aa167f91517b1628bcc8fa1c51082b9f9f484c1320330ea895193e07",
+      "filepath": "/full/violet/20231220/recovery.img",
+      "sha1": "e424995c8c3f125aad2d604641b030b7f18819df",
+      "sha256": "5e7ba905fae18319a793be61c055b7a7a9e9c5b80bd7450bf5e14910bec674dc",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20231213/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20231220/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/violet/20231213/super_empty.img",
+      "filepath": "/full/violet/20231220/super_empty.img",
       "sha1": "f61ee86dfe3571cf80f5199130f9c6f8460f9d7c",
       "sha256": "c9f88654098254eb976fecd1d67aeb0ceb72fbf632b60f235105947b48e3a882",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20231213/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20231220/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/violet/20231213/vbmeta.img",
-      "sha1": "5eb64fd09832fb475f3c6eb2677c65b30d4783bd",
-      "sha256": "370c407a3e527f8cc2ffe1c6f8492cbb3b81dce0d3f6afe23aec7f7ebde86b82",
+      "filepath": "/full/violet/20231220/vbmeta.img",
+      "sha1": "41b6fb97570634a3e7140ff449356b0de6e16801",
+      "sha256": "fc58d994aea236670721331503d069de26aef9bc00fdc9c9fc5f70da3f5ef06b",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20231213/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20231220/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
