@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-14",
-  "datetime": 1702512000,
+  "date": "2023-12-21",
+  "datetime": 1703116800,
   "files": [
     {
-      "date": "2023-12-14",
-      "datetime": 1702512000,
-      "filename": "lineage-20.0-20231214-nightly-wade-signed.zip",
-      "filepath": "/full/wade/20231214/lineage-20.0-20231214-nightly-wade-signed.zip",
-      "sha1": "aba26ef8d0ab71999ce0209eb0fcc4d224776d81",
-      "sha256": "78d742e7e0cc501da2323e62c7d33444873e1ef42df427172d1ba502a0d35f20",
-      "size": 461615543,
+      "date": "2023-12-21",
+      "datetime": 1703116800,
+      "filename": "lineage-20.0-20231221-nightly-wade-signed.zip",
+      "filepath": "/full/wade/20231221/lineage-20.0-20231221-nightly-wade-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "ddb347d81c65b7ef9fa4f19484c469ae7f7d4379",
+      "sha256": "8a75bccb5f68fb3f3ec598f3f1ef9e334b07d07b5ff68148130773a47e949b0e",
+      "size": 461216941,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/wade/20231214/lineage-20.0-20231214-nightly-wade-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20231221/lineage-20.0-20231221-nightly-wade-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/wade/20231214/boot.img",
-      "sha1": "3f089783d9d048f94ce3278107588a223ca8a34e",
-      "sha256": "c43130e1c929a99d69e9ee903d0a4cbd04dcac14dff844bd454f326004af0b1b",
+      "filepath": "/full/wade/20231221/boot.img",
+      "sha1": "690fd5ad65fafe153759c9308aa641189500ff42",
+      "sha256": "40f0aea36ee921d05a2eaa3d0fda261fee1582734ec545e0312ead5365ac378b",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20231214/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20231221/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/wade/20231214/dtbo.img",
-      "sha1": "49038587c20fd534b2b99c9308d97bdfc1bef78b",
-      "sha256": "ea7d8ee8e86bc72d9fdce2ca65ec6c1049f3b8fb0269dd712b51fb576cc4730b",
+      "filepath": "/full/wade/20231221/dtbo.img",
+      "sha1": "fe5b91e61ca1080c53ff8affaf8dd08d2af8aedc",
+      "sha256": "14d05914ab24cec6ad958bddea9d18281a2b8fe29352c54b9e7b861bd31d23c6",
       "size": 2097152,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20231214/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20231221/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/wade/20231214/recovery.img",
-      "sha1": "7fee089869e63c8efd39b61a17b79b63b081b797",
-      "sha256": "a7ab275184fe147d726e55d1ce446c123e126459ddc9f73e4152551015cc3203",
+      "filepath": "/full/wade/20231221/recovery.img",
+      "sha1": "1f8c7c158f6aa4adc0d34c2d4d22502fae96cca3",
+      "sha256": "5f11b0357b97f97ff60237b2f5e506ddff39b1c05671f1f94ed9a04e90c972a9",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20231214/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20231221/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/wade/20231214/super_empty.img",
+      "filepath": "/full/wade/20231221/super_empty.img",
       "sha1": "46a8d21c8db8fd8dca59d47c5ade413c0406f780",
       "sha256": "a572455896d87cdeb06b52e10564dbdd1710c44f159516c125f57db470cccef5",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20231214/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20231221/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/wade/20231214/vbmeta.img",
-      "sha1": "564c218935c9a9f440330319efd2a43b574ea051",
-      "sha256": "d19fa94b57ec1d392f2f28e6cb08045b3cec7f3a5b9fdc289c6e9d66ce0e5520",
+      "filepath": "/full/wade/20231221/vbmeta.img",
+      "sha1": "8de22d53d732eb5e16e2eeecb8a22b2cd8cbe444",
+      "sha256": "49bb1abf849fb1f7996a68977f9019b23610c2264ddad8b27a5ade034b1bba59",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20231214/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20231221/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
