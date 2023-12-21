@@ -1,43 +1,45 @@
 {
-  "date": "2023-12-14",
-  "datetime": 1702512000,
+  "date": "2023-12-21",
+  "datetime": 1703116800,
   "files": [
     {
-      "date": "2023-12-14",
-      "datetime": 1702512000,
-      "filename": "lineage-20.0-20231214-nightly-taimen-signed.zip",
-      "filepath": "/full/taimen/20231214/lineage-20.0-20231214-nightly-taimen-signed.zip",
-      "sha1": "c45a21bc045d7edb87e6d15c6ba7dc8e6d0488de",
-      "sha256": "b17092b34987b05964126a2e5f518250d59fdbc0061e3fb9ecc5a017e191a2e1",
-      "size": 902528170,
+      "date": "2023-12-21",
+      "datetime": 1703116800,
+      "filename": "lineage-20.0-20231221-nightly-taimen-signed.zip",
+      "filepath": "/full/taimen/20231221/lineage-20.0-20231221-nightly-taimen-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "1d98d70821c23e8984208a883a651f55e14eb561",
+      "sha256": "60933a6f76186c047f86720ab14a5bbbc69cb664c4308f897f0e30d417a16143",
+      "size": 904181156,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20231214/lineage-20.0-20231214-nightly-taimen-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20231221/lineage-20.0-20231221-nightly-taimen-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/taimen/20231214/boot.img",
-      "sha1": "542a64c595d131cba39333e60789ca7f324ffc2b",
-      "sha256": "5bc73ee7d8e53cd15a2846bc16724a2a448945c444d56a2092d72c0a893c1606",
+      "filepath": "/full/taimen/20231221/boot.img",
+      "sha1": "4559220ed4e9039831d9ce791d057ff532a40145",
+      "sha256": "08def4c89b1111ace3cc2e0af404f527d86ab2420d46c9703a4adc127815f8ec",
       "size": 41943040,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20231214/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20231221/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/taimen/20231214/dtbo.img",
-      "sha1": "83974ed2d97e409cb9f3762424e637aefd7923e4",
-      "sha256": "4c76daa202d46bf2e114bd9b5b657bda5db6ce2f06138eb6a22ad54de0c33fe0",
+      "filepath": "/full/taimen/20231221/dtbo.img",
+      "sha1": "14548c110e3c2b31c9720748f503a6a735bec1e1",
+      "sha256": "add812eb7387e84969d28d3a12a12bce13d0c873584880500e468ac4672015ca",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20231214/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20231221/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/taimen/20231214/vbmeta.img",
-      "sha1": "067e096796140c338ce088478f2c362234363194",
-      "sha256": "f151f93413ef9311bd0a19d775e1b73dc2081c13e3c7d0f8b0a0057a6582f34a",
+      "filepath": "/full/taimen/20231221/vbmeta.img",
+      "sha1": "b9880f966b7b0a0d11c22075373244bade899bd0",
+      "sha256": "e15f303c43dd4b8ee43963df97a58a542c028b702088d4762b3e08a0a169b764",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20231214/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20231221/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
