@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-14",
-  "datetime": 1702512000,
+  "date": "2023-12-21",
+  "datetime": 1703116800,
   "files": [
     {
-      "date": "2023-12-14",
-      "datetime": 1702512000,
-      "filename": "lineage-20.0-20231214-nightly-lake-signed.zip",
-      "filepath": "/full/lake/20231214/lineage-20.0-20231214-nightly-lake-signed.zip",
-      "sha1": "d761ff3c1220f6a029ef9b6204864d1243f65431",
-      "sha256": "394e9c3d99f15aaaaa69eb0c177d3d6d3290a441e5d1298f438b5a86cc9e4944",
-      "size": 785984841,
+      "date": "2023-12-21",
+      "datetime": 1703116800,
+      "filename": "lineage-20.0-20231221-nightly-lake-signed.zip",
+      "filepath": "/full/lake/20231221/lineage-20.0-20231221-nightly-lake-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "ab4c4a19e7853c4fb5dcbf35a7428be57b1f72a8",
+      "sha256": "3fbdbad2aebed2526bf154e92da7f2b267518f0027f7912e1de47c57dd5b93a0",
+      "size": 787080745,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lake/20231214/lineage-20.0-20231214-nightly-lake-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lake/20231221/lineage-20.0-20231221-nightly-lake-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lake/20231214/boot.img",
-      "sha1": "80ade1d922bef1b63f1c0ce9e3370f819e968102",
-      "sha256": "893527b0309ad3ee4f5599e50935a8c293c249a126cbfaf76321192a16942918",
+      "filepath": "/full/lake/20231221/boot.img",
+      "sha1": "4b05ddbd2b1a130e915a19d0960d71ca0aca7556",
+      "sha256": "c6dd65675bdf7f87999cbeb3de6fc4cb1ab2c5646c6dbfc0b5ca2858301bf86c",
       "size": 26817832,
-      "url": "https://mirrorbits.lineageos.org/full/lake/20231214/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lake/20231221/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lake/20231214/dtbo.img",
+      "filepath": "/full/lake/20231221/dtbo.img",
       "sha1": "0a60577015eb6a91b218fb54442cd9c0e4768bfd",
       "sha256": "51ca2b91984cb6dfc751dfaab819b7307498d47043aaf4e35b75cb180ece1a07",
       "size": 8939,
-      "url": "https://mirrorbits.lineageos.org/full/lake/20231214/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lake/20231221/dtbo.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
