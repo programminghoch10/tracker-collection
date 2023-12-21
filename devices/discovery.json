@@ -1,27 +1,29 @@
 {
-  "date": "2023-12-14",
-  "datetime": 1702512000,
+  "date": "2023-12-21",
+  "datetime": 1703116800,
   "files": [
     {
-      "date": "2023-12-14",
-      "datetime": 1702512000,
-      "filename": "lineage-20.0-20231214-nightly-discovery-signed.zip",
-      "filepath": "/full/discovery/20231214/lineage-20.0-20231214-nightly-discovery-signed.zip",
-      "sha1": "83c0822253d460f64c1d794900cf458f34c1728b",
-      "sha256": "8c77c6cfee586ec9fa94043d9793194d9c4f9b9f8a3b882608c5fe78852c47fb",
-      "size": 742813615,
+      "date": "2023-12-21",
+      "datetime": 1703116800,
+      "filename": "lineage-20.0-20231221-nightly-discovery-signed.zip",
+      "filepath": "/full/discovery/20231221/lineage-20.0-20231221-nightly-discovery-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "066978d49640cccfec7fe781c68df000ed0cb928",
+      "sha256": "b076dde03a104a68c0144d6436a7996085db801ce29e7cda957ce8a8f0544e82",
+      "size": 743424786,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/discovery/20231214/lineage-20.0-20231214-nightly-discovery-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/discovery/20231221/lineage-20.0-20231221-nightly-discovery-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/discovery/20231214/boot.img",
-      "sha1": "8e4fec86eb57a2ab419a5ab75c910e80324c0f1d",
-      "sha256": "cf4d3768342cc6c3708cbb18851a07d54daeff24440f8a29df34bd1e57496358",
+      "filepath": "/full/discovery/20231221/boot.img",
+      "sha1": "2d7c5bfc741b6c497307e74e9c98bc68fbcbb6ad",
+      "sha256": "ebb7c4834e3f5df7d94739a8600a1d44f4e9fbcc4818cc6e1b71dd3cdb4eb245",
       "size": 27362600,
-      "url": "https://mirrorbits.lineageos.org/full/discovery/20231214/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/discovery/20231221/boot.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
