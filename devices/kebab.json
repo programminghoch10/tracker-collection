@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-15",
-  "datetime": 1702598400,
+  "date": "2023-12-22",
+  "datetime": 1703203200,
   "files": [
     {
-      "date": "2023-12-15",
-      "datetime": 1702598400,
-      "filename": "lineage-20.0-20231215-nightly-kebab-signed.zip",
-      "filepath": "/full/kebab/20231215/lineage-20.0-20231215-nightly-kebab-signed.zip",
-      "sha1": "6d61309ec38cf665a93bc64f21bc68ae30f5ff0f",
-      "sha256": "946fb9bb746b7efa8d5c64ca6b350ee76caf1dff0eb180a285e0e28a9bbe8c73",
-      "size": 1063519441,
+      "date": "2023-12-22",
+      "datetime": 1703203200,
+      "filename": "lineage-20.0-20231222-nightly-kebab-signed.zip",
+      "filepath": "/full/kebab/20231222/lineage-20.0-20231222-nightly-kebab-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "5b43437e9877d16674dd1832162edf106d6b3a22",
+      "sha256": "3fc316cabdcaa0fa55605ea0024b07156997380add27941525ade2c36d6d9a5f",
+      "size": 1063774203,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/kebab/20231215/lineage-20.0-20231215-nightly-kebab-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20231222/lineage-20.0-20231222-nightly-kebab-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/kebab/20231215/boot.img",
-      "sha1": "d6c502f3784cda542ac1490a6fe2635bcd71e931",
-      "sha256": "fc452000143209a5273a913881cf954e5a363855c556074d517ff1a4b5723708",
+      "filepath": "/full/kebab/20231222/boot.img",
+      "sha1": "0795be650c4d68e7a68bcb049cd0b8caa604e849",
+      "sha256": "c0c1a3728ca1d5f180479195191faefc79d27f0673043fc74fa94d1ae8b6e5c6",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/kebab/20231215/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20231222/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/kebab/20231215/dtbo.img",
-      "sha1": "6a5cc97ec431cb283256d849466ce46a3a5a7ea0",
-      "sha256": "62870b5a280b925babec3d06e0b4140a79b9090b51dcb2fc08a4c185910bbc2e",
+      "filepath": "/full/kebab/20231222/dtbo.img",
+      "sha1": "1c79989373b637a8365147a44053aa4269356557",
+      "sha256": "fbb93fdd65c8f94df49bf12cca07d0d863d246d7cfd2d07339a4d9540ecab505",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/kebab/20231215/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20231222/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/kebab/20231215/recovery.img",
-      "sha1": "4591a0bfb5dd69247da6457f077d1929a251028c",
-      "sha256": "73be82ff7bdcc17631a9bbdc9e1a28d73a47903fd47081da587584c767699eec",
+      "filepath": "/full/kebab/20231222/recovery.img",
+      "sha1": "4ee54e63cb83f6a289d702d37062c7d6902d0a1d",
+      "sha256": "b06ee3de2731f7c2a04450da2a61e2ca82ee4571970657dba0cf539104497aef",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/kebab/20231215/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20231222/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/kebab/20231215/super_empty.img",
+      "filepath": "/full/kebab/20231222/super_empty.img",
       "sha1": "26f2ec36f2a023deb5fc57c23fa9cc3a8f263baf",
       "sha256": "066989bead5877ede9aaa0c967ebfa69026537246edf198c325de8ab5b1649de",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/kebab/20231215/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20231222/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/kebab/20231215/vbmeta.img",
-      "sha1": "677e3945f6aeeefb6a5fd734307f05e2a15087b3",
-      "sha256": "1e3ce93a5d5112573ca5ac028a132afb0479b893ea85aff0b96f6d5b0fa23e3f",
+      "filepath": "/full/kebab/20231222/vbmeta.img",
+      "sha1": "9abe40827749455ce99d6c92086265ce64eb42d9",
+      "sha256": "65abace2bd758dbab2b8a0d772e6d5cfe34f4175a5942c89b003991ea2f0cea3",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/kebab/20231215/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20231222/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
