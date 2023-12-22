@@ -1,35 +1,37 @@
 {
-  "date": "2023-11-22",
-  "datetime": 1700611200,
+  "date": "2023-12-22",
+  "datetime": 1703203200,
   "files": [
     {
-      "date": "2023-11-22",
-      "datetime": 1700611200,
-      "filename": "lineage-18.1-20231122-nightly-flox-signed.zip",
-      "filepath": "/full/flox/20231122/lineage-18.1-20231122-nightly-flox-signed.zip",
-      "sha1": "d112461e7bf4db9186393d37881c10169c3a1c8b",
-      "sha256": "bb2207b7781d5b29587fc5edf12a55c06f97ab9eb50b0ccfded5e01a425518bd",
-      "size": 448365416,
+      "date": "2023-12-22",
+      "datetime": 1703203200,
+      "filename": "lineage-18.1-20231222-nightly-flox-signed.zip",
+      "filepath": "/full/flox/20231222/lineage-18.1-20231222-nightly-flox-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "851f7cf69d4b92ca5d6e4558498c8f36085797b3",
+      "sha256": "2b3e93a0baf9f9fc66e0dc93b6f43b5fdfa20dce27172b54215a95014706a12c",
+      "size": 448849051,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/flox/20231122/lineage-18.1-20231122-nightly-flox-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/flox/20231222/lineage-18.1-20231222-nightly-flox-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/flox/20231122/boot.img",
-      "sha1": "016843f5dc8167218d9176663dc58432ebc77e82",
-      "sha256": "37446c4fbd662c222b0d2a1f9621cca17db6c7067bc47b8a63eb38bdb767fd24",
+      "filepath": "/full/flox/20231222/boot.img",
+      "sha1": "712982fb9a902d05c3d501b8672b21a9499fd9d7",
+      "sha256": "920141f7692cb0fcd1acb43bc647972437ed38ca23f2f567b9038d6054506af2",
       "size": 6217728,
-      "url": "https://mirrorbits.lineageos.org/full/flox/20231122/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/flox/20231222/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/flox/20231122/recovery.img",
-      "sha1": "ea7ef651c9c7197ce9742712c7f63ed22346f386",
-      "sha256": "0b3878fbe2168bd07858f15ed6a7b1c1d5d4844b27660d42d00e994778227135",
-      "size": 10938368,
-      "url": "https://mirrorbits.lineageos.org/full/flox/20231122/recovery.img"
+      "filepath": "/full/flox/20231222/recovery.img",
+      "sha1": "ea11041f0085d7122b1421510c6bf10fc7f23ce8",
+      "sha256": "10fef4fe34a1543c2d3c806a531720351668a9c51138990578a233ace05bea04",
+      "size": 10932224,
+      "url": "https://mirrorbits.lineageos.org/full/flox/20231222/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
