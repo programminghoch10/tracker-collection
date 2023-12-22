@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-15",
-  "datetime": 1702598400,
+  "date": "2023-12-22",
+  "datetime": 1703203200,
   "files": [
     {
-      "date": "2023-12-15",
-      "datetime": 1702598400,
-      "filename": "lineage-20.0-20231215-nightly-dubai-signed.zip",
-      "filepath": "/full/dubai/20231215/lineage-20.0-20231215-nightly-dubai-signed.zip",
-      "sha1": "df99b338c713cffd9a3773f7cf25ac687e248710",
-      "sha256": "1a3f2f9f0dbf785611215e8d9d7f991f3aec86406b1bfc26996e100523586fc7",
-      "size": 1244371094,
+      "date": "2023-12-22",
+      "datetime": 1703203200,
+      "filename": "lineage-20.0-20231222-nightly-dubai-signed.zip",
+      "filepath": "/full/dubai/20231222/lineage-20.0-20231222-nightly-dubai-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "b973f3d96e70bb0b6db1219c71247b472f2c266e",
+      "sha256": "2b1e2cc76b9fab6d6bc12627150542e80cfefb7490d6b1167574685de7670e0f",
+      "size": 1244909952,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20231215/lineage-20.0-20231215-nightly-dubai-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20231222/lineage-20.0-20231222-nightly-dubai-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/dubai/20231215/boot.img",
-      "sha1": "fdcad9237e9afa8d6f11c27ee38752091759c97a",
-      "sha256": "679f83a6a1d42316e2f56d91c001f5ce0d9cc44d7f0dafdd8a1f371a6bc1c840",
+      "filepath": "/full/dubai/20231222/boot.img",
+      "sha1": "8176f7de4d94bbcca3610e9f9610019444289a90",
+      "sha256": "3913f0a9e252353c99d62b330409c4344d7ab7fd7edbc0ed935cb1062d47cb1e",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20231215/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20231222/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/dubai/20231215/dtbo.img",
-      "sha1": "7ea9909c2cd2f9e6c194fe652951654cf276601f",
-      "sha256": "ce7612609608f8658acc3eb2b1145dd60d09adc287bb57cbfd334b997ed76c4f",
+      "filepath": "/full/dubai/20231222/dtbo.img",
+      "sha1": "626a239e60647552ad8a4ab533c65287a0ab3b98",
+      "sha256": "d5bbea7ea87c2148c977369462d1ff703361fceb4ff8b86f6b70476dddee9860",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20231215/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20231222/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/dubai/20231215/super_empty.img",
+      "filepath": "/full/dubai/20231222/super_empty.img",
       "sha1": "325da06e76217b60114b3dbd5f32ef9706e6ae79",
       "sha256": "bf4982b5568861136393119ace9d2c42bec78285636ecfa48ce92d3e8d978c19",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20231215/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20231222/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/dubai/20231215/vbmeta.img",
-      "sha1": "5938fb5c6bd5869110b0c4f303e76c4da12cde87",
-      "sha256": "d294a1b8698e02027d078fb6b4cab252ad7c600adee13aec2f5b00ec6b1987a8",
+      "filepath": "/full/dubai/20231222/vbmeta.img",
+      "sha1": "51491246727b0aece0fd7323896c3abe67010492",
+      "sha256": "95a1509d7ad66bbd4f1cc0e87566802a815a3022f9d41a9cda8ce453d3a89209",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20231215/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20231222/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/dubai/20231215/vendor_boot.img",
-      "sha1": "69193ce145a88dd93206d411669c0626c8227dc1",
-      "sha256": "27710d14ee8c4215dbd6fb026e4a6668599ccbb82705ca6ef406d8bb614ee460",
+      "filepath": "/full/dubai/20231222/vendor_boot.img",
+      "sha1": "509914c50f6cf3e0e67980378655529d81f76afc",
+      "sha256": "16b2f9aafc437c705d1e48a82e60198faa956816adc66bfaa6a768594fa55527",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20231215/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20231222/vendor_boot.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
