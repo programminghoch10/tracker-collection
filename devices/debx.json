@@ -1,35 +1,37 @@
 {
-  "date": "2023-11-22",
-  "datetime": 1700611200,
+  "date": "2023-12-22",
+  "datetime": 1703203200,
   "files": [
     {
-      "date": "2023-11-22",
-      "datetime": 1700611200,
-      "filename": "lineage-18.1-20231122-nightly-debx-signed.zip",
-      "filepath": "/full/debx/20231122/lineage-18.1-20231122-nightly-debx-signed.zip",
-      "sha1": "f9f01ca7732a63b921a24bd0474ed8063a0848c4",
-      "sha256": "9d447f9e4cd617ac03931b673383ba37e0a5079e742aa04f1b3ab76a0f8076a2",
-      "size": 455585723,
+      "date": "2023-12-22",
+      "datetime": 1703203200,
+      "filename": "lineage-18.1-20231222-nightly-debx-signed.zip",
+      "filepath": "/full/debx/20231222/lineage-18.1-20231222-nightly-debx-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "356bb549c459e9cfb4191fbc3cb6baabdf54f731",
+      "sha256": "691b98686da85cb11c0c854a83c3874c59e167c7ce4705d6c389801d70ca12b5",
+      "size": 455970348,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/debx/20231122/lineage-18.1-20231122-nightly-debx-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/debx/20231222/lineage-18.1-20231222-nightly-debx-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/debx/20231122/boot.img",
-      "sha1": "5df736426d968b9477da427fe5063e22ccb673c3",
-      "sha256": "4b19a98a006155164a9b535ffca7773f78ad9d0fac7e495c44c1dd0a2761f08c",
-      "size": 6217728,
-      "url": "https://mirrorbits.lineageos.org/full/debx/20231122/boot.img"
+      "filepath": "/full/debx/20231222/boot.img",
+      "sha1": "11d3fc27adb3cbe89927293e81884b2f52b2dbf5",
+      "sha256": "cdc75dab534ba00662f48e4f95b0bed990c1d9cad164eb566871283bf82df2c1",
+      "size": 6221824,
+      "url": "https://mirrorbits.lineageos.org/full/debx/20231222/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/debx/20231122/recovery.img",
-      "sha1": "d2e04d2dee4f6bc09555bb8f7c1ec795c8132498",
-      "sha256": "c50793f2ab65096f84a7b706359c2f68573360478bd0196d1cb41c0ece641f55",
-      "size": 10932224,
-      "url": "https://mirrorbits.lineageos.org/full/debx/20231122/recovery.img"
+      "filepath": "/full/debx/20231222/recovery.img",
+      "sha1": "bdfbba3e6263dbdb25ac7abe9025f3c05547baeb",
+      "sha256": "6e7da6c6c2d02f08f1444c4f6939b068e93fb546926b92a7e52c8eca4e1d403f",
+      "size": 10934272,
+      "url": "https://mirrorbits.lineageos.org/full/debx/20231222/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
