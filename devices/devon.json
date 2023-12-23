@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-16",
-  "datetime": 1702684800,
+  "date": "2023-12-23",
+  "datetime": 1703289600,
   "files": [
     {
-      "date": "2023-12-16",
-      "datetime": 1702684800,
-      "filename": "lineage-20.0-20231216-nightly-devon-signed.zip",
-      "filepath": "/full/devon/20231216/lineage-20.0-20231216-nightly-devon-signed.zip",
-      "sha1": "d0ffde6a758edd610c9022ecefd768de26d8bdef",
-      "sha256": "88af8d50558240c409714e02939d95397d0c5f78467c4da41692b4da9e0ea2d9",
-      "size": 824127329,
+      "date": "2023-12-23",
+      "datetime": 1703289600,
+      "filename": "lineage-20.0-20231223-nightly-devon-signed.zip",
+      "filepath": "/full/devon/20231223/lineage-20.0-20231223-nightly-devon-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "504408b1a38dfddb91b91e5077c76641e1462209",
+      "sha256": "ea89dd8ef5dd3135490ebc8a544501c342df9007dbc03270efccc1df25a72305",
+      "size": 824124645,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/devon/20231216/lineage-20.0-20231216-nightly-devon-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20231223/lineage-20.0-20231223-nightly-devon-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/devon/20231216/boot.img",
-      "sha1": "011120ca494452c8a19a3a65c770afa9fed086c6",
-      "sha256": "1d509995e2fc542449504d0959bef7f8a26692673a3c33918c355e8a51e79cdc",
+      "filepath": "/full/devon/20231223/boot.img",
+      "sha1": "afa56871cb5a878e2e03ef83b2b460bdb80f3d80",
+      "sha256": "0261d928933926d34f202e5f8654db0bfdf6198b01568297d94374d46e14d7e4",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20231216/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20231223/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/devon/20231216/dtbo.img",
-      "sha1": "9f2630f53449691508d34eb4c5b5bec03a48d553",
-      "sha256": "eb3b6cee218aa22a0994e4c11fadfe25b7233aa8c958293abcbac118667a9125",
+      "filepath": "/full/devon/20231223/dtbo.img",
+      "sha1": "eb89e561e84cf0eaf3c0fa7e6617679147b1def0",
+      "sha256": "8bb3f7d1ac0a88bbdbf066f317c4786c7d75e513294b9f9ca796eb363a7fba76",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20231216/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20231223/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/devon/20231216/super_empty.img",
+      "filepath": "/full/devon/20231223/super_empty.img",
       "sha1": "bf0f5b666010123c68315e97a3666f3539533c89",
       "sha256": "9f9536ab047df277c4365b91d2aea2439600b83a90a0a12051bb90d4f731087a",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20231216/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20231223/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/devon/20231216/vbmeta.img",
-      "sha1": "9ff327beb72818c79131e6e0155181a00e684ac7",
-      "sha256": "21aa0e217a4e3c0f6d61b2ed9315ae19274d8b7823af02a3c0bdb0eaf5b538c9",
+      "filepath": "/full/devon/20231223/vbmeta.img",
+      "sha1": "163b0c10c723d3d4d2a489a823a0d5bc96a8e045",
+      "sha256": "47d9a7ce694e09a8f65095785aae4efc809d4bf635d389cf21c14a6b2581ff0b",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20231216/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20231223/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/devon/20231216/vendor_boot.img",
-      "sha1": "0251cd5cf5cf87373b6232c1527d2212909783bf",
-      "sha256": "152e9ec62ef83f6429f8d0c58e4cfce12f65a27e49ad0da6046946f3833ac550",
+      "filepath": "/full/devon/20231223/vendor_boot.img",
+      "sha1": "3fba996e69b252b2dab428197d294118bb1951e6",
+      "sha256": "d55aadb5eb572cb5063b77893f335268b31b0557433bc856a6a0ea245041384c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20231216/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20231223/vendor_boot.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
