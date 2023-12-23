@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-16",
-  "datetime": 1702684800,
+  "date": "2023-12-23",
+  "datetime": 1703289600,
   "files": [
     {
-      "date": "2023-12-16",
-      "datetime": 1702684800,
-      "filename": "lineage-20.0-20231216-nightly-h850-signed.zip",
-      "filepath": "/full/h850/20231216/lineage-20.0-20231216-nightly-h850-signed.zip",
-      "sha1": "714f5d989dcd5ff11721676e3da0ee39542c9676",
-      "sha256": "7b2f03198228390ba6dfb1933ca6ca8097968e457f369f28905ffa93eb5da9af",
-      "size": 773949179,
+      "date": "2023-12-23",
+      "datetime": 1703289600,
+      "filename": "lineage-20.0-20231223-nightly-h850-signed.zip",
+      "filepath": "/full/h850/20231223/lineage-20.0-20231223-nightly-h850-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "894d8fa3b91a39eef4938efd39240432d1d7d0b2",
+      "sha256": "ba18d82049f823156122eba8356646712327cb353ca92ae7015fc1fcf7a6ae96",
+      "size": 773922078,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/h850/20231216/lineage-20.0-20231216-nightly-h850-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/h850/20231223/lineage-20.0-20231223-nightly-h850-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/h850/20231216/boot.img",
-      "sha1": "f00c5e630c19d5e3d93e0ec72e58fc6b20ea7b51",
-      "sha256": "068742d3108f03c59326f92ef6afd84ab068ea1b0a7959887acd4dcb390b6d8d",
+      "filepath": "/full/h850/20231223/boot.img",
+      "sha1": "076fe94013bc24a14d48fffc54475a7a3be6079c",
+      "sha256": "9cab8ebeec75b009bcee1ade6085c18692b6d3d7626dbff3609e8e066672280e",
       "size": 12582912,
-      "url": "https://mirrorbits.lineageos.org/full/h850/20231216/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/h850/20231223/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/h850/20231216/recovery.img",
-      "sha1": "393af3a469b157e3e569812965fa24cb2ceee856",
-      "sha256": "0969393461bbb210f5e583570cd5608a1ed50798ddaf969c6687baa8180435a7",
+      "filepath": "/full/h850/20231223/recovery.img",
+      "sha1": "10e253186a250cd67d965f06c1af23ad18dbf68d",
+      "sha256": "61d616feb5f42f7564215451d709d54d63615dc398aa88d1d9719b3eebef2fb2",
       "size": 18952192,
-      "url": "https://mirrorbits.lineageos.org/full/h850/20231216/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/h850/20231223/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
