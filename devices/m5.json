@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-17",
-  "datetime": 1702771200,
+  "date": "2023-12-24",
+  "datetime": 1703376000,
   "files": [
     {
-      "date": "2023-12-17",
-      "datetime": 1702771200,
-      "filename": "lineage-20.0-20231217-nightly-m5-signed.zip",
-      "filepath": "/full/m5/20231217/lineage-20.0-20231217-nightly-m5-signed.zip",
-      "sha1": "66076431189cc0328bcb12241086704e58c6d0a3",
-      "sha256": "8c29ed8514a72eb98d9f443370a77b14609cbf927ae70a5004c00a41f5abe7f6",
-      "size": 456113737,
+      "date": "2023-12-24",
+      "datetime": 1703376000,
+      "filename": "lineage-20.0-20231224-nightly-m5-signed.zip",
+      "filepath": "/full/m5/20231224/lineage-20.0-20231224-nightly-m5-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "91b9d306b74e25270d57b8065c8a91140094a217",
+      "sha256": "89f1075a620240bb18823991141fd07cc82a1691d49932accb35c57778eb2bf7",
+      "size": 455020108,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/m5/20231217/lineage-20.0-20231217-nightly-m5-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/m5/20231224/lineage-20.0-20231224-nightly-m5-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/m5/20231217/boot.img",
-      "sha1": "de60c23319b02f6244d6ec0315b448d4932429c6",
-      "sha256": "b70ada1effd91ff594513248759f8163742e8ac2ef145db8d033ff98a5b8a8b6",
+      "filepath": "/full/m5/20231224/boot.img",
+      "sha1": "60fb4902cacd0e99b41ed9c28f614803803fc5c3",
+      "sha256": "598751a7f2643b801f126169b267f0c5e8c4fd69345671693e5bf6504f5f14c7",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/m5/20231217/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/m5/20231224/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/m5/20231217/dtbo.img",
-      "sha1": "470f9c08bfe8988b67cf54ef13dc4ceded050d58",
-      "sha256": "b23b4ed50a97ac1176f7a1f4a5acc3bd8e6f83b91fd375f15837bc42917215e0",
+      "filepath": "/full/m5/20231224/dtbo.img",
+      "sha1": "43451bfb337979a3e3dfffb516538dcd61ad86c6",
+      "sha256": "b98c14b25e43bd0699ad6eda8e8ea0e206787efd12da6b5f6c0c884f08ba9bd7",
       "size": 2097152,
-      "url": "https://mirrorbits.lineageos.org/full/m5/20231217/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/m5/20231224/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/m5/20231217/recovery.img",
-      "sha1": "a60add86617dd073491b555fce99ce89e5213e37",
-      "sha256": "fdbcfadb2cf1787d0c12682240fc147fc64531113e13ed0b1154f2405ae09fa5",
+      "filepath": "/full/m5/20231224/recovery.img",
+      "sha1": "3547b04167ff6885ecf992ce63527b0b545bf4a2",
+      "sha256": "ba07f10270cc93b8310a9241be99550990c0a04b7dc4599b7c262aefea77b819",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/m5/20231217/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/m5/20231224/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/m5/20231217/super_empty.img",
+      "filepath": "/full/m5/20231224/super_empty.img",
       "sha1": "75298fcb666fb0ab75a5855af66f7642ea4fd848",
       "sha256": "7c47029166414398a656a223e0dbb711178fe6a3289c4a39e00dd201612b1b02",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/m5/20231217/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/m5/20231224/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/m5/20231217/vbmeta.img",
-      "sha1": "df3b1ded13f81c19d7c4bb246545a7c3359ca52f",
-      "sha256": "7507eafd49f5aa6af55f948da9078b919a79fa1b8cc46a8783dd8cd59c908a74",
+      "filepath": "/full/m5/20231224/vbmeta.img",
+      "sha1": "9cf8b9216365be29acce679c5541f070fa80ae7e",
+      "sha256": "bf817d2416292d4348620f68b418a8b5d497c92402926ff926129fa2fc4b2dd2",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/m5/20231217/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/m5/20231224/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
