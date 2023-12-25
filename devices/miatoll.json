@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-18",
-  "datetime": 1702857600,
+  "date": "2023-12-25",
+  "datetime": 1703462400,
   "files": [
     {
-      "date": "2023-12-18",
-      "datetime": 1702857600,
-      "filename": "lineage-20.0-20231218-nightly-miatoll-signed.zip",
-      "filepath": "/full/miatoll/20231218/lineage-20.0-20231218-nightly-miatoll-signed.zip",
-      "sha1": "42cd8d3b224a3047cec1207de714366ab8821dae",
-      "sha256": "ec7d88bd336cac992fb646b2e2b344c5bf0bdddaac0ead6f64a999b5a1e220e1",
-      "size": 1155326117,
+      "date": "2023-12-25",
+      "datetime": 1703462400,
+      "filename": "lineage-20.0-20231225-nightly-miatoll-signed.zip",
+      "filepath": "/full/miatoll/20231225/lineage-20.0-20231225-nightly-miatoll-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "af62390f7dd55f939f6972910a1a1e835a5f075e",
+      "sha256": "e145c8fe11e9e743440703a17a0d42ca39f96b6f726d6ce34cbcd941dabd0f7b",
+      "size": 1155083536,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231218/lineage-20.0-20231218-nightly-miatoll-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231225/lineage-20.0-20231225-nightly-miatoll-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/miatoll/20231218/boot.img",
-      "sha1": "fc0cbf029237d0b3c82375a170a64317cd2ff655",
-      "sha256": "5adfe04810b367fb7b0b403b22b0d7b93f6950385069ab22ddbd61e24b908ce0",
+      "filepath": "/full/miatoll/20231225/boot.img",
+      "sha1": "f47da2a3128763c850c9f8be4c52ce4d48609883",
+      "sha256": "d6ff3918cbf6e6f11adb9151aab428b142b35f21df7ca331d85b580bcdf078ec",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231218/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231225/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/miatoll/20231218/dtbo.img",
-      "sha1": "f5d3aabc91afa42d06c61eae7c3366e9e64a75a5",
-      "sha256": "e2db2ede38f31fd2060006a563b56bd00844e6f708ca3c84933125ae445a370c",
+      "filepath": "/full/miatoll/20231225/dtbo.img",
+      "sha1": "4b1da1ff9b53328d5cf6001e57c369b090844125",
+      "sha256": "f0032cd2b69ead013b95111acf0a7efdd4b36e2c6cbd82cec8c8a8e5199310fa",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231218/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231225/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/miatoll/20231218/recovery.img",
-      "sha1": "006168f494729ac4f179b70c7067206c58eb43a0",
-      "sha256": "07473165a5575c3962ace3650bad59b4a28498a9309a790f392163bc6f01aa04",
+      "filepath": "/full/miatoll/20231225/recovery.img",
+      "sha1": "f040e4c1a92f2a3e25fe022d08fc58741ff980bd",
+      "sha256": "9c65f29f5d09800ae34701f3e4a3346d16070ae834390f8727b5dc08fbeff153",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231218/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231225/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/miatoll/20231218/super_empty.img",
+      "filepath": "/full/miatoll/20231225/super_empty.img",
       "sha1": "a533256f03497789145f1841e4517a9a387223fd",
       "sha256": "660a501b547354b46fb962e610efb71fb5136ee16b3da5513c4d768b6f981d71",
       "size": 4592,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231218/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231225/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/miatoll/20231218/vbmeta.img",
-      "sha1": "18883f30a545b0f95a125cb0c6d0546dc20fecb3",
-      "sha256": "82b7affafaa3459cb28c003665254a4d110c476d118816ca8faa22ccf324333c",
+      "filepath": "/full/miatoll/20231225/vbmeta.img",
+      "sha1": "55e53cd258897dd52dcb9a919630ef6812e52a82",
+      "sha256": "18ff12b61e54221a063035014d1553643bed9dd61400e77a62c089965fc52c46",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231218/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20231225/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
