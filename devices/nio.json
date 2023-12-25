@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-18",
-  "datetime": 1702857600,
+  "date": "2023-12-25",
+  "datetime": 1703462400,
   "files": [
     {
-      "date": "2023-12-18",
-      "datetime": 1702857600,
-      "filename": "lineage-20.0-20231218-nightly-nio-signed.zip",
-      "filepath": "/full/nio/20231218/lineage-20.0-20231218-nightly-nio-signed.zip",
-      "sha1": "20e5d8b3c9512ac2c821011ae83260991e118ff0",
-      "sha256": "4e68ee8f3ca994e2e5056fb24e9704ae407af1b6e8e72ee8b255bb38cdc3c474",
-      "size": 828395854,
+      "date": "2023-12-25",
+      "datetime": 1703462400,
+      "filename": "lineage-20.0-20231225-nightly-nio-signed.zip",
+      "filepath": "/full/nio/20231225/lineage-20.0-20231225-nightly-nio-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "e60ce27e0ef9b8fab70b59fa6dabc9b7896e2ff6",
+      "sha256": "a0ed885874a535d865012cda9d036c4c55d1af2ebcb937fc0a99c07ded8f0f5d",
+      "size": 829123946,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/nio/20231218/lineage-20.0-20231218-nightly-nio-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/nio/20231225/lineage-20.0-20231225-nightly-nio-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/nio/20231218/boot.img",
-      "sha1": "0f5a339c6ab82d700c6808e2b770076aa41ca57e",
-      "sha256": "bd9f0726192cfe177693165045a6787b43a063fab9306ddb6eb152efd5981b7d",
+      "filepath": "/full/nio/20231225/boot.img",
+      "sha1": "267c9fa768c0db8764995b0faa126eb6eafbdff8",
+      "sha256": "c332d6e9fea67c6e9774b72ac6084ac11cdefcb993f33da87b2e35bb0b16dd6b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/nio/20231218/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/nio/20231225/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/nio/20231218/dtbo.img",
-      "sha1": "76a681842105a0c3f97fca60ad66bd9da5f6d353",
-      "sha256": "7655c0508ea5a2e557d1ffcf9af4e4b4ec612aaa692fee7c087d37b94740a8b0",
+      "filepath": "/full/nio/20231225/dtbo.img",
+      "sha1": "c21365ae18db5593c534c34f3272d7ef95331e03",
+      "sha256": "5901bf3935d0a104235eee93707db3136df6b4d4795e46b4b3b8f57e032dc0a7",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/nio/20231218/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/nio/20231225/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/nio/20231218/super_empty.img",
+      "filepath": "/full/nio/20231225/super_empty.img",
       "sha1": "c36fbf84f06e445e2b9fc261655f433b32ac97d3",
       "sha256": "3204f0ff16858ae1daecf0935ca3e6af99b5b692380826c92313ed30ba214d8b",
       "size": 4952,
-      "url": "https://mirrorbits.lineageos.org/full/nio/20231218/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/nio/20231225/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/nio/20231218/vbmeta.img",
-      "sha1": "d626de3beefbf55c6648207b69e9ca60df779501",
-      "sha256": "680531fb2dcf3cd24b9916ee3067386587f09079642ce197b444faafabd1c16f",
+      "filepath": "/full/nio/20231225/vbmeta.img",
+      "sha1": "b672f2d0471e9b9b79a8b03e3bb1800f653abbcf",
+      "sha256": "8b0180b5663c211b919f2487cc223a7a8e226fc02ba86315b795238735d04394",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/nio/20231218/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/nio/20231225/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/nio/20231218/vendor_boot.img",
-      "sha1": "a5bd3c9ac10f44cd2bcb9fd79572b53e4be75ae1",
-      "sha256": "46912e7a6dc96b5f47a14ce2344f562f4ed4ed80c51e68889fd88f9abbd9f486",
+      "filepath": "/full/nio/20231225/vendor_boot.img",
+      "sha1": "782a9740fcc150cf8ec9d9ef4a17f871e2ada0d9",
+      "sha256": "b46b2f42f1178682e1b35dffc67545e36ebd5a0a023c59ecfe13c0cd19dcdef6",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/nio/20231218/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/nio/20231225/vendor_boot.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
