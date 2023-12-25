@@ -1,51 +1,53 @@
 {
-  "date": "2023-12-18",
-  "datetime": 1702857600,
+  "date": "2023-12-25",
+  "datetime": 1703462400,
   "files": [
     {
-      "date": "2023-12-18",
-      "datetime": 1702857600,
-      "filename": "lineage-20.0-20231218-nightly-blueline-signed.zip",
-      "filepath": "/full/blueline/20231218/lineage-20.0-20231218-nightly-blueline-signed.zip",
-      "sha1": "ecd72d4f02d81f933b513f65721f472418cb264f",
-      "sha256": "778065810a5daf80926653144eaaefb45be2fe571664a8f5c93bbc55f509d072",
-      "size": 971865129,
+      "date": "2023-12-25",
+      "datetime": 1703462400,
+      "filename": "lineage-20.0-20231225-nightly-blueline-signed.zip",
+      "filepath": "/full/blueline/20231225/lineage-20.0-20231225-nightly-blueline-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "c223845d14dd4fb0be3832e3d43d46d14823ad4c",
+      "sha256": "ffd19e5201dd45e0de532adf2c531610d41279619b7999592147738970b5299c",
+      "size": 971946119,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20231218/lineage-20.0-20231218-nightly-blueline-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20231225/lineage-20.0-20231225-nightly-blueline-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/blueline/20231218/boot.img",
-      "sha1": "0c34188f6bd001f4d383ff93a8692ce71093e25a",
-      "sha256": "e6e22c3d747484e2708c3d0746cd8719c33c3682e787281aa9a62a53721f4c4d",
+      "filepath": "/full/blueline/20231225/boot.img",
+      "sha1": "532a2bf2f5b9eaab281cc946b88e4d22da133dd1",
+      "sha256": "d9f0b20ab6a079736aa5a8a4ba63f8acef40497d5b2f5bc65d568c2e298adc8a",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20231218/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20231225/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/blueline/20231218/dtbo.img",
-      "sha1": "544fb404427cf3bbaf0043b7fec00e3312ead9bd",
-      "sha256": "b7613b833c81d08cf11d60671a82f861d73b384416b0f11c628628a8daafc373",
+      "filepath": "/full/blueline/20231225/dtbo.img",
+      "sha1": "13d76dcc55898dfa660fc81522ad322647b360f6",
+      "sha256": "5d6cb385bce34e371f4130c448f1c6848a73c08868bebc4ed092c329827107bb",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20231218/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20231225/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/blueline/20231218/super_empty.img",
+      "filepath": "/full/blueline/20231225/super_empty.img",
       "sha1": "3a7c22ec945d448f8e432fed494344bb7eca2469",
       "sha256": "dfeeccfa7c48196f73cf73ae28267ded9903b92019a97a80ae6aeb3b4d7293ec",
       "size": 4720,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20231218/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20231225/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/blueline/20231218/vbmeta.img",
-      "sha1": "f40105465f9433f2b8f0f34143ee37f563e30af6",
-      "sha256": "8667c6c3febd5f31963227be2a7bb914662256bd8565196b812fd48ba0b2f4ca",
+      "filepath": "/full/blueline/20231225/vbmeta.img",
+      "sha1": "a562a33e9888f35b36530fb3dbea8676896e766f",
+      "sha256": "45146934c206b193e143dfb7f4bb7b340b9ca78914fd3d33e3c448f013143707",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20231218/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20231225/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
