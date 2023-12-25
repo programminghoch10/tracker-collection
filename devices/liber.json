@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-18",
-  "datetime": 1702857600,
+  "date": "2023-12-25",
+  "datetime": 1703462400,
   "files": [
     {
-      "date": "2023-12-18",
-      "datetime": 1702857600,
-      "filename": "lineage-20.0-20231218-nightly-liber-signed.zip",
-      "filepath": "/full/liber/20231218/lineage-20.0-20231218-nightly-liber-signed.zip",
-      "sha1": "82fa5dad04e457548c160b3d7b0f75892e27feab",
-      "sha256": "9875deb085b94d8e6ca589d6a0cad3a4675d7c2ce340d41e4f648a78c55596ef",
-      "size": 775328841,
+      "date": "2023-12-25",
+      "datetime": 1703462400,
+      "filename": "lineage-20.0-20231225-nightly-liber-signed.zip",
+      "filepath": "/full/liber/20231225/lineage-20.0-20231225-nightly-liber-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "c2f30647397fe7747dfaa8c28df2deed8262a211",
+      "sha256": "524e0dd8d7a9903c6c70749a57d5782886b40c7c836bf1d42be5640755f3afaf",
+      "size": 775338210,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/liber/20231218/lineage-20.0-20231218-nightly-liber-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/liber/20231225/lineage-20.0-20231225-nightly-liber-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/liber/20231218/boot.img",
-      "sha1": "0bd087fd1a1c929f4724fd8b75bb8ba29d1d884a",
-      "sha256": "314f74260e75e46280dbed9ba65ae50bd858400af40a47c547aabf6654486d10",
+      "filepath": "/full/liber/20231225/boot.img",
+      "sha1": "41d5ab474be71f9a339863eec28963f71a8379fd",
+      "sha256": "506d8718d306f772ee45bbabbeaa7fbd8242fffcec688f620786c6fc6a764d95",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/liber/20231218/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/liber/20231225/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/liber/20231218/dtbo.img",
-      "sha1": "884b8d540428406a484d71e0a204875e0427948b",
-      "sha256": "9d5e25fa04be7576ffef014785844b73dca24754d09c8686c566e83fc91dfa68",
+      "filepath": "/full/liber/20231225/dtbo.img",
+      "sha1": "7eac46293dc35c3b6600a793a53b3e941313acc6",
+      "sha256": "304e14fe4182ffaa5711c46943500aabb12e249dc687f1e5582469138e5cc2f6",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/liber/20231218/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/liber/20231225/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/liber/20231218/recovery.img",
-      "sha1": "fa6ce595abd0c477636a736a4d969b6480bbef9f",
-      "sha256": "a1ced4dd51539c065eed104c3295e8396788703a2f16f63859bd7e69ebb7810c",
+      "filepath": "/full/liber/20231225/recovery.img",
+      "sha1": "eb24f8197602efa62fd7a19fab5c25cd1659a97e",
+      "sha256": "952d1dce205446fca9436d3ce9b0b48eafe1cdae6601d502cb2d9d2aca832ce1",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/liber/20231218/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/liber/20231225/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/liber/20231218/super_empty.img",
+      "filepath": "/full/liber/20231225/super_empty.img",
       "sha1": "9a2b1c75c1841b6b5580101df54e63beff220ece",
       "sha256": "c4c5693c12ab17a0ba9d4c1f12886d70855feb80a9de874b1d7a5da9b4ef08d5",
       "size": 4744,
-      "url": "https://mirrorbits.lineageos.org/full/liber/20231218/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/liber/20231225/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/liber/20231218/vbmeta.img",
-      "sha1": "60c7c092602958372e0771f2b2873c602217a9f9",
-      "sha256": "9d47da622706e14b1266b9a9a07f4855bb1b362af4e8f23da5862228ea13eed8",
+      "filepath": "/full/liber/20231225/vbmeta.img",
+      "sha1": "c02d347b106570c2489e890c966b6775f9dff4e8",
+      "sha256": "12ceda480b7f4639a3b2555767aafbf7790f8272462abf29f724248a58bdbc99",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/liber/20231218/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/liber/20231225/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
