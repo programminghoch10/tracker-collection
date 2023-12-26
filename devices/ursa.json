@@ -1,43 +1,45 @@
 {
-  "date": "2023-12-19",
-  "datetime": 1702944000,
+  "date": "2023-12-26",
+  "datetime": 1703548800,
   "files": [
     {
-      "date": "2023-12-19",
-      "datetime": 1702944000,
-      "filename": "lineage-20.0-20231219-nightly-ursa-signed.zip",
-      "filepath": "/full/ursa/20231219/lineage-20.0-20231219-nightly-ursa-signed.zip",
-      "sha1": "0f9fb47b19a81f68a8b26914338cce0197bbadad",
-      "sha256": "9701382e2c072b0115968699365886b720d062d0d9eadf184cfd06e00dc9b977",
-      "size": 1073817203,
+      "date": "2023-12-26",
+      "datetime": 1703548800,
+      "filename": "lineage-20.0-20231226-nightly-ursa-signed.zip",
+      "filepath": "/full/ursa/20231226/lineage-20.0-20231226-nightly-ursa-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "c8928529a8f84108b1fc29acedb8454a28af78c6",
+      "sha256": "8d2acc2c96359f0418c408249336981264266d617a2e777e5e58bbc995c6cb59",
+      "size": 1073868899,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20231219/lineage-20.0-20231219-nightly-ursa-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20231226/lineage-20.0-20231226-nightly-ursa-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/ursa/20231219/boot.img",
-      "sha1": "a4d24aa66ba4ee09fb8179c6b56271bd6dfbf90a",
-      "sha256": "9e719924a750f62d07a4a905d7d3eb9f310dd6ab04f54a42d6a84688e54aee8c",
+      "filepath": "/full/ursa/20231226/boot.img",
+      "sha1": "fa42392487d8c437a4e387686d4ce7d4556be25e",
+      "sha256": "ad76042007ccdeb062ce7bc482d0da7d65229c9e736cc43c1c1b3c33180c8b89",
       "size": 67092480,
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20231219/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20231226/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/ursa/20231219/recovery.img",
-      "sha1": "9571bab4d78fe4ce04b85d1bf5bede13af7bdb29",
-      "sha256": "f127f5c5c5201387efbd92687fb46f722fbff9e07d103b9b74ad6dc4cb93bf3b",
+      "filepath": "/full/ursa/20231226/recovery.img",
+      "sha1": "bb484a151f55cfc8557195352f14e19c061c7b7e",
+      "sha256": "c25351656c98e94979acd82ee298bde0fea30f838db284bb90b4c43cf841f71e",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20231219/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20231226/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/ursa/20231219/vbmeta.img",
-      "sha1": "41f83fded0ca7af37a29c96f38a2964ee7a573b6",
-      "sha256": "de8acf3a61f213e9188f8869ab463db92aed76fed8e5491bd95358fa1784634a",
+      "filepath": "/full/ursa/20231226/vbmeta.img",
+      "sha1": "fb3add87622e7708775213e5e0fcc4a10940abfe",
+      "sha256": "419f4de322d2750bd512d4cd6debdcedb19700c2caaf1a75c113037151ecf9a7",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20231219/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20231226/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
