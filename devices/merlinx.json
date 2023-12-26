@@ -1,59 +1,61 @@
 {
-  "date": "2023-12-19",
-  "datetime": 1702944000,
+  "date": "2023-12-26",
+  "datetime": 1703548800,
   "files": [
     {
-      "date": "2023-12-19",
-      "datetime": 1702944000,
-      "filename": "lineage-20.0-20231219-nightly-merlinx-signed.zip",
-      "filepath": "/full/merlinx/20231219/lineage-20.0-20231219-nightly-merlinx-signed.zip",
-      "sha1": "887f5a272c165be79673b041495d6a9f76e69b7f",
-      "sha256": "de1956b94f3a03f588cb544abac543bc1d5930bd7814c9ca1289f99aefe85343",
-      "size": 974123643,
+      "date": "2023-12-26",
+      "datetime": 1703548800,
+      "filename": "lineage-20.0-20231226-nightly-merlinx-signed.zip",
+      "filepath": "/full/merlinx/20231226/lineage-20.0-20231226-nightly-merlinx-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "ead668ee3568db63b7f49bf80fffa136f14e8bac",
+      "sha256": "6a0b00028c7599f6bd783f8e1202846ab47ff4e4cebee381cf982c55236b2b3d",
+      "size": 974151960,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231219/lineage-20.0-20231219-nightly-merlinx-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231226/lineage-20.0-20231226-nightly-merlinx-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/merlinx/20231219/boot.img",
-      "sha1": "ca4532153da76b3db6c36d3137e3560dd9e0280d",
-      "sha256": "32eb5eb9dbc934fba3968957059ebdad4dfb6236d04fd8060ffdef4d68e3cc69",
+      "filepath": "/full/merlinx/20231226/boot.img",
+      "sha1": "5196ae48850ae5b5eb313af8782a3e6c0340d412",
+      "sha256": "facc093d38541b9cc6cc8086ad053cb39396c821f107db5bcb93dc81b0989341",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231219/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231226/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/merlinx/20231219/dtbo.img",
-      "sha1": "d23f640c038a1c6c7cc92f07e409a7492e8e0228",
-      "sha256": "869e6dfb42dc58dc9adf9740b2dfa066ca3c856a38e1f2dee9556e1d02cc3db9",
+      "filepath": "/full/merlinx/20231226/dtbo.img",
+      "sha1": "9fff58e0cc70b323f9677e2b06a6e6ccb24f2f8f",
+      "sha256": "60a5fe800b0067c718dafe8514313922390ce3fea62812af924c375249743196",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231219/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231226/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/merlinx/20231219/recovery.img",
-      "sha1": "aacb58a7114d9e1a44cb21706677be575278173b",
-      "sha256": "782c1734c54d67e9d953c37e996e4de8ab74eb3a4d0329c51c01d5604d31ddbf",
+      "filepath": "/full/merlinx/20231226/recovery.img",
+      "sha1": "e5b3f19312d24424624b1bd9c7ec07c23374f29d",
+      "sha256": "1d5ff94ab5cdf0c532aab8c09792845f364618d120584443496fddb19e9bae29",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231219/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231226/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/merlinx/20231219/super_empty.img",
+      "filepath": "/full/merlinx/20231226/super_empty.img",
       "sha1": "110b4e975f0fced155b209fdada3b92853026f68",
       "sha256": "ae9c47b9bb35cf536a1b9fcae4633068d5051e1d2d83a50f1948f069f1a24944",
       "size": 4592,
-      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231219/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231226/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/merlinx/20231219/vbmeta.img",
-      "sha1": "5cf8f0527ca86b5ab1aaca4e86833b3d4c4eddd1",
-      "sha256": "a2784ee8e21a828846729b42268c105614ca30261c62694b97480c4831e0b2fa",
+      "filepath": "/full/merlinx/20231226/vbmeta.img",
+      "sha1": "4646805f751a7662bf0f91d4ebbd24c13a3ebfea",
+      "sha256": "ab2b3822547f8f54f0efd0a111a1580f8bb5d094c4fbbcebb30ad9cbfd4caa25",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231219/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/merlinx/20231226/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
