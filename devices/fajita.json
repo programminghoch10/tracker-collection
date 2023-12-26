@@ -1,43 +1,45 @@
 {
-  "date": "2023-12-19",
-  "datetime": 1702944000,
+  "date": "2023-12-26",
+  "datetime": 1703548800,
   "files": [
     {
-      "date": "2023-12-19",
-      "datetime": 1702944000,
-      "filename": "lineage-20.0-20231219-nightly-fajita-signed.zip",
-      "filepath": "/full/fajita/20231219/lineage-20.0-20231219-nightly-fajita-signed.zip",
-      "sha1": "61e87bbd8602cacdeea7f5af8c1b3cf41ef58518",
-      "sha256": "bf03a8ee40f3456d69454237738642d2ef9a5de4db0783cf82b3e563f42ae85b",
-      "size": 856334244,
+      "date": "2023-12-26",
+      "datetime": 1703548800,
+      "filename": "lineage-20.0-20231226-nightly-fajita-signed.zip",
+      "filepath": "/full/fajita/20231226/lineage-20.0-20231226-nightly-fajita-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "82c449031f8d1912fc7b357c29169518c17638aa",
+      "sha256": "94a2011be6aba346e9f01c34dccee128562a0682da2113fa7865835867a7a1a9",
+      "size": 856358404,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20231219/lineage-20.0-20231219-nightly-fajita-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20231226/lineage-20.0-20231226-nightly-fajita-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/fajita/20231219/boot.img",
-      "sha1": "82335e63066bb6fc01c06283357430597a1b9235",
-      "sha256": "5b8ab15264718c53e24f88d8c9f38fef0ed9c4159729f28c5226d8428e3505f2",
+      "filepath": "/full/fajita/20231226/boot.img",
+      "sha1": "512cf24e492b250a48c5c445ce0cca8384c2c2ee",
+      "sha256": "f5f80755197691a59c573314cfd995c7c469d80ef13b84bf897231ce0de8d1dd",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20231219/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20231226/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/fajita/20231219/dtbo.img",
-      "sha1": "d6017b0c53df97c0b4aa2f39f94531a1e17f1439",
-      "sha256": "b0ed88f38d44beb7a83cd0f8892debb97f8966eaa73745ddbdb22f872785b5e5",
+      "filepath": "/full/fajita/20231226/dtbo.img",
+      "sha1": "136c9f28f5163faaefd6ed37499e7fa0b97200ca",
+      "sha256": "f2e5b8e58dcee113d662d5e352eef769ec1e27cfd265ef4f4c6097bad7461e6d",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20231219/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20231226/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/fajita/20231219/vbmeta.img",
-      "sha1": "55c46564e3750f104d357122d79de0d6d6b74e12",
-      "sha256": "e8046a3facc5692471de12109a916fbafeb2128d38a2bc2786ea54589a6bd1f4",
+      "filepath": "/full/fajita/20231226/vbmeta.img",
+      "sha1": "653ebf62cf23a7006c3c5d703c8f71141d1dbd92",
+      "sha256": "4a78224e569f4da8924744551e0b10a1dd0c5dd86424e5187eec0ba9d5bc9441",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20231219/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20231226/vbmeta.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "20.0"
 }
