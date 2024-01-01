@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-01",
-  "datetime": 1701388800,
+  "date": "2024-01-01",
+  "datetime": 1704067200,
   "files": [
     {
-      "date": "2023-12-01",
-      "datetime": 1701388800,
-      "filename": "lineage-18.1-20231201-nightly-foster-signed.zip",
-      "filepath": "/full/foster/20231201/lineage-18.1-20231201-nightly-foster-signed.zip",
-      "sha1": "bc82107ebac43089172389ab5cbfe1568e02e741",
-      "sha256": "329e21df59eea535dbbe7a564cd85969ed53be985dcd5344de4564847fbbf200",
-      "size": 628087642,
+      "date": "2024-01-01",
+      "datetime": 1704067200,
+      "filename": "lineage-18.1-20240101-nightly-foster-signed.zip",
+      "filepath": "/full/foster/20240101/lineage-18.1-20240101-nightly-foster-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "bbf83f35bb30ca5b17b5859f72c980dbd9301a52",
+      "sha256": "9cf2660d4a9e3e16e4b5df0c8640dbe5198efb8d9da2af589acd4f186cbff5a5",
+      "size": 630511372,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/foster/20231201/lineage-18.1-20231201-nightly-foster-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/foster/20240101/lineage-18.1-20240101-nightly-foster-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/foster/20231201/boot.img",
-      "sha1": "daa9f4ee97d40c7a614f36e8227cda4245d7a934",
-      "sha256": "f60c785bf5cb34f0e80071c9995f90984ec70cd4f55828513053aae91a657ce6",
+      "filepath": "/full/foster/20240101/boot.img",
+      "sha1": "0e40a82b7bedee80ba1fd1cd1b244d9d7b60e30c",
+      "sha256": "40272e8defeefcbcd6c9c28f5c2c13f7f64e00ddfe74a9c0f91217b915f0fd12",
       "size": 11673600,
-      "url": "https://mirrorbits.lineageos.org/full/foster/20231201/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/foster/20240101/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/foster/20231201/recovery.img",
-      "sha1": "1d5072ffd065b31255ca330a23491c09d81c159f",
-      "sha256": "acf63ba9a1214f1a67d2ac4b0354fb4c7578e24173a9ed6a92b1faecd77ee934",
+      "filepath": "/full/foster/20240101/recovery.img",
+      "sha1": "4ebe6476d723d42228011c53c377732b95829052",
+      "sha256": "181a1236c66e0d851688537939526a871bfbe0ddbb6864894b93d10376e2535f",
       "size": 21182464,
-      "url": "https://mirrorbits.lineageos.org/full/foster/20231201/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/foster/20240101/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
