@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-01",
-  "datetime": 1701388800,
+  "date": "2024-01-01",
+  "datetime": 1704067200,
   "files": [
     {
-      "date": "2023-12-01",
-      "datetime": 1701388800,
-      "filename": "lineage-18.1-20231201-nightly-klte-signed.zip",
-      "filepath": "/full/klte/20231201/lineage-18.1-20231201-nightly-klte-signed.zip",
-      "sha1": "80090febd9435137f206d915e27090dc8fa16a17",
-      "sha256": "5f565eb56f70fcf1d783b86159498be5c813cdd8a7cad04f1fce9ab8bafdda82",
-      "size": 507831293,
+      "date": "2024-01-01",
+      "datetime": 1704067200,
+      "filename": "lineage-18.1-20240101-nightly-klte-signed.zip",
+      "filepath": "/full/klte/20240101/lineage-18.1-20240101-nightly-klte-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "998a9a3fafba8b6176dc5230edab3ff95147a6e8",
+      "sha256": "80e2ff3d5a392893c7b66d2365ea22055759b9d76052145aed95e3026de8f45a",
+      "size": 508512433,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/klte/20231201/lineage-18.1-20231201-nightly-klte-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/klte/20240101/lineage-18.1-20240101-nightly-klte-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/klte/20231201/boot.img",
-      "sha1": "20c0f1582fb7b7f7a42d987ac25a148e34118f16",
-      "sha256": "1cf4c2a71b1f9b312bfa83c482843aeca494c86ea0b73e4af2ae6d97bd07a1c5",
+      "filepath": "/full/klte/20240101/boot.img",
+      "sha1": "1c97056d387d99e1be6a42d1a3ca4250fc7ab6fe",
+      "sha256": "1da238d15893eb889264b56b89f2c7d5b28ba6b200e22783cd45a690927d5dd6",
       "size": 8144912,
-      "url": "https://mirrorbits.lineageos.org/full/klte/20231201/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/klte/20240101/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/klte/20231201/recovery.img",
-      "sha1": "95a8ed290ff18df719dfd5f1ab53aed3f4acc862",
-      "sha256": "012aba8782f054119f8cb354ddbe01099fd8d41f18ba904fac5ea98f4f41a57b",
-      "size": 13262864,
-      "url": "https://mirrorbits.lineageos.org/full/klte/20231201/recovery.img"
+      "filepath": "/full/klte/20240101/recovery.img",
+      "sha1": "7bebe6e27168d8130011f7d1cd92cf37f6dfe2c8",
+      "sha256": "23f510788f615cfa82310506a6210610d5fd29406e95e6b35781023f1f0a9828",
+      "size": 13260816,
+      "url": "https://mirrorbits.lineageos.org/full/klte/20240101/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
