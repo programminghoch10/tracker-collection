@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-01",
-  "datetime": 1701388800,
+  "date": "2024-01-01",
+  "datetime": 1704067200,
   "files": [
     {
-      "date": "2023-12-01",
-      "datetime": 1701388800,
-      "filename": "lineage-18.1-20231201-nightly-hltechn-signed.zip",
-      "filepath": "/full/hltechn/20231201/lineage-18.1-20231201-nightly-hltechn-signed.zip",
-      "sha1": "267545f623552a52d5789e4e27f5db887e698354",
-      "sha256": "1155f9c3a6d9c5ae052f02024f0012dab1e1b81121591d35195248423c4eeca1",
-      "size": 505860938,
+      "date": "2024-01-01",
+      "datetime": 1704067200,
+      "filename": "lineage-18.1-20240101-nightly-hltechn-signed.zip",
+      "filepath": "/full/hltechn/20240101/lineage-18.1-20240101-nightly-hltechn-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "24d96c3bd6bef1dd6c58bd53108d59b67e1105db",
+      "sha256": "86452c9e4f5395c139c2517a592e4c18225905415335a7ff8a3e2dd53725e4b8",
+      "size": 506298180,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/hltechn/20231201/lineage-18.1-20231201-nightly-hltechn-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/hltechn/20240101/lineage-18.1-20240101-nightly-hltechn-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/hltechn/20231201/boot.img",
-      "sha1": "55054b214929e3ca131e4e19a5659329c84b3ea2",
-      "sha256": "56ed6d147c4c8bafc32c839b21050d0f6c0e99282de6d293dd8e95e4f6e79e9b",
+      "filepath": "/full/hltechn/20240101/boot.img",
+      "sha1": "c1a901508fee48f25263a4b69fb190155c383feb",
+      "sha256": "4aa47a1d606d32bb68c3de939fd9d113d413f16aa7b8cb06ed280904c05b4f49",
       "size": 6639632,
-      "url": "https://mirrorbits.lineageos.org/full/hltechn/20231201/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/hltechn/20240101/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/hltechn/20231201/recovery.img",
-      "sha1": "bd994ee9361106d81fc5430c6826bd474f506c0c",
-      "sha256": "3e629f8b5b181aa1fe5741d98ca2c6a4d108b30561daec919fb5f14d855175b8",
-      "size": 11757584,
-      "url": "https://mirrorbits.lineageos.org/full/hltechn/20231201/recovery.img"
+      "filepath": "/full/hltechn/20240101/recovery.img",
+      "sha1": "4ccdbf4e8b66e5793c73e0f5b376d79131d4177c",
+      "sha256": "47624d4e78d019e31334b0f56a36f056de230e6905ebc84c79c12b0ab2e6796c",
+      "size": 11753488,
+      "url": "https://mirrorbits.lineageos.org/full/hltechn/20240101/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
