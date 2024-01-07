@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-06",
-  "datetime": 1701820800,
+  "date": "2024-01-06",
+  "datetime": 1704499200,
   "files": [
     {
-      "date": "2023-12-06",
-      "datetime": 1701820800,
-      "filename": "lineage-18.1-20231206-nightly-bacon-signed.zip",
-      "filepath": "/full/bacon/20231206/lineage-18.1-20231206-nightly-bacon-signed.zip",
-      "sha1": "68bc87d820e94668442d4da2c73db2ff2c7a7dc0",
-      "sha256": "5c21d3da792f7ae1c5163d43d247aafba404f789fbf6029dd5d3c5a78e66fea6",
-      "size": 476034868,
+      "date": "2024-01-06",
+      "datetime": 1704499200,
+      "filename": "lineage-18.1-20240106-nightly-bacon-signed.zip",
+      "filepath": "/full/bacon/20240106/lineage-18.1-20240106-nightly-bacon-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "4fb2180840e791c11181b28b2fdfe935d2389cc9",
+      "sha256": "896f48833b1a7c5314bf4b08f74133f1e78ca5686f6e0386ac08616f3a1cc0ce",
+      "size": 476779932,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bacon/20231206/lineage-18.1-20231206-nightly-bacon-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bacon/20240106/lineage-18.1-20240106-nightly-bacon-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/bacon/20231206/boot.img",
-      "sha1": "298622bee94fa21337c5935aea18cf3c82941ae1",
-      "sha256": "856e0e0dcf734877173040d2c0cc324863b7940cd1e130dbd13415b6f2a8c572",
+      "filepath": "/full/bacon/20240106/boot.img",
+      "sha1": "b53b7d897ae2d216692e0bbaeea91a82dd16cb0a",
+      "sha256": "d2c8fe031c74a15f0a0395a559fa00b434703438534ecf2e92b2f0689b307f75",
       "size": 6666240,
-      "url": "https://mirrorbits.lineageos.org/full/bacon/20231206/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bacon/20240106/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/bacon/20231206/recovery.img",
-      "sha1": "1d751c00e4d63c8025932bd98250ce6eff30fb42",
-      "sha256": "ca27e243b4831603184ce4d75e6468aed5035743758fca87cf2dd613cbe9ccc6",
-      "size": 12238848,
-      "url": "https://mirrorbits.lineageos.org/full/bacon/20231206/recovery.img"
+      "filepath": "/full/bacon/20240106/recovery.img",
+      "sha1": "74354c3629682be223b7741aa89073f8a26a1c5b",
+      "sha256": "b7f5dc5c3da58de65a2e360b4d80eeec80a593590b7f1d9aeef3843c25856cc6",
+      "size": 12236800,
+      "url": "https://mirrorbits.lineageos.org/full/bacon/20240106/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
