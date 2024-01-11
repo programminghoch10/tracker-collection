@@ -1,61 +1,61 @@
 {
-  "date": "2024-01-04",
-  "datetime": 1704326400,
+  "date": "2024-01-11",
+  "datetime": 1704931200,
   "files": [
     {
-      "date": "2024-01-04",
-      "datetime": 1704326400,
-      "filename": "lineage-20.0-20240104-nightly-racer-signed.zip",
-      "filepath": "/full/racer/20240104/lineage-20.0-20240104-nightly-racer-signed.zip",
-      "os_patch_level": "2023-12",
-      "sha1": "48b329c279208438d21a417ca7913af3216e726b",
-      "sha256": "33f002daf6c59ccefbf95dd757cb72493fcbba18d6754563e9b0efdd5c566c9d",
-      "size": 960810809,
+      "date": "2024-01-11",
+      "datetime": 1704931200,
+      "filename": "lineage-20.0-20240111-nightly-racer-signed.zip",
+      "filepath": "/full/racer/20240111/lineage-20.0-20240111-nightly-racer-signed.zip",
+      "os_patch_level": "2024-01",
+      "sha1": "279a123fd5f79d7bb250c36c11445df27925351e",
+      "sha256": "3fe53318e5eef01daba3cb7747fabf76a172abe9a9d2e0d16aa29ff8f8dda91b",
+      "size": 960817451,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/racer/20240104/lineage-20.0-20240104-nightly-racer-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/racer/20240111/lineage-20.0-20240111-nightly-racer-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/racer/20240104/boot.img",
-      "sha1": "7200449b46e3a684de8ecfb205709be52feaa7f2",
-      "sha256": "5d0e4b9ea01c5307ba7568fca122f2e6685eb89e2d51512c46641b88618280e1",
+      "filepath": "/full/racer/20240111/boot.img",
+      "sha1": "c90b42ba2f8955a1ed1af3035068e95feeb1f28a",
+      "sha256": "8027e4ca6f859e8f1cc8c6f0842cd54f0ede5dec4747e4209a0ecc2df1396ac8",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/racer/20240104/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/racer/20240111/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/racer/20240104/dtbo.img",
-      "sha1": "6f0217eb70ca6b8c010de4bdcc02ebd5356e0cdb",
-      "sha256": "56163df6473614bf36a8721e05c594f3bfd1bd78cd6287954b6799e9e1116233",
+      "filepath": "/full/racer/20240111/dtbo.img",
+      "sha1": "10b81817a5cfb6aa42cc25ef5709ad48dbc73e69",
+      "sha256": "0a616125d979cc2a2a69f789391e2007656c481edafafcb160e5b87674a1ef69",
       "size": 2097152,
-      "url": "https://mirrorbits.lineageos.org/full/racer/20240104/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/racer/20240111/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/racer/20240104/recovery.img",
-      "sha1": "7f1257f35146da8f5baf1649332aa2a7b8cbc9a2",
-      "sha256": "e712c8e11b55b9c3c3b8337d25027fb43856065559b0275da1f62b1d872608ea",
+      "filepath": "/full/racer/20240111/recovery.img",
+      "sha1": "f245f1454832b8348f3cae4e7c9c571ce70d4741",
+      "sha256": "790b335ae27ff64c59d4992e0fafd064129a9a4554f15966a43bb5acc52408f7",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/racer/20240104/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/racer/20240111/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/racer/20240104/super_empty.img",
+      "filepath": "/full/racer/20240111/super_empty.img",
       "sha1": "8043a00ea7911fdec41e3ffce0e6f1b80fa936e8",
       "sha256": "80e39460caca50443fa68d849bd8f7cbcbd02d1f0ae1dc88195a23adf899c325",
       "size": 4744,
-      "url": "https://mirrorbits.lineageos.org/full/racer/20240104/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/racer/20240111/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/racer/20240104/vbmeta.img",
-      "sha1": "30a88b834dae8fa6e5fc21e31997a5b245d772a6",
-      "sha256": "ca90e6cd0873a5fdc258002ec1888149a175e1374a97a85383e10e26b84a86e9",
+      "filepath": "/full/racer/20240111/vbmeta.img",
+      "sha1": "e6eba403def59277395c5a966afffd70f9b77404",
+      "sha256": "25baf9a954ac6d1e73e23c26aa69fea04db0ad9f7ad8e56b15a53cfaa4f03277",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/racer/20240104/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/racer/20240111/vbmeta.img"
     }
   ],
-  "os_patch_level": "2023-12",
+  "os_patch_level": "2024-01",
   "type": "nightly",
   "version": "20.0"
 }
