@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-12",
-  "datetime": 1702339200,
+  "date": "2024-01-12",
+  "datetime": 1705017600,
   "files": [
     {
-      "date": "2023-12-12",
-      "datetime": 1702339200,
-      "filename": "lineage-18.1-20231212-nightly-s3ve3gjv-signed.zip",
-      "filepath": "/full/s3ve3gjv/20231212/lineage-18.1-20231212-nightly-s3ve3gjv-signed.zip",
-      "sha1": "f67734cacbabd53146d182e0a3a599ca06a16860",
-      "sha256": "26764f6bbe8dc7d1e679f6d2f90e357f806e548311106d4ab68034aa68abf4b5",
-      "size": 511660920,
+      "date": "2024-01-12",
+      "datetime": 1705017600,
+      "filename": "lineage-18.1-20240112-nightly-s3ve3gjv-signed.zip",
+      "filepath": "/full/s3ve3gjv/20240112/lineage-18.1-20240112-nightly-s3ve3gjv-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "7774f9adad7d0081a1dc282263f0a974467ce4d0",
+      "sha256": "7f04f806d63da1c2d24502fbab6e56a36aa40fc45cb1b489d87ad5a2f869d226",
+      "size": 512294465,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/s3ve3gjv/20231212/lineage-18.1-20231212-nightly-s3ve3gjv-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/s3ve3gjv/20240112/lineage-18.1-20240112-nightly-s3ve3gjv-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/s3ve3gjv/20231212/boot.img",
-      "sha1": "5c56b6ff47c31adaf3be7d06610f1cd9ed0dcd4e",
-      "sha256": "80dfc99b6d3166092681cc34a7d7a6b64199060f8c90db43f12312a541f829c3",
-      "size": 5152784,
-      "url": "https://mirrorbits.lineageos.org/full/s3ve3gjv/20231212/boot.img"
+      "filepath": "/full/s3ve3gjv/20240112/boot.img",
+      "sha1": "658fbfb09787ae8482aa3cb28329795666f6239f",
+      "sha256": "254123e051e49233c8cd12fb9a7e48c763dd8999cc9a3fb437030a74d2348ec7",
+      "size": 5156880,
+      "url": "https://mirrorbits.lineageos.org/full/s3ve3gjv/20240112/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/s3ve3gjv/20231212/recovery.img",
-      "sha1": "5c0f828722223c30d3e5e4b9f751424b9e5b2982",
-      "sha256": "b2cdeccae1a42463518f3715f3d58c0079ee52a2ed4a02aa767b1c6090eba99c",
-      "size": 9967632,
-      "url": "https://mirrorbits.lineageos.org/full/s3ve3gjv/20231212/recovery.img"
+      "filepath": "/full/s3ve3gjv/20240112/recovery.img",
+      "sha1": "653518f825e565fffe2975a6885d4888504778c5",
+      "sha256": "9a86e61b7783c13196facc9c9b5550e5bc36c4d8173ba5d4e49aeb5248035c1c",
+      "size": 9969680,
+      "url": "https://mirrorbits.lineageos.org/full/s3ve3gjv/20240112/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
