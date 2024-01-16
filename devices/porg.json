@@ -1,35 +1,37 @@
 {
-  "date": "2023-12-16",
-  "datetime": 1702684800,
+  "date": "2024-01-16",
+  "datetime": 1705363200,
   "files": [
     {
-      "date": "2023-12-16",
-      "datetime": 1702684800,
-      "filename": "lineage-18.1-20231216-nightly-porg-signed.zip",
-      "filepath": "/full/porg/20231216/lineage-18.1-20231216-nightly-porg-signed.zip",
-      "sha1": "e3decda87592adb0c3c30fd1060385e1ac4f3807",
-      "sha256": "22a71dc01ba65114b1882a74c26e2b6e30cffb2738f6e902f0bd25cdb9ffc7a0",
-      "size": 605384824,
+      "date": "2024-01-16",
+      "datetime": 1705363200,
+      "filename": "lineage-18.1-20240116-nightly-porg-signed.zip",
+      "filepath": "/full/porg/20240116/lineage-18.1-20240116-nightly-porg-signed.zip",
+      "os_patch_level": "2023-12",
+      "sha1": "b8f8e2ce78727edec696e65efaa353c94fdaf36a",
+      "sha256": "183d635d294a4e6eb91d42fe4b02953c302d57ca9669320a45e6f13a2a89779b",
+      "size": 605340155,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/porg/20231216/lineage-18.1-20231216-nightly-porg-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/porg/20240116/lineage-18.1-20240116-nightly-porg-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/porg/20231216/boot.img",
-      "sha1": "f604e2111c9f5255589a897b43ddb1d5d154ab19",
-      "sha256": "478d243d154ff77ce93684daaa62e9312716275bd80703ffbed77f045b1dfaee",
+      "filepath": "/full/porg/20240116/boot.img",
+      "sha1": "aa441eab3ddce20edfd09bf4bdf402f054b42b32",
+      "sha256": "9f2bb8bf03a6be46d1e341a11b416d96daca8ab1e054cc9910114dd63825a401",
       "size": 11673600,
-      "url": "https://mirrorbits.lineageos.org/full/porg/20231216/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/porg/20240116/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/porg/20231216/recovery.img",
-      "sha1": "9ac8eb3c436e710d434bd031c96677063c86c570",
-      "sha256": "c0d32e9a3a2b5e7f710f60d703c35789388526cf62d3751fb531228f73b2e8bf",
-      "size": 20017152,
-      "url": "https://mirrorbits.lineageos.org/full/porg/20231216/recovery.img"
+      "filepath": "/full/porg/20240116/recovery.img",
+      "sha1": "530fa94cc4d745837febbaa2415d71554ef234a0",
+      "sha256": "a42fad59e621317b6282850a9ece49ad89c40fde4d9dd545bacc855e0db1ac89",
+      "size": 20019200,
+      "url": "https://mirrorbits.lineageos.org/full/porg/20240116/recovery.img"
     }
   ],
+  "os_patch_level": "2023-12",
   "type": "nightly",
   "version": "18.1"
 }
