@@ -1,53 +1,61 @@
 {
-  "date": "2024-02-09",
-  "datetime": 1707436800,
+  "date": "2024-02-16",
+  "datetime": 1708041600,
   "files": [
     {
-      "date": "2024-02-09",
-      "datetime": 1707436800,
-      "filename": "lineage-20.0-20240209-nightly-TP1803-signed.zip",
-      "filepath": "/full/TP1803/20240209/lineage-20.0-20240209-nightly-TP1803-signed.zip",
-      "os_patch_level": "2024-01",
-      "sha1": "a77b514e8a6f9dbc34c2610a00eef7b25c28e960",
-      "sha256": "17255160921708441b1fedfe57acf2775bd0f1db6ad69dc16a7ee62f2526466d",
-      "size": 1009541803,
+      "date": "2024-02-16",
+      "datetime": 1708041600,
+      "filename": "lineage-21.0-20240216-nightly-TP1803-signed.zip",
+      "filepath": "/full/TP1803/20240216/lineage-21.0-20240216-nightly-TP1803-signed.zip",
+      "os_patch_level": "2024-02",
+      "sha1": "865bfbf9e2e86b97907e6b616073a584fa727127",
+      "sha256": "eaf563ed40dfa4634ba2b53fa58ec121a1c44ddccf86610800f10fc42a58aebb",
+      "size": 1052230132,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240209/lineage-20.0-20240209-nightly-TP1803-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240216/lineage-21.0-20240216-nightly-TP1803-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/TP1803/20240209/boot.img",
-      "sha1": "b55e5809020c604b3cc9c82381483684771072b5",
-      "sha256": "56c1fec2bb3a3c42671f481cf7af937fe3e0a02c07dd8ebc81158ee77d3eaa52",
+      "filepath": "/full/TP1803/20240216/boot.img",
+      "sha1": "c511c7790e67b264b48785b32b827c94fb1c1908",
+      "sha256": "452728bef1e91930fc396e9c32b969df62668f941fae047748256536a53196df",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240209/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240216/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/TP1803/20240209/dtbo.img",
-      "sha1": "d8ed9bbd95dbcdbe00399f218b4aa3fc277ec9f9",
-      "sha256": "6bd68b011b3628dcceccab0339ae0379ecc5c80b6c63927a0c40df78bd8deba4",
+      "filepath": "/full/TP1803/20240216/dtbo.img",
+      "sha1": "31e7a9862f41e39fc9f55cdce0d18a8891cbf19b",
+      "sha256": "8a116a9e69ab2549e3f45a9a6a628189c3449691389ea124cf71d5fe835e3d96",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240209/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240216/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/TP1803/20240209/recovery.img",
-      "sha1": "7aa294f78cb266afbc19b4283d0dbc58c1960a01",
-      "sha256": "01138b3e45f5fdc27c0fe70c7c5db9b264cf8728b8774468f98ba9ee7f1e307f",
+      "filepath": "/full/TP1803/20240216/recovery.img",
+      "sha1": "a276adeb804e3db562e69ebc0a87526051fae4de",
+      "sha256": "d9c7de21bc224170e91ded7796a31927ecc2389596e79215de79d11a0f896b28",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240209/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240216/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/TP1803/20240216/super_empty.img",
+      "sha1": "dcf4fb181ec5d47cd3b804c4773cce47756ae699",
+      "sha256": "84583963b62416bea05db35b5ec687f3d31d893a0d4aa7891a13f0c8b2e703e1",
+      "size": 4708,
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240216/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/TP1803/20240209/vbmeta.img",
-      "sha1": "0314fdda999cd0041a4920bbc55842a0f58d327f",
-      "sha256": "dd5fcae4e7dbba56745b9c90bb8cd859483192a82ee8cd176b56166edffe19ec",
+      "filepath": "/full/TP1803/20240216/vbmeta.img",
+      "sha1": "b5d36b79c48ed423a92f05c169dfff056515b5d6",
+      "sha256": "797687055057d590fdd124ed8c836c80463bf734e8bd5d7ecd99e67d37cb81bd",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240209/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20240216/vbmeta.img"
     }
   ],
-  "os_patch_level": "2024-01",
+  "os_patch_level": "2024-02",
   "type": "nightly",
-  "version": "20.0"
+  "version": "21.0"
 }
