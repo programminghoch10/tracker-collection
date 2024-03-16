@@ -1,61 +1,61 @@
 {
-  "date": "2024-03-09",
-  "datetime": 1709942400,
+  "date": "2024-03-16",
+  "datetime": 1710547200,
   "files": [
     {
-      "date": "2024-03-09",
-      "datetime": 1709942400,
-      "filename": "lineage-21.0-20240309-nightly-bluejay-signed.zip",
-      "filepath": "/full/bluejay/20240309/lineage-21.0-20240309-nightly-bluejay-signed.zip",
-      "os_patch_level": null,
-      "sha1": "cd1ff78981f0eb956a964716772b33658fae957f",
-      "sha256": "7c8b34fa4c01ba22bd9b1f4efa69beb31415d6ac09de49419004cb6f78fa258d",
-      "size": 1266582428,
+      "date": "2024-03-16",
+      "datetime": 1710547200,
+      "filename": "lineage-21.0-20240316-nightly-bluejay-signed.zip",
+      "filepath": "/full/bluejay/20240316/lineage-21.0-20240316-nightly-bluejay-signed.zip",
+      "os_patch_level": "2024-02-05",
+      "sha1": "31fb2855f225a0b980b7fbcfdd72ddd627b5b44e",
+      "sha256": "c4b93cc0bd3c4225527de3f63abb55fdfa87e0fc9392410ef7109117a969977b",
+      "size": 1266581280,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240309/lineage-21.0-20240309-nightly-bluejay-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240316/lineage-21.0-20240316-nightly-bluejay-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/bluejay/20240309/boot.img",
+      "filepath": "/full/bluejay/20240316/boot.img",
       "sha1": "fca84e1acea849b3ff51d7f22638a2080d53a12b",
       "sha256": "047f623071a33418189e843429881e4adc4517def49d91d21bea2ef3b1ff6d20",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240309/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240316/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/bluejay/20240309/dtbo.img",
+      "filepath": "/full/bluejay/20240316/dtbo.img",
       "sha1": "a0d561a6cd248fe9d5a876eb60a06418d3e9f38f",
       "sha256": "e197ba8fd90d8cc56f9205e507208ed54a674a4a76ab7ce3c700c6df38645acc",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240309/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240316/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/bluejay/20240309/super_empty.img",
+      "filepath": "/full/bluejay/20240316/super_empty.img",
       "sha1": "f03c8b3e1766ffca75909f3e2f72ab804901fc12",
       "sha256": "ecf22d5eafb1ad2f6871c414a6b510d8f3e859486668e726b3ae11c022243a51",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240309/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240316/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/bluejay/20240309/vbmeta.img",
-      "sha1": "6e188dcd9462782f2dcce4ef14f782c5dd3a46c0",
-      "sha256": "c674ae77e8b238d35c92d4a9721b99e980306c97eb9979c8d2dedf126fe21bde",
+      "filepath": "/full/bluejay/20240316/vbmeta.img",
+      "sha1": "f1c8a010a83491d9e00597f32f6d4966dc02e447",
+      "sha256": "4f11864ed5a3142e5b01c193f8339b4257cb870c2c4ecd4b8f253b3b3b1769ec",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240309/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240316/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/bluejay/20240309/vendor_boot.img",
-      "sha1": "89f8825195768de3eb2d252339ac9bc97f237fab",
-      "sha256": "aa139598c062ca534743eefef9d3916d38270b3e4c1af9d54d6196803504e3ae",
+      "filepath": "/full/bluejay/20240316/vendor_boot.img",
+      "sha1": "7cb0919ef16f78ea07bd8498e1236d46f9d9218b",
+      "sha256": "9729bea2fa6c3b931bd9df14f8d6172538daa217ce2dba715ef014b63c770dfd",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240309/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bluejay/20240316/vendor_boot.img"
     }
   ],
-  "os_patch_level": null,
+  "os_patch_level": "2024-02-05",
   "type": "nightly",
   "version": "21.0"
 }
