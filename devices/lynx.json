@@ -1,69 +1,77 @@
 {
-  "date": "2024-03-08",
-  "datetime": 1709856000,
+  "date": "2024-03-15",
+  "datetime": 1710460800,
   "files": [
     {
-      "date": "2024-03-08",
-      "datetime": 1709856000,
-      "filename": "lineage-21.0-20240308-nightly-lynx-signed.zip",
-      "filepath": "/full/lynx/20240308/lineage-21.0-20240308-nightly-lynx-signed.zip",
-      "os_patch_level": null,
-      "sha1": "f0dd688bed3a1af38ee661c610efa21292e010ef",
-      "sha256": "1c7e23982873538593ea20e8185a56e8a3a8b318de3182284f7aab1f59583b61",
-      "size": 1404963132,
+      "date": "2024-03-15",
+      "datetime": 1710460800,
+      "filename": "lineage-21.0-20240315-nightly-lynx-signed.zip",
+      "filepath": "/full/lynx/20240315/lineage-21.0-20240315-nightly-lynx-signed.zip",
+      "os_patch_level": "2024-02-05",
+      "sha1": "65ec133f171b2d48cd36067c637b35b67627bdf5",
+      "sha256": "f4c80dbe777fd5c5cb871e8ef16a37e2cdf79d0df81dfb6ff298e350b1009557",
+      "size": 1404997087,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20240308/lineage-21.0-20240308-nightly-lynx-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/lineage-21.0-20240315-nightly-lynx-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lynx/20240308/boot.img",
+      "filepath": "/full/lynx/20240315/boot.img",
       "sha1": "0b5c329a52f719519ab8a3eb0b50be7434c90672",
       "sha256": "45de8ded6a174130009fcccdc9b270094dd9088714bbf0eac185067b8c34d377",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20240308/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lynx/20240308/dtbo.img",
+      "filepath": "/full/lynx/20240315/dtbo.img",
       "sha1": "b90ef55c1ad95daf59fe828286bc6fbb64d65645",
       "sha256": "7e95530b0b5061ad28e2922e6784ad81366cd3a1d0a52cb19e0933640f40a164",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20240308/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/dtbo.img"
+    },
+    {
+      "filename": "init_boot.img",
+      "filepath": "/full/lynx/20240315/init_boot.img",
+      "sha1": "c0decbbf29c4a52454f3450d16d4bcb473fce1c6",
+      "sha256": "766994ac73d36c42fdf9494721b91c35c1ec0ea014180a369be2cf463cb2350a",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lynx/20240308/super_empty.img",
+      "filepath": "/full/lynx/20240315/super_empty.img",
       "sha1": "9300c9f63ea3919c8d7802d35f4e4cf1798db2c1",
       "sha256": "34cbe5c51a222b464a1983ec800a4877fec147481bf907ff326454b5d380c036",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20240308/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lynx/20240308/vbmeta.img",
-      "sha1": "aa02dd828d0cf2f2bada3d5e610f0f28cc57462a",
-      "sha256": "66baf81dfc4ef50766c3170cc6557321998185f4ad58f9f707e93db3428e2d33",
+      "filepath": "/full/lynx/20240315/vbmeta.img",
+      "sha1": "0eab0e0bb3bc43a6b5a625504b02e34a2323eee6",
+      "sha256": "45ecbea7b2541dc5f1722115e9ca7b2ab9e69d35582941d29e148c7d4f370cbf",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20240308/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lynx/20240308/vendor_boot.img",
-      "sha1": "4735841447f180accdc58f7ee2338a1dc1e75157",
-      "sha256": "6d27c7d21a7b89fd65f36741c4765961164241e0a46972b991b93456bf660aec",
+      "filepath": "/full/lynx/20240315/vendor_boot.img",
+      "sha1": "d33696a8453cf52a866313c398a0f6a887b8810e",
+      "sha256": "76ae70423d2d5b82c6593bc3c4cf8480392dff3b50479f2c59541f371da4e975",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20240308/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/lynx/20240308/vendor_kernel_boot.img",
+      "filepath": "/full/lynx/20240315/vendor_kernel_boot.img",
       "sha1": "d7b82755be5a3dcbacf0c359bcead48d5258a2b0",
       "sha256": "88df6aaf56323b4fbbe99a7aae4498366c08f0bc6141282b79e9608e3f1a3a32",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20240308/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20240315/vendor_kernel_boot.img"
     }
   ],
-  "os_patch_level": null,
+  "os_patch_level": "2024-02-05",
   "type": "nightly",
   "version": "21.0"
 }
