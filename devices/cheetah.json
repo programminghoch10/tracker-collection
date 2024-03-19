@@ -1,69 +1,77 @@
 {
-  "date": "2024-03-12",
-  "datetime": 1710201600,
+  "date": "2024-03-19",
+  "datetime": 1710806400,
   "files": [
     {
-      "date": "2024-03-12",
-      "datetime": 1710201600,
-      "filename": "lineage-21.0-20240312-nightly-cheetah-signed.zip",
-      "filepath": "/full/cheetah/20240312/lineage-21.0-20240312-nightly-cheetah-signed.zip",
-      "os_patch_level": null,
-      "sha1": "8bca17ef1a7fec4725e0a18329aded7d81d1b281",
-      "sha256": "a61d2aa7166428eaeef62f637c0a45fc58befdd133bcb9908a00c5ac75fc6f58",
-      "size": 1400855321,
+      "date": "2024-03-19",
+      "datetime": 1710806400,
+      "filename": "lineage-21.0-20240319-nightly-cheetah-signed.zip",
+      "filepath": "/full/cheetah/20240319/lineage-21.0-20240319-nightly-cheetah-signed.zip",
+      "os_patch_level": "2024-02-05",
+      "sha1": "c6780f7e6e48ee18d522342f553513065741c331",
+      "sha256": "07fe1cb5e2d7dd17bced423306241dc1bb4d115537d11191038d0168f92701e6",
+      "size": 1400896382,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240312/lineage-21.0-20240312-nightly-cheetah-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/lineage-21.0-20240319-nightly-cheetah-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cheetah/20240312/boot.img",
+      "filepath": "/full/cheetah/20240319/boot.img",
       "sha1": "b5361fafd56a9b554ee3a15042a2b721e494f46b",
       "sha256": "ef50e4f1745c92a54b27c2da364fb00cd0a67fe697e86c77e652e4346a9e97ae",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240312/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/cheetah/20240312/dtbo.img",
+      "filepath": "/full/cheetah/20240319/dtbo.img",
       "sha1": "b8e911436e1b8f41464518a5713f1a0dfdb1944d",
       "sha256": "d50dec092c407e03b455adca6d0009be4e4b664819f4b53e5a5a5c2f1519d8aa",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240312/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/dtbo.img"
+    },
+    {
+      "filename": "init_boot.img",
+      "filepath": "/full/cheetah/20240319/init_boot.img",
+      "sha1": "35e11fb4eff528b455988fd025b5be7a32fb81fd",
+      "sha256": "8c09daf65f1393d099b60629d495d4f5a5987c956a334b13d1e9decda89279f8",
+      "size": 8388608,
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/cheetah/20240312/super_empty.img",
+      "filepath": "/full/cheetah/20240319/super_empty.img",
       "sha1": "9300c9f63ea3919c8d7802d35f4e4cf1798db2c1",
       "sha256": "34cbe5c51a222b464a1983ec800a4877fec147481bf907ff326454b5d380c036",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240312/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/cheetah/20240312/vbmeta.img",
-      "sha1": "66847adefe402533788e88ac35adbeb3171489b8",
-      "sha256": "7329312f1364a1879770ac73777326c6c1d8db0892e38ed5232b8498118055e9",
+      "filepath": "/full/cheetah/20240319/vbmeta.img",
+      "sha1": "7e03115e3a3f52fddc680857dcfbdd6f4ecfaeaf",
+      "sha256": "8e9741963c1cd5abfba1b2215adcf4a637c3be7d6a796a9681861019d9c3ef64",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240312/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/cheetah/20240312/vendor_boot.img",
-      "sha1": "7c84556869d971bd034582ce95d9971c8bbd0de6",
-      "sha256": "14655b1a11e58f845bbfc18160df84c370195ba6ddada16e0a33bc673e0cfd96",
+      "filepath": "/full/cheetah/20240319/vendor_boot.img",
+      "sha1": "5f984b63f1279b90ac2ca4ad508825e7d533831b",
+      "sha256": "265486fa80f1fef6d361f1bd237154e53a69e7eee0d9140573cdbcc5a5e0e286",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240312/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/cheetah/20240312/vendor_kernel_boot.img",
+      "filepath": "/full/cheetah/20240319/vendor_kernel_boot.img",
       "sha1": "c5546988a29ce9f026ac6e340ec3591ba470f8e4",
       "sha256": "ab43b0d444377ed520ccaec91f809e1a9ad280b486a21d3ae97d1a807c8144b4",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240312/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20240319/vendor_kernel_boot.img"
     }
   ],
-  "os_patch_level": null,
+  "os_patch_level": "2024-02-05",
   "type": "nightly",
   "version": "21.0"
 }
