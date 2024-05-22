@@ -1,61 +1,61 @@
 {
-  "date": "2024-05-15",
-  "datetime": 1715731200,
+  "date": "2024-05-22",
+  "datetime": 1716336000,
   "files": [
     {
-      "date": "2024-05-15",
-      "datetime": 1715731200,
-      "filename": "lineage-20.0-20240515-nightly-mars-signed.zip",
-      "filepath": "/full/mars/20240515/lineage-20.0-20240515-nightly-mars-signed.zip",
-      "os_patch_level": "2024-04",
-      "sha1": "d0a25972d401e6f3c363d31eda873789b220c17b",
-      "sha256": "7dfc926dee4011b8929105b9eff9aec556eccbb9445a939f8599005be3b60b9d",
-      "size": 1535532699,
+      "date": "2024-05-22",
+      "datetime": 1716336000,
+      "filename": "lineage-21.0-20240522-nightly-mars-signed.zip",
+      "filepath": "/full/mars/20240522/lineage-21.0-20240522-nightly-mars-signed.zip",
+      "os_patch_level": "2024-05",
+      "sha1": "339f46b54bdcf31d55bec4fe8da06978fd175619",
+      "sha256": "f9f3f5235a4ecd52ba215b8c1d1728de2ca218f024a2fa35103c588a2c5e351f",
+      "size": 1598023868,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/mars/20240515/lineage-20.0-20240515-nightly-mars-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20240522/lineage-21.0-20240522-nightly-mars-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/mars/20240515/boot.img",
-      "sha1": "aeabc8b8f676cb37a2311e12d6c332811ec94d24",
-      "sha256": "8485606f4ce821d5ed4a183f5a6d60d91e23e60ee63ec3646ba482f32414fa13",
+      "filepath": "/full/mars/20240522/boot.img",
+      "sha1": "73a28fb6ff31b10112204c716e2806e35299c12e",
+      "sha256": "3967c37b27c15aadc99566fd9cd19982adf6053be25dc1ceeb43d64da1234863",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20240515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20240522/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/mars/20240515/dtbo.img",
-      "sha1": "4fd6713a1515a269024490e49919672b6e417370",
-      "sha256": "382260c901e37f6bdd647bd1a6a0d56cfaea2d791604459be0711daff4b4d5b8",
+      "filepath": "/full/mars/20240522/dtbo.img",
+      "sha1": "cc1c60bf6d7477e9e978cfe464b09d98ade4ebe8",
+      "sha256": "01e6ef1f3145e0aa6967118f0d62590f95b82d3fd65f80f3a501fdfd7d3fcca2",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20240515/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20240522/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/mars/20240515/super_empty.img",
+      "filepath": "/full/mars/20240522/super_empty.img",
       "sha1": "372c4ac73a562add66c3bc414f082bcc7a507fda",
       "sha256": "65a0ed7b2efd1edc10dc3b1069ef5357ef52d5dccdfa86a4b5abbbb2a070c787",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20240515/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20240522/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/mars/20240515/vbmeta.img",
-      "sha1": "3e03df923d6852595f8bef618525349faa7d0d84",
-      "sha256": "501d45d403b15c3c21a6b055fb3970647c73c4ba6f40b2fb7378a2de05a7abe0",
+      "filepath": "/full/mars/20240522/vbmeta.img",
+      "sha1": "ef348069d2e18fb60f237a9f420568798b6f7b99",
+      "sha256": "1802858840471a0680bfb682523f5e3fe5024d21be359b79b67164b704ce5ee8",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20240515/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20240522/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/mars/20240515/vendor_boot.img",
-      "sha1": "63ec1b798108c5d656c5625e6e632a54fb833338",
-      "sha256": "d2e503452c88ab36abe582b88fe9244e97c86a3b2e7d703b80939df335581a89",
+      "filepath": "/full/mars/20240522/vendor_boot.img",
+      "sha1": "56dd5038e44e8f43aa8c7e761ef13add8f4b9130",
+      "sha256": "3c52d39006b3f1b82d5cbe40cd4f18a5d64b45e55c4ea8b1a4e6831231a5d18c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20240515/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20240522/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2024-04",
+  "os_patch_level": "2024-05",
   "type": "nightly",
-  "version": "20.0"
+  "version": "21.0"
 }
