@@ -1,58 +1,66 @@
 {
-  "date": "2024-06-13",
-  "datetime": 1718236800,
+  "date": "2024-06-20",
+  "datetime": 1718841600,
   "files": [
     {
-      "date": "2024-06-13",
-      "datetime": 1718236800,
-      "filename": "lineage-21.0-20240613-nightly-wade-signed.zip",
-      "filepath": "/full/wade/20240613/lineage-21.0-20240613-nightly-wade-signed.zip",
+      "date": "2024-06-20",
+      "datetime": 1718841600,
+      "filename": "lineage-21.0-20240620-nightly-wade-signed.zip",
+      "filepath": "/full/wade/20240620/lineage-21.0-20240620-nightly-wade-signed.zip",
       "os_patch_level": "2024-05",
-      "sha1": "0fa5338ff2fbf4dfac5aa0b7f56f36271704b3c2",
-      "sha256": "8e3817c1b606f75b4f9cf50a358841e716257f5fec0247f4bbd3dd1850ab077d",
-      "size": 545534451,
+      "sha1": "4147e3b6d601aad540721deb0490a79345a3ca82",
+      "sha256": "03ce42cdd1f92df66253e0998aaab5fe9d8596aa59fc0531e1791a0de6cf3b8a",
+      "size": 545458963,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/wade/20240613/lineage-21.0-20240613-nightly-wade-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20240620/lineage-21.0-20240620-nightly-wade-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/wade/20240613/boot.img",
-      "sha1": "5106132b03a016e52b5f2c5ce471ad08b2f868c1",
-      "sha256": "973ba1282032577c7fe0f93a7d39143385c44e862d5ff3e0ad57c22d7b64eeef",
+      "filepath": "/full/wade/20240620/boot.img",
+      "sha1": "5a27a807370115b6a0236bb90630bc596b145a7b",
+      "sha256": "c8dd47c3e60347f426dc496a084a89f6b6290af0ffa155f19d01a11b3ba51331",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20240613/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20240620/boot.img"
+    },
+    {
+      "filename": "dtb.img",
+      "filepath": "/full/wade/20240620/dtb.img",
+      "sha1": "6478b7760c21cb91d5eb788274dd9cffaa7b9a52",
+      "sha256": "471c866ec9c812eefc2755954c86eca58ad8ceb6317425c4a8f677b1a01cd204",
+      "size": 82666,
+      "url": "https://mirrorbits.lineageos.org/full/wade/20240620/dtb.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/wade/20240613/dtbo.img",
-      "sha1": "ea250488c5f082395d25b9a5084038abb706627e",
-      "sha256": "ea32d3c4ec76d5f07b8281a3def2d88d3cd0905e9b02f8b78f6571bc584af21e",
+      "filepath": "/full/wade/20240620/dtbo.img",
+      "sha1": "0636e36eb2734b9072babd9ea73352572cdf170b",
+      "sha256": "0f69853e91437e3caf376d197b449a1d3097dac262116f8f7167c927a7d73929",
       "size": 2097152,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20240613/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20240620/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/wade/20240613/recovery.img",
-      "sha1": "650c941c8478b6bffe4d42a4acb94b605b4c7c9d",
-      "sha256": "bea629e58daef0e8e4c5526e575ccd60faa0fc33df414bc57d6a4365d5b43ef4",
+      "filepath": "/full/wade/20240620/recovery.img",
+      "sha1": "ff57bd6f003b89203fac91bafaee7bcbb2fb8cc6",
+      "sha256": "23674d05fec072cdbb32f8a450f5e77a30766582394749376b848e87daa80c8b",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20240613/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20240620/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/wade/20240613/super_empty.img",
+      "filepath": "/full/wade/20240620/super_empty.img",
       "sha1": "4531b494f79685920a7fbc2fc0687f3ee2808020",
       "sha256": "edba95fb0909e354389d11b3705142276c6711d54214bc38b3e785aaa28a75aa",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20240613/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20240620/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/wade/20240613/vbmeta.img",
-      "sha1": "a08131a7e81a431b91a3fd358d94cc2ac75d80f8",
-      "sha256": "818a49e5ace262c017a778004c7fe25802e8af8908d91c760ccb7a7ca7e6ac08",
+      "filepath": "/full/wade/20240620/vbmeta.img",
+      "sha1": "eb6ea64da2a101cbc2b78f01152e8e10f67455f9",
+      "sha256": "7de0e41b01e985d73384b7b8194415766007d7cce7a07d4baf704e7a1c07beb4",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/wade/20240613/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/wade/20240620/vbmeta.img"
     }
   ],
   "os_patch_level": "2024-05",
