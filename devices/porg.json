@@ -1,37 +1,45 @@
 {
-  "date": "2024-08-01",
-  "datetime": 1722470400,
+  "date": "2024-08-08",
+  "datetime": 1723075200,
   "files": [
     {
-      "date": "2024-08-01",
-      "datetime": 1722470400,
-      "filename": "lineage-20.0-20240801-nightly-porg-signed.zip",
-      "filepath": "/full/porg/20240801/lineage-20.0-20240801-nightly-porg-signed.zip",
+      "date": "2024-08-08",
+      "datetime": 1723075200,
+      "filename": "lineage-21.0-20240808-nightly-porg-signed.zip",
+      "filepath": "/full/porg/20240808/lineage-21.0-20240808-nightly-porg-signed.zip",
       "os_patch_level": "2024-07",
-      "sha1": "7d71ed47f76e91966535d02925d39fab43a9ce78",
-      "sha256": "57bb14541e9a7c4d222169281d32e070be707087e4334dc3058a9dfb2345fb31",
-      "size": 697196225,
+      "sha1": "ca0fa742d9ad631dbead740c9893cd5cdf4fd216",
+      "sha256": "ef3d1ff0fe491aaa1c8159b7c8a4e043aa894cfd4ffc8b0aa69b4bfd7d220e91",
+      "size": 762985472,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/porg/20240801/lineage-20.0-20240801-nightly-porg-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/porg/20240808/lineage-21.0-20240808-nightly-porg-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/porg/20240801/boot.img",
-      "sha1": "21530285ecf041e1d7e2a1a2e438a02b8b8628eb",
-      "sha256": "44bf01a0e7e48deb65f10c9a0b5976a6cc1e6b2217eb2e4f09a2f967a045fe9a",
-      "size": 12580864,
-      "url": "https://mirrorbits.lineageos.org/full/porg/20240801/boot.img"
+      "filepath": "/full/porg/20240808/boot.img",
+      "sha1": "d89c2e59883058461a8d88813a15cffa60559599",
+      "sha256": "bd74bb42dd4e5ce00dc92bbbdaf39978d4ad93e7ab07683ff5304f04735a3da2",
+      "size": 13889536,
+      "url": "https://mirrorbits.lineageos.org/full/porg/20240808/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/porg/20240801/recovery.img",
-      "sha1": "128e35b785dd107e8da462fb6b93b8f9c8fba082",
-      "sha256": "e75312bb919611571d007b715bf8c37cd9e35164841087afa42c3ac808a9d16d",
-      "size": 24170496,
-      "url": "https://mirrorbits.lineageos.org/full/porg/20240801/recovery.img"
+      "filepath": "/full/porg/20240808/recovery.img",
+      "sha1": "7d984519bf74bb2a99d455f3cf378a8e692499bb",
+      "sha256": "a788f4a48c7d28f40ae6a45b54e95f0ae334bf62a4b7a6fe3fca68ffbdc9b7cc",
+      "size": 19951616,
+      "url": "https://mirrorbits.lineageos.org/full/porg/20240808/recovery.img"
+    },
+    {
+      "filename": "p3450_flash_package.txz",
+      "filepath": "/full/porg/20240808/p3450_flash_package.txz",
+      "sha1": "dbbc691e2f581fcdd597e13dc508deb9c0502437",
+      "sha256": "24bb16fefb9a84adc2957fe8be623552191dd0cecdbbd45a63c48674a9389a63",
+      "size": 21897612,
+      "url": "https://mirrorbits.lineageos.org/full/porg/20240808/p3450_flash_package.txz"
     }
   ],
   "os_patch_level": "2024-07",
   "type": "nightly",
-  "version": "20.0"
+  "version": "21.0"
 }
