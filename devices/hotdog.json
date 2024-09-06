@@ -1,61 +1,61 @@
 {
-  "date": "2024-08-31",
-  "datetime": 1725062400,
+  "date": "2024-09-06",
+  "datetime": 1725580800,
   "files": [
     {
-      "date": "2024-08-31",
-      "datetime": 1725062400,
-      "filename": "lineage-21.0-20240831--hotdog-signed.zip",
-      "filepath": "/full/hotdog/20240831/lineage-21.0-20240831--hotdog-signed.zip",
+      "date": "2024-09-06",
+      "datetime": 1725580800,
+      "filename": "lineage-21.0-20240906-nightly-hotdog-signed.zip",
+      "filepath": "/full/hotdog/20240906/lineage-21.0-20240906-nightly-hotdog-signed.zip",
       "os_patch_level": "2024-08",
-      "sha1": "911ec2429215a97b1f198754f1b3eb1c4cb67ffc",
-      "sha256": "950887fdabfdc743758b082eb88354c34b2c9df82c6f0dbb3a3047c768d6ba40",
-      "size": 1057610958,
-      "type": "",
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240831/lineage-21.0-20240831--hotdog-signed.zip"
+      "sha1": "e99ab784ec31c7f6d10653c86a0f5b38d1b5c5ec",
+      "sha256": "517a632c5f2c6ad79b01aa81380bab07663ea269048d8f275bb2e3f6170fa790",
+      "size": 1057623594,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240906/lineage-21.0-20240906-nightly-hotdog-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/hotdog/20240831/boot.img",
-      "sha1": "36de65ec3212aabe3ea3e5ffb60b6135705ab0f0",
-      "sha256": "1889784f877c31ffb644d58b17d89734e97d2a836b3b14c1633373cadf4544ee",
+      "filepath": "/full/hotdog/20240906/boot.img",
+      "sha1": "b827f3d30780ec291ee9b7fb7f34b5b2f430c8b8",
+      "sha256": "7dab3f2529846c190fec55d270f13e5fc7fbe30029f9d9583a6b9f1c5531b264",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240831/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240906/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/hotdog/20240831/dtbo.img",
-      "sha1": "f7c472e62b84e00927e8112e78b776247d66370d",
-      "sha256": "b263748f079ae59a4998bec1a0cacb8c193cd04e96257ded4ce696fb0a6b972f",
+      "filepath": "/full/hotdog/20240906/dtbo.img",
+      "sha1": "6f1eea4aa76e607e9d2d045772736b8064a3363c",
+      "sha256": "ae9042a1ab4a98501e3ee952d1283d291799d549d8f5e46f401d810f7882f23d",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240831/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240906/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/hotdog/20240831/recovery.img",
-      "sha1": "87a17e1ff1a7f55dc40db7876afc27dfeef7c323",
-      "sha256": "76ebf3a363b74472f5278edc2ffed4963b61bd3fb0a11e7e3ebf7488940061c0",
+      "filepath": "/full/hotdog/20240906/recovery.img",
+      "sha1": "7794dcb4d851b07df62c7e0204acdc61d2d8c974",
+      "sha256": "a69b2efd36b9976fcf95deb7fd1b317047db4bc6aaea455d9d8a713135ea8a09",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240831/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240906/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/hotdog/20240831/super_empty.img",
+      "filepath": "/full/hotdog/20240906/super_empty.img",
       "sha1": "1c8ea87c402e25a6913c9db3ad0d1c8a4a983ae6",
       "sha256": "7883c225af874a3fe22bef59092732033657d5c8d498ac0660d30afe6799c743",
       "size": 5056,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240831/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240906/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/hotdog/20240831/vbmeta.img",
-      "sha1": "b6d5c2ef4deaccc24c3735012699b95a0b60c52f",
-      "sha256": "b3bc53ed4a6f090ce192d0e8f7f60735461aa9d20d6033dab1ad415fe44e7d0e",
+      "filepath": "/full/hotdog/20240906/vbmeta.img",
+      "sha1": "35cd36eae0c3b21c7d65dc9a5b6c9e44b5d3134a",
+      "sha256": "be290ca80477acdd4cb7a398b29abf3030265c61437a2ec990c290efe4f2204e",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240831/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20240906/vbmeta.img"
     }
   ],
   "os_patch_level": "2024-08",
-  "type": "",
+  "type": "nightly",
   "version": "21.0"
 }
