@@ -104,6 +104,8 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         }
         echo "    Processing change $change"
         echo "$change" > "$saved_repo_path"/last_change
+        
+        [ -f "$saved_repo_path"/"$change"/message ] && echo "message has already been sent earlier!" >&2 && continue
 
         printf -v change_url "$REMOTE_GERRIT_CHANGE_URL" "$change"
 	    ! curl --silent --head "$change_url" | grep -q '404 Not Found' && continue
@@ -113,6 +115,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         metacommit="$(grep -i "/${change}/" <<< "$changes" | grep -e '/meta$' | cut -f1)"
         
         changetitle="$(getCommitTitle "$repofullname" "$commit")"
+        changetitle="$(sanitizeHTML <<< "$changetitle")"
 
         printf -v commit_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$commit"
         printf -v commit_metadata_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$metacommit"
@@ -142,6 +145,7 @@ for repojson in $(GitHubApiRequest "https://api.github.com/orgs/LineageOS/repos?
         commitpatchnumber="$(grep -i -e "^$commit" <<< "$changes" | cut -f2 | cut -d'/' -f5)"
         metacommit="$(grep -i "/${change}/" <<< "$changes" | grep -e '/meta$' | cut -f1)"
         changetitle="$(getCommitTitle "$repofullname" "$commit")"
+        changetitle="$(sanitizeHTML <<< "$changetitle")"
         printf -v commit_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$commit"
         printf -v commit_metadata_url "$REMOTE_REPO_COMMIT_URL" "$repofullname" "$metacommit"
         echo "    current patch is $commitpatchnumber"

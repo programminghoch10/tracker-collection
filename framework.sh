@@ -6,7 +6,9 @@ GIT_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
 TELEGRAM_TIMEOUT=5
 
 set -e # exit if any command fails
-#set -x # explain steps
+set -x # explain steps
+set -o pipefail
+shopt -s inherit_errexit
 
 GIT_ROOT="$(git rev-parse --show-toplevel)"
 
@@ -113,4 +115,17 @@ stripEmptyLines() {
 
 convertToTelegramTag() {
     sed 's/[^[:alnum:]]/_/g' 
+}
+
+sanitizeMarkdown() {
+    sed -e 's/\([][_*()~`<>#+=|{}.!-]\)/\\\1/g'
+}
+
+sanitizeHTML() {
+    sed \
+        -e 's/&/\&amp;/g' \
+        -e 's/</\&lt;/g' \
+        -e 's/>/\&gt;/g' \
+        -e 's/"/\&quot;/g' \
+        -e "s/'/\&#39;/g"
 }
