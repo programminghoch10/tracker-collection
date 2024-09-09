@@ -1,61 +1,61 @@
 {
-  "date": "2024-09-02",
-  "datetime": 1725235200,
+  "date": "2024-09-09",
+  "datetime": 1725840000,
   "files": [
     {
-      "date": "2024-09-02",
-      "datetime": 1725235200,
-      "filename": "lineage-21.0-20240902-nightly-raven-signed.zip",
-      "filepath": "/full/raven/20240902/lineage-21.0-20240902-nightly-raven-signed.zip",
-      "os_patch_level": "2024-08-05",
-      "sha1": "4e4fc4362450a45e848091f91b9d22275c68769c",
-      "sha256": "1515450904b4fbab999f525bafe211361a8f7f8f1e29fff845d409eba07dcac4",
-      "size": 1273750592,
+      "date": "2024-09-09",
+      "datetime": 1725840000,
+      "filename": "lineage-21.0-20240909-nightly-raven-signed.zip",
+      "filepath": "/full/raven/20240909/lineage-21.0-20240909-nightly-raven-signed.zip",
+      "os_patch_level": "2024-09-05",
+      "sha1": "a66506a0eed1bc83a33c04dac080d15099d026d5",
+      "sha256": "71a50b22c62c470cf47b143eb2cbcc76d3a9c623644b8c788a32da25fab959dc",
+      "size": 1273622480,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/raven/20240902/lineage-21.0-20240902-nightly-raven-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/raven/20240909/lineage-21.0-20240909-nightly-raven-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/raven/20240902/boot.img",
-      "sha1": "1e09fcf4a5085603681b394108d91f3042d21847",
-      "sha256": "c99dcbee3ddd72814cdc09d80f5300a9382c6667f0aa548ec8a88a4ff73393ec",
+      "filepath": "/full/raven/20240909/boot.img",
+      "sha1": "0090a5d97996273505f6625ff383307c9bd4dab5",
+      "sha256": "e523ffe34738b3d3b3e0c714341f402cb4880ebd44a24ac0c39e955d2a1c1618",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/raven/20240902/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/raven/20240909/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/raven/20240902/dtbo.img",
-      "sha1": "ce0c46472120a04de13caa8b345c95260c797170",
-      "sha256": "0d84cbc9ab8458e71d35520874abc73029200f6e62004a308b5a33adb86576aa",
+      "filepath": "/full/raven/20240909/dtbo.img",
+      "sha1": "c3321b38d7920082bc34288cc6054bed14cc5f21",
+      "sha256": "c128eb0f06f75d9821e62a9ee46737d6d4cdcca04353be84e1d428c43ad0ab27",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/raven/20240902/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/raven/20240909/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/raven/20240902/super_empty.img",
+      "filepath": "/full/raven/20240909/super_empty.img",
       "sha1": "300d7312014fbcd6cf096da1432532d18c4eca13",
       "sha256": "e8c08d04c6d67fb8dc57047b4c1c3854650bffd5e7c56a9f614623a415123e07",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/raven/20240902/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/raven/20240909/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/raven/20240902/vbmeta.img",
-      "sha1": "ba4ec2a816c6792bc4e9e277a589e65c2a3bd340",
-      "sha256": "58a025cf9c111ccb10471a78c015c368a0bd5a4ed76a79009df62b745b97e68f",
+      "filepath": "/full/raven/20240909/vbmeta.img",
+      "sha1": "a570cef5d59fef67bd86c3d70a1e20a7a0efb549",
+      "sha256": "82ed28de27494b2fecf476b839be52ea5b2bf71fe6c46995ff62612086f89d9a",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/raven/20240902/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/raven/20240909/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/raven/20240902/vendor_boot.img",
-      "sha1": "c73e75731bfcfe8920bd7742b11668162b300bd4",
-      "sha256": "f5f0e57146964bae296ea527a5061112935de85435e3f2fefd10fb9ca2f66027",
+      "filepath": "/full/raven/20240909/vendor_boot.img",
+      "sha1": "4baca200bf3fd49e90f7abf9651a677424a3cb12",
+      "sha256": "9192c5bcd606a9bb2484fbca4c305d810e868ba320055bfadb9941f5fd0ec635",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/raven/20240902/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/raven/20240909/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2024-08-05",
+  "os_patch_level": "2024-09-05",
   "type": "nightly",
   "version": "21.0"
 }
