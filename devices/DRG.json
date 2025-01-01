@@ -1,21 +1,29 @@
 {
-  "date": "2024-12-26",
-  "datetime": 1735171200,
+  "date": "2024-12-31",
+  "datetime": 1735603200,
   "files": [
     {
-      "date": "2024-12-26",
-      "datetime": 1735171200,
-      "filename": "lineage-21.0-20241226-nightly-DRG-signed.zip",
-      "filepath": "/full/DRG/20241226/lineage-21.0-20241226-nightly-DRG-signed.zip",
-      "os_patch_level": null,
-      "sha1": "f0e584031a3284102ed663c4e54b81d30a3c6014",
-      "sha256": "6f56727f2f520f0120059bec8b1bdc097991c58a600cafc2c1ceffe3089e8d79",
-      "size": 820870496,
+      "date": "2024-12-31",
+      "datetime": 1735603200,
+      "filename": "lineage-22.1-20241231-nightly-DRG-signed.zip",
+      "filepath": "/full/DRG/20241231/lineage-22.1-20241231-nightly-DRG-signed.zip",
+      "os_patch_level": "2024-12",
+      "sha1": "cb2be9e4b653ffa0c310dce645ddb0cd88b2343f",
+      "sha256": "ad1427494123fe162bf5e408c216b13178353b1f7a76184bb19c4c1d6b543892",
+      "size": 807487768,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/DRG/20241226/lineage-21.0-20241226-nightly-DRG-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/DRG/20241231/lineage-22.1-20241231-nightly-DRG-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/DRG/20241231/boot.img",
+      "sha1": "83d981a8e481f75a56ce398407b6cbf109df7d84",
+      "sha256": "e5dbd193b2ff8806067ebd445ddcbb27c1cd1eebcc66e8e0419233d94cf9408c",
+      "size": 43061248,
+      "url": "https://mirrorbits.lineageos.org/full/DRG/20241231/boot.img"
     }
   ],
-  "os_patch_level": null,
+  "os_patch_level": "2024-12",
   "type": "nightly",
-  "version": "21.0"
+  "version": "22.1"
 }
