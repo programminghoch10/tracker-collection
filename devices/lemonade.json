@@ -1,61 +1,61 @@
 {
-  "date": "2024-12-30",
-  "datetime": 1735516800,
+  "date": "2025-01-01",
+  "datetime": 1735689600,
   "files": [
     {
-      "date": "2024-12-30",
-      "datetime": 1735516800,
-      "filename": "lineage-21.0-20241230-nightly-lemonade-signed.zip",
-      "filepath": "/full/lemonade/20241230/lineage-21.0-20241230-nightly-lemonade-signed.zip",
+      "date": "2025-01-01",
+      "datetime": 1735689600,
+      "filename": "lineage-22.1-20250101-nightly-lemonade-signed.zip",
+      "filepath": "/full/lemonade/20250101/lineage-22.1-20250101-nightly-lemonade-signed.zip",
       "os_patch_level": "2024-12",
-      "sha1": "f3f97d3d33041b5f9752ef7156f5a060bd20a074",
-      "sha256": "996d4fc28d495ac0fb831d65e9de98f7fd2749d78c72c9664808623b605f7ee6",
-      "size": 1579272613,
+      "sha1": "8cc4ae513ef2562ba554f413b052d4d1d8e824b1",
+      "sha256": "cd815600878ffb5b5f76679adb6db4ce7982376691d9d746140ac1ce2870f73f",
+      "size": 1586403057,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lemonade/20241230/lineage-21.0-20241230-nightly-lemonade-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lemonade/20250101/lineage-22.1-20250101-nightly-lemonade-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lemonade/20241230/boot.img",
-      "sha1": "8a7561d4350d2496a69038e4f3715656066c0e4e",
-      "sha256": "2141ffa88fe264ff218d18b0f3599660bdb627124bb4a34baec6c79e2f370a64",
+      "filepath": "/full/lemonade/20250101/boot.img",
+      "sha1": "7dc494797e8e36a75b7ec8316a8c89c05a962754",
+      "sha256": "312c3641e59b452f74a57f0e143e1443308586ceda1d71ca54072681f5a10445",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lemonade/20241230/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonade/20250101/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lemonade/20241230/dtbo.img",
-      "sha1": "c4bb6621435d8e56f8cb02b6ecd0e8e6f62849fd",
-      "sha256": "369b0a2cbe62b683b5d2a3a0bf676c698066e4aabd2b3bb414b540d8b1e02a5a",
+      "filepath": "/full/lemonade/20250101/dtbo.img",
+      "sha1": "a5053b65918c504761a19e9108519fa741e86154",
+      "sha256": "a6e941f147a38383b4358e08fcb39420100b407f89829681415528dfe70d7cba",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/lemonade/20241230/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonade/20250101/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lemonade/20241230/super_empty.img",
+      "filepath": "/full/lemonade/20250101/super_empty.img",
       "sha1": "2a93a95de91b1138756d0a6945cc0d066338808d",
       "sha256": "2bc92a674e4b667f82350730d91e4a4e3a61fd6c56b8d312de19e190180058ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/lemonade/20241230/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonade/20250101/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lemonade/20241230/vbmeta.img",
-      "sha1": "92efc69b557353c7960cf16c4b73e6b249b08726",
-      "sha256": "af5f029f73518f3aba971ef2c2480bdd723c0b884285723744dc9bd0b2fc1b41",
+      "filepath": "/full/lemonade/20250101/vbmeta.img",
+      "sha1": "19ea668900a366d25f70883d1b971acce1c8904d",
+      "sha256": "78893fd8ea020ec5b446697c8375ace3e3cca7f7589b52f8eab9adf442914a32",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/lemonade/20241230/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonade/20250101/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lemonade/20241230/vendor_boot.img",
-      "sha1": "167bdd2ed739aa636f58a66ddbb7a842ab82fbcf",
-      "sha256": "48f20579faeec7d826586d19fad6667273d7fd92719cb76bd22db517334159df",
+      "filepath": "/full/lemonade/20250101/vendor_boot.img",
+      "sha1": "ed875266afde8be3ca0732bb20d6f63af4a1711c",
+      "sha256": "db8a610a103826ada29eacec6eedf3a899549bccfc6e85b1ca38cf101ec1055a",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lemonade/20241230/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonade/20250101/vendor_boot.img"
     }
   ],
   "os_patch_level": "2024-12",
   "type": "nightly",
-  "version": "21.0"
+  "version": "22.1"
 }
