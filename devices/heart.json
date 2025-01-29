@@ -1,53 +1,61 @@
 {
-  "date": "2025-01-26",
-  "datetime": 1737849600,
+  "date": "2025-01-28",
+  "datetime": 1738022400,
   "files": [
     {
-      "date": "2025-01-26",
-      "datetime": 1737849600,
-      "filename": "lineage-21.0-20250126-nightly-heart-signed.zip",
-      "filepath": "/full/heart/20250126/lineage-21.0-20250126-nightly-heart-signed.zip",
-      "os_patch_level": "2024-12",
-      "sha1": "8bc4cb0bb5b98272a2ec3e160013afb07a8a3eca",
-      "sha256": "27db65ec1dc9090f5b3d0dfaa23b836dc9f873f385d95675a0f352f7b406b9d1",
-      "size": 1053098236,
+      "date": "2025-01-28",
+      "datetime": 1738022400,
+      "filename": "lineage-22.1-20250128-nightly-heart-signed.zip",
+      "filepath": "/full/heart/20250128/lineage-22.1-20250128-nightly-heart-signed.zip",
+      "os_patch_level": "2025-01",
+      "sha1": "4e08922792a2f97eb7164178bfdd16b4f56645fd",
+      "sha256": "40f482d2254a28378520991a35b082be36066ff010e17d3646e3ce79f1d0fcdc",
+      "size": 1062365875,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/heart/20250126/lineage-21.0-20250126-nightly-heart-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20250128/lineage-22.1-20250128-nightly-heart-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/heart/20250126/boot.img",
-      "sha1": "da122eb339207c1ada27d08d8dca5750a3e9df57",
-      "sha256": "c26f35f738bf8c991fa9bd48eb3c0321d330f1be6a0242dbfb2ad0c1bfc5606d",
+      "filepath": "/full/heart/20250128/boot.img",
+      "sha1": "6006b91ca8f78960d5c64723bf9979cd06879a60",
+      "sha256": "bd1893bd72a700c3e60200fc1822f358096c9ee117a5510b056d31c3a0297de6",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20250126/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20250128/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/heart/20250126/dtbo.img",
-      "sha1": "919aa6af2f39479af9a90b18a3a40006a3182ca5",
-      "sha256": "accd188308c0c0ec356dba4fa6b4c0d00ff4b4acef5c8139fe5e1e52d57fe669",
+      "filepath": "/full/heart/20250128/dtbo.img",
+      "sha1": "7b23213a9501dc560b602c58d586a21e41b76189",
+      "sha256": "344500f9b4518a99331276f1bc59e7f37550f4829d17ee202a12de5858bb69ea",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20250126/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20250128/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/heart/20250126/recovery.img",
-      "sha1": "d4b60fafc4996424b0b345f4f0655d7ec9e65415",
-      "sha256": "096dea81f218e6362fcf283d8210cd80f558ffbd46cfedc3fe61d7b25997b34d",
+      "filepath": "/full/heart/20250128/recovery.img",
+      "sha1": "dfea45b5d22097830013f1774143818520bb856b",
+      "sha256": "4936f37ac34ea044c5bcb9c85440887b8955eee24fa0787bc7772f3c0fb4f5cb",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20250126/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20250128/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/heart/20250128/super_empty.img",
+      "sha1": "33a1c89a927a21003a296412704eb7568561fad5",
+      "sha256": "1e5e2ae2028fae23b8d433c9b29d309465af2a1df051feae2cf499b1e07fc2fc",
+      "size": 4708,
+      "url": "https://mirrorbits.lineageos.org/full/heart/20250128/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/heart/20250126/vbmeta.img",
-      "sha1": "7c7e195d8b327ced86359a948cda04e74df1a24b",
-      "sha256": "5cf9625307728c7175c75e9f4e6e73af53eaa555c43b54f46f641cc58e9e9f53",
-      "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20250126/vbmeta.img"
+      "filepath": "/full/heart/20250128/vbmeta.img",
+      "sha1": "c51d39f6b04face3c82299f44f7b9d8262b8bd82",
+      "sha256": "e1bea3c350409c9612f72e81433ec7268f6c49c9d66aee19bf2a736c0bbbf365",
+      "size": 8192,
+      "url": "https://mirrorbits.lineageos.org/full/heart/20250128/vbmeta.img"
     }
   ],
-  "os_patch_level": "2024-12",
+  "os_patch_level": "2025-01",
   "type": "nightly",
-  "version": "21.0"
+  "version": "22.1"
 }
