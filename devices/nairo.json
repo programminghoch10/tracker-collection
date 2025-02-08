@@ -1,61 +1,61 @@
 {
-  "date": "2025-02-03",
-  "datetime": 1738540800,
+  "date": "2025-02-07",
+  "datetime": 1738886400,
   "files": [
     {
-      "date": "2025-02-03",
-      "datetime": 1738540800,
-      "filename": "lineage-21.0-20250203-nightly-nairo-signed.zip",
-      "filepath": "/full/nairo/20250203/lineage-21.0-20250203-nightly-nairo-signed.zip",
-      "os_patch_level": "2024-12",
-      "sha1": "f8371a45acd2cd03ff2d67df6104b525f4b105ea",
-      "sha256": "8bb487558b3ae2fea1c12582224f589217ef33508e50786011536f0869fcc43c",
-      "size": 1083538263,
+      "date": "2025-02-07",
+      "datetime": 1738886400,
+      "filename": "lineage-22.1-20250207-nightly-nairo-signed.zip",
+      "filepath": "/full/nairo/20250207/lineage-22.1-20250207-nightly-nairo-signed.zip",
+      "os_patch_level": "2025-01",
+      "sha1": "dbc4a61d65b2b7aab759f72874efcab88854c46a",
+      "sha256": "25fb417ab23ef8249022dc3154d755c4402fd773d2db8b8c4ebbaff3dbb23c76",
+      "size": 1091111968,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/nairo/20250203/lineage-21.0-20250203-nightly-nairo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/nairo/20250207/lineage-22.1-20250207-nightly-nairo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/nairo/20250203/boot.img",
-      "sha1": "077ed77b510fe443ffb6827ee6e95f30d2d28f90",
-      "sha256": "6c6a9e46dafc43256bc0a86c4832b9e8789d0f12cfa01383d9dd04806ed7eb58",
+      "filepath": "/full/nairo/20250207/boot.img",
+      "sha1": "2af15ec9b4e364dae2ff965816c399bf2ff231b2",
+      "sha256": "905532af3d504090bd406ee7c3383179ec7d8a3e41652cf07353afbcb4bcf197",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/nairo/20250203/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/nairo/20250207/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/nairo/20250203/dtbo.img",
-      "sha1": "56b956262af7dbb3401099eb783d1d043d5a3de2",
-      "sha256": "a1f3e6797f3d45e52b786b5be54246e102419433fb2c71ac9fa78159811a4b5f",
+      "filepath": "/full/nairo/20250207/dtbo.img",
+      "sha1": "59073d858dd347a137dfe64d4d75b8304fe1e29a",
+      "sha256": "cfa98d508a90eae017d06c455bbc327f43ce90b34a6a8c595ff3213bfa716a80",
       "size": 4194304,
-      "url": "https://mirrorbits.lineageos.org/full/nairo/20250203/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/nairo/20250207/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/nairo/20250203/recovery.img",
-      "sha1": "f3d9da6154ba7c408fa3efa103f2c0dd7fc053ce",
-      "sha256": "3706d0e602c13cd57bb3dae4e945035f695366bcbd2050841c8b45010c6b9ba1",
+      "filepath": "/full/nairo/20250207/recovery.img",
+      "sha1": "fcd20e04c0457b26cda41f8f85b1f7abf820d636",
+      "sha256": "861121312858f8a36a1faed8018f68ff5ea363e87f61cf599174a0fd2ff27fd9",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/nairo/20250203/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/nairo/20250207/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/nairo/20250203/super_empty.img",
+      "filepath": "/full/nairo/20250207/super_empty.img",
       "sha1": "c0961b7ae4798d512b4075a2d434c63f9cde0bd0",
       "sha256": "626316fe651617b4fa59f1f71b29ac0ad4b190ff4e246dd42164d7dfe8561799",
       "size": 4744,
-      "url": "https://mirrorbits.lineageos.org/full/nairo/20250203/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/nairo/20250207/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/nairo/20250203/vbmeta.img",
-      "sha1": "c8a45fb5b3decfab4e83ea4dfd0832abd68de1c8",
-      "sha256": "59fd73c4d8885280ece1b60888ac7d2d9aea687b64d38acfc1baeb6c26b47fa9",
+      "filepath": "/full/nairo/20250207/vbmeta.img",
+      "sha1": "18f76b4bd61901f74c2591a48cfc3edc2e06ea50",
+      "sha256": "6a76883a978a5ee8d4fa37aaccb4fb9bcba25771881f67a4808a05ad295230b0",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/nairo/20250203/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/nairo/20250207/vbmeta.img"
     }
   ],
-  "os_patch_level": "2024-12",
+  "os_patch_level": "2025-01",
   "type": "nightly",
-  "version": "21.0"
+  "version": "22.1"
 }
