@@ -1,37 +1,45 @@
 {
-  "date": "2025-02-09",
-  "datetime": 1739059200,
+  "date": "2025-02-10",
+  "datetime": 1739145600,
   "files": [
     {
-      "date": "2025-02-09",
-      "datetime": 1739059200,
-      "filename": "lineage-21.0-20250209-nightly-joan-signed.zip",
-      "filepath": "/full/joan/20250209/lineage-21.0-20250209-nightly-joan-signed.zip",
-      "os_patch_level": "2025-01",
-      "sha1": "05f3c3f267ee9c0cb241e2f4adc96520d77f4587",
-      "sha256": "5e06192f19952e5702a6b2e3f52ea20708d24ffaf16941d261db1b77828dc928",
-      "size": 1016455968,
+      "date": "2025-02-10",
+      "datetime": 1739145600,
+      "filename": "lineage-22.1-20250210-nightly-joan-signed.zip",
+      "filepath": "/full/joan/20250210/lineage-22.1-20250210-nightly-joan-signed.zip",
+      "os_patch_level": "2025-02",
+      "sha1": "9bb04d92986e8e8f9f9c62a73cb3eb0d911bbe81",
+      "sha256": "fa71a9d1b2b22487efa6482b50e05e4d7c588a6943b6606947d0d217d662af30",
+      "size": 1001241451,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/joan/20250209/lineage-21.0-20250209-nightly-joan-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/joan/20250210/lineage-22.1-20250210-nightly-joan-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/joan/20250209/boot.img",
-      "sha1": "e3d56062a13abc48679114bd8b91d187e380af91",
-      "sha256": "fd79a1cdcb17efcbc46295345750d8a5900beef1efc02c568ea09a6354b47903",
-      "size": 20353024,
-      "url": "https://mirrorbits.lineageos.org/full/joan/20250209/boot.img"
+      "filepath": "/full/joan/20250210/boot.img",
+      "sha1": "0bd898c25e9c0ea6ea19a715a07843c8db86fb2d",
+      "sha256": "e2694834bf94ab701ac2e5bba2fe9dcf5952607b5addd094be5f452d7613648e",
+      "size": 20385792,
+      "url": "https://mirrorbits.lineageos.org/full/joan/20250210/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/joan/20250209/recovery.img",
-      "sha1": "2ac53e3c687d3e8ae12ab338d097a32343ce51ab",
-      "sha256": "630091d1e68686996db865e6b5d70f632d492095f071f2f7dc06dddb6d134d3a",
-      "size": 33173504,
-      "url": "https://mirrorbits.lineageos.org/full/joan/20250209/recovery.img"
+      "filepath": "/full/joan/20250210/recovery.img",
+      "sha1": "086f4b679fcf2cc56b6ddc42e87d500400e085bc",
+      "sha256": "d6b5a50d0789ddf3d48e9cdd5471138f3e2a1be065925ac5ff0ced3b1e332bfc",
+      "size": 33792000,
+      "url": "https://mirrorbits.lineageos.org/full/joan/20250210/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/joan/20250210/super_empty.img",
+      "sha1": "ed1884c6104a12890690782433b002b81564f3c7",
+      "sha256": "6c5e6197f03bf84d54e873df28cfb36725d67db5fb75d05859df6e19f42f2505",
+      "size": 4644,
+      "url": "https://mirrorbits.lineageos.org/full/joan/20250210/super_empty.img"
     }
   ],
-  "os_patch_level": "2025-01",
+  "os_patch_level": "2025-02",
   "type": "nightly",
-  "version": "21.0"
+  "version": "22.1"
 }
