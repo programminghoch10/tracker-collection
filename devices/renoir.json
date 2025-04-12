@@ -1,61 +1,61 @@
 {
-  "date": "2025-04-05",
-  "datetime": 1743811200,
+  "date": "2025-04-12",
+  "datetime": 1744416000,
   "files": [
     {
-      "date": "2025-04-05",
-      "datetime": 1743811200,
-      "filename": "lineage-22.1-20250405-nightly-renoir-signed.zip",
-      "filepath": "/full/renoir/20250405/lineage-22.1-20250405-nightly-renoir-signed.zip",
-      "os_patch_level": "2025-03",
-      "sha1": "e366754d79bc6e6ccee75ef91444bae94449715e",
-      "sha256": "131942ade673accd3fcd0cd00958f5ff4753e58663d09cb73f73798ee3539d87",
-      "size": 1396445595,
+      "date": "2025-04-12",
+      "datetime": 1744416000,
+      "filename": "lineage-22.2-20250412-nightly-renoir-signed.zip",
+      "filepath": "/full/renoir/20250412/lineage-22.2-20250412-nightly-renoir-signed.zip",
+      "os_patch_level": "2025-04",
+      "sha1": "7d89e88b0d5568a1b440e56942ec1f3296d2b3e6",
+      "sha256": "57ccf0b361a27883ceb4495ae993f7cb1ec3bf9035de607ebedf3c62194ed337",
+      "size": 1427490791,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20250405/lineage-22.1-20250405-nightly-renoir-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20250412/lineage-22.2-20250412-nightly-renoir-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/renoir/20250405/boot.img",
-      "sha1": "1a22822f99833d102911910f5d145cd3daf68a2d",
-      "sha256": "4f2918aa7a62cb9a19fac8de67ba31572a80d95f548c1c15e8381127d4159648",
+      "filepath": "/full/renoir/20250412/boot.img",
+      "sha1": "e85fbf59b6d401064ed550b81cf9f582dadea146",
+      "sha256": "743d741a43f9eb74a95ee2fabb6e96aa615e83a59ae954f4860fb36276954cb9",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20250405/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20250412/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/renoir/20250405/dtbo.img",
-      "sha1": "dcbd8983a89735ef10c4f0651093d72b7f4c040e",
-      "sha256": "f9794bb78bac31d7e5ab0d68c13debab93d8c4754fd6f4023dbec4537305b340",
+      "filepath": "/full/renoir/20250412/dtbo.img",
+      "sha1": "c4b6b6985d8762aee56044aa6a9b0f3d77eabfe1",
+      "sha256": "6bbf29865611b468b71056bb168412dfdb0d240f261c8c9360151e00d274438d",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20250405/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20250412/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/renoir/20250405/super_empty.img",
+      "filepath": "/full/renoir/20250412/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20250405/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20250412/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/renoir/20250405/vbmeta.img",
-      "sha1": "5c94a383a44ac3347306e479c1cf396591936e0c",
-      "sha256": "f6f8d82c79f2fb3421f21928bfdcd3a0d0d426475d85dc9cd0f05e08f37918fe",
+      "filepath": "/full/renoir/20250412/vbmeta.img",
+      "sha1": "69293ced52633ea74987b4ac99e79bda733666e3",
+      "sha256": "19d357e28331200b815532a917b17fcb09c7edb1b8527e4be78a0ccc3f243020",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20250405/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20250412/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/renoir/20250405/vendor_boot.img",
-      "sha1": "5f5d69a3d70810b138ea1cd9b7d3635371b5762c",
-      "sha256": "7d309efad93be24464c082b4f047338fc7f790cbf20010a269ef9eae7b78c10a",
+      "filepath": "/full/renoir/20250412/vendor_boot.img",
+      "sha1": "5440fbe3be5bc1fcf832a3a4996a90e3f52e66a2",
+      "sha256": "02cfcb13508b6a25514c297716ca926eafbca5bcfdb5fd96b155d5f355abd0fb",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20250405/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20250412/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-03",
+  "os_patch_level": "2025-04",
   "type": "nightly",
-  "version": "22.1"
+  "version": "22.2"
 }
