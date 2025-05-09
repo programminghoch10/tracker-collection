@@ -3,7 +3,6 @@
 LINEAGEOS_BUILD_TARGETS="https://raw.githubusercontent.com/LineageOS/hudson/master/lineage-build-targets"
 LINEAGEOS_DEVICES="https://raw.githubusercontent.com/LineageOS/hudson/master/updater/devices.json"
 LINEAGEOS_BUILDCONFIG_GENERATOR="https://raw.githubusercontent.com/lineageos-infra/build-config/main/android/generator.py"
-LINEAGEOS_BUILDCONFIG_PYTHON="python2.7"
 LINEAGEOS_API_URL="https://download.lineageos.org/api/v2/devices/%s/builds"
 LINEAGEOS_WIKI_URL="https://wiki.lineageos.org/devices/%s"
 
@@ -19,7 +18,7 @@ WORKDIR=$(dirname "$(readlink -f "$0")")
 cd "$WORKDIR"
 source ../../framework.sh
 
-for cmd in git curl jq numfmt sed cut $LINEAGEOS_BUILDCONFIG_PYTHON; do
+for cmd in git curl jq numfmt sed cut python; do
     [ -z "$(command -v "$cmd")" ] && echo "Missing command $cmd" && exit 1
 done
 
@@ -116,7 +115,7 @@ case "$CHECKTYPE" in
     "nightly")
         curl --silent --fail "$LINEAGEOS_BUILDCONFIG_GENERATOR" | sed -e 's|^import yaml$||g' -e 's|yaml.dump(\(.*\))|\1|g' > "$DATADIR"/"$BUILDCONFIGGENERATORFILE"
         saveTrackDataFile "$BUILDCONFIGGENERATORFILE" "Update device generator"
-        TARGETS_TODAY=$($LINEAGEOS_BUILDCONFIG_PYTHON "$DATADIR"/"$BUILDCONFIGGENERATORFILE" < "$DATADIR"/"$BUILDTARGETSFILE" | sed "s|'|\"|g" | jq -r '."steps" | map(."build"."env"."DEVICE") | .[]')
+        TARGETS_TODAY=$(python "$DATADIR"/"$BUILDCONFIGGENERATORFILE" < "$DATADIR"/"$BUILDTARGETSFILE" | sed "s|'|\"|g" | jq -r '."steps" | map(."build"."env"."DEVICE") | .[]')
         for DEVICE in $TARGETS_TODAY; do
             processDevice "$DEVICE"
         done
