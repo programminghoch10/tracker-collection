@@ -11,6 +11,7 @@ Click on the tracker name to get more information.
 * [LineageLeaks](lineageos/leaks/)
 * [GitHub Releases Tracker](github/releases)
 * [ReVanced Releases Tracker](github/releases/README-revanced.md)
+* [Magisk Modules Tracker](magisk/modules/)
 
 ## Tracker Status
 [![GitHub DMCA Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-dmca.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-dmca.yml)  
@@ -19,6 +20,7 @@ Click on the tracker name to get more information.
 [![GSMArena Releases Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/gsmarena-release.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/gsmarena-release.yml)  
 [![LineageOS Leaks Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/lineageos-leaks.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/lineageos-leaks.yml)  
 [![GitHub Releases Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-releases.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/github-releases.yml)  
+[![Magisk Modules Tracker](https://github.com/programminghoch10/tracker-collection/actions/workflows/magisk-modules.yml/badge.svg)](https://github.com/programminghoch10/tracker-collection/actions/workflows/magisk-modules.yml)  
 
 ## Rules & Guidelines
 

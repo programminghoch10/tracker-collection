@@ -55,7 +55,7 @@ getCommit() {
     GitHubApiRequest "https://api.github.com/repos/$REPO/git/commits/$COMMIT"
 }
 getCommitTitle() {
-    getCommit "$@"  | jq -r '.message' | sed -n 1p
+    getCommit "$@"  | jq -r '.message' | firstline
 }
 
 IFS=$'\n'

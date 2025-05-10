@@ -110,7 +110,11 @@ envsubstadvanced() {
 }
 
 stripEmptyLines() {
-    sed -e '/^$/ d'
+    sed -e '/^$/d'
+}
+
+stripCommentLines() {
+    sed -e '/^#/d'
 }
 
 convertToTelegramTag() {
@@ -128,4 +132,18 @@ sanitizeHTML() {
         -e 's/>/\&gt;/g' \
         -e 's/"/\&quot;/g' \
         -e "s/'/\&#39;/g"
+}
+
+getCSV() {
+    cut -d',' -f"$1"
+}
+
+isBooleanValue() {
+    [ "$1" = "true" ] || [ "$1" = "false" ]
+}
+
+firstline() {
+    # use this instead of head -n 1
+    # to consume the entire pipe
+    sed -n 1p
 }
