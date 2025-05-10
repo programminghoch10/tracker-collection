@@ -25,14 +25,6 @@ saveTrackDataFile() {
     cd "$PREVWD"
 }
 
-getCSV() {
-    cut -d',' -f"$1"
-}
-
-isBooleanValue() {
-    [ "$1" = "true" ] || [ "$1" = "false" ]
-}
-
 processRepo() {
     owner="$(getCSV 1 <<< "$config" | cut -d'/' -f1)"
     [ -z "$owner" ] && echo "missing owner" && return 1
@@ -97,7 +89,7 @@ sendReleaseMessage() {
     sendMessage "$MSG" "$KEYBOARD"
 }
 
-CONFIG="$(sed -e '/^#/d' < config.csv)"
+CONFIG="$(stripCommentLines < config.csv)"
 
 for config in $CONFIG; do
     processRepo "$config"

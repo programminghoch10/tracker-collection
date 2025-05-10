@@ -1,0 +1,24 @@
+# Configuration file for Magisk Modules Tracking
+# Fields:
+#  ID - unique module ID for tracking, should be similar to module.prop id
+#  UpdateJSON URL
+#  Repository URL
+#  Changelog - whether to include changelog in update messages (true/false)
+
+MagicalProtection,https://raw.githubusercontent.com/programminghoch10/MagicalProtection/refs/heads/deploy/update.json,https://github.com/programminghoch10/MagicalProtection,true
+ReVancedRepackaged,https://raw.githubusercontent.com/programminghoch10/ReVancedRepackaged/refs/heads/deploy/update.json,https://github.com/programminghoch10/ReVancedRepackaged,true
+ViPER4AndroidRepackaged,https://raw.githubusercontent.com/programminghoch10/ViPER4AndroidRepackaged/refs/heads/deploy/update.json,https://github.com/programminghoch10/ViPER4AndroidRepackaged,true
+
+AudioCompatibilityPatch,https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/update.json,https://github.com/Magisk-Modules-Repo/acp,false
+AudioModificationLibrary,https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/update.json,https://github.com/Zackptg5/Audio-Modification-Library,false
+BuiltInBusyBox,https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json,https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox,false
+CustomCertificateAuthorities,https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/refs/heads/master/update.json,https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities,false
+FDroidPriv,https://raw.githubusercontent.com/entr0pia/Fdroid-Priv/master/update.json,https://github.com/entr0pia/Fdroid-Priv,false
+JamesDSP,https://raw.githubusercontent.com/Zackptg5/JamesDSPManager/master/update.json,https://github.com/Zackptg5/JamesDSPManager,false
+LSPosed,https://lsposed.github.io/LSPosed/release/zygisk.json,https://github.com/LSPosed/LSPosed,false
+LSPosedJM,https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json,https://github.com/JingMatrix/LSPosed,false
+PlayIntegrityFix,https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json,https://github.com/chiteroman/PlayIntegrityFix,false
+TrickyStore,https://5ec1cff.github.io/TrickyStore/update.json,https://github.com/5ec1cff/TrickyStore,false
+ZygiskAssistant,https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/main/update_metadata/update.json,https://github.com/snake-4/Zygisk-Assistant,false
+ZygiskDetach,https://raw.githubusercontent.com/j-hc/zygisk-detach/master/update.json,https://github.com/j-hc/zygisk-detach,false
+ZygiskSU,https://api.nullptr.icu/android/zygisk-next/static/update.json,https://github.com/Dr-TSNG/ZygiskNext,false
