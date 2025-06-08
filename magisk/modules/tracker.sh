@@ -65,14 +65,14 @@ processModule() {
     [ ! -f "$DATADIR"/"$id"/update.json ] && echo '{"versionCode":0}' > "$DATADIR"/"$id"/update.json
 
     prevversioncode=$(jq -r '.versionCode' "$DATADIR"/"$id"/update.json)
-    mecurl "$updatejsonurl" "$DATADIR"/"$id"/update.json
+    mecurl "$updatejsonurl" "$DATADIR"/"$id"/update.json || return 0
     newversioncode=$(jq -r '.versionCode' "$DATADIR"/"$id"/update.json)
 
     if [ "$newversioncode" -gt "$prevversioncode" ]; then
         zipurl=$(jq -r '.zipUrl' "$DATADIR"/"$id"/update.json)
         changelogurl=$(jq -r '.changelog' "$DATADIR"/"$id"/update.json)
 
-        mcurl "$zipurl" > "$DATADIR"/"$id"/module.zip
+        mcurl --output "$DATADIR"/"$id"/module.zip "$zipurl" || return 0
         unzip "$DATADIR"/"$id"/module.zip module.prop
         rm "$DATADIR"/"$id"/module.zip
         mv module.prop "$DATADIR"/"$id"/module.prop
