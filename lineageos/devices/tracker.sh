@@ -1,7 +1,7 @@
 #!/bin/bash
 
-LINEAGEOS_BUILD_TARGETS="https://raw.githubusercontent.com/LineageOS/hudson/master/lineage-build-targets"
-LINEAGEOS_DEVICES="https://raw.githubusercontent.com/LineageOS/hudson/master/updater/devices.json"
+LINEAGEOS_BUILD_TARGETS="https://raw.githubusercontent.com/LineageOS/hudson/main/lineage-build-targets"
+LINEAGEOS_DEVICES="https://raw.githubusercontent.com/LineageOS/hudson/main/updater/devices.json"
 LINEAGEOS_BUILDCONFIG_GENERATOR="https://raw.githubusercontent.com/lineageos-infra/build-config/main/android/generator.py"
 LINEAGEOS_API_URL="https://download.lineageos.org/api/v2/devices/%s/builds"
 LINEAGEOS_WIKI_URL="https://wiki.lineageos.org/devices/%s"
