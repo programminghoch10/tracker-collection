@@ -1,59 +1,61 @@
 {
-  "date": "2023-06-30",
-  "datetime": 1688083200,
+  "date": "2025-06-04",
+  "datetime": 1748995200,
   "files": [
     {
-      "date": "2023-06-30",
-      "datetime": 1688083200,
-      "filename": "lineage-20.0-20230630-nightly-caprip-signed.zip",
-      "filepath": "/full/caprip/20230630/lineage-20.0-20230630-nightly-caprip-signed.zip",
-      "sha1": "343a9dbd25242d081d7bd4a56d314b1e04864be6",
-      "sha256": "033fbc384f3005806241a9f6e83c3cbab57b63e4336cef653477fe956a049328",
-      "size": 836954841,
+      "date": "2025-06-04",
+      "datetime": 1748995200,
+      "filename": "lineage-22.2-20250604-nightly-caprip-signed.zip",
+      "filepath": "/full/caprip/20250604/lineage-22.2-20250604-nightly-caprip-signed.zip",
+      "os_patch_level": "2025-05",
+      "sha1": "10b58019dffa4b554d6faa115d39ea2fb57778c2",
+      "sha256": "07381c86e5c973ea5e314beeff7a7d90e097e8a9efd2914dd5372240496c9a9e",
+      "size": 1026820690,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20230630/lineage-20.0-20230630-nightly-caprip-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20250604/lineage-22.2-20250604-nightly-caprip-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/caprip/20230630/boot.img",
-      "sha1": "555b68b7a3b3a657db7b22fcb6243155ad1f9054",
-      "sha256": "5477420b69ddeeccaf841b870fbf72c176bed02a49f61cb916845ae7c04ba65f",
+      "filepath": "/full/caprip/20250604/boot.img",
+      "sha1": "b5a8d92bf3dac43af9bed332f485b9f2d715d346",
+      "sha256": "7c3cfc7d67761c14e8764a9df6963ad92ee779c1ff48c8545e92a5764e9376c7",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20230630/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20250604/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/caprip/20230630/dtbo.img",
-      "sha1": "65e67587c683cdcf114d540f31a6903b69b8c8ce",
-      "sha256": "a1786b344f433b706ca613d6eb075f02d2eea0db409747ec9da4d2456622d139",
+      "filepath": "/full/caprip/20250604/dtbo.img",
+      "sha1": "6dbb3d371f0f320aa64353d33ff6aafa4c746f13",
+      "sha256": "68cc6a1da09730fe1e30544d56115446e7abf628348a7a92b67739f93c64e7ba",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20230630/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20250604/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/caprip/20230630/super_empty.img",
-      "sha1": "e92b2a7b825ceaa1e69b560df99a4dd39bf67f30",
-      "sha256": "ee15c716ccb94c380fcf72618d99b3c2762b750f3cd60f5df4190c73f46ff8c0",
+      "filepath": "/full/caprip/20250604/super_empty.img",
+      "sha1": "b70b7ff3e5885821502e61e4073152a0ffc723b8",
+      "sha256": "ad915e77f8129014079419a01bd630478aaad5884ac75658f6fc4b30001fdeed",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20230630/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20250604/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/caprip/20230630/vbmeta.img",
-      "sha1": "fa907d3b6b4af273d0d4082d251f7a1c958b52b8",
-      "sha256": "71f12c507b1468c8dd809b9c04eb68144e27224cd46956ebbf7446db953fc460",
+      "filepath": "/full/caprip/20250604/vbmeta.img",
+      "sha1": "00fb3f9bff90448680fe7507d2fc1262d585eb0c",
+      "sha256": "dd04642ae88a842121f157b727b41c723d63896a03bdb3e3e96f006738975152",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20230630/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20250604/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/caprip/20230630/vendor_boot.img",
-      "sha1": "2736a0b1b1a049e84c98bd6313b5724aa923c228",
-      "sha256": "57821583436a9b5905b8d014e090216b41b41712e0f06463e217f4f0735606d1",
+      "filepath": "/full/caprip/20250604/vendor_boot.img",
+      "sha1": "ef7acdef4d4d9ae9a57b08e8c41276536d45dd51",
+      "sha256": "bfe7106e916368e1d5d5fc444862f658bfba53eed981c2be019a4a6ee13d70ad",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20230630/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20250604/vendor_boot.img"
     }
   ],
+  "os_patch_level": "2025-05",
   "type": "nightly",
-  "version": "20.0"
+  "version": "22.2"
 }
