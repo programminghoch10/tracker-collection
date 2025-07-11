@@ -1,61 +1,61 @@
 {
-  "date": "2025-07-04",
-  "datetime": 1751587200,
+  "date": "2025-07-11",
+  "datetime": 1752192000,
   "files": [
     {
-      "date": "2025-07-04",
-      "datetime": 1751587200,
-      "filename": "lineage-22.2-20250704-nightly-barbet-signed.zip",
-      "filepath": "/full/barbet/20250704/lineage-22.2-20250704-nightly-barbet-signed.zip",
-      "os_patch_level": "2025-06",
-      "sha1": "371e81681cb5366414108788a7535cddab728da8",
-      "sha256": "532cd7d8d5fb6df925caa0bf9fef019fcacba362144ad18faee24d33f7a2f531",
-      "size": 1188274586,
+      "date": "2025-07-11",
+      "datetime": 1752192000,
+      "filename": "lineage-22.2-20250711-nightly-barbet-signed.zip",
+      "filepath": "/full/barbet/20250711/lineage-22.2-20250711-nightly-barbet-signed.zip",
+      "os_patch_level": "2025-07",
+      "sha1": "ece861e5651677a87645a3bf040686fe170680bb",
+      "sha256": "2000b0eedd592a6c03b4173e1b1667a79f3db5d979337987ad8b15f35f4c7058",
+      "size": 1188206496,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/barbet/20250704/lineage-22.2-20250704-nightly-barbet-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20250711/lineage-22.2-20250711-nightly-barbet-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/barbet/20250704/boot.img",
-      "sha1": "cc36a4d5586d8cc2529825c99e5eb30c27f6c868",
-      "sha256": "23f7f62fcb051eaf098a7481133723aeb79c882af66883828be5dd0355709d93",
+      "filepath": "/full/barbet/20250711/boot.img",
+      "sha1": "74ceef88af063d8d30f27217c6eb5f2dc95b71c2",
+      "sha256": "f051121e3d90b9bded223717495c37e2c6dc1f30d5054ccb66485b93409373b2",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/barbet/20250704/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20250711/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/barbet/20250704/dtbo.img",
-      "sha1": "ac13d8dff6dad4a0ca17f2eb033bd8dc35408fcf",
-      "sha256": "d6cee738331be88e8050a261d5c32a7cc8a59533a3bf8b922ea2864ea61cc691",
+      "filepath": "/full/barbet/20250711/dtbo.img",
+      "sha1": "ac5d1052caa6cbbbd654b8161cf2275904b1d1f8",
+      "sha256": "a15b8f9161ac5238562740d5ab2482bd4f7562d5d1b846a6b8596699e7b7be26",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/barbet/20250704/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20250711/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/barbet/20250704/super_empty.img",
+      "filepath": "/full/barbet/20250711/super_empty.img",
       "sha1": "26ceb9fa2595e21718d6d7e3a4cf1b88f95bc708",
       "sha256": "aa8d46924aa1c1a936825a8baaa103036289a7c663054b2ebdbc4e1ea23ea0f6",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/barbet/20250704/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20250711/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/barbet/20250704/vbmeta.img",
-      "sha1": "67049d7c7b9b5839c2b467db66e87aced4c59b85",
-      "sha256": "722a2203c9f32e617b79c3fb5889cd1512a26e7ac971d7ad88b5fed56f86abb3",
+      "filepath": "/full/barbet/20250711/vbmeta.img",
+      "sha1": "31dd8631d7c354fbea7b24559eee6bf83ebd18dd",
+      "sha256": "b852c82e7c67b5753126fc86ac8585fb4ae601f291c7bce3cfc455c9edcf0fab",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/barbet/20250704/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20250711/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/barbet/20250704/vendor_boot.img",
-      "sha1": "00f270e4e74c1d6824a9f0ef1213c26fd408cd92",
-      "sha256": "d84b0261eb061c9bd07bd8bea60dfae0faf53983980388a6b758f9eaf78cc1f9",
+      "filepath": "/full/barbet/20250711/vendor_boot.img",
+      "sha1": "a68ede06898135446a6c554980a834efc4f3c668",
+      "sha256": "ebe46f74efeafdc952ee557878c519b214582ebc65bf0504b188a97c8eb81783",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/barbet/20250704/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20250711/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-06",
+  "os_patch_level": "2025-07",
   "type": "nightly",
   "version": "22.2"
 }
