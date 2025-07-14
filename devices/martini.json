@@ -1,61 +1,61 @@
 {
-  "date": "2025-07-07",
-  "datetime": 1751846400,
+  "date": "2025-07-14",
+  "datetime": 1752451200,
   "files": [
     {
-      "date": "2025-07-07",
-      "datetime": 1751846400,
-      "filename": "lineage-22.2-20250707-nightly-martini-signed.zip",
-      "filepath": "/full/martini/20250707/lineage-22.2-20250707-nightly-martini-signed.zip",
-      "os_patch_level": "2025-06",
-      "sha1": "8db54b9b48fe754b35e77f053ce584ac5ddfb2d8",
-      "sha256": "b0275f2ede3736c7813af470485d79f406727ce65c6f451eb5ff9ae754892741",
-      "size": 1638018158,
+      "date": "2025-07-14",
+      "datetime": 1752451200,
+      "filename": "lineage-22.2-20250714-nightly-martini-signed.zip",
+      "filepath": "/full/martini/20250714/lineage-22.2-20250714-nightly-martini-signed.zip",
+      "os_patch_level": "2025-07",
+      "sha1": "6ccc48cbdfd5e56a0ff95730ef5f13405abd5777",
+      "sha256": "ed889283f8937004a58c4a1fdad6d28a185247172e270bd5cc205b177bc38f26",
+      "size": 1643630320,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/martini/20250707/lineage-22.2-20250707-nightly-martini-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20250714/lineage-22.2-20250714-nightly-martini-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/martini/20250707/boot.img",
-      "sha1": "8ae8c056d5df7037440f55731fb2ca7701f211a4",
-      "sha256": "dafc3312e2560b619634d703e94117d61c4aa2927c7c027663bb04645ede61cf",
+      "filepath": "/full/martini/20250714/boot.img",
+      "sha1": "31c9699a4718b807b12d6c778819565e1a5383e7",
+      "sha256": "dcdb48d437c6ea70a85026180c70373d7446c223eacc3d3a60d60be9903bfe71",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20250707/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20250714/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/martini/20250707/dtbo.img",
-      "sha1": "25f42b8a31712b833ff7603e3d45891c7121b9eb",
-      "sha256": "37c398efc0b7956c6f63f21ff5aa9daefb7c1dce4f01fa5d06d32308b170fb84",
+      "filepath": "/full/martini/20250714/dtbo.img",
+      "sha1": "212717e74a29a956407d5b17e3213b8c22605939",
+      "sha256": "8a6499978e892e4ff9ff626b170e6fe4c6370318e062ea640e5766a5baf1fc9b",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20250707/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20250714/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/martini/20250707/super_empty.img",
+      "filepath": "/full/martini/20250714/super_empty.img",
       "sha1": "2a93a95de91b1138756d0a6945cc0d066338808d",
       "sha256": "2bc92a674e4b667f82350730d91e4a4e3a61fd6c56b8d312de19e190180058ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20250707/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20250714/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/martini/20250707/vbmeta.img",
-      "sha1": "98c2fc19177b5893f6ebc67a3ee7bf5249702fe2",
-      "sha256": "0fdc89103359318998ea9e87fd3131d7d4b6050222a3ad53404e1dc0829294c5",
+      "filepath": "/full/martini/20250714/vbmeta.img",
+      "sha1": "c4ee7b6709ead8372c8667daa1b3bc05f163c3b8",
+      "sha256": "468b9b8ff5ca4292c066af93b6d65e5b5c228ecbd10b300a430baaa4fd4dbe05",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20250707/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20250714/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/martini/20250707/vendor_boot.img",
-      "sha1": "b7eb938aca87f40e782b30e4c37072577211b25b",
-      "sha256": "a7d5a903587e5864190a1b15d835b8496ad30cc47833751f5f74792e7f4c919e",
+      "filepath": "/full/martini/20250714/vendor_boot.img",
+      "sha1": "ef72b19a6a4cbadf3cd16a8bd203d01e94bab775",
+      "sha256": "939585eb20dcfe1a892080ff3906c6f41edf7fab40918b92a3a8b5a8ae9d9b69",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20250707/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20250714/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-06",
+  "os_patch_level": "2025-07",
   "type": "nightly",
   "version": "22.2"
 }
