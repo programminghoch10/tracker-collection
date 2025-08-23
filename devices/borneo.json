@@ -1,61 +1,61 @@
 {
-  "date": "2025-08-16",
-  "datetime": 1755302400,
+  "date": "2025-08-23",
+  "datetime": 1755907200,
   "files": [
     {
-      "date": "2025-08-16",
-      "datetime": 1755302400,
-      "filename": "lineage-22.2-20250816-nightly-borneo-signed.zip",
-      "filepath": "/full/borneo/20250816/lineage-22.2-20250816-nightly-borneo-signed.zip",
-      "os_patch_level": "2025-07",
-      "sha1": "1c46b1abb70fa5dc398ec9dbadc7e2582c9b0f48",
-      "sha256": "b851a62c34aa9ec85a4886387351b12f5b1c2f1d8cd8c4ee217507506addcd95",
-      "size": 1030989011,
+      "date": "2025-08-23",
+      "datetime": 1755907200,
+      "filename": "lineage-22.2-20250823-nightly-borneo-signed.zip",
+      "filepath": "/full/borneo/20250823/lineage-22.2-20250823-nightly-borneo-signed.zip",
+      "os_patch_level": "2025-08",
+      "sha1": "9ddf27362077e96c911a696c899412d9cab04b7a",
+      "sha256": "7ed80ccca074afc8b0779da164f3d3203578520768934aba62992f7af625b2f5",
+      "size": 1031945229,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/borneo/20250816/lineage-22.2-20250816-nightly-borneo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/borneo/20250823/lineage-22.2-20250823-nightly-borneo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/borneo/20250816/boot.img",
-      "sha1": "2ca2e2c8a31574afba1960f0132dcdda8138aa22",
-      "sha256": "3499b76e877c8cbb83be6fbb8ff29aaab428a2dfb227e613ad0e2ebefbf05b04",
+      "filepath": "/full/borneo/20250823/boot.img",
+      "sha1": "d6b7fa8e32a9bbfa4678543ca51e60a5a3991499",
+      "sha256": "219712afe090911a032675ba21d43b32420f4610c5e6c414bd661edac1eb77d6",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/borneo/20250816/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/borneo/20250823/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/borneo/20250816/dtbo.img",
-      "sha1": "e72822a94488eceeca602ad76ac514c1d4a406f4",
-      "sha256": "9704ff8ecd582b2db3e17926e1f04567fe895d350cfb06978e45a18f8c992241",
+      "filepath": "/full/borneo/20250823/dtbo.img",
+      "sha1": "b78c0ccf803de1b6302c909e640b7d25d50dd38f",
+      "sha256": "32a5a4343ecffb6d6e1b352eb3a914cb6b591d1b79f5bdf420ab9c9f4d74d850",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/borneo/20250816/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/borneo/20250823/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/borneo/20250816/recovery.img",
-      "sha1": "dcb8e5197add4622793d30c65291737546c304db",
-      "sha256": "2599d5ae5260773868651a2886417f7fa565dd27409397851c42da0c59cdaf9a",
+      "filepath": "/full/borneo/20250823/recovery.img",
+      "sha1": "9bc0a8aa24e93f1c54a415ff3d152643ff0cad5e",
+      "sha256": "51d19fc685aea5ae90f94a312d7edf2540a6253f9511065e0166a35cf5045912",
       "size": 102400000,
-      "url": "https://mirrorbits.lineageos.org/full/borneo/20250816/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/borneo/20250823/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/borneo/20250816/super_empty.img",
+      "filepath": "/full/borneo/20250823/super_empty.img",
       "sha1": "63f5bdc7aed129ec26d33aaee168c7e46ccaa18c",
       "sha256": "3f4a618b92cfb51c1c728433f5786313847fd94cb886fc3dfc08f3cc23693556",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/borneo/20250816/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/borneo/20250823/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/borneo/20250816/vbmeta.img",
-      "sha1": "b6d6b6e8e8eed974c47251bbc1ae912d02f406bd",
-      "sha256": "0e5df7fecef6dfdc4fbe38c522f2a99fcc45a71a9e9df8100cc35378d9960e62",
+      "filepath": "/full/borneo/20250823/vbmeta.img",
+      "sha1": "b7a8c6725b1d9274b4fbfd7224f7c5d43bf314b9",
+      "sha256": "36247a3d33af05de1501699f811b064c4ba990ab48f8e5c6eda92af3281d3b6e",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/borneo/20250816/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/borneo/20250823/vbmeta.img"
     }
   ],
-  "os_patch_level": "2025-07",
+  "os_patch_level": "2025-08",
   "type": "nightly",
   "version": "22.2"
 }
