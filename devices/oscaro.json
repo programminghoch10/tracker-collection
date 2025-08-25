@@ -1,61 +1,61 @@
 {
-  "date": "2025-08-18",
-  "datetime": 1755475200,
+  "date": "2025-08-25",
+  "datetime": 1756080000,
   "files": [
     {
-      "date": "2025-08-18",
-      "datetime": 1755475200,
-      "filename": "lineage-22.2-20250818-nightly-oscaro-signed.zip",
-      "filepath": "/full/oscaro/20250818/lineage-22.2-20250818-nightly-oscaro-signed.zip",
-      "os_patch_level": "2025-07",
-      "sha1": "13f2f280ddb7f88a3f36b0688f38feff409aaf25",
-      "sha256": "737af221d1e9d315d0a5d7e633e9e5276b1cb44d273b07cc8e54edac0fed32d7",
-      "size": 1622469592,
+      "date": "2025-08-25",
+      "datetime": 1756080000,
+      "filename": "lineage-22.2-20250825-nightly-oscaro-signed.zip",
+      "filepath": "/full/oscaro/20250825/lineage-22.2-20250825-nightly-oscaro-signed.zip",
+      "os_patch_level": "2025-08",
+      "sha1": "2fa71ce99a551be268cf75660b4fd7f40df122ef",
+      "sha256": "5acb5b010110ad93e10ce26f5780092527be512c15dda4eb95061eeba6136dfa",
+      "size": 1623206027,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250818/lineage-22.2-20250818-nightly-oscaro-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250825/lineage-22.2-20250825-nightly-oscaro-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/oscaro/20250818/boot.img",
-      "sha1": "bf615020209671bc6d8be49f7e772cc666b40886",
-      "sha256": "75d3dc297ae1512299de7b06291026b7798c60f1b9bd6eb33ed3f9163ecacf12",
+      "filepath": "/full/oscaro/20250825/boot.img",
+      "sha1": "560074bd7bce416e93f996a83a5bc8691172a9bd",
+      "sha256": "ca7a2f8bf56ce79f11c8fe1aae4b78bc1a54895f0a713ea1c0b9d209c5feb7ef",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250818/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250825/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/oscaro/20250818/dtbo.img",
-      "sha1": "d71ce7839964598273094aef6e79eb2610a38b1f",
-      "sha256": "a2dcd707c719192ff153e990a4b1d5c147f3e762dc6c2f59b8d113c4097dfae9",
+      "filepath": "/full/oscaro/20250825/dtbo.img",
+      "sha1": "a0b997bd28868cfa0571a51173dbe816b80ef778",
+      "sha256": "4f2101f61ff50de254cc1ffbcb8a089ea2ebc50b2fe91020076575197df097b5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250818/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250825/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/oscaro/20250818/super_empty.img",
+      "filepath": "/full/oscaro/20250825/super_empty.img",
       "sha1": "fb386e9b83e2aba6b75a3f387af63b4ea1ce2e07",
       "sha256": "1bcb34b6a98ad77887debd2133252dc857bdaddefbe9548aa03cea8035ef06ce",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250818/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250825/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/oscaro/20250818/vbmeta.img",
-      "sha1": "2bde3d673eaca498d9743347af0fb79837a33fe1",
-      "sha256": "d16ce1d323742d96a740c978c3fa7117d0ac31368e9bd41927daa3f7cbaa0104",
+      "filepath": "/full/oscaro/20250825/vbmeta.img",
+      "sha1": "78fab54ed8b6f50bec5726521ef4d79d73a41a2a",
+      "sha256": "db187b1450c2184e9bba5ff68771be18190b96ee5e910de9f2b5c6b853cb6188",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250818/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250825/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/oscaro/20250818/vendor_boot.img",
-      "sha1": "75b32d0d20edeea9c2f39ba8406b40605c1ff165",
-      "sha256": "76884dd5bfd3685bc190011f4150be12b196f848686372bb4e67179114382ed2",
+      "filepath": "/full/oscaro/20250825/vendor_boot.img",
+      "sha1": "0a0b8c3d4c98e34e459b6ad9aa9d67b8a3ddfd77",
+      "sha256": "d40dc15fac2168504f6bc09a93ce32d548397954a2f7a86583c44b782c08787d",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250818/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20250825/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-07",
+  "os_patch_level": "2025-08",
   "type": "nightly",
   "version": "22.2"
 }
