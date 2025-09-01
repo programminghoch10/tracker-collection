@@ -1,61 +1,61 @@
 {
-  "date": "2025-08-25",
-  "datetime": 1756080000,
+  "date": "2025-09-01",
+  "datetime": 1756684800,
   "files": [
     {
-      "date": "2025-08-25",
-      "datetime": 1756080000,
-      "filename": "lineage-21.0-20250825-nightly-billie-signed.zip",
-      "filepath": "/full/billie/20250825/lineage-21.0-20250825-nightly-billie-signed.zip",
-      "os_patch_level": "2025-06",
-      "sha1": "5583402a260ce6322d49c500fbb59ca66cda2b5b",
-      "sha256": "452c269b36a32f3c216a274e01a7ed94fc0a3b394b65a68fa3762fb1806d7707",
-      "size": 1245688568,
+      "date": "2025-09-01",
+      "datetime": 1756684800,
+      "filename": "lineage-21.0-20250901-nightly-billie-signed.zip",
+      "filepath": "/full/billie/20250901/lineage-21.0-20250901-nightly-billie-signed.zip",
+      "os_patch_level": "2025-08",
+      "sha1": "728f404e037d80410b40f608d198ccc88457df99",
+      "sha256": "f8166e1e5c50e8baf4fb6d340a3c73d6094dde9561ad8c06ac546f6429e7c0e8",
+      "size": 1245700588,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/billie/20250825/lineage-21.0-20250825-nightly-billie-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20250901/lineage-21.0-20250901-nightly-billie-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/billie/20250825/boot.img",
-      "sha1": "2c52629cfc38bb9ef713a3456e50c581e95aa778",
-      "sha256": "a3b85c61001b87caff6b5614d07ffde5a5580704eca3ec276c865a81ea78d82f",
+      "filepath": "/full/billie/20250901/boot.img",
+      "sha1": "87444536025fb3fc3cdc2c9c9921fa1f0ee20d0d",
+      "sha256": "a8b00df49f2c13046746121724726b9ec71fb6358dd18d1e52c2ec4fcafd8394",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20250825/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20250901/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/billie/20250825/dtbo.img",
-      "sha1": "3bc6ae26b62ac31b5bf7fdbf81106cc7de1770de",
-      "sha256": "aca95d08270d2d6f42ca14ff3f4316ac42b8b5f130f828e3820720a926e45b54",
+      "filepath": "/full/billie/20250901/dtbo.img",
+      "sha1": "78373923b239225b4c428c14094dbb0fa842d97e",
+      "sha256": "ba5d43a900b79fdd4fa9464e9844a0e3c297c4732ec8374d1c2e9b183260b561",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20250825/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20250901/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/billie/20250825/recovery.img",
-      "sha1": "c1ea33247ea92ead11c8617d99f1b8079ce8414a",
-      "sha256": "3bb46b14af40ffc99b307c25f32a549097170d5e8c10cf63c6f143af1a997e4a",
+      "filepath": "/full/billie/20250901/recovery.img",
+      "sha1": "9fde2a2575c03cc8a21de93443999745b9cbcbbd",
+      "sha256": "a3a017275466dd1a5ab41c17735db89be846050f5ccfbf54067954d62f76804b",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20250825/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20250901/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/billie/20250825/super_empty.img",
+      "filepath": "/full/billie/20250901/super_empty.img",
       "sha1": "5c46196f84f276a32ab226f91278f584a05d0dcb",
       "sha256": "ab447fce7e5743bcba1e0de4a4a831eda72bf4bb416aa1360436201a8811858f",
       "size": 4952,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20250825/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20250901/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/billie/20250825/vbmeta.img",
-      "sha1": "b3bee337492195ecffecc4f0f80952cc1f0819c4",
-      "sha256": "116896b1404ea1203b2bed5a13a15d0e5f7cf5a9f7f38692eec2d67369c14827",
+      "filepath": "/full/billie/20250901/vbmeta.img",
+      "sha1": "9bbf6cd65fb516ac2e23305265de3b0b6a9830ac",
+      "sha256": "08d9a3f0b6c60a004c4d399f5cf379179fb1c8b927c4fd4985389cb07c98f76d",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20250825/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20250901/vbmeta.img"
     }
   ],
-  "os_patch_level": "2025-06",
+  "os_patch_level": "2025-08",
   "type": "nightly",
   "version": "21.0"
 }
