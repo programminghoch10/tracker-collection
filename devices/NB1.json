@@ -1,29 +1,37 @@
 {
-  "date": "2025-09-21",
-  "datetime": 1758412800,
+  "date": "2025-09-25",
+  "datetime": 1758758400,
   "files": [
     {
-      "date": "2025-09-21",
-      "datetime": 1758412800,
-      "filename": "lineage-21.0-20250921-nightly-NB1-signed.zip",
-      "filepath": "/full/NB1/20250921/lineage-21.0-20250921-nightly-NB1-signed.zip",
-      "os_patch_level": "2025-08",
-      "sha1": "09b0eebe6780749dc2549f2d405481d793729b19",
-      "sha256": "ac0d30dbb82aac8a15e402ca7b6508d1cfd52bdefc2e05e0a3e5143210362652",
-      "size": 887860779,
+      "date": "2025-09-25",
+      "datetime": 1758758400,
+      "filename": "lineage-22.2-20250925-nightly-NB1-signed.zip",
+      "filepath": "/full/NB1/20250925/lineage-22.2-20250925-nightly-NB1-signed.zip",
+      "os_patch_level": "2025-09",
+      "sha1": "01c6245af9d1d43c7f8132a9ad980177157dcf5e",
+      "sha256": "d712cb9bb4cbd189349e8b8cf9663bf23c753b3a40e68515c3509ceacdbcbee0",
+      "size": 907502984,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/NB1/20250921/lineage-21.0-20250921-nightly-NB1-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/NB1/20250925/lineage-22.2-20250925-nightly-NB1-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/NB1/20250921/boot.img",
-      "sha1": "f660af8232b775e73d704947d5ffd0aa8925d129",
-      "sha256": "7eccbfdfc36689f958ab3a9c350cbf78b528fd28d836162aa42b1fc5b60a88a1",
-      "size": 52240384,
-      "url": "https://mirrorbits.lineageos.org/full/NB1/20250921/boot.img"
+      "filepath": "/full/NB1/20250925/boot.img",
+      "sha1": "b12995310f4884ae0abd5388bb187066b4f53cd1",
+      "sha256": "0c6dd7425a99fd495546ce27c7529281f2a720dbd2abbd6558751a5cdc059872",
+      "size": 52944896,
+      "url": "https://mirrorbits.lineageos.org/full/NB1/20250925/boot.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/NB1/20250925/super_empty.img",
+      "sha1": "a6c3754bda87c67f2fe459036d8b29cb50aa7cfd",
+      "sha256": "f1225da1dabd7638055c67668c1184ea3a2cc29d2614570997c85874eb0e731d",
+      "size": 4708,
+      "url": "https://mirrorbits.lineageos.org/full/NB1/20250925/super_empty.img"
     }
   ],
-  "os_patch_level": "2025-08",
+  "os_patch_level": "2025-09",
   "type": "nightly",
-  "version": "21.0"
+  "version": "22.2"
 }
