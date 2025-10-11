@@ -1,61 +1,61 @@
 {
-  "date": "2025-10-04",
-  "datetime": 1759536000,
+  "date": "2025-10-11",
+  "datetime": 1760140800,
   "files": [
     {
-      "date": "2025-10-04",
-      "datetime": 1759536000,
-      "filename": "lineage-22.2-20251004-nightly-fogos-signed.zip",
-      "filepath": "/full/fogos/20251004/lineage-22.2-20251004-nightly-fogos-signed.zip",
-      "os_patch_level": "2025-09",
-      "sha1": "a6e112a14ae0ccdf20e3a58949a8b5fd7552d402",
-      "sha256": "7978764fb4acc457b43a656ea853e320d5cb92cc3c60d72396cd6585a7bec5bb",
-      "size": 1165024561,
+      "date": "2025-10-11",
+      "datetime": 1760140800,
+      "filename": "lineage-22.2-20251011-nightly-fogos-signed.zip",
+      "filepath": "/full/fogos/20251011/lineage-22.2-20251011-nightly-fogos-signed.zip",
+      "os_patch_level": "2025-10",
+      "sha1": "1f6193a1791e041d21fba0061ed6cb316728d97e",
+      "sha256": "1e4de418fe5cb04767de8a3ecc629dbe0c0cbcb55b757d1d8eb8e44f5be5c5e9",
+      "size": 1164738653,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/fogos/20251004/lineage-22.2-20251004-nightly-fogos-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/fogos/20251011/lineage-22.2-20251011-nightly-fogos-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/fogos/20251004/boot.img",
-      "sha1": "d70ba08478c9b6b670121088d5a561c2d584333b",
-      "sha256": "7556a34da3016733df90b894e95dd721b5ae0aca4c498663c1d006e4608cd4e2",
+      "filepath": "/full/fogos/20251011/boot.img",
+      "sha1": "100c1d90c9901bcff3dab28e6642dcc82609f5c2",
+      "sha256": "e1ef4587efb564fd0656538b79dc86052adf5f3e7877a96d2605df16776f17c4",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/fogos/20251004/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogos/20251011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/fogos/20251004/dtbo.img",
-      "sha1": "2cff40bfd25ed1d5865e79998e209492a953d73f",
-      "sha256": "b8d403d96b0679b870a71615fbfa949d07a039c4b75ed5ac9f10c12bb958d447",
+      "filepath": "/full/fogos/20251011/dtbo.img",
+      "sha1": "b1e7ed31697bac2574d24734000d2b6729893f73",
+      "sha256": "26dba0934aca4c3aa554cdeafd6d9760893eb7acbd5caf05d1202ef9211fd46a",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/fogos/20251004/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogos/20251011/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/fogos/20251004/super_empty.img",
+      "filepath": "/full/fogos/20251011/super_empty.img",
       "sha1": "438a29d8992a5fd740e742ad3994ac95201829bb",
       "sha256": "570d502dbc70b79f489120fa510a09483faed3d4ef89a3480878103530475a08",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/fogos/20251004/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogos/20251011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/fogos/20251004/vbmeta.img",
-      "sha1": "1de1c4f913c48b8d19366218b2343a43cd7e6e75",
-      "sha256": "a7fd2f60effb30e343a1750eef020ae78da05922ae9ba1ff8e4f152a31ca32a4",
+      "filepath": "/full/fogos/20251011/vbmeta.img",
+      "sha1": "a7b6796aa9332f79b1be372736724edefc594c01",
+      "sha256": "cd66866f64fcad84cc9aad1d8ee6a22e40392652f7676f8ccc0eef8d6cba7f87",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/fogos/20251004/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogos/20251011/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/fogos/20251004/vendor_boot.img",
-      "sha1": "9df489e0cb56e91915b46e870183d70b2b4bfdf8",
-      "sha256": "fabc442520da9f7aabb004a27cd478f8a9993c5fa532af82b9a3cd27acade50d",
+      "filepath": "/full/fogos/20251011/vendor_boot.img",
+      "sha1": "dea64f083d0a09554a31d6aceb6216248d337853",
+      "sha256": "b11a984af018ea56a15e58e2373524799784f271e762dd16b0e3c0f3c6053d54",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/fogos/20251004/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogos/20251011/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-09",
+  "os_patch_level": "2025-10",
   "type": "nightly",
   "version": "22.2"
 }
