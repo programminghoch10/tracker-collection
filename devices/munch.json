@@ -1,61 +1,61 @@
 {
-  "date": "2025-10-20",
-  "datetime": 1760918400,
+  "date": "2025-10-27",
+  "datetime": 1761523200,
   "files": [
     {
-      "date": "2025-10-20",
-      "datetime": 1760918400,
-      "filename": "lineage-22.2-20251020-nightly-munch-signed.zip",
-      "filepath": "/full/munch/20251020/lineage-22.2-20251020-nightly-munch-signed.zip",
-      "os_patch_level": "2025-10",
-      "sha1": "5172ad600a4bd2c6dc7bc27efb3c20c62f14b737",
-      "sha256": "00b1e8f93f69945a9f4da4fc51888a70ab408e85d270bebb46839813d489454e",
-      "size": 1347825465,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-22.2-20251027-nightly-munch-signed.zip",
+      "filepath": "/full/munch/20251027/lineage-22.2-20251027-nightly-munch-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "b29cf6ccf13533cc3559ad43579402b706c9baec",
+      "sha256": "70a85e4ca622df988735f195c84b4713fc6a327695054dc176bbf0b80f789afb",
+      "size": 1347817141,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/munch/20251020/lineage-22.2-20251020-nightly-munch-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/munch/20251027/lineage-22.2-20251027-nightly-munch-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/munch/20251020/boot.img",
-      "sha1": "b742909c46435f4b180e019d74a316b5ee447b9f",
-      "sha256": "7c18cc2d0956b68c8018b3d10ecffc4b95a0154471de7e781650b52a48a63f0f",
+      "filepath": "/full/munch/20251027/boot.img",
+      "sha1": "e1c1ad81bbf838e94cc18bad81f07c9ab274de51",
+      "sha256": "555fcdc0311d8c613c6f90a2248f1869b99ef33ad5b81f4478eb90453e30e6e7",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/munch/20251020/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/munch/20251027/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/munch/20251020/dtbo.img",
-      "sha1": "27e5293f1f33e20934d7d855758e354c70deee84",
-      "sha256": "1e07f2570a754ae254a20dc55bd38cac2c1e6ade3d9c538b9490ef7e168b1ce8",
+      "filepath": "/full/munch/20251027/dtbo.img",
+      "sha1": "e5f7e5ee54e9323cf2a1e40b008fb76b6188a416",
+      "sha256": "f99b8c3d736f175a79496342a9f837073753c7daae27b2f160947bfd65d65d02",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/munch/20251020/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/munch/20251027/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/munch/20251020/super_empty.img",
+      "filepath": "/full/munch/20251027/super_empty.img",
       "sha1": "b384556968bfd19b4794ea68ad14758569b6ffcd",
       "sha256": "cb02654264619dcd33d4c092ac2ac531f5f5675218770efcad8e68601725c612",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/munch/20251020/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/munch/20251027/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/munch/20251020/vbmeta.img",
-      "sha1": "adb1cc276254ec010b9e4fb81db37da078816d13",
-      "sha256": "d48a9fc155f7a527ba4de4aa84f54b6861ae49c23d5b71894330855ba423b52b",
+      "filepath": "/full/munch/20251027/vbmeta.img",
+      "sha1": "9855229745c3f6efe8a33c218bbbe7dbeaa59da2",
+      "sha256": "09e7147560d066d423de5a4b6ca800c2380e2a476b80b68336a5b00d4b407ede",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/munch/20251020/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/munch/20251027/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/munch/20251020/vendor_boot.img",
-      "sha1": "87337123b9999f890c5ea3fde1dfe490856df4df",
-      "sha256": "a50be7bd3c1d66d05ccc1df5672983cae06ee53b8592b929cea1f4d8d85e0a26",
+      "filepath": "/full/munch/20251027/vendor_boot.img",
+      "sha1": "c71d38d63ce832701309470c371bf814ef0b955e",
+      "sha256": "7561b01c55db98e4a19bd3c493477902d7a5fb3d0df2a6e162dc7a92f6db74f3",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/munch/20251020/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/munch/20251027/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-10",
+  "os_patch_level": "2025-10-01",
   "type": "nightly",
   "version": "22.2"
 }
