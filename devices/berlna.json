@@ -1,61 +1,61 @@
 {
-  "date": "2025-10-22",
-  "datetime": 1761091200,
+  "date": "2025-10-29",
+  "datetime": 1761696000,
   "files": [
     {
-      "date": "2025-10-22",
-      "datetime": 1761091200,
-      "filename": "lineage-23.0-20251022-nightly-berlna-signed.zip",
-      "filepath": "/full/berlna/20251022/lineage-23.0-20251022-nightly-berlna-signed.zip",
-      "os_patch_level": "2025-10",
-      "sha1": "d67e32d2b39db8d4af127c715c7f29981eca6078",
-      "sha256": "5f7d683bc659b99b677f7b6f3941dd678d6a2c5b362ada79c5fe704772b98f36",
-      "size": 1294282215,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-berlna-signed.zip",
+      "filepath": "/full/berlna/20251029/lineage-23.0-20251029-nightly-berlna-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a37381830be5208fa8e29b54f81250cdaf7ce909",
+      "sha256": "1ebeac68a86f5eea791533e8e90f983ee5355cbd586c1d9be1e36ee1e5ff4cb1",
+      "size": 1294252439,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20251022/lineage-23.0-20251022-nightly-berlna-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20251029/lineage-23.0-20251029-nightly-berlna-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/berlna/20251022/boot.img",
-      "sha1": "f14cf8928a964c5d2409f47553814baadab44b82",
-      "sha256": "f7a4e1a33ca3f79eac1836674ba08304cb9e7c63297f9fe1d220d02c6fcb3005",
+      "filepath": "/full/berlna/20251029/boot.img",
+      "sha1": "f211956c011da273fa639a4d5a3337e66bc7d1fa",
+      "sha256": "c3f403670019a48e9fb4ad161701d539d24fdcceaa775c9cf23baac1a44e1db4",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20251022/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20251029/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/berlna/20251022/dtbo.img",
-      "sha1": "8ca956514b4cbd22fa1fb1802a80d0dab0ba0b10",
-      "sha256": "d883ca4fb7d1c31d8aba43618f657a651e3952f87e825104d1be566b4ca14aa5",
+      "filepath": "/full/berlna/20251029/dtbo.img",
+      "sha1": "5d615770237afd48d69c4c1bb9d775169d3af82b",
+      "sha256": "d2c074307aeffa6121b3060ca5bffd3b8ce27e027d1ed53d546e670cbb01a682",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20251022/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20251029/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/berlna/20251022/super_empty.img",
+      "filepath": "/full/berlna/20251029/super_empty.img",
       "sha1": "a38f863aaf994456b216401f4b21bb2ea609f165",
       "sha256": "f829333d957571cb418097aad2aeb1e81eadaeac6524747281b5b515f9025aad",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20251022/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20251029/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/berlna/20251022/vbmeta.img",
-      "sha1": "31b6aa62cffc65ea059094dfd94fb43c0b2245da",
-      "sha256": "e36f5418028c766440eb8d3bb41d3c423d5697d757e977809ef73c29b18ad7b9",
+      "filepath": "/full/berlna/20251029/vbmeta.img",
+      "sha1": "985ff8d720df2efc51ff4aa6f08631725ecca440",
+      "sha256": "ad365fc49e9cf35b96d55b20f422bf9ee55cfd51a4e9f7a09ce210bd3bd85808",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20251022/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20251029/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/berlna/20251022/vendor_boot.img",
-      "sha1": "48b0c9fabcae10ef6cc1bfd9386c1c0b38419c12",
-      "sha256": "fba94c73cc7444246ae9d7bc4085b3613e238d223f0abbf0c664bf81833c8074",
+      "filepath": "/full/berlna/20251029/vendor_boot.img",
+      "sha1": "e3f094b87172a4735eec2b868f0fe50a49494d74",
+      "sha256": "bad7689c985f892fd40b5de0ccd513b3881db5db3036d55bf246def5a731c41c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20251022/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20251029/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-10",
+  "os_patch_level": "2025-10-01",
   "type": "nightly",
   "version": "23.0"
 }
