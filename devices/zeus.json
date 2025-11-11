@@ -1,69 +1,69 @@
 {
-  "date": "2025-11-04",
-  "datetime": 1762214400,
+  "date": "2025-11-11",
+  "datetime": 1762819200,
   "files": [
     {
-      "date": "2025-11-04",
-      "datetime": 1762214400,
-      "filename": "lineage-23.0-20251104-nightly-zeus-signed.zip",
-      "filepath": "/full/zeus/20251104/lineage-23.0-20251104-nightly-zeus-signed.zip",
-      "os_patch_level": "2025-10-01",
-      "sha1": "60f0c1c5f40f360168d6a2cea0c90e995e0fb6b3",
-      "sha256": "56fa994483426bec24ce7385de42d7c76b6754a577a4f8ca424d6d9267d2e37f",
-      "size": 1759285836,
+      "date": "2025-11-11",
+      "datetime": 1762819200,
+      "filename": "lineage-23.0-20251111-nightly-zeus-signed.zip",
+      "filepath": "/full/zeus/20251111/lineage-23.0-20251111-nightly-zeus-signed.zip",
+      "os_patch_level": "2025-11-01",
+      "sha1": "9998e560c691a562fb21f13cfd5dbb361b1ad682",
+      "sha256": "bb1034731957100c4b8bfbd802544a3a799db35da388d94d3878004665896c61",
+      "size": 1759451842,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/zeus/20251104/lineage-23.0-20251104-nightly-zeus-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251111/lineage-23.0-20251111-nightly-zeus-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/zeus/20251104/boot.img",
-      "sha1": "528ca81f29c50fdef1ed7ce91be64f03fd18236b",
-      "sha256": "c726f6cfb98c2ec79f3682514b5ec5ff7a0c97bdf6afd4631793912278cee078",
+      "filepath": "/full/zeus/20251111/boot.img",
+      "sha1": "52748112ba73a960f433985f7d5e8abaf5063253",
+      "sha256": "10e831ef1bf2ebd902ac775d6cae289a21519ddab3e9016051cb3426b753ef86",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/zeus/20251104/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251111/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/zeus/20251104/dtbo.img",
-      "sha1": "a71b13373dbf2ff74cedbb48e823e08e94a7a70b",
-      "sha256": "d69612be496bb2aabe42e576cb18862c6f8e8029b64b9af2e89b2ef862a55099",
+      "filepath": "/full/zeus/20251111/dtbo.img",
+      "sha1": "4b508ce6c426efb24b324af1332ead9c7416e94e",
+      "sha256": "dabae1076380806e641f5b02351fcbe9c708d275610fa6a31167a130971ca510",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/zeus/20251104/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251111/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/zeus/20251104/recovery.img",
-      "sha1": "e8a4be8869c48b90ce6d8477a23fb8d03df90e9a",
-      "sha256": "2c844effa18eabe32c1cf400bba51afd11ee22a99e3fd21cd0947d84c497c7e9",
+      "filepath": "/full/zeus/20251111/recovery.img",
+      "sha1": "9663e18f4a2fcafc00cbe2cd0f215b0b2e839b0d",
+      "sha256": "8d7987759b11602843568e3b3d28450e7a3689225950dc4a063cf69a6cc104c8",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/zeus/20251104/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251111/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/zeus/20251104/super_empty.img",
+      "filepath": "/full/zeus/20251111/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/zeus/20251104/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251111/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/zeus/20251104/vbmeta.img",
-      "sha1": "1e6ec365c9ade4367d836ffd5ea8d05332b8e739",
-      "sha256": "4b99421c4026d1d2e779ad4ab7684f3c263c9d490faaa1d6c87d90e7816b022e",
+      "filepath": "/full/zeus/20251111/vbmeta.img",
+      "sha1": "983e09bbbba398ab519f11171786be2573837416",
+      "sha256": "0cfd8e0719b14d5a11bbe414bbf857ee2baa434cc03b3898a5b7a42d9f846b44",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/zeus/20251104/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251111/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/zeus/20251104/vendor_boot.img",
-      "sha1": "0e8487d3cb9eb9d77bde49a4ccc7f9e09f0b2172",
-      "sha256": "509eb0f377e8cfc62009c4f82e2bec666f200de5c081343e1699f3125ca391e4",
+      "filepath": "/full/zeus/20251111/vendor_boot.img",
+      "sha1": "40e31aa8f3b2d1206243fc31fcadb7a0e9daaf09",
+      "sha256": "0a87ce23797cd77da3dfe83ab2a43b60996565c7494105acc0dc8acb4d8087bc",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/zeus/20251104/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251111/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-10-01",
+  "os_patch_level": "2025-11-01",
   "type": "nightly",
   "version": "23.0"
 }
