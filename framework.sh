@@ -117,6 +117,12 @@ stripCommentLines() {
     sed -e '/^#/d'
 }
 
+trimLines() {
+    sed \
+        -e 's/^[[:space:]]\+//' \
+        -e 's/[[:space:]]\+$//'
+}
+
 convertToTelegramTag() {
     sed 's/[^[:alnum:]]/_/g' 
 }

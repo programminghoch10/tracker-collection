@@ -72,7 +72,11 @@ processRepo() {
     releasetag="$latest_release_tag"
     repositoryurl=$(printf "$GITHUB_REPOSITORY_URL" "$owner" "$reponame")
     releaseurl=$(printf "$GITHUB_RELEASE_URL" "$owner" "$reponame" "$releasetag")
-    sendReleaseMessage
+    for chatid in $(stripCommentLines < config.csv | stripEmptyLines | trimLines | grep -F "$reponame" | cut -d, -f2); do
+        # we need to ignore the return code here
+        # because if a second message post fails, the first one will be repeated
+        sendReleaseMessage || true
+    done
 
     saveTrackDataFile "$owner"/"$reponame"/latest "Process $owner/$reponame"
 }
@@ -89,7 +93,7 @@ sendReleaseMessage() {
     sendMessage "$MSG" "$KEYBOARD"
 }
 
-CONFIG="$(stripCommentLines < config.csv)"
+CONFIG="$(stripCommentLines < config.csv | stripEmptyLines | trimLines | sort --key=1,1 --field-seperator=, --unique)"
 
 for config in $CONFIG; do
     processRepo "$config"
