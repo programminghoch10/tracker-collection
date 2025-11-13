@@ -1,77 +1,77 @@
 {
-  "date": "2025-11-06",
-  "datetime": 1762387200,
+  "date": "2025-11-13",
+  "datetime": 1762992000,
   "files": [
     {
-      "date": "2025-11-06",
-      "datetime": 1762387200,
-      "filename": "lineage-23.0-20251106-nightly-felix-signed.zip",
-      "filepath": "/full/felix/20251106/lineage-23.0-20251106-nightly-felix-signed.zip",
-      "os_patch_level": "2025-10-01",
-      "sha1": "b3fed4075d6f9a8759ee34e067abd108f1a436da",
-      "sha256": "25b2ad8962d47de11a6bcdc4a32cf6663856498fbe393b0fab1d393b71d8134e",
-      "size": 1511588783,
+      "date": "2025-11-13",
+      "datetime": 1762992000,
+      "filename": "lineage-23.0-20251113-nightly-felix-signed.zip",
+      "filepath": "/full/felix/20251113/lineage-23.0-20251113-nightly-felix-signed.zip",
+      "os_patch_level": "2025-11-01",
+      "sha1": "aa6a6005682a051da7ce36ff667a158897b03fa9",
+      "sha256": "ebcacbc1ef01cd722a3a210f5c560ce033fb1f071aa5beb9eb2f13d9e5901cff",
+      "size": 1511538043,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/lineage-23.0-20251106-nightly-felix-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/lineage-23.0-20251113-nightly-felix-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/felix/20251106/boot.img",
-      "sha1": "7faa4eb9f462cd1d83f3cf35b1376cf05c5149c9",
-      "sha256": "b4a89e7ed958df65272a192012b88849a6f9750187af7e0caf203488031df505",
+      "filepath": "/full/felix/20251113/boot.img",
+      "sha1": "e39c768611cfcb3a6638ab571dd0a54e4e90335a",
+      "sha256": "c03dd11398570c6f7aeb44281a6a4b6ab08a9ed5e695b0fff6c81d212b7cf027",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/felix/20251106/dtbo.img",
-      "sha1": "16082a5025a71fbc552df9c7b9304b6d913f41f1",
-      "sha256": "2c6ad1ec73538b783e84b26e36e36bc4a3f55120d38430341941ae03aa907baf",
+      "filepath": "/full/felix/20251113/dtbo.img",
+      "sha1": "84906ecbb8cad34faa4449b08556802459f12b39",
+      "sha256": "ed42f69e24ab493ad43ae61ad046e519ecc44ac9ce611f5ebde48428215e65bd",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/felix/20251106/init_boot.img",
-      "sha1": "543a24a31f301c78924ead2c41078f80504de24b",
-      "sha256": "26b880d8941a6e2ea66c18188ef5d0f1e04856347fe950604a09866015c6c851",
+      "filepath": "/full/felix/20251113/init_boot.img",
+      "sha1": "240dfeb9d7c2b7bead11e8cab5ccf00971c3c252",
+      "sha256": "2dd420d97a312ca3bca875f04c91ce2037486a75147f0bbb3b159e791ab951e0",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/felix/20251106/super_empty.img",
+      "filepath": "/full/felix/20251113/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/felix/20251106/vbmeta.img",
-      "sha1": "39fc53851f0fba2e96375323d3309770a36d1f24",
-      "sha256": "6018e6ea830a6c3677151a56d2ddf9c565ee832ad45e706b2515169c3e851aed",
+      "filepath": "/full/felix/20251113/vbmeta.img",
+      "sha1": "7ed84a18e328eb066320b8ea3e5bc5056f84fc21",
+      "sha256": "bca3918e2df3831e88930a4b765cab5a71d81b98d6270a5bca89b74e0226a179",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/felix/20251106/vendor_boot.img",
-      "sha1": "7f93f5d1a6c8b1c0f8fd9b3705fe1eaae8d7126d",
-      "sha256": "41ab4e9d0dce0fd863be58164ca4d4f720a3e244b37985cc1754556f59ed33f5",
+      "filepath": "/full/felix/20251113/vendor_boot.img",
+      "sha1": "4996c41af7b4f3cc95ddb27200b38d06e53d05b2",
+      "sha256": "52525a6dd21ec71de6d87236ade9f96b96aa3ed913bcbfab10e34fa94734c649",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/felix/20251106/vendor_kernel_boot.img",
-      "sha1": "07ef97f049b8fed368a70b2ae041522ec6f85f00",
-      "sha256": "51d7db215f8a6a24fe74bdb621161406548ae436634d2ae9e66fea0147791f36",
+      "filepath": "/full/felix/20251113/vendor_kernel_boot.img",
+      "sha1": "741362794ab3173588227d6d1de08df71f88aa6f",
+      "sha256": "be7becbb83e88b344548bf13fca7384889f26ad035a9e8ac50c0c338f92da053",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/felix/20251106/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251113/vendor_kernel_boot.img"
     }
   ],
-  "os_patch_level": "2025-10-01",
+  "os_patch_level": "2025-11-01",
   "type": "nightly",
   "version": "23.0"
 }
