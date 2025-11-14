@@ -1,61 +1,61 @@
 {
-  "date": "2025-11-07",
-  "datetime": 1762473600,
+  "date": "2025-11-14",
+  "datetime": 1763078400,
   "files": [
     {
-      "date": "2025-11-07",
-      "datetime": 1762473600,
-      "filename": "lineage-23.0-20251107-nightly-bathena-signed.zip",
-      "filepath": "/full/bathena/20251107/lineage-23.0-20251107-nightly-bathena-signed.zip",
-      "os_patch_level": "2025-10-01",
-      "sha1": "cf98ffad0915f03c4e33cdc30bae789c6971f904",
-      "sha256": "118bacd3a792d9141dcf415273795c9fa3dbcdde955bd2cb37a44a6ac4f0e99e",
-      "size": 1041192852,
+      "date": "2025-11-14",
+      "datetime": 1763078400,
+      "filename": "lineage-23.0-20251114-nightly-bathena-signed.zip",
+      "filepath": "/full/bathena/20251114/lineage-23.0-20251114-nightly-bathena-signed.zip",
+      "os_patch_level": "2025-11-01",
+      "sha1": "6b6a9da9a06eed6e540e1a0c3d1eabed1668b168",
+      "sha256": "43851824f2bd2ea5a175b34f515a509cf6f4df55027f13dfffcce408a82e25cd",
+      "size": 1039915375,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20251107/lineage-23.0-20251107-nightly-bathena-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20251114/lineage-23.0-20251114-nightly-bathena-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/bathena/20251107/boot.img",
-      "sha1": "3474f6d1994efc2043ecfd47842a91394c593daa",
-      "sha256": "f9779ca3e5a69b9de92aea31b4e9b28096cf92de191097d06aa4ac06c06c83a7",
+      "filepath": "/full/bathena/20251114/boot.img",
+      "sha1": "a83aae45941e313951cd907eeab8542c6bfc421c",
+      "sha256": "0cd82850794e6b5d0a681ea8dec729a5f7ac8d8bd63a67b9aa21e1e831232605",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20251107/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20251114/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/bathena/20251107/dtbo.img",
-      "sha1": "61a4a4b7085a2661a3fe317d343ae06a43db36ad",
-      "sha256": "b8b9005895468700895e37ce7ac0d2cc504e04d3af17b71165eac34b842745a3",
+      "filepath": "/full/bathena/20251114/dtbo.img",
+      "sha1": "8f77b48310885afb326182a43a2fef88a85ca18f",
+      "sha256": "ef329c53db64b3826e2dee72fc973c1184cc45209fb4e1bef5e7a13503473d5f",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20251107/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20251114/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/bathena/20251107/recovery.img",
-      "sha1": "2340b3f83b8045e4206f8b5ba71ce609a9e32b2b",
-      "sha256": "2756604043b8a1da9aa49b687f29affda83c109f9eff0723695d2ad9cef1a28b",
+      "filepath": "/full/bathena/20251114/recovery.img",
+      "sha1": "b7a1c8c7195178e2e5c9f09c66ed17c16d545a10",
+      "sha256": "148c8a4d90c25189efb9d2bcf8314d6b5745dafc175b9e16bbb5ca82963f1cdd",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20251107/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20251114/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/bathena/20251107/super_empty.img",
+      "filepath": "/full/bathena/20251114/super_empty.img",
       "sha1": "8c7110f8488d65471040b82515803761e483038f",
       "sha256": "09101bf5363fc32937c4bf96c91c774f0f9486570595371a36abce920e2ff802",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20251107/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20251114/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/bathena/20251107/vbmeta.img",
-      "sha1": "a2343fca241fcf52210162ecbb054f275235ca5e",
-      "sha256": "064a913c8fe7431a3bd88187ac1cc3eaac0026c0adcbb02baccdf3308311167c",
+      "filepath": "/full/bathena/20251114/vbmeta.img",
+      "sha1": "f95456176bde20df4c3da8fed580ca51cdd45b71",
+      "sha256": "8cfbd7704531d1ab29a69e65752efb8462705ea9c67c18a8d1cf04e794c46f05",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20251107/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20251114/vbmeta.img"
     }
   ],
-  "os_patch_level": "2025-10-01",
+  "os_patch_level": "2025-11-01",
   "type": "nightly",
   "version": "23.0"
 }
