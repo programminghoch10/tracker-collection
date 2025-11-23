@@ -1,61 +1,61 @@
 {
-  "date": "2025-11-16",
-  "datetime": 1763251200,
+  "date": "2025-11-23",
+  "datetime": 1763856000,
   "files": [
     {
-      "date": "2025-11-16",
-      "datetime": 1763251200,
-      "filename": "lineage-22.2-20251116-nightly-vayu-signed.zip",
-      "filepath": "/full/vayu/20251116/lineage-22.2-20251116-nightly-vayu-signed.zip",
-      "os_patch_level": "2025-10-01",
-      "sha1": "74f8fc57541e0fa8057f65af14a5ee76dbb84c52",
-      "sha256": "17585b8a273ea9f6f2249a8f325222785dd9578005d4f5ad345201103305d087",
-      "size": 1468351376,
+      "date": "2025-11-23",
+      "datetime": 1763856000,
+      "filename": "lineage-22.2-20251123-nightly-vayu-signed.zip",
+      "filepath": "/full/vayu/20251123/lineage-22.2-20251123-nightly-vayu-signed.zip",
+      "os_patch_level": "2025-11-01",
+      "sha1": "46d51d9a2e8641bc9910ffed11500092d117d2d0",
+      "sha256": "05b1af05601d5f1fa8bf7383a2aa7758aa7226f8e3ef1d974059bbcb2d1b01c1",
+      "size": 1468129646,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20251116/lineage-22.2-20251116-nightly-vayu-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20251123/lineage-22.2-20251123-nightly-vayu-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/vayu/20251116/boot.img",
-      "sha1": "c3164084af630ea4815b8f81ed294099784f0b4c",
-      "sha256": "c50021f6a05b8e15944ec81352d6fe8e792cb17519092dcbeb8fae38d1dc26c4",
+      "filepath": "/full/vayu/20251123/boot.img",
+      "sha1": "e5a52da196645dabbb7888796d992a1162f85e88",
+      "sha256": "3a7a468f9c7a5c8c67efed13717c1bd2b886f6a2d9d66c935f84dfa9418226a3",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20251116/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20251123/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/vayu/20251116/dtbo.img",
-      "sha1": "254f4014018bf2390db5e6f8922983d121e6e573",
-      "sha256": "f80950988d30dd291b447d4d9f6a01172457ec009b8515d2b3eb65294e044b2f",
+      "filepath": "/full/vayu/20251123/dtbo.img",
+      "sha1": "5aae0f7a29cb44bb1769484a4dfbce92807b38b7",
+      "sha256": "fd680180a9c8a73b21b1379bc9aa346d0755534490a823c5936b82ffdebaddbe",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20251116/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20251123/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/vayu/20251116/recovery.img",
-      "sha1": "5a1b064a859f6ad8b1c379e90a2982b057aefac4",
-      "sha256": "00348a616f0270a6544a81b12986674aab641c4e61aff344670de0cff426a078",
+      "filepath": "/full/vayu/20251123/recovery.img",
+      "sha1": "0d92595ecdbd8c21eab1d2a511590983bc2e2f66",
+      "sha256": "755a74c2f88692440c3d09d8ceff9cdb76ceeacb1ab1f40959c0a7290067058a",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20251116/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20251123/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/vayu/20251116/super_empty.img",
+      "filepath": "/full/vayu/20251123/super_empty.img",
       "sha1": "4bb950f970b176d638d14a318468820f240938cb",
       "sha256": "cbc42814b36e05edf74a58e022485407d42eaba55002fdd802429048819341d8",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20251116/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20251123/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/vayu/20251116/vbmeta.img",
-      "sha1": "660cd119b9ee9cf3c669eb545ccce51b45b0d301",
-      "sha256": "cbc9e096b3d066a0070b4aab3857f35d40e8af43eb1fbc22049b4fae9987a709",
+      "filepath": "/full/vayu/20251123/vbmeta.img",
+      "sha1": "f8d774c8341b0f34e8fd00c9b1e9aee4a24fcee9",
+      "sha256": "7e908987f152e26dc0fa9832b876a06c2791b8dd107ff68379ad350a815f9a32",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/vayu/20251116/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20251123/vbmeta.img"
     }
   ],
-  "os_patch_level": "2025-10-01",
+  "os_patch_level": "2025-11-01",
   "type": "nightly",
   "version": "22.2"
 }
