@@ -1,61 +1,61 @@
 {
-  "date": "2025-12-04",
-  "datetime": 1764806400,
+  "date": "2025-12-11",
+  "datetime": 1765411200,
   "files": [
     {
-      "date": "2025-12-04",
-      "datetime": 1764806400,
-      "filename": "lineage-22.2-20251204-nightly-thyme-signed.zip",
-      "filepath": "/full/thyme/20251204/lineage-22.2-20251204-nightly-thyme-signed.zip",
-      "os_patch_level": "2025-11-01",
-      "sha1": "134a66aaac467a7d29743fbbfce106d5e3dbc9ea",
-      "sha256": "6025f8cd43ab4448ac6b3699de6a0eed6b47c314df3968553a936ff9a81c80b4",
-      "size": 1325543250,
+      "date": "2025-12-11",
+      "datetime": 1765411200,
+      "filename": "lineage-22.2-20251211-nightly-thyme-signed.zip",
+      "filepath": "/full/thyme/20251211/lineage-22.2-20251211-nightly-thyme-signed.zip",
+      "os_patch_level": "2025-12-01",
+      "sha1": "2a1f848480da7f525173912e64b868be6cefd0b8",
+      "sha256": "ec726458938e7d046a6acdaf09e16c32712a0c89550c9bddb7e8d9b6610bce44",
+      "size": 1325678254,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/thyme/20251204/lineage-22.2-20251204-nightly-thyme-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/thyme/20251211/lineage-22.2-20251211-nightly-thyme-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/thyme/20251204/boot.img",
-      "sha1": "2861cb1618c7aa2c28e8e80664cf38ae6ffaeb20",
-      "sha256": "1f49141c12aa32ce4ce8694e7a6ad7cb305907c4f3108ece08b15d338824a0b4",
+      "filepath": "/full/thyme/20251211/boot.img",
+      "sha1": "c629f8bb4861a803ad2e7d4f809e7901a020e541",
+      "sha256": "dd7b0cef26b76e65fce838b52419999d04aeea199d837ebb7a2f44556aa4064c",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/thyme/20251204/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/thyme/20251211/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/thyme/20251204/dtbo.img",
-      "sha1": "50515143896db8065ba810d13351cbee222c4042",
-      "sha256": "6d03f62d8c77ce2df4f1af1e22ae967673f6bcbd7f45afd16d2591c565254601",
+      "filepath": "/full/thyme/20251211/dtbo.img",
+      "sha1": "6fe66ba51049f01b6835377e55350c06c84dc259",
+      "sha256": "53a04bdb6ce06f3f0d77be2c95074d80b98bab614443cb25d2bbb58a91af4231",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/thyme/20251204/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/thyme/20251211/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/thyme/20251204/super_empty.img",
+      "filepath": "/full/thyme/20251211/super_empty.img",
       "sha1": "b384556968bfd19b4794ea68ad14758569b6ffcd",
       "sha256": "cb02654264619dcd33d4c092ac2ac531f5f5675218770efcad8e68601725c612",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/thyme/20251204/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/thyme/20251211/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/thyme/20251204/vbmeta.img",
-      "sha1": "92af8ad98e12f5e495208d1b44c88dd2093cc427",
-      "sha256": "588da950d74756b4dcbd5727db7c14940d2ca0321c4b3f7fb72672559cc2fc3b",
+      "filepath": "/full/thyme/20251211/vbmeta.img",
+      "sha1": "2d518cbe02776a0741bb3f83d3908fa3b7cedb8c",
+      "sha256": "173b4713937c38782bcb19f143a82c267177b4958260b3b8a4648aadba2bb704",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/thyme/20251204/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/thyme/20251211/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/thyme/20251204/vendor_boot.img",
-      "sha1": "281a946ac612b6d582240bdc2780763e2a372f1b",
-      "sha256": "36fbacf1648e100f85a3a505cfc52b0ced038aaf96b98f710d6b79fa53888350",
+      "filepath": "/full/thyme/20251211/vendor_boot.img",
+      "sha1": "13502c254062a8e3b50034bafd36bf32e6f7bfaa",
+      "sha256": "68e5b1cbd51c630f082f7a5b94d31c3bf1cbcf2c258a7f96d371726804d3fb30",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/thyme/20251204/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/thyme/20251211/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-11-01",
+  "os_patch_level": "2025-12-01",
   "type": "nightly",
   "version": "22.2"
 }
