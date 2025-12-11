@@ -1,61 +1,61 @@
 {
-  "date": "2025-12-04",
-  "datetime": 1764806400,
+  "date": "2025-12-11",
+  "datetime": 1765411200,
   "files": [
     {
-      "date": "2025-12-04",
-      "datetime": 1764806400,
-      "filename": "lineage-23.0-20251204-nightly-guam-signed.zip",
-      "filepath": "/full/guam/20251204/lineage-23.0-20251204-nightly-guam-signed.zip",
-      "os_patch_level": "2025-11-01",
-      "sha1": "25c5f595cc108e19ae66f49a99d32a13a9ca8606",
-      "sha256": "c01e5687b75353cad68f67193c7cd1272928ef5fe7420754a7f63f8f4f30d917",
-      "size": 1035429369,
+      "date": "2025-12-11",
+      "datetime": 1765411200,
+      "filename": "lineage-23.0-20251211-nightly-guam-signed.zip",
+      "filepath": "/full/guam/20251211/lineage-23.0-20251211-nightly-guam-signed.zip",
+      "os_patch_level": "2025-12-01",
+      "sha1": "a2327cd945f1cb4fb48addc00940e8006e6802e4",
+      "sha256": "0d2c41456bb4941228d08a7c4d70b7e11d3ecb7f38c4bd1066139319bc81c40f",
+      "size": 1035230356,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/guam/20251204/lineage-23.0-20251204-nightly-guam-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/guam/20251211/lineage-23.0-20251211-nightly-guam-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/guam/20251204/boot.img",
-      "sha1": "a471e6296d0479ead2136e2087c54219446514ab",
-      "sha256": "9045c1cb6814f3bdb5aec80a61dc81f131e87cf3763485c8c901e713940b9aa7",
+      "filepath": "/full/guam/20251211/boot.img",
+      "sha1": "b97ab7f0319c2f0c2a15dad5d3afaab76326129f",
+      "sha256": "f5ab2dc1b2c6967b211539185dfce7e0068204e69462584e8be651897cf70cb8",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/guam/20251204/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/guam/20251211/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/guam/20251204/dtbo.img",
-      "sha1": "8f03b599229151af06d3113d1917e23194137f20",
-      "sha256": "81988e51b6b1970ee0c6c7040a37acc083323bb31085fd00ecd7639fa5df07dc",
+      "filepath": "/full/guam/20251211/dtbo.img",
+      "sha1": "e292f9e3cd372909a9c406e044b28cd8ffb5bfd9",
+      "sha256": "548a7ff925213525cd0330299920c14435ddb6f6927e12aec0a580020f6a9594",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/guam/20251204/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/guam/20251211/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/guam/20251204/recovery.img",
-      "sha1": "e3e96cf4b7ef93e801669f9059da3834f57e866d",
-      "sha256": "67dfa1e44c5cdd3ce83a0ab3f4d6b4cebf56abb2189ca48dd742a66fa1741412",
+      "filepath": "/full/guam/20251211/recovery.img",
+      "sha1": "53673498f425ef45893057ac88f0ae0aaca2f4df",
+      "sha256": "01a32fc2b89e1966ce5e2fa752a01baeb515d087a82ebdfec5df4fc0b33c4ccb",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/guam/20251204/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/guam/20251211/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/guam/20251204/super_empty.img",
+      "filepath": "/full/guam/20251211/super_empty.img",
       "sha1": "ef8c432e858b397c9e11a84b9973c3d698af8a21",
       "sha256": "4cca67ce901e9256d62f4aca5efae677833f703080b952e512036d9b0adb3019",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/guam/20251204/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/guam/20251211/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/guam/20251204/vbmeta.img",
-      "sha1": "783f49c2efb379a01f3d1477af0141a5a496f64e",
-      "sha256": "d44cb1521a63d2dde048e8e6f63d1f81b30518345437d2764b00e5377e4308c0",
+      "filepath": "/full/guam/20251211/vbmeta.img",
+      "sha1": "ce16cee8c0ba6b89881bb84cfd3bd37fbe234bfb",
+      "sha256": "74b2f5cb126246fdd9fca32a3c8ceb765cac1a8d98b2cf2f9f900e56da165945",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/guam/20251204/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/guam/20251211/vbmeta.img"
     }
   ],
-  "os_patch_level": "2025-11-01",
+  "os_patch_level": "2025-12-01",
   "type": "nightly",
   "version": "23.0"
 }
