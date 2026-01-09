@@ -1,69 +1,69 @@
 {
-  "date": "2026-01-02",
-  "datetime": 1767312000,
+  "date": "2026-01-09",
+  "datetime": 1767916800,
   "files": [
     {
-      "date": "2026-01-02",
-      "datetime": 1767312000,
-      "filename": "lineage-23.0-20260102-nightly-unicorn-signed.zip",
-      "filepath": "/full/unicorn/20260102/lineage-23.0-20260102-nightly-unicorn-signed.zip",
-      "os_patch_level": "2025-12-01",
-      "sha1": "ec213ffb17dbbb2c27fb62659a167ad909ba65d3",
-      "sha256": "b846b6100972ab485271938bf0a8d900f79f76e5aadcc3c23f58053777245d82",
-      "size": 1897027147,
+      "date": "2026-01-09",
+      "datetime": 1767916800,
+      "filename": "lineage-23.0-20260109-nightly-unicorn-signed.zip",
+      "filepath": "/full/unicorn/20260109/lineage-23.0-20260109-nightly-unicorn-signed.zip",
+      "os_patch_level": "2026-01-01",
+      "sha1": "de230ba3085891be4dc1e103ccc141dc664abb47",
+      "sha256": "943dd602074a10281185c7f0702d55095432dc7f8367a2a68d780acaef17892e",
+      "size": 1894105959,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260102/lineage-23.0-20260102-nightly-unicorn-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260109/lineage-23.0-20260109-nightly-unicorn-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/unicorn/20260102/boot.img",
-      "sha1": "c54dc82c0838abbd79e54d1c27aa9eab59fdff8d",
-      "sha256": "353f5954c5dde7a324d3cff41279329f34b9efcd7df08727312aa590c4057cf4",
+      "filepath": "/full/unicorn/20260109/boot.img",
+      "sha1": "d2f937d0b33362a2024cb4da99ecf39d9398938b",
+      "sha256": "1b43c91c6f699cdadd0b7d5b16634433f77deff9c7633322e7d83db4d4bba528",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260102/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260109/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/unicorn/20260102/dtbo.img",
-      "sha1": "8efff2532af13646799e1078c9aad866e31a2a0f",
-      "sha256": "1d7b25c3beee36bdc08ea9d034fd04b02e377f5af40dedf2c51e0c6ad47e48a0",
+      "filepath": "/full/unicorn/20260109/dtbo.img",
+      "sha1": "ffa7b589cad803c765b816524e57687d03e4d2b3",
+      "sha256": "14b9defcea3da8f6d98769efce4d12fcb44c37b5ab8bd568e6480a5cd7868b50",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260102/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260109/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/unicorn/20260102/recovery.img",
-      "sha1": "fee69b49c66c1f90407b8efcecb6600a787e5c82",
-      "sha256": "0c230444aad5677376048c42b65a171468aeab9ad906c7fd106b7aaf234ee239",
+      "filepath": "/full/unicorn/20260109/recovery.img",
+      "sha1": "4589c5c77d91326fef16d05af08bf6c9b30cea94",
+      "sha256": "9e9362f03df150402289de8fe9e6c6b49f0bf4109c4fb5b834569714886df9f6",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260102/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260109/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/unicorn/20260102/super_empty.img",
+      "filepath": "/full/unicorn/20260109/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260102/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260109/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/unicorn/20260102/vbmeta.img",
-      "sha1": "105ead09e01a18ec1809becb945b5e6828ad0a66",
-      "sha256": "a9c7e0f933abcdedcdb7c6c8b1720c549929f839d8ead55ab2cf3fd41f9a615e",
+      "filepath": "/full/unicorn/20260109/vbmeta.img",
+      "sha1": "4dc30be2c49e043c97a6d82490cb44fdf6a270ca",
+      "sha256": "8f4290bad6c2bd086d306f0e3e37392bfca02b789db8fceceb239d550f205339",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260102/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260109/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/unicorn/20260102/vendor_boot.img",
-      "sha1": "5bd64f654ea3e31f265b87d556486d4e52565b57",
-      "sha256": "2f1084646ab0c515709d9a8557a0a4fa940b8f3f12d2d95ffb4da235a5bacfdb",
+      "filepath": "/full/unicorn/20260109/vendor_boot.img",
+      "sha1": "4501b7e956f5af54d3a5830e42ebffb2b1d46f35",
+      "sha256": "e9e91ed4edac342d04404820f79bf68580f41c5ee9a9e93d3dd7bed7996d52d3",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260102/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20260109/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2025-12-01",
+  "os_patch_level": "2026-01-01",
   "type": "nightly",
   "version": "23.0"
 }
