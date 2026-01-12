@@ -1,61 +1,61 @@
 {
-  "date": "2026-01-05",
-  "datetime": 1767571200,
+  "date": "2026-01-12",
+  "datetime": 1768176000,
   "files": [
     {
-      "date": "2026-01-05",
-      "datetime": 1767571200,
-      "filename": "lineage-23.0-20260105-nightly-guamp-signed.zip",
-      "filepath": "/full/guamp/20260105/lineage-23.0-20260105-nightly-guamp-signed.zip",
-      "os_patch_level": "2025-12-01",
-      "sha1": "c61e35ce4bca22652cdb83b4b54387717753bc0c",
-      "sha256": "23a3f717b4af0c6775c46a1b1357519baa520a5fdfb057aa70fef0baa5857a18",
-      "size": 1041106475,
+      "date": "2026-01-12",
+      "datetime": 1768176000,
+      "filename": "lineage-23.0-20260112-nightly-guamp-signed.zip",
+      "filepath": "/full/guamp/20260112/lineage-23.0-20260112-nightly-guamp-signed.zip",
+      "os_patch_level": "2026-01-01",
+      "sha1": "ba742d30d5b33958a96bec654f64f8296bedcdcd",
+      "sha256": "5bc0f81cd96ec19960b8fe6a6e5f776f2d49649a91b45ccd0531bcb5cc7aa204",
+      "size": 1036121338,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260105/lineage-23.0-20260105-nightly-guamp-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260112/lineage-23.0-20260112-nightly-guamp-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/guamp/20260105/boot.img",
-      "sha1": "275b7b4b2609e6d703113390fd9034a8dc466be0",
-      "sha256": "885b559e4c3de830eac3be1a4ee00fdeae6223193bf40369a5e06d7a1ade3b38",
+      "filepath": "/full/guamp/20260112/boot.img",
+      "sha1": "9ef25f0bb1e4347f1115532855985cfd9ddce6f2",
+      "sha256": "09b79fd12cc1af7f436cd36a18aeea0cc26c935e28ff357817f00802d615d675",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260105/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260112/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/guamp/20260105/dtbo.img",
-      "sha1": "87001e29eb5ee51874e91a5ba5da4bb97a128337",
-      "sha256": "b82d2448082cc4f6068fe89dc0478c099bd2ea0b2941aeaacb4ce43a39ae5ef4",
+      "filepath": "/full/guamp/20260112/dtbo.img",
+      "sha1": "d0492711ed1d971ed612f3fa11067595ac48662e",
+      "sha256": "f9594837ec78e2397644f2fa12b927d468c25c4a15ccdb3bc3bf2e5a13fd427d",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260105/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260112/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/guamp/20260105/recovery.img",
-      "sha1": "b100e049e0bea2cd3cce7bfac814482bb9986126",
-      "sha256": "587de82b591bbd4ac4c716538da04a71e88f078ce9b3d8bb1f1fc1a17a154678",
+      "filepath": "/full/guamp/20260112/recovery.img",
+      "sha1": "9935be5fdd619ddb29b3b045048098df6e462c8e",
+      "sha256": "2581a2f7d8f92ee74c72ab465f1c2705934649aa50acef33de66c953c90c0ca5",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260105/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260112/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/guamp/20260105/super_empty.img",
+      "filepath": "/full/guamp/20260112/super_empty.img",
       "sha1": "ef8c432e858b397c9e11a84b9973c3d698af8a21",
       "sha256": "4cca67ce901e9256d62f4aca5efae677833f703080b952e512036d9b0adb3019",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260105/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260112/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/guamp/20260105/vbmeta.img",
-      "sha1": "b39c495b36479215f0c6409498c8e9800dd2ce63",
-      "sha256": "b42ecce2dc4922ffcb7ac664972bbc72a564bae917ccebc7c83e1e7824f7120e",
+      "filepath": "/full/guamp/20260112/vbmeta.img",
+      "sha1": "6dba02384a6e31fb4e06648304443bdf27524867",
+      "sha256": "d24bf691503cbf58005542d96f16cdbbf31eda0cb5ba5ad031bccfc3e11772da",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260105/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260112/vbmeta.img"
     }
   ],
-  "os_patch_level": "2025-12-01",
+  "os_patch_level": "2026-01-01",
   "type": "nightly",
   "version": "23.0"
 }
