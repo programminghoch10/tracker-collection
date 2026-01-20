@@ -6,7 +6,7 @@ GSMARENA_COMPARE_URL="$GSMARENA_BASE_URL/compare.php3?idPhone1=%s"
 GOOGLE_SHOPPING_URL="https://www.google.com/search?q=%s&tbm=shop"
 
 CURL_ARGS=()
-CURL_ARGS+=('--fail')
+CURL_ARGS+=('--fail-with-body')
 CURL_ARGS+=('--silent')
 CURL_ARGS+=('--user-agent' '')
 
