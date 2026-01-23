@@ -93,7 +93,7 @@ sendReleaseMessage() {
     sendMessage "$MSG" "$KEYBOARD"
 }
 
-CONFIG="$(stripCommentLines < config.csv | stripEmptyLines | trimLines | sort --key=1,1 --field-seperator=, --unique)"
+CONFIG="$(stripCommentLines < config.csv | stripEmptyLines | trimLines | sort --key=1,1 --field-separator=, --unique)"
 
 for config in $CONFIG; do
     processRepo "$config"
