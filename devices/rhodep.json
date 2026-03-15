@@ -1,61 +1,61 @@
 {
-  "date": "2026-03-08",
-  "datetime": 1772950790,
+  "date": "2026-03-15",
+  "datetime": 1773533040,
   "files": [
     {
-      "date": "2026-03-08",
-      "datetime": 1772950790,
-      "filename": "lineage-23.2-20260308-nightly-rhodep-signed.zip",
-      "filepath": "/full/rhodep/20260308/lineage-23.2-20260308-nightly-rhodep-signed.zip",
-      "os_patch_level": "2026-02-01",
-      "sha1": "bd0713188c8d1782c17b3a9772a8c015e3bfb954",
-      "sha256": "11f5620eaf82b0b9a8618fc232c11aba223c355eb9307db545d5e896f91ad403",
-      "size": 1163603239,
+      "date": "2026-03-15",
+      "datetime": 1773533040,
+      "filename": "lineage-23.2-20260315-nightly-rhodep-signed.zip",
+      "filepath": "/full/rhodep/20260315/lineage-23.2-20260315-nightly-rhodep-signed.zip",
+      "os_patch_level": "2026-03-01",
+      "sha1": "a79ed05c6133bed79f6c19f8703183da26454ecc",
+      "sha256": "2d79c6248c7edff6c0023c17552090e4c0239927e68374537c55bd3fe083100f",
+      "size": 1162109440,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260308/lineage-23.2-20260308-nightly-rhodep-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260315/lineage-23.2-20260315-nightly-rhodep-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rhodep/20260308/boot.img",
-      "sha1": "1bd476fbd48a9faaff1c9fc956802ca7390c3904",
-      "sha256": "f48e7521bb055266ff1876938e6c73cfcff01fd864032b95467a3b6bc3ef626c",
+      "filepath": "/full/rhodep/20260315/boot.img",
+      "sha1": "4c70827cddcfd55adcd7bbb44e085adc46a9a5ab",
+      "sha256": "50fabbb5ceee32ab5a0830023f5779202f001a1aea584e8ef535705d56a9bddb",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260308/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260315/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rhodep/20260308/dtbo.img",
-      "sha1": "9fb08a1bb21925b15f1209fb3ab82f228e5072ec",
-      "sha256": "ef1320c1d14a10a45d318006605487c06d3417ebf4755c70538f346f266d95d4",
+      "filepath": "/full/rhodep/20260315/dtbo.img",
+      "sha1": "ab59695b927e6da3a391b78575a56546c00b97c2",
+      "sha256": "ffcb0acbb0f879975e851ed37d56687cc181af094f7a4922981a085708c44c74",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260308/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260315/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rhodep/20260308/super_empty.img",
+      "filepath": "/full/rhodep/20260315/super_empty.img",
       "sha1": "a0d71cd7e49a99fa10c04ba97c2d38c693877536",
       "sha256": "a2a379cf0bb55b73ce580468c44323d7454d4854994937802d4da05c85bab78a",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260308/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260315/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rhodep/20260308/vbmeta.img",
-      "sha1": "379f30592bd2ee93cd36112b14b875d3d42a200c",
-      "sha256": "125d0374212e67fdab59811698d5f818192237faf4e0ce6d114d3992a9c57739",
+      "filepath": "/full/rhodep/20260315/vbmeta.img",
+      "sha1": "e7e90516b1b4977cce5c16838b204b7505368047",
+      "sha256": "7c77a5ca5e24eda637d8590a0b1f8ff30f92789dfd4e852f22ab5bc6703e576d",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260308/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260315/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/rhodep/20260308/vendor_boot.img",
-      "sha1": "1b0bd340b18c13f29fdec2025417bde45cd7e234",
-      "sha256": "7eb6d080cbc3f6dafab6a32c67cb406d5d9f44aae32cc5a102f680a8fd903d40",
+      "filepath": "/full/rhodep/20260315/vendor_boot.img",
+      "sha1": "4f10bb2491ea499aaca151686772c3b0106acb05",
+      "sha256": "29ac30a0ec1fd6610d3d6a37cc4d3bdb3bcfa299be3d85356bfcb3964f66a423",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260308/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhodep/20260315/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-02-01",
+  "os_patch_level": "2026-03-01",
   "type": "nightly",
   "version": "23.2"
 }
