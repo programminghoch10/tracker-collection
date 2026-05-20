@@ -1,69 +1,71 @@
 {
-  "date": "2026-05-13",
-  "datetime": 1778645773,
+  "date": "2026-05-20",
+  "datetime": 1779255107,
   "files": [
     {
-      "date": "2026-05-13",
-      "datetime": 1778645773,
-      "filename": "lineage-23.2-20260513-nightly-garnet-signed.zip",
-      "filepath": "/full/garnet/20260513/lineage-23.2-20260513-nightly-garnet-signed.zip",
+      "date": "2026-05-20",
+      "datetime": 1779255107,
+      "filename": "lineage-23.2-20260520-nightly-garnet-signed.zip",
+      "filepath": "/full/garnet/20260520/lineage-23.2-20260520-nightly-garnet-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "b9be32fd0c5b2346304326800ef3bed39d16862f",
-      "sha256": "80d7944819c9abc9daeb6cb004c25476a5290259593189a0eac428cd09ff77f3",
-      "size": 1614900869,
+      "os_sdk_level": 36,
+      "sha1": "b00accd30f20ee663ee6b3c6e2ab22489476435c",
+      "sha256": "38ce83fa1d3fee006a93b70c7608fbb2a77b130f3cc0e1b9d7228b1e5acdc7aa",
+      "size": 1614826941,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260513/lineage-23.2-20260513-nightly-garnet-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260520/lineage-23.2-20260520-nightly-garnet-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/garnet/20260513/boot.img",
-      "sha1": "4faadf659e95f1b0d779fffdc66401f3508cbe09",
-      "sha256": "88867db2e43a858321e780659417bdf61978421007dd1f22fc6af674aa827d50",
+      "filepath": "/full/garnet/20260520/boot.img",
+      "sha1": "5cecb09e48fe3e1531b0cd20852b48b3973138ad",
+      "sha256": "a8fbb0dbe1f9a28fc796a20e0eea6d1796c71254475e8b4978e1db657d0d07d2",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260513/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260520/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/garnet/20260513/dtbo.img",
-      "sha1": "36ba62fd07c58a965a04128d5b6b86e1bdb72bba",
-      "sha256": "d921077679170079b644428ea029ca9793786cee805be8005750fcd9b9d633d0",
+      "filepath": "/full/garnet/20260520/dtbo.img",
+      "sha1": "a0f41fb277f57fc7696966a344073e9c0631ddcf",
+      "sha256": "ef64f649d68dfaa610848bde37d8b4e7d3fab694413c25f8b9705789ec4086ee",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260513/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260520/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/garnet/20260513/recovery.img",
-      "sha1": "8ad56a4c91f9b7302aadfec3c5de76b04c0cf5db",
-      "sha256": "db3c1f7c4f161027ca4091fca43ed624a0f13cd057bc81cc669742fa648f0fe6",
+      "filepath": "/full/garnet/20260520/recovery.img",
+      "sha1": "6da93231e50642234e4acb1d80bfcbc0bd6ee86a",
+      "sha256": "aa6f84a0da78efb377a0c6136d119eb019328e1448880350f2ca61a4a85575f3",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260513/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260520/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/garnet/20260513/super_empty.img",
+      "filepath": "/full/garnet/20260520/super_empty.img",
       "sha1": "a898e8440578de5187016891d2db0aef88cd07b0",
       "sha256": "9df53e398531e77a5ca2709f312696b93fc9e6da98f60e4345128c92f59c96ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260513/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260520/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/garnet/20260513/vbmeta.img",
-      "sha1": "955935f01fb9c3177fd1bddcb122ee336952f44c",
-      "sha256": "7efee245cdd543b482bcaae998aa86640816d75360ce0a44bcc93b09bc7fe260",
+      "filepath": "/full/garnet/20260520/vbmeta.img",
+      "sha1": "8c5d3afb18653d6501b46e5a916eb170e12bc05b",
+      "sha256": "841ffd569e033e76790e2d8817afe0434782cbc3f1b1209553ad85c778366270",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260513/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260520/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/garnet/20260513/vendor_boot.img",
-      "sha1": "d699a39cca1b23f662a459c1818a64e33f0ee305",
-      "sha256": "23cfe7e5b1544c28fe4cbe5ea549ecdc826d16759b61bc7e364176be006dd3cc",
+      "filepath": "/full/garnet/20260520/vendor_boot.img",
+      "sha1": "5d32cc5f6b93ea2550e51ba6fe588951d20a65f8",
+      "sha256": "b140da076f5ebc440e09962ccd511cb32e43078986c1c2f178b1bb0edff6c9b4",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260513/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260520/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
