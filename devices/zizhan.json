@@ -1,69 +1,71 @@
 {
-  "date": "2026-05-13",
-  "datetime": 1778669861,
+  "date": "2026-05-20",
+  "datetime": 1779251269,
   "files": [
     {
-      "date": "2026-05-13",
-      "datetime": 1778669861,
-      "filename": "lineage-23.2-20260513-nightly-zizhan-signed.zip",
-      "filepath": "/full/zizhan/20260513/lineage-23.2-20260513-nightly-zizhan-signed.zip",
+      "date": "2026-05-20",
+      "datetime": 1779251269,
+      "filename": "lineage-23.2-20260520-nightly-zizhan-signed.zip",
+      "filepath": "/full/zizhan/20260520/lineage-23.2-20260520-nightly-zizhan-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "cc3e76cd18df6a1e7816deefead3b3cf91935c12",
-      "sha256": "8bc8700a8fc7dc20a431a99dd7ccb635892e8f0634132fb7395b7f2155f1d99c",
-      "size": 1866105839,
+      "os_sdk_level": 36,
+      "sha1": "87c1195e0d18d8762fadc920761fcce75b771121",
+      "sha256": "c814238a54516fcb68f68ab2f7643b339185f97e3a4961aca3a367cb66f9ace1",
+      "size": 1866040876,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260513/lineage-23.2-20260513-nightly-zizhan-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260520/lineage-23.2-20260520-nightly-zizhan-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/zizhan/20260513/boot.img",
-      "sha1": "ea42cfd81d1e612139557a6522211026361a1e54",
-      "sha256": "3deb357cb8eb6e5d93e56c916f285f967ce1c6463bfe15970a2441325f5f3940",
+      "filepath": "/full/zizhan/20260520/boot.img",
+      "sha1": "8df041b7b123798b11b645bdc726a04ca6258417",
+      "sha256": "4cd47af4e74103135f397398eaf2f31b96d5f803b05cf15b5443f8246b9b9fcf",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260513/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260520/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/zizhan/20260513/dtbo.img",
-      "sha1": "b8cb8a61d55b2764d4de1560267d7a57775d2ddf",
-      "sha256": "8897c3705d159012728fff773a7bfb7c5bf7aabe7bc5d169c32dd68c355cee8b",
+      "filepath": "/full/zizhan/20260520/dtbo.img",
+      "sha1": "2aa5229dfefa6c5325f03445f65f4661d07008ac",
+      "sha256": "d587f48ab2db153e51c042b02ac3a09a8aeac2d4af41b68faecea18c143240d5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260513/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260520/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/zizhan/20260513/recovery.img",
-      "sha1": "65590be15b8deeab51f23e004885d0138ac21399",
-      "sha256": "ad839daabc4fb022496954276c6e792476213124fb3d8a1db4e54785e791b5c1",
+      "filepath": "/full/zizhan/20260520/recovery.img",
+      "sha1": "c533afaecf92e9bb43c2bcce8506071cfbb0425a",
+      "sha256": "11363af4ac405568e6e020846613c1b8f34db0846ce559100d6e067971478d5e",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260513/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260520/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/zizhan/20260513/super_empty.img",
+      "filepath": "/full/zizhan/20260520/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260513/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260520/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/zizhan/20260513/vbmeta.img",
-      "sha1": "933837dd34398facde0fcbc5d44d220f7a99c4d6",
-      "sha256": "2e0bef3641f2f354c6211e277093b59b06cd4df3d27830b303c3e3a5fa56b6ab",
+      "filepath": "/full/zizhan/20260520/vbmeta.img",
+      "sha1": "2f753acee20adc426d1659cf6e8392988e68b923",
+      "sha256": "940af93025cb66cec6dcc9d5d2324a4814be62ab1e6ba4b1f6cb9c93062c33f4",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260513/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260520/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/zizhan/20260513/vendor_boot.img",
-      "sha1": "4479e7124764c3bce7b4f271260d5e2d2f9eb99f",
-      "sha256": "d4798bab7042de04708a8fbd8f9f0abc0fd51c87ffffb23b184d8d0a15d57b8d",
+      "filepath": "/full/zizhan/20260520/vendor_boot.img",
+      "sha1": "edab227c1feadf17e94802d0d2138864a4bac7a2",
+      "sha256": "b3e7361561a362c1c91f4b0cbd7409e726f06c2c5bbad5ad9fbe7fbb9b1f6af2",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260513/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/zizhan/20260520/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
