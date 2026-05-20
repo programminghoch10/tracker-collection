@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-13",
-  "datetime": 1778674145,
+  "date": "2026-05-20",
+  "datetime": 1779235463,
   "files": [
     {
-      "date": "2026-05-13",
-      "datetime": 1778674145,
-      "filename": "lineage-23.2-20260513-nightly-alioth-signed.zip",
-      "filepath": "/full/alioth/20260513/lineage-23.2-20260513-nightly-alioth-signed.zip",
+      "date": "2026-05-20",
+      "datetime": 1779235463,
+      "filename": "lineage-23.2-20260520-nightly-alioth-signed.zip",
+      "filepath": "/full/alioth/20260520/lineage-23.2-20260520-nightly-alioth-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "658a46c194ef00ac130eb0577920b6b3a83e3acc",
-      "sha256": "4dce0868519978b6c934698267c79ba408e7657e4ee10d82262547b593fe1f16",
-      "size": 1401199955,
+      "os_sdk_level": "36",
+      "sha1": "2be41ddbbabb553ad698b0b55aa255f38cffbfbb",
+      "sha256": "e95a92fd432a30b5eecdad49d0b6582965c50dd15e453ffe3564b7e68d2946ac",
+      "size": 1401230139,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260513/lineage-23.2-20260513-nightly-alioth-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260520/lineage-23.2-20260520-nightly-alioth-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/alioth/20260513/boot.img",
-      "sha1": "aba17cc8a1a7cca4af17e9c68ad1c9b65484700c",
-      "sha256": "cb4bc1ccc705703f5bb1ebe3c41ae34e50ab84964a32d037fa6da68cc7127b22",
+      "filepath": "/full/alioth/20260520/boot.img",
+      "sha1": "f6f16715a1d4c690e328d3cd55db3871e5c0b764",
+      "sha256": "3291447df620de83133281502ef953950deb296de61a5494aaa2cb43f86adc23",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260513/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260520/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/alioth/20260513/dtbo.img",
-      "sha1": "6114479f5f7d8e139cadaf07c312d2d133df1d22",
-      "sha256": "8f54b4b39322d392ec8041cfef84a5f8b96e19de6807db90437335ea578b6f2b",
+      "filepath": "/full/alioth/20260520/dtbo.img",
+      "sha1": "8d1e1f588c96cab497a87add132c15df1e17d6d6",
+      "sha256": "9bfda07c135d2b857667483f2379687582b7060419a012c9470a5df613dcfaf0",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260513/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260520/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/alioth/20260513/super_empty.img",
+      "filepath": "/full/alioth/20260520/super_empty.img",
       "sha1": "b384556968bfd19b4794ea68ad14758569b6ffcd",
       "sha256": "cb02654264619dcd33d4c092ac2ac531f5f5675218770efcad8e68601725c612",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260513/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260520/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/alioth/20260513/vbmeta.img",
-      "sha1": "7c79c16acb2cc57b205129b3d670a39c2ca20db8",
-      "sha256": "e499894584c43356ce04aa618479e1e3da6459958509a5f18a4ca5a9b35dea04",
+      "filepath": "/full/alioth/20260520/vbmeta.img",
+      "sha1": "75b8852524f58a71c6a3327529656189d2eed23c",
+      "sha256": "c7184a7d5d33c1e87a6618d719b84eebe19a41b5fda913a5ab440c6da5d7f233",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260513/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260520/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/alioth/20260513/vendor_boot.img",
-      "sha1": "614c93efb7fd601d3132eff9cd98fb13e97cdb5d",
-      "sha256": "da33fcc8a274838a2e3e7cc5dabe10215d2dc04751a3bfa3068cbd2c2c83c2e6",
+      "filepath": "/full/alioth/20260520/vendor_boot.img",
+      "sha1": "50519d4ca9ed712ebe8f7beffd6ed6eb29034bc2",
+      "sha256": "d07831e8decfeb10e3731bf1003bd212b45204488e51d61cfb1dbf8e65accc15",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260513/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260520/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": "36",
   "type": "nightly",
   "version": "23.2"
 }
