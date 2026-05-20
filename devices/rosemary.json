@@ -1,53 +1,55 @@
 {
-  "date": "2026-05-13",
-  "datetime": 1778630683,
+  "date": "2026-05-20",
+  "datetime": 1779235337,
   "files": [
     {
-      "date": "2026-05-13",
-      "datetime": 1778630683,
-      "filename": "lineage-23.2-20260513-nightly-rosemary-signed.zip",
-      "filepath": "/full/rosemary/20260513/lineage-23.2-20260513-nightly-rosemary-signed.zip",
+      "date": "2026-05-20",
+      "datetime": 1779235337,
+      "filename": "lineage-23.2-20260520-nightly-rosemary-signed.zip",
+      "filepath": "/full/rosemary/20260520/lineage-23.2-20260520-nightly-rosemary-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "9cc9a10b96c8ff92657c3046f63ac56525f3f22a",
-      "sha256": "b05204422269bb678201853ea9fc81a7fc92279289fc8661df3105479cd30950",
-      "size": 1131675039,
+      "os_sdk_level": "36",
+      "sha1": "9aa48766c14b847fda23e851cc90aa7e4d11b7b8",
+      "sha256": "164e2da9c7fde25738161c5759d6ab80b29727b7c3b290c12ee40888fc55a393",
+      "size": 1131721324,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260513/lineage-23.2-20260513-nightly-rosemary-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260520/lineage-23.2-20260520-nightly-rosemary-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rosemary/20260513/boot.img",
-      "sha1": "01f86f1f35db18dccca816f3ff83c9f39f3d160b",
-      "sha256": "e9feed50360bdbd934b6b506661f6b1b147b197590d3bcca88cbb276ebcd2e85",
+      "filepath": "/full/rosemary/20260520/boot.img",
+      "sha1": "ee3614847740eafc4f25c3cae211567593aed2bf",
+      "sha256": "406c123081904a0fa5c1e4372a5d1119883fa329414cc16c9587f3a0dc513fbc",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260513/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260520/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rosemary/20260513/dtbo.img",
-      "sha1": "f77d7627e32bda8b0fe4f9cd2aa9f7cf5c907613",
-      "sha256": "d815d3e88b9a8129d2039c75ba83dd4bf6373b1a2dd559f3140c85e027d05034",
+      "filepath": "/full/rosemary/20260520/dtbo.img",
+      "sha1": "3226f3bc50e8d7350b7af65145b6524a485a85b6",
+      "sha256": "ce6f37f244552abb0ef21ddd65d446c86b4870650d52325381bb62ec5dcd2522",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260513/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260520/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rosemary/20260513/super_empty.img",
+      "filepath": "/full/rosemary/20260520/super_empty.img",
       "sha1": "369e646d43f5320497f8b275c3063500c4661269",
       "sha256": "4f2982d477b423e55ec812775a7f80befcd0baf1f434939b458442e50053d3a4",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260513/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260520/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rosemary/20260513/vbmeta.img",
-      "sha1": "043b8b09e20703d270008690e5bf13ecce74750a",
-      "sha256": "f1e70209c1b38aad0968e957c55cd30049f9c0e2d8e04192a24cbca5822424c1",
+      "filepath": "/full/rosemary/20260520/vbmeta.img",
+      "sha1": "2d1dfe258ed2f1c2c90e8e4696a884a8299edf50",
+      "sha256": "dbc5135eb57bb56328f6cf2728695b5c3a9147fee19ef1289f1d1ece293e2e2a",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260513/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260520/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": "36",
   "type": "nightly",
   "version": "23.2"
 }
