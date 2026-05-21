@@ -1,53 +1,55 @@
 {
-  "date": "2026-05-14",
-  "datetime": 1778747768,
+  "date": "2026-05-21",
+  "datetime": 1779332255,
   "files": [
     {
-      "date": "2026-05-14",
-      "datetime": 1778747768,
-      "filename": "lineage-23.2-20260514-nightly-sunfish-signed.zip",
-      "filepath": "/full/sunfish/20260514/lineage-23.2-20260514-nightly-sunfish-signed.zip",
+      "date": "2026-05-21",
+      "datetime": 1779332255,
+      "filename": "lineage-23.2-20260521-nightly-sunfish-signed.zip",
+      "filepath": "/full/sunfish/20260521/lineage-23.2-20260521-nightly-sunfish-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "430ab924c743b1df0fff798c1a72933c1d32f29f",
-      "sha256": "ea8ee2e70ba0dd6cbd65ba1b6931436b6c66ab3aa558acda6fbcb858f08ed213",
-      "size": 1194669622,
+      "os_sdk_level": 36,
+      "sha1": "d7185f3fab79a0c95d04ec40812d99961ea6822b",
+      "sha256": "ad0eceba089333175fa5331d91a368c3e6aa1b94806b2b6e4ac076d51e1442b3",
+      "size": 1194705760,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260514/lineage-23.2-20260514-nightly-sunfish-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/lineage-23.2-20260521-nightly-sunfish-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/sunfish/20260514/boot.img",
-      "sha1": "eeffba0ddef3294b2c24c0bac6874f4de1dfd054",
-      "sha256": "2b967f09871ddaf0f7adc6a8db0dacc1ad0388425c8e5733f5703a17c61ff206",
+      "filepath": "/full/sunfish/20260521/boot.img",
+      "sha1": "d9444b93e920ba6b521f9c3eea22faca97697c1f",
+      "sha256": "fe3abbbbb815bfdfb6511d9e227edd7e6a489b799cc526f41cd175e16c495976",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260514/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/sunfish/20260514/dtbo.img",
-      "sha1": "7cd44716b9fc74402fc84695512571cbfdb7a9bf",
-      "sha256": "07fd2166c2e163527f7779e05734034170bb36fbf3fe692ef6b80c72071b40df",
+      "filepath": "/full/sunfish/20260521/dtbo.img",
+      "sha1": "0d1064ed0768d15885d86a0a13cdd573dc0fc4ca",
+      "sha256": "18a6f630f58d7b352f16002488e97e8c062321817b5a580bb7aa91ebd9ff0bc4",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260514/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/sunfish/20260514/super_empty.img",
+      "filepath": "/full/sunfish/20260521/super_empty.img",
       "sha1": "89fa029b4b985982dbc834f09845025422714c97",
       "sha256": "3cd413454b2259ac22de1539dd568f1fcc4dbebbd611e457322863ea82170e2a",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260514/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/sunfish/20260514/vbmeta.img",
-      "sha1": "ced0a879dcdbf9e060477300ebbd6e697e4166fd",
-      "sha256": "e6e0ab7d1822e7810f19f03f1ed62aa9ce4bbea855edd4f5e4420c4ed824c0d1",
+      "filepath": "/full/sunfish/20260521/vbmeta.img",
+      "sha1": "1aeaa09dc92ccaf083c3978db2c88c808533a8a8",
+      "sha256": "067cbe2f0dc714060d3db3b8d6511976585c7fbab760687d433bd949d596d4e5",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260514/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
