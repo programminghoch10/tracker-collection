@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-15",
-  "datetime": 1778803333,
+  "date": "2026-05-22",
+  "datetime": 1779449182,
   "files": [
     {
-      "date": "2026-05-15",
-      "datetime": 1778803333,
-      "filename": "lineage-23.2-20260515-nightly-zippo-signed.zip",
-      "filepath": "/full/zippo/20260515/lineage-23.2-20260515-nightly-zippo-signed.zip",
+      "date": "2026-05-22",
+      "datetime": 1779449182,
+      "filename": "lineage-23.2-20260522-nightly-zippo-signed.zip",
+      "filepath": "/full/zippo/20260522/lineage-23.2-20260522-nightly-zippo-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "a4e9b9319bfcd426302dae32c876398b976483b9",
-      "sha256": "d60bc6698ea06ba6fb8db92ee6e94f3a8a3f9b0d576e2a71d37983f8e87e5491",
-      "size": 1157059058,
+      "os_sdk_level": 36,
+      "sha1": "d1fe2b80faaa3244145fdf875c3f160e34baaa00",
+      "sha256": "8ec933db92116af00fcf19a3f374fa03df9c60e0785cef0b6e57d4e2181818e5",
+      "size": 1157182863,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260515/lineage-23.2-20260515-nightly-zippo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260522/lineage-23.2-20260522-nightly-zippo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/zippo/20260515/boot.img",
-      "sha1": "b9e71e51f55512882817525eebcb61d1a0c1f7ca",
-      "sha256": "70991d0fc04b6a32419f255337170622339dfc0ac1789ee0bf5650b090d67e13",
+      "filepath": "/full/zippo/20260522/boot.img",
+      "sha1": "3734be91954e088d61fd234735144ff2e309ba28",
+      "sha256": "f1a09708b2193bfc64ab1d8151bbb88c44f72caf36ec0ff3e353dedce53acf9e",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260522/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/zippo/20260515/dtbo.img",
-      "sha1": "d1b5b5ebf4c19459230ca3f96351a87272e7f01c",
-      "sha256": "0edcd65c2049f67e6bb455a5aeee0cb52d7eb19440a681828bb5c16019e00d4a",
+      "filepath": "/full/zippo/20260522/dtbo.img",
+      "sha1": "403d6c040f235d9345b561eba85e31f74491e2e2",
+      "sha256": "288276df1a871bf8257e7e0ca65d5ccdca44e0034f6eadd9e4209e41d4cb4caa",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260515/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260522/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/zippo/20260515/recovery.img",
-      "sha1": "7f6b840364f76f9484301b9df6dd6cf5c8400dbe",
-      "sha256": "c4342415d854a85fc634791060c286a6ecf7ec79d11ea8e5353a67160ccdb34a",
+      "filepath": "/full/zippo/20260522/recovery.img",
+      "sha1": "7b4cee3c61396d21b3e791a960742de6694f8f82",
+      "sha256": "f1d13249e4ceeeea16de30f1cfdd59a7ca09289499c06280f23e6ee89d33adb6",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260515/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260522/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/zippo/20260515/super_empty.img",
+      "filepath": "/full/zippo/20260522/super_empty.img",
       "sha1": "33a1c89a927a21003a296412704eb7568561fad5",
       "sha256": "1e5e2ae2028fae23b8d433c9b29d309465af2a1df051feae2cf499b1e07fc2fc",
       "size": 4708,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260515/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260522/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/zippo/20260515/vbmeta.img",
-      "sha1": "945e41889d77a3202eba11e2bfd890aaeba5558e",
-      "sha256": "ab5e71d6ce3d1cb63796b4417eebc009a0ba6a131607f3d95f23b84f113ee44c",
+      "filepath": "/full/zippo/20260522/vbmeta.img",
+      "sha1": "45dd082340b93c8200f97f265466974bc74773f1",
+      "sha256": "2ad78a297e96df0097730e1181874f56c227657dde59c4951230477eecb926c6",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260515/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260522/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
