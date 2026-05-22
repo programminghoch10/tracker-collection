@@ -1,69 +1,71 @@
 {
-  "date": "2026-05-15",
-  "datetime": 1778803346,
+  "date": "2026-05-22",
+  "datetime": 1779440637,
   "files": [
     {
-      "date": "2026-05-15",
-      "datetime": 1778803346,
-      "filename": "lineage-23.2-20260515-nightly-mayfly-signed.zip",
-      "filepath": "/full/mayfly/20260515/lineage-23.2-20260515-nightly-mayfly-signed.zip",
+      "date": "2026-05-22",
+      "datetime": 1779440637,
+      "filename": "lineage-23.2-20260522-nightly-mayfly-signed.zip",
+      "filepath": "/full/mayfly/20260522/lineage-23.2-20260522-nightly-mayfly-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "38951495a8743d616310fd1d3e71d68b84904162",
-      "sha256": "3fde3177d527ac469f82d3c194ec4c9c0b37587dfe2c231878aac46e964bf4e5",
-      "size": 1888890344,
+      "os_sdk_level": 36,
+      "sha1": "36bb8f81ac975389f4c6675c277a55d358e45584",
+      "sha256": "cbcfe4a9f45c2238b8b8277f1e00d502426407dec4ab6d8a4a84997eec0dd236",
+      "size": 1888833346,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260515/lineage-23.2-20260515-nightly-mayfly-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/lineage-23.2-20260522-nightly-mayfly-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/mayfly/20260515/boot.img",
-      "sha1": "b0c8149263fe3bb6430570fface9f624831382b4",
-      "sha256": "69597973620c9ea94ddeae7c054236dd243992ecb4fa362955338804eb6cb0ee",
+      "filepath": "/full/mayfly/20260522/boot.img",
+      "sha1": "916c774caa6592503db87cc725dd382741afa00a",
+      "sha256": "2dd56c499048c172d3ae9cb7bb4778d6ffd2657b6708fdaeaf422ce63ebc38fe",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/mayfly/20260515/dtbo.img",
-      "sha1": "f11f33676a4441c2e79e73dae5129c6f7f95010e",
-      "sha256": "4f7922cb3ec8ba63f2311e460d0a3d67e9f46b4797d1d21f2df96cfd5e5cf586",
+      "filepath": "/full/mayfly/20260522/dtbo.img",
+      "sha1": "9fb3b225bd5e4ee377b3287fb6e9c4f51bfa070a",
+      "sha256": "542a49b2b1d1b65cf27648f1c66cc1947311a0eb925523278c113970e2c4c76d",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260515/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/mayfly/20260515/recovery.img",
-      "sha1": "2c9d0e6e1ae7689648738efdff00f2c747663868",
-      "sha256": "b9ebd6a8d518a644e37e989e52ebd0b6698abdcc4b10563f6a0df41b41b70341",
+      "filepath": "/full/mayfly/20260522/recovery.img",
+      "sha1": "f520f4c00ba49030da2c712b00734cd10ba2aa05",
+      "sha256": "d865bc3c48d7c0b5ce64c4ac1c1d3ab68636be6ca69d7cf8d78dbbd090ae7370",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260515/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/mayfly/20260515/super_empty.img",
+      "filepath": "/full/mayfly/20260522/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260515/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/mayfly/20260515/vbmeta.img",
-      "sha1": "bdd871e14a353bd960b84e2ef8ca88908aaef01b",
-      "sha256": "7e3812a8c0dbea5f151aef3a5df9b52c7a024f1bbf409f21468838e1adc0b9ba",
+      "filepath": "/full/mayfly/20260522/vbmeta.img",
+      "sha1": "5e8b56358f2f12f87d7193accbb334d69d72c3d1",
+      "sha256": "b19590dc446aab7e2a67f602c40069e6b5f1a78c84110c750ff1f360924996ab",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260515/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/mayfly/20260515/vendor_boot.img",
-      "sha1": "322b3209e1420073d64c6d747db2b6f96d908f49",
-      "sha256": "2afff3d2bb6bde033c0488290f13acd2573ba9892001f0fc6c7041afb110d402",
+      "filepath": "/full/mayfly/20260522/vendor_boot.img",
+      "sha1": "fd3194b44c7ca5969341a97668b7749fefc4466d",
+      "sha256": "2cb166404d250a70c284ab555096d4988331198a3c9758f6859e4408aa40db48",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260515/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
