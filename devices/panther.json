@@ -1,77 +1,79 @@
 {
-  "date": "2026-05-15",
-  "datetime": 1778835931,
+  "date": "2026-05-22",
+  "datetime": 1779439511,
   "files": [
     {
-      "date": "2026-05-15",
-      "datetime": 1778835931,
-      "filename": "lineage-23.2-20260515-nightly-panther-signed.zip",
-      "filepath": "/full/panther/20260515/lineage-23.2-20260515-nightly-panther-signed.zip",
+      "date": "2026-05-22",
+      "datetime": 1779439511,
+      "filename": "lineage-23.2-20260522-nightly-panther-signed.zip",
+      "filepath": "/full/panther/20260522/lineage-23.2-20260522-nightly-panther-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "aea54ba69de99d9b3cff5a67b3984a3ea6cbc3c1",
-      "sha256": "23cc927a729c412025550755037217c8dd8ea5dab7072bb6e5819931ea2888e4",
-      "size": 1431813506,
+      "os_sdk_level": 36,
+      "sha1": "bcac0f83b4f66fcc007077e801cea75ec026b8a9",
+      "sha256": "3248506156a8133943482e823f9c2ab123ccb55299e69961fb42c81c0a514806",
+      "size": 1431832286,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/lineage-23.2-20260515-nightly-panther-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/lineage-23.2-20260522-nightly-panther-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/panther/20260515/boot.img",
-      "sha1": "99b1ef6d026be68fd54f01e7e1a9b16c17e0eee9",
-      "sha256": "bbc695bd33476ed1aa336d0a2d9f9e38513d67b48c4116ff9cbf6428f6be168d",
+      "filepath": "/full/panther/20260522/boot.img",
+      "sha1": "534f89e45b1fba9c415fddf46d0da1ba3abdb764",
+      "sha256": "8c875791af28c6e7ea45cf0b1f5bd06eaab89bf87c3afb8a5ad2f49075932eac",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/panther/20260515/dtbo.img",
-      "sha1": "26f228895e80d1d707d3ef9a7b17bee6e5fccd63",
-      "sha256": "2d707aa0e6ee5eafba203bcd1b47adc52f8b771e4d8c6db69da949807b5e238f",
+      "filepath": "/full/panther/20260522/dtbo.img",
+      "sha1": "d8aa85cda13eaf049b35c5e4bf95e9d34742f39b",
+      "sha256": "52148de6780f41981263285176806cf5eae44a53093279aa563324a18092fd32",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/panther/20260515/init_boot.img",
-      "sha1": "16a6e59cd2278592ff206501aadd11b0a53adf20",
-      "sha256": "5ae4f6dfdc9b5b75c72053779ad2946e8a8416be056e80c5cbffa6bf978f480b",
+      "filepath": "/full/panther/20260522/init_boot.img",
+      "sha1": "1d3f9dfc87e410c162b6a90569059b1259295818",
+      "sha256": "669c29ab2696b12d96d6d2157c0e148608ffb03fa744389b99ce67a34c1ee4ed",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/panther/20260515/super_empty.img",
+      "filepath": "/full/panther/20260522/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/panther/20260515/vbmeta.img",
-      "sha1": "9b453b1c6c44abd7ea2420bff32e44a379729072",
-      "sha256": "d7e6a905dec3d271f9813a596a571440202587731202c1a5097e4cd8bbb333c5",
+      "filepath": "/full/panther/20260522/vbmeta.img",
+      "sha1": "096eb8adc9e27a994c56327aad2a0e3dfba6daea",
+      "sha256": "790df52a9231fb331bed48761391e6b2c6a3a9dfa93ca17bc021bfae8605ca6e",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/panther/20260515/vendor_boot.img",
-      "sha1": "264ca14b1e38ac688e285a3ab0519d5b38dc4b18",
-      "sha256": "35110a5dbf8ac4cc17948c6e13a2022bab6dfb36ff05b56ae2856110e0dd7145",
+      "filepath": "/full/panther/20260522/vendor_boot.img",
+      "sha1": "5b23c99e797bed9a828e513ea263fd19bb0fc379",
+      "sha256": "00373906e45c9724e4d86c402982b63c1cffa7437bf591fa84f7480e9202a9b4",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/panther/20260515/vendor_kernel_boot.img",
-      "sha1": "834be39dbba2db8c4a4720183c17d4f04d6f7016",
-      "sha256": "38a6003069c4e66255231642dd2e8ecc8fddce7d64b5a9f5ddad144b04ffae8d",
+      "filepath": "/full/panther/20260522/vendor_kernel_boot.img",
+      "sha1": "797bf66a10eee58cb02b4fa7c67744d5ea50df90",
+      "sha256": "06d7423a610a4d386213221030d8e86cec1be803818cd2c638168f88935efd41",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/panther/20260515/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/panther/20260522/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
