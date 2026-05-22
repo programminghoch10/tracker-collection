@@ -1,45 +1,47 @@
 {
-  "date": "2026-05-15",
-  "datetime": 1778859520,
+  "date": "2026-05-22",
+  "datetime": 1779458937,
   "files": [
     {
-      "date": "2026-05-15",
-      "datetime": 1778859520,
-      "filename": "lineage-22.2-20260515-nightly-akari-signed.zip",
-      "filepath": "/full/akari/20260515/lineage-22.2-20260515-nightly-akari-signed.zip",
+      "date": "2026-05-22",
+      "datetime": 1779458937,
+      "filename": "lineage-22.2-20260522-nightly-akari-signed.zip",
+      "filepath": "/full/akari/20260522/lineage-22.2-20260522-nightly-akari-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "b35194618d838bde0aa6436385435b81821f6adb",
-      "sha256": "cad76a78c446e8a27d970d028b5504b6f996868344d0e80cfb49c9f99e3d66a0",
-      "size": 1006904732,
+      "os_sdk_level": 35,
+      "sha1": "ccdec25576035e6141021b78ef1df73ef9047f55",
+      "sha256": "db7180d46f9a9c393679efe24b9c6910946596cfd4dbc2b909dfb4fd009571fe",
+      "size": 1006963461,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260515/lineage-22.2-20260515-nightly-akari-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260522/lineage-22.2-20260522-nightly-akari-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/akari/20260515/boot.img",
-      "sha1": "73ad1cd2ebcaf5d0df8dca104209d5c64ad4edbd",
-      "sha256": "93662a0ff82329ad00f1b296039326a4e906c01cf27ff773e48b29ef575dd81f",
+      "filepath": "/full/akari/20260522/boot.img",
+      "sha1": "0ba14ce2736e74321d88f6cc6ae06bf72d6437c2",
+      "sha256": "76c74a2e208a0f3e80f11c8e497e75a786463809b51c4cdbcfdd56ca3218bef0",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260522/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/akari/20260515/dtbo.img",
-      "sha1": "37a6682c3cea7f979f96c83df06e93ba857c20ad",
-      "sha256": "ab53d5bd2180efa07645ebbe70dec12410146372e0c2e0a0257cccf74226f24e",
+      "filepath": "/full/akari/20260522/dtbo.img",
+      "sha1": "d331d33cc2ed3b86ce5d8e130542722ade2a7e07",
+      "sha256": "78b96268969716583a62d253f3fbe02481fe83b2441c1e10e00d9ce090318cff",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260515/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260522/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/akari/20260515/vbmeta.img",
-      "sha1": "adcee80df1f4331f36b8474d881dfe9885a6b422",
-      "sha256": "d7e2937e7867eb2a098726d8fc634cf85fdc5acc086b5255b09f9922d6b904e8",
+      "filepath": "/full/akari/20260522/vbmeta.img",
+      "sha1": "5118c115e6e91dbd5b681eded25581a68ef3f056",
+      "sha256": "d09205027bf56d33d7c5ebd4e37957df1f0af66834ea3701935af5f9f22ac8a9",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260515/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260522/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 35,
   "type": "nightly",
   "version": "22.2"
 }
