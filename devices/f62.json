@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-15",
-  "datetime": 1778858953,
+  "date": "2026-05-22",
+  "datetime": 1779428778,
   "files": [
     {
-      "date": "2026-05-15",
-      "datetime": 1778858953,
-      "filename": "lineage-23.2-20260515-nightly-f62-signed.zip",
-      "filepath": "/full/f62/20260515/lineage-23.2-20260515-nightly-f62-signed.zip",
+      "date": "2026-05-22",
+      "datetime": 1779428778,
+      "filename": "lineage-23.2-20260522-nightly-f62-signed.zip",
+      "filepath": "/full/f62/20260522/lineage-23.2-20260522-nightly-f62-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "5af17216dd2a3d23a1957bc5f0ea28c2e5138106",
-      "sha256": "cd799bf5cef43f84e9a2e39242efa75b0955b9d8896f26ef0dc89ed2cd3a6cf5",
-      "size": 1178005797,
+      "os_sdk_level": 36,
+      "sha1": "dfc06da6003815e35a645c1ce7184fcdea595ea6",
+      "sha256": "5298cee5319181504fe5d9d9c846ea8ecdc66f5d402fc3e371937b3b1a9479e9",
+      "size": 1177967975,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/f62/20260515/lineage-23.2-20260515-nightly-f62-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/f62/20260522/lineage-23.2-20260522-nightly-f62-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/f62/20260515/boot.img",
-      "sha1": "763124b3d95c36e8dc46196738b4f2dc39e9e7b0",
-      "sha256": "12bdd685d164f8e3d219d251866126054647b9c13885bbb6ff236cfff0b28c2c",
+      "filepath": "/full/f62/20260522/boot.img",
+      "sha1": "d043ff77e9668733be7847b8b5c70fdd7f27e0e1",
+      "sha256": "d4fe0ae2e823e7f520ae48fe87181e1a14d254aef6348a02b4539d6cd2d99d52",
       "size": 61865984,
-      "url": "https://mirrorbits.lineageos.org/full/f62/20260515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/f62/20260522/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/f62/20260515/dtbo.img",
-      "sha1": "c2ec7835e57c06bca1b0fd6b3ab67a153d2f10fd",
-      "sha256": "e91fd4733860ad7850b29fc3a53cc3e557eb561660d947811e535a3974afd698",
+      "filepath": "/full/f62/20260522/dtbo.img",
+      "sha1": "01538201d99e0702379aa57bf271661156f4d79a",
+      "sha256": "e6451798a853d7ff0ed71f88a06839a14fe4b814bba2b4b95cdb2c19bc1e268e",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/f62/20260515/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/f62/20260522/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/f62/20260515/recovery.img",
-      "sha1": "ea7637db3992ed19e9293c635e2e4615c6e04565",
-      "sha256": "5a204d1796bbb80bcfb981f79bd0f98e51f0a8841a0d1d2f0fbc9ce11e5413da",
+      "filepath": "/full/f62/20260522/recovery.img",
+      "sha1": "6db2af08e1a3846a6fe137f3b3e841fdb3ef6f6c",
+      "sha256": "aa2d9bcb11c2ad60a0274f844e4be685d7f09b0fd6ac55bd156d7ab95cbb2511",
       "size": 71102464,
-      "url": "https://mirrorbits.lineageos.org/full/f62/20260515/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/f62/20260522/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/f62/20260515/super_empty.img",
+      "filepath": "/full/f62/20260522/super_empty.img",
       "sha1": "578f38b9f9ab98d2f2a13facd346df98056eda91",
       "sha256": "4394e355c936059034d88d292f67e81da9639a0e6ed526831bfaa90d9253940e",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/f62/20260515/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/f62/20260522/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/f62/20260515/vbmeta.img",
-      "sha1": "42e35d9737b574da4b169383f4e76b95fc323bfc",
-      "sha256": "bec4bcca3725369b45feb75ae5a5010e7717f941c0354ff51c7aba002659bdec",
+      "filepath": "/full/f62/20260522/vbmeta.img",
+      "sha1": "8181ef477af73206e7856a2270b24185525569fc",
+      "sha256": "fabe9ebd4f93aada746011bc27671c2c4d10f9d516265283e48b56de477c430a",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/f62/20260515/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/f62/20260522/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
