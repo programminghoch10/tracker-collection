@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-15",
-  "datetime": 1778833662,
+  "date": "2026-05-22",
+  "datetime": 1779436868,
   "files": [
     {
-      "date": "2026-05-15",
-      "datetime": 1778833662,
-      "filename": "lineage-23.2-20260515-nightly-pyrite-signed.zip",
-      "filepath": "/full/pyrite/20260515/lineage-23.2-20260515-nightly-pyrite-signed.zip",
+      "date": "2026-05-22",
+      "datetime": 1779436868,
+      "filename": "lineage-23.2-20260522-nightly-pyrite-signed.zip",
+      "filepath": "/full/pyrite/20260522/lineage-23.2-20260522-nightly-pyrite-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "074a480d174e6feff03e1f4d0cd4a8a8a2b7d7b5",
-      "sha256": "1970517b9e1db5e86668cfa5a81e630889135d7bbded2bf20864c66ce8ee7334",
-      "size": 1243083575,
+      "os_sdk_level": 36,
+      "sha1": "8a009eb7d0c9562e57bb75d65d7c59d29671be29",
+      "sha256": "8d9578bce3bee5b6bbf5c19d910124153192d8060421364acaaebca2c32d108c",
+      "size": 1243091801,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260515/lineage-23.2-20260515-nightly-pyrite-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260522/lineage-23.2-20260522-nightly-pyrite-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/pyrite/20260515/boot.img",
-      "sha1": "4d24a578ebb03ab84d96c3ca9bd1b519ac2d7d40",
-      "sha256": "e30f178df3a7367faf5ed116755047b7cd1e9a95ae9a310178cb36c42c402b92",
+      "filepath": "/full/pyrite/20260522/boot.img",
+      "sha1": "4dd53032a3b821b1ab60155d1834d6638ac11c03",
+      "sha256": "36b77d23935b085ed3b0941a5de27e3ba38f6c6c213c9283f2106a41138792de",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260522/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/pyrite/20260515/dtbo.img",
-      "sha1": "0c6b2935a33cf8bfcb261534bbe8c3036e8dd0c4",
-      "sha256": "0e42ff5e538952eb8a62fcb231381aee0e42476724c3087cb2146b70d725d222",
+      "filepath": "/full/pyrite/20260522/dtbo.img",
+      "sha1": "bff81290d550317a8883e9c2d16eeeff8cd2ebab",
+      "sha256": "7fd47d4fdc9eecfea016711364b679b9cb87663fe53eab23e176b849b92555ee",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260515/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260522/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/pyrite/20260515/super_empty.img",
+      "filepath": "/full/pyrite/20260522/super_empty.img",
       "sha1": "987f4d1fca7ace6f412d70c71eca4a1f417dc0eb",
       "sha256": "bd4873e08862c65efbd7800bde4565e1475c7b37b31c8c65d8082362e33d425b",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260515/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260522/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/pyrite/20260515/vbmeta.img",
-      "sha1": "f746433b9498d2fa9a02c0e40402f4ee401cf370",
-      "sha256": "9667a0573dd0a78b1cb53c4ad6989ca6dbad61f35e17688bdb8a40cd40b33f75",
+      "filepath": "/full/pyrite/20260522/vbmeta.img",
+      "sha1": "5724a8e2b8b001557c3962ff9e86e34f3ec1d0bd",
+      "sha256": "3f9a5145d1a6aae0027e91cc9d9a64fa657332fea00a59574df6d1cfa3e1dea8",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260515/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260522/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/pyrite/20260515/vendor_boot.img",
-      "sha1": "e2cc714584dda91c2b9b03cfafaf89ebb993d4d9",
-      "sha256": "2562ee56b251de077919ca353760e6298cb5690001e03cf115905c0056f0806f",
+      "filepath": "/full/pyrite/20260522/vendor_boot.img",
+      "sha1": "ec11aec731389a753c2992429ac8d0e5a9ea3aef",
+      "sha256": "b29eb330a917f58bd9d243256ea8c5a53a12c5d3ab674d5ac56e84c042a2256b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260515/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyrite/20260522/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
