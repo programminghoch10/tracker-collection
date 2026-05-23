@@ -1,77 +1,79 @@
 {
-  "date": "2026-05-16",
-  "datetime": 1778951056,
+  "date": "2026-05-23",
+  "datetime": 1779494699,
   "files": [
     {
-      "date": "2026-05-16",
-      "datetime": 1778951056,
-      "filename": "lineage-23.2-20260516-nightly-avalon-signed.zip",
-      "filepath": "/full/avalon/20260516/lineage-23.2-20260516-nightly-avalon-signed.zip",
+      "date": "2026-05-23",
+      "datetime": 1779494699,
+      "filename": "lineage-23.2-20260523-nightly-avalon-signed.zip",
+      "filepath": "/full/avalon/20260523/lineage-23.2-20260523-nightly-avalon-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "05fcb2f3e25bfcd51198b99f49444cf4528661a6",
-      "sha256": "880d38ff020eb3eb09de139508c4f496cf9d897d252abaee1c4eb0b9417344c5",
-      "size": 2619295433,
+      "os_sdk_level": 36,
+      "sha1": "7e6d9b989b6c94fa9b520591e1a8bcc780675088",
+      "sha256": "3bca0e54b02043d4b2c14e4487533f395d796ea9cb1ebd1317b585093a99473d",
+      "size": 2619301049,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/lineage-23.2-20260516-nightly-avalon-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/lineage-23.2-20260523-nightly-avalon-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/avalon/20260516/boot.img",
-      "sha1": "2a78b8f91df43c600d1896700c1487b210a05488",
-      "sha256": "1af6e895cd3f30f0643a776b7a00e4309f2db6b7c6c08e78471aba73349df33a",
+      "filepath": "/full/avalon/20260523/boot.img",
+      "sha1": "64156eed5751e2c0f70b8ebc8741528b2b62d0fb",
+      "sha256": "4158c1d8e67f805e89f8360d65eedee41202b884b363ccb252cb11186c17bee0",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/avalon/20260516/dtbo.img",
-      "sha1": "48348a15fbadf8e4b1a11aedb107e0fbb421d3cc",
-      "sha256": "a053ab71014fdfb42431d39cf654b2f440d2ac8d5e6bb80137dd518d4f26a977",
+      "filepath": "/full/avalon/20260523/dtbo.img",
+      "sha1": "fb0005963ed90763a2c69df9120668ff5668d935",
+      "sha256": "6fa770299368b7145c70983f2caa7dea6222368d637433740a9ebe5d30449926",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/avalon/20260516/init_boot.img",
-      "sha1": "901c577128624f32da9a6cb650f14f268d004c27",
-      "sha256": "9e93657c110423fc48ac1af805519178a3921e684c4b98318b7f327c28f3d228",
+      "filepath": "/full/avalon/20260523/init_boot.img",
+      "sha1": "2985e604aef09ef0b1b6f02b77dfc1fed9393860",
+      "sha256": "7988d6708a67459302b7fcafd8800585567c66b349c80d0fe62a8664d77f3286",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/avalon/20260516/recovery.img",
-      "sha1": "181b38e9fd7b323251f08beff648af2d8a309961",
-      "sha256": "1b6274b8e988b312cdd3a8757a6ac4d9069271645fdad51fc0b78f04180b5abf",
+      "filepath": "/full/avalon/20260523/recovery.img",
+      "sha1": "bf7b308ccf686ba4317f39200f18276fb9fedcce",
+      "sha256": "c52247cd6b1e70505c068b688f286f6f02f57c16af3732b063166311c690da61",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/avalon/20260516/super_empty.img",
+      "filepath": "/full/avalon/20260523/super_empty.img",
       "sha1": "54ea9dfe41c685d320eb9286ad838afded7feabb",
       "sha256": "ec03e8b68bd343bb47ae856af55cd76c7daf5b6d5be563cd5464bb1d3091725c",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/avalon/20260516/vbmeta.img",
-      "sha1": "d86d3d9d36df504294bafd6da12ab2e9c826290d",
-      "sha256": "cfd8a00695c82746575bdc119235051d0ef1a026db550539dde800c636ea4962",
+      "filepath": "/full/avalon/20260523/vbmeta.img",
+      "sha1": "5af726d274dccbfa155614fc4698aa52c1f05fbf",
+      "sha256": "86ef2873b166e0edfc7e591b418c2a06b12bafe2381228e12bd29276972ac667",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/avalon/20260516/vendor_boot.img",
-      "sha1": "522a5242932707931d582018623083e8516a3711",
-      "sha256": "585666e982d2bec041e57c68e4289d3aad582bd42557c190def6da9b616e52ca",
+      "filepath": "/full/avalon/20260523/vendor_boot.img",
+      "sha1": "4a6076509ce0399901f30b31916215a0536b9e7e",
+      "sha256": "3b1a5e4efd6a8227c7a8c184b3b6db41d5d1bf2be8c8e0ef5e5054cc3e28224f",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260516/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
