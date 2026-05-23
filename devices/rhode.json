@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-16",
-  "datetime": 1778930121,
+  "date": "2026-05-23",
+  "datetime": 1779519116,
   "files": [
     {
-      "date": "2026-05-16",
-      "datetime": 1778930121,
-      "filename": "lineage-23.2-20260516-nightly-rhode-signed.zip",
-      "filepath": "/full/rhode/20260516/lineage-23.2-20260516-nightly-rhode-signed.zip",
+      "date": "2026-05-23",
+      "datetime": 1779519116,
+      "filename": "lineage-23.2-20260523-nightly-rhode-signed.zip",
+      "filepath": "/full/rhode/20260523/lineage-23.2-20260523-nightly-rhode-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "d69e6040054282c66537a65db009b4f63ccca61a",
-      "sha256": "cc33a6988dfe08066ded4fdcb6d40ea28d11ed7dbc02ca0f19c26cb0c41356b0",
-      "size": 1086973394,
+      "os_sdk_level": 36,
+      "sha1": "91aa5ff4e79cee6c6437674de8c21603b376a33f",
+      "sha256": "b4e5fcca206ca37eaa8a5cdf2814e2bcdfa96c1a66f7f2077c60714b55fb64ae",
+      "size": 1086968050,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260516/lineage-23.2-20260516-nightly-rhode-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260523/lineage-23.2-20260523-nightly-rhode-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rhode/20260516/boot.img",
-      "sha1": "5c186e75b36b16a6b473b1223098bd456516aaa8",
-      "sha256": "48badbb7218a592b7b21ce0ae233788c957fbc2fe1f522080f30fabf349c1742",
+      "filepath": "/full/rhode/20260523/boot.img",
+      "sha1": "8fd765ab9a0de9fff58b0009a29e9838ad6d72a1",
+      "sha256": "176c290470ae3abccde645119a7b4248e5bc9698f8914e906ad27e27a5b95830",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260516/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260523/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rhode/20260516/dtbo.img",
-      "sha1": "24fb2cc5eea5875a81849f0122505f38508b1afb",
-      "sha256": "2635602a8a40a782b7860dc8972575926c3e6d0f1b82cfe8276e3858975242cf",
+      "filepath": "/full/rhode/20260523/dtbo.img",
+      "sha1": "953c38ba6ba509238c4881ec45281c77477a5d06",
+      "sha256": "885708f8b005eb1fa90e9183175c4b3da045fd24c6ff684ccb6aacf444a599b9",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260516/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260523/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rhode/20260516/super_empty.img",
+      "filepath": "/full/rhode/20260523/super_empty.img",
       "sha1": "da8fc41736746e722c512866f7e028ae0b647fdf",
       "sha256": "0af59ad1e465cfd9338b7046fbd313e12a5d0203cfe81cbac6a9fc37858d595a",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260516/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260523/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rhode/20260516/vbmeta.img",
-      "sha1": "665258ea67fd94c2906d25bdea514ef114362298",
-      "sha256": "6fc600009a0ad0c68b405ecd4f57735a66c8e1387742585e0b48a801ca006c71",
+      "filepath": "/full/rhode/20260523/vbmeta.img",
+      "sha1": "c6f5dbccbb0f1529e2b2ec8290315c3d5128e03a",
+      "sha256": "20b4564e840324c87dfaf2de8dc78c791ae7a12271f1f622842412a02c9b6892",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260516/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260523/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/rhode/20260516/vendor_boot.img",
-      "sha1": "c3444ad5fefa901d2f6af997615af8878f4b68de",
-      "sha256": "4b4a77b58e83beece57361a84aeda92bed81b097fb4a9376147576c1ea23f750",
+      "filepath": "/full/rhode/20260523/vendor_boot.img",
+      "sha1": "7d2fb29ae1ae8bb0b75b19c9c7bc98e243a836c9",
+      "sha256": "06fe580ac41bd4cbc21ba3aee1dedb3977539a1876a14f0ad20e80d275af3c6d",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260516/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260523/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
