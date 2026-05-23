@@ -1,77 +1,79 @@
 {
-  "date": "2026-05-16",
-  "datetime": 1778943835,
+  "date": "2026-05-23",
+  "datetime": 1779528122,
   "files": [
     {
-      "date": "2026-05-16",
-      "datetime": 1778943835,
-      "filename": "lineage-23.2-20260516-nightly-socrates-signed.zip",
-      "filepath": "/full/socrates/20260516/lineage-23.2-20260516-nightly-socrates-signed.zip",
+      "date": "2026-05-23",
+      "datetime": 1779528122,
+      "filename": "lineage-23.2-20260523-nightly-socrates-signed.zip",
+      "filepath": "/full/socrates/20260523/lineage-23.2-20260523-nightly-socrates-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "1953b8c77279e50037c854ef92ba7adae279de9a",
-      "sha256": "9ab3356b9717d17fff729b1b6cc2ca86fafbc37c6af9a9f71e5a99b0d3b520a7",
-      "size": 1563764203,
+      "os_sdk_level": 36,
+      "sha1": "9375929d7d9433eb71e00d9ce159ff5c5a565e84",
+      "sha256": "2125979da2745434114f2b223ddb9cddd2605ffc568a47dd28c98b2bd74b47a7",
+      "size": 1563810621,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/lineage-23.2-20260516-nightly-socrates-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/lineage-23.2-20260523-nightly-socrates-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/socrates/20260516/boot.img",
-      "sha1": "054a6dea0cf13424e2222b06cbd38890132b232f",
-      "sha256": "b433f324d8d0879044593a4074ba71a314f16e390bf95b52d6b9b26dec0e947d",
+      "filepath": "/full/socrates/20260523/boot.img",
+      "sha1": "868c520810cdac87919ff51061ebcace26ec4cda",
+      "sha256": "b5d32aa43e7e0f2e049eae80ebb1a4537f0fdac85290baf86fa9186357e0773e",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/socrates/20260516/dtbo.img",
-      "sha1": "72bc5fe726a56c8b21df1067dd57f90f73213ffd",
-      "sha256": "191e29c749cb25f456cb115f31457e09961e873d0d2ddc68611831ca67c3aaa1",
+      "filepath": "/full/socrates/20260523/dtbo.img",
+      "sha1": "9350567d5f45958ca35df2b79767e9a1c743d7dc",
+      "sha256": "941dd415449386e12eefc9928854ed28d4e524efaf15694ff539030ad50d0821",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/socrates/20260516/init_boot.img",
-      "sha1": "527030c117c36e95cf8f3b51ace61ca2945a01f8",
-      "sha256": "a350655910f0024983177a03c5866d6904541746ef221f5e6430d67443286464",
+      "filepath": "/full/socrates/20260523/init_boot.img",
+      "sha1": "1e8f23e4f860299399f3cfc475e3bd131284d3c5",
+      "sha256": "65431a0d039db8b6b6c515509118e6b4e3aaa8aaa15b6bb77b3bdf3f8a464a55",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/socrates/20260516/recovery.img",
-      "sha1": "50193ed617cc607fd77dba7d3c46f6d790aeaca5",
-      "sha256": "0d4739f4834eeacf3c10a949d5fc6176491b15055851f91943f4248476b8ca3e",
+      "filepath": "/full/socrates/20260523/recovery.img",
+      "sha1": "b676349545b1a66d732801e2ab52346dcd25bcb1",
+      "sha256": "a03894ec03154a7b06b343c55d451baf065014c55d9e362f5f272f53a8c2a7a9",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/socrates/20260516/super_empty.img",
+      "filepath": "/full/socrates/20260523/super_empty.img",
       "sha1": "9ef449029f0a99ae9e621c6391a09b47329db2d7",
       "sha256": "e6843857f8ff612e1bd468f36e89607c80b792db606b4728a2d14b538c3df575",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/socrates/20260516/vbmeta.img",
-      "sha1": "dd8a030a1afc4984855da473811015723af81c02",
-      "sha256": "04486cb15cb266aaedf386247809b39ba8992052a99f5622522b864b703dda93",
+      "filepath": "/full/socrates/20260523/vbmeta.img",
+      "sha1": "4a4b638fc197d47bb9919a78e66a94fe16a6e638",
+      "sha256": "c5483b9d2c072d1a7e649f018cbfe9f185350ee8135de00ed6a885a1f530c6d4",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/socrates/20260516/vendor_boot.img",
-      "sha1": "88d7cdd1524cbbf0d56eace65d855eac61f5450d",
-      "sha256": "79e7913555a41da8588cf0a04be29f0ad9e3f58f56794a8249575f4c48f3f007",
+      "filepath": "/full/socrates/20260523/vendor_boot.img",
+      "sha1": "7c7626a47650f91fb16879b5341fe649de66d43a",
+      "sha256": "edb50b4bf7667177b5dd1940061086fb0cdb90c179182e6ee026538275ec431c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260516/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260523/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
