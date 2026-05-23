@@ -1,37 +1,39 @@
 {
-  "date": "2026-05-15",
-  "datetime": 1778839995,
+  "date": "2026-05-22",
+  "datetime": 1779479199,
   "files": [
     {
-      "date": "2026-05-15",
-      "datetime": 1778839995,
-      "filename": "lineage-22.2-20260515-nightly-sif-signed.zip",
-      "filepath": "/full/sif/20260515/lineage-22.2-20260515-nightly-sif-signed.zip",
+      "date": "2026-05-22",
+      "datetime": 1779479199,
+      "filename": "lineage-22.2-20260522-nightly-sif-signed.zip",
+      "filepath": "/full/sif/20260522/lineage-22.2-20260522-nightly-sif-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "fe2a438ad091a25081f67c7ddffd6eb392c0192f",
-      "sha256": "dba817a3e62de231ce6f223312d2fac42380ead1d385bff9fd10ad48f60fb8d9",
-      "size": 630143458,
+      "os_sdk_level": 35,
+      "sha1": "82870efcd928e294b3bb9a32dc45ce4912e46ebf",
+      "sha256": "d1029e5433f2d26140e5835ba0eeb761a2cd5d073f5c0dc7f674f84ea4bd9f1c",
+      "size": 630195781,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/sif/20260515/lineage-22.2-20260515-nightly-sif-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/sif/20260522/lineage-22.2-20260522-nightly-sif-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/sif/20260515/boot.img",
-      "sha1": "cbdade11ad25780c5c1abaa50f10c80734117b35",
-      "sha256": "6c2a767a75bb55c5776b3ef0005836154265362ab9db275a6a32f67828edfb9f",
+      "filepath": "/full/sif/20260522/boot.img",
+      "sha1": "4053d89cd38486086b1febe9f2d9f2fec531be2e",
+      "sha256": "3f4aacb7f4d8c1e68e1b25ef8c1334ba652f11b1a18f44a97faac540afa46e8e",
       "size": 14098432,
-      "url": "https://mirrorbits.lineageos.org/full/sif/20260515/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/sif/20260522/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/sif/20260515/recovery.img",
-      "sha1": "e68131575ee685f8afb862544421ffd0b883e8df",
-      "sha256": "60e34ec7a9fab2a1d201742c7ed72199696d63eaaa49ff12f1b954f043a610d6",
-      "size": 22065152,
-      "url": "https://mirrorbits.lineageos.org/full/sif/20260515/recovery.img"
+      "filepath": "/full/sif/20260522/recovery.img",
+      "sha1": "62d73e5278614f013f3fbdabacc7c24fd9484ec3",
+      "sha256": "a8cdce5b81dd2b7d13c05ac3772c0124573922fc123d7d7dbebfd9a38eb1a913",
+      "size": 22067200,
+      "url": "https://mirrorbits.lineageos.org/full/sif/20260522/recovery.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 35,
   "type": "nightly",
   "version": "22.2"
 }
