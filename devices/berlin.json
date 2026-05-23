@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-16",
-  "datetime": 1778897561,
+  "date": "2026-05-23",
+  "datetime": 1779494522,
   "files": [
     {
-      "date": "2026-05-16",
-      "datetime": 1778897561,
-      "filename": "lineage-23.2-20260516-nightly-berlin-signed.zip",
-      "filepath": "/full/berlin/20260516/lineage-23.2-20260516-nightly-berlin-signed.zip",
+      "date": "2026-05-23",
+      "datetime": 1779494522,
+      "filename": "lineage-23.2-20260523-nightly-berlin-signed.zip",
+      "filepath": "/full/berlin/20260523/lineage-23.2-20260523-nightly-berlin-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "e790bc2fd26eeafe824b0a9e6cd4658d6d90d2e8",
-      "sha256": "7f8d2cd4f9f04378810dbcf2d3d1a838cd3da3bc2128d3999fb0e109a79cb74d",
-      "size": 1306623634,
+      "os_sdk_level": 36,
+      "sha1": "2dd659a8ec658754dbe058693eb2f9572bd3f829",
+      "sha256": "02a8de57382c7ed586267108ab1464cf1c2ae0e186ce7dedaba5c0b8418a3d5d",
+      "size": 1306617190,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/berlin/20260516/lineage-23.2-20260516-nightly-berlin-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20260523/lineage-23.2-20260523-nightly-berlin-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/berlin/20260516/boot.img",
-      "sha1": "4ca4ba894e7745e8696b8e6e7581b80fcf69d124",
-      "sha256": "09bb021fff08df5534adc7bf2b8035f4beba53e0d41cb5d5f99bf2491bde7517",
+      "filepath": "/full/berlin/20260523/boot.img",
+      "sha1": "bd2cd2224af55ad2324ba79b431fa4e9df4282d4",
+      "sha256": "794eb71db9b18177722f94150084f2567c60fcd249143bfff3a1989a809c7245",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/berlin/20260516/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20260523/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/berlin/20260516/dtbo.img",
-      "sha1": "9c96ed2f23a87e60539c58f11e232a1a1b389a5d",
-      "sha256": "f7f4210e85d252b30f69a5e181242f3ed35dc444185a541498ae10f7f5feb027",
+      "filepath": "/full/berlin/20260523/dtbo.img",
+      "sha1": "eb74220c304844f7939ff2b3d2fc1ee969db5f09",
+      "sha256": "243e8a781286db6bead24feaa6f33b63e756f49f0be804534f6279a8d23aecbd",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/berlin/20260516/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20260523/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/berlin/20260516/super_empty.img",
+      "filepath": "/full/berlin/20260523/super_empty.img",
       "sha1": "80feee69c1657174cccdf63a1d8158f209333b9c",
       "sha256": "c9a0cd8f6aa8112eefb8374ba2c7334d984a273cbc0aee961819db9586116b08",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/berlin/20260516/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20260523/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/berlin/20260516/vbmeta.img",
-      "sha1": "035257e456db1d5872b1610ae583b6384c3fedfb",
-      "sha256": "93b7f63de8bf8b6a0fe685a1853a2e75b25b4d7a058018bdc3349c9266df8871",
+      "filepath": "/full/berlin/20260523/vbmeta.img",
+      "sha1": "3cbb9ad97cc5265c60ede94b4ea8f806db151920",
+      "sha256": "d901ae64478d2d91b4675567b06176840a0495d90fec538deff2762461a9f578",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/berlin/20260516/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20260523/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/berlin/20260516/vendor_boot.img",
-      "sha1": "6dada0521fba024563e97176b3d84ac475aca72c",
-      "sha256": "f3f9c39d0dc5c2bfe133e2e3861a09bc88142e57f8b4d5217883db1ea69f0938",
+      "filepath": "/full/berlin/20260523/vendor_boot.img",
+      "sha1": "01828fbc99b4ee557f53093730dea51fc497da77",
+      "sha256": "27b1032c2fca8f3b328361879f2d35c38b1fef82e3757e3673c8d90e52fbc730",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/berlin/20260516/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20260523/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
