@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-16",
-  "datetime": 1778891446,
+  "date": "2026-05-23",
+  "datetime": 1779494581,
   "files": [
     {
-      "date": "2026-05-16",
-      "datetime": 1778891446,
-      "filename": "lineage-23.2-20260516-nightly-apollon-signed.zip",
-      "filepath": "/full/apollon/20260516/lineage-23.2-20260516-nightly-apollon-signed.zip",
+      "date": "2026-05-23",
+      "datetime": 1779494581,
+      "filename": "lineage-23.2-20260523-nightly-apollon-signed.zip",
+      "filepath": "/full/apollon/20260523/lineage-23.2-20260523-nightly-apollon-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "9f1c0edce1b83f0f8d89a5879efc2a76ffa261e7",
-      "sha256": "9317e8f52d61290ad1087f27c6b9ba2a7bf0ab379aadfa53290690c21edbc695",
-      "size": 1567060851,
+      "os_sdk_level": 36,
+      "sha1": "5e3900350c8857d4a6e3693297a4703f543e2e42",
+      "sha256": "ec20ff3e94341296bfc0a41069435c2c90f455e8c2cc3485c7582c902a7536d4",
+      "size": 1567138072,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/apollon/20260516/lineage-23.2-20260516-nightly-apollon-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20260523/lineage-23.2-20260523-nightly-apollon-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/apollon/20260516/boot.img",
-      "sha1": "2164c5c96510116909ec6dab94c16c6ef166233a",
-      "sha256": "0550726d9d82244f83196768ee35420584770b23066254bf74367788f2a41d9a",
+      "filepath": "/full/apollon/20260523/boot.img",
+      "sha1": "00e9435d781576f7ae7d784aa8479aee732a69d4",
+      "sha256": "bd9e869dd01986e0792a77f7e6679c7ac5612c830c033113bb05d20237f6372d",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/apollon/20260516/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20260523/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/apollon/20260516/dtbo.img",
-      "sha1": "80f20e15ce4586117db53b65f99338cfb8b2fb39",
-      "sha256": "7d70d5f66e26bbb3432af164aa73dcaf675487e383e5090d25b2de9fdf9c362e",
+      "filepath": "/full/apollon/20260523/dtbo.img",
+      "sha1": "8e79fd87ea47c7c02883f0cebda283c35e373ca0",
+      "sha256": "58201564b98533e567e29692d88c8d2bebf32dfc41f051fbd2fc8c2289450d0e",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/apollon/20260516/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20260523/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/apollon/20260516/recovery.img",
-      "sha1": "66b87a6fc0b40bf883e67f2474000484332b6477",
-      "sha256": "1a29919cc2c71557df03a52ba1b717dd54afe3e34dc31ea86e62e9e6e0511e23",
+      "filepath": "/full/apollon/20260523/recovery.img",
+      "sha1": "a175b56652d33fc73fe61ca434f6c8c0f88f6dbf",
+      "sha256": "28f0b5b6183a4236bb26435afe4c352cede64b232057ade50e116db37b89ec2c",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/apollon/20260516/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20260523/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/apollon/20260516/super_empty.img",
+      "filepath": "/full/apollon/20260523/super_empty.img",
       "sha1": "4bb950f970b176d638d14a318468820f240938cb",
       "sha256": "cbc42814b36e05edf74a58e022485407d42eaba55002fdd802429048819341d8",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/apollon/20260516/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20260523/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/apollon/20260516/vbmeta.img",
-      "sha1": "8617ae0175b56f29fc871c32bfb6981e5d0d2918",
-      "sha256": "ff4d9716ecde59c356fe88bb3cd2af2b01c6546e150c78d9e37422de23991868",
+      "filepath": "/full/apollon/20260523/vbmeta.img",
+      "sha1": "3b8ccbb04e9c16c59de0e2a24afadeb6131e36bb",
+      "sha256": "eb6b27c51a8fb512623e4cff12304a0fdeba8ca7de5e82837c6ce2fb17561eee",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/apollon/20260516/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/apollon/20260523/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
