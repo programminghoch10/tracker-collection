@@ -1,6 +1,7 @@
 #!/bin/bash
 
-GITHUB_LATEST_RELEASE_URL="https://api.github.com/repos/%s/%s/releases/latest"
+GITHUB_API_REPOSITORY_URL="https://api.github.com/repos/%s/%s"
+GITHUB_API_LATEST_RELEASE_URL="$GITHUB_API_REPOSITORY_URL/releases/latest"
 GITHUB_REPOSITORY_URL="https://github.com/%s/%s"
 GITHUB_RELEASE_URL="$GITHUB_REPOSITORY_URL/releases/tag/%s"
 
@@ -42,8 +43,12 @@ processRepo() {
     ! isBooleanValue "$includechangelog" && echo "invalid input for includechangelog" && return 1
     
     echo "Processing $owner/$reponame"
+    GitHubApiRequest "$(printf "$GITHUB_API_REPOSITORY_URL" "$owner" "$reponame")" || {
+        echo "Repository unavailable."
+        return 0
+    }
 
-    latest_release_url="$(printf "$GITHUB_LATEST_RELEASE_URL" "$owner" "$reponame")"
+    latest_release_url="$(printf "$GITHUB_API_LATEST_RELEASE_URL" "$owner" "$reponame")"
     latest_release="$(GitHubApiRequest "$latest_release_url")"
     [ -z "$latest_release" ] && echo "empty response from GitHub API!" && return 1
     echo "$latest_release"
