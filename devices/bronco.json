@@ -1,69 +1,71 @@
 {
-  "date": "2026-05-17",
-  "datetime": 1778995453,
+  "date": "2026-05-24",
+  "datetime": 1779589821,
   "files": [
     {
-      "date": "2026-05-17",
-      "datetime": 1778995453,
-      "filename": "lineage-22.2-20260517-nightly-bronco-signed.zip",
-      "filepath": "/full/bronco/20260517/lineage-22.2-20260517-nightly-bronco-signed.zip",
+      "date": "2026-05-24",
+      "datetime": 1779589821,
+      "filename": "lineage-22.2-20260524-nightly-bronco-signed.zip",
+      "filepath": "/full/bronco/20260524/lineage-22.2-20260524-nightly-bronco-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "cb95ca8c5316df4415f12bc7fbaf6fef0cf532bc",
-      "sha256": "63b61348c556dc550a65d62af21da1ef8706565b79ffc5fdda75caf7845606a7",
-      "size": 1530914005,
+      "os_sdk_level": 35,
+      "sha1": "56d92d7a88405d0365dac80d83f81b71838f080c",
+      "sha256": "4be7d7e8fc1c773fd134744aa54ff3663b7da26d794f340e66e68526e1e1c698",
+      "size": 1530911880,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bronco/20260517/lineage-22.2-20260517-nightly-bronco-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bronco/20260524/lineage-22.2-20260524-nightly-bronco-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/bronco/20260517/boot.img",
-      "sha1": "4784ca14cdd2c39e7ed5e65d738e0b08ec0df49f",
-      "sha256": "7416cce2fcd30de74b9d67b5bd96e5af06c2b545bb243cf811328f01e545fdf3",
+      "filepath": "/full/bronco/20260524/boot.img",
+      "sha1": "acb864ca17c7059803a2b6534ab8ee927fd1a0e4",
+      "sha256": "2ab3a0d0e4239d29f8848036bbcf09e476ef02e42c7d4f96be629b78b9b04719",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/bronco/20260517/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bronco/20260524/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/bronco/20260517/dtbo.img",
-      "sha1": "98cd1e2748a3ed758692e879734a50afa58d7990",
-      "sha256": "9f98d7e5ac925f26cad2f294b46b5e37cbeda3e9ddfc74b3161f8417cc15bf5e",
+      "filepath": "/full/bronco/20260524/dtbo.img",
+      "sha1": "db924428736b0410e0280af55166640a6b53b6ce",
+      "sha256": "3180ffe0411a95f5e0b49f67407bc4529220ed4bb03dac2aebde36ba93fa2ce9",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/bronco/20260517/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/bronco/20260524/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/bronco/20260517/recovery.img",
-      "sha1": "83543e18a2f744d4973f635e01bae025268427f6",
-      "sha256": "4e0f9ff9bb4f32cacc109ab5576b7824fe6a50802ce772b74889eb2b941a6dc5",
+      "filepath": "/full/bronco/20260524/recovery.img",
+      "sha1": "0c16924b9ea2a2291dbd91a693ecd90522cb4c80",
+      "sha256": "a277b466768e438abb474999ac6b285b9ae84b4a049d2d12c4539ada35fd5c59",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/bronco/20260517/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/bronco/20260524/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/bronco/20260517/super_empty.img",
+      "filepath": "/full/bronco/20260524/super_empty.img",
       "sha1": "96a048427482d5287bc507b62879df519b71ef5d",
       "sha256": "ac738f3eb794e0aba162c86c9f168b4e9a66fd484b7d5d84740d4ea0c0917746",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/bronco/20260517/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/bronco/20260524/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/bronco/20260517/vbmeta.img",
-      "sha1": "e140721292b032fd29de63ae3cfd2e7b2b52738e",
-      "sha256": "77712afabc692257854d045a67858b25cd33faef45783d965f3e7c074f554775",
+      "filepath": "/full/bronco/20260524/vbmeta.img",
+      "sha1": "e76e9b981c79ba8e8f4c3fe362f48c82c3a1b033",
+      "sha256": "6250f37ece958b67073b52b2f040a44ac9c1b47e5c370bc593d9645a4e58ff19",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/bronco/20260517/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/bronco/20260524/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/bronco/20260517/vendor_boot.img",
-      "sha1": "f80fb39e96a60e959dda03c4c6eaac37b14abec8",
-      "sha256": "52039d5b3c9bdb1231c8d60104fe968374654c9ebdbe27a4ba962fa51ecfb892",
+      "filepath": "/full/bronco/20260524/vendor_boot.img",
+      "sha1": "a1e6a9ec31fe13d50e0090c5b4b722349ced05b1",
+      "sha256": "b6fbbbb5dc1dc2fc11b4f600512a8e617f35501db4b4faa55e3f51fe021c07f3",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/bronco/20260517/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bronco/20260524/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 35,
   "type": "nightly",
   "version": "22.2"
 }
