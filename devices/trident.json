@@ -1,45 +1,47 @@
 {
-  "date": "2026-05-17",
-  "datetime": 1779021427,
+  "date": "2026-05-24",
+  "datetime": 1779609026,
   "files": [
     {
-      "date": "2026-05-17",
-      "datetime": 1779021427,
-      "filename": "lineage-22.2-20260517-nightly-trident-signed.zip",
-      "filepath": "/full/trident/20260517/lineage-22.2-20260517-nightly-trident-signed.zip",
+      "date": "2026-05-24",
+      "datetime": 1779609026,
+      "filename": "lineage-22.2-20260524-nightly-trident-signed.zip",
+      "filepath": "/full/trident/20260524/lineage-22.2-20260524-nightly-trident-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "9c498a5d26f66d1d121f6dbef90ede581fd248a8",
-      "sha256": "69dda3e44844e0b5436cb02564e03525efb10d6b4a10090d864153e1a709b729",
-      "size": 1034442048,
+      "os_sdk_level": 35,
+      "sha1": "406f7137997151d43aad4be56ac2090120a1218e",
+      "sha256": "13151f6f500871ee99de098dec7febb5db861d4564aed937944920751791bf0e",
+      "size": 1034454454,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/trident/20260517/lineage-22.2-20260517-nightly-trident-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/trident/20260524/lineage-22.2-20260524-nightly-trident-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/trident/20260517/boot.img",
-      "sha1": "98225e01e1a58cf5ca33470e87b4d0c8f46f980f",
-      "sha256": "df06719c63f87da4bea11c0ef5cbc3c2bfbb3d3a296f1b141d3cf05a9a50205f",
+      "filepath": "/full/trident/20260524/boot.img",
+      "sha1": "1ff4b5167e20795267aee8381f104bb3d6c7889b",
+      "sha256": "83b4d37798c1c2c3377323433009197fcd506f1b0e562dc9f478efc3ba249563",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/trident/20260517/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/trident/20260524/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/trident/20260517/dtbo.img",
-      "sha1": "4b5a5c4575f7be8a27758dccb6c71af58f692b02",
-      "sha256": "0b695d48894eb6061aa36eb0f181731b94365b7b82cf641106abba5f3bd7f235",
+      "filepath": "/full/trident/20260524/dtbo.img",
+      "sha1": "d10ce7f46910d9909009c2fd204416f2b34b7b7d",
+      "sha256": "b4e84b73d1622408a0309368aadc04e3f00b191eec176c27db10185d710b9011",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/trident/20260517/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/trident/20260524/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/trident/20260517/vbmeta.img",
-      "sha1": "22043b6ad7cb9853c3843f97f197d48d2fa81424",
-      "sha256": "eb214c834cc559577c52a378644b3a2772698f0c90dfa32f45f94e3f37d29197",
+      "filepath": "/full/trident/20260524/vbmeta.img",
+      "sha1": "00b8d3ab1d65ae44e468fdc591385b4c79fcc2ff",
+      "sha256": "d6826db8ec631446653b2fe4cddb93eaf7b5f7f45d931eda8741afb18143f56d",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/trident/20260517/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/trident/20260524/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 35,
   "type": "nightly",
   "version": "22.2"
 }
