@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-18",
-  "datetime": 1779093443,
+  "date": "2026-05-25",
+  "datetime": 1779686424,
   "files": [
     {
-      "date": "2026-05-18",
-      "datetime": 1779093443,
-      "filename": "lineage-23.2-20260518-nightly-tucana-signed.zip",
-      "filepath": "/full/tucana/20260518/lineage-23.2-20260518-nightly-tucana-signed.zip",
+      "date": "2026-05-25",
+      "datetime": 1779686424,
+      "filename": "lineage-23.2-20260525-nightly-tucana-signed.zip",
+      "filepath": "/full/tucana/20260525/lineage-23.2-20260525-nightly-tucana-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "3d06c19590f6c6e40051689a19c41fe56753b6eb",
-      "sha256": "eebebfb3c6cb56bb839f0e24d113ca07464f80d217fec58aa5115b92f47e0774",
-      "size": 1551405519,
+      "os_sdk_level": 36,
+      "sha1": "5f62a9c7c180ca5d01518c6ed14a4b820d6364b9",
+      "sha256": "e51fece6632417726c052f7a00b322d643b30abd423a94e05cec426b9324efb9",
+      "size": 1551531792,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260518/lineage-23.2-20260518-nightly-tucana-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260525/lineage-23.2-20260525-nightly-tucana-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tucana/20260518/boot.img",
-      "sha1": "add9c4bfccc32d7dc9cb9721510af14210bbe2ad",
-      "sha256": "925c189a4ae1d0c59d6e08f6047852ffec478e1a833e7764b1ea87111365660d",
+      "filepath": "/full/tucana/20260525/boot.img",
+      "sha1": "9c76f46b5fe5739ee20e54e3bca3c889efcd0ea6",
+      "sha256": "a3ac7af7afd59d7e40b02bd8f54c9c22ed69a40d938691288d17ee09e088b00a",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260518/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260525/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tucana/20260518/dtbo.img",
-      "sha1": "8e808fd0480fd39eab36958de51aaca9be6e2820",
-      "sha256": "8e51bfde4e8c8325a41cac99b1d3bddd1fa080c76f0f64895b5e1d342c09d43c",
+      "filepath": "/full/tucana/20260525/dtbo.img",
+      "sha1": "54772c73e5ab3c4947eeccad8a45bf411514f588",
+      "sha256": "5464e85dfbb85c2aa3f00dbf900bd5499cf4a650c1736035b1e8157f94cea3ae",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260518/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260525/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/tucana/20260518/recovery.img",
-      "sha1": "def9edeb10270a0d6306df44bd61b21b6dd6fa04",
-      "sha256": "50ecd23f0e0a8e7b823ff3212d701034771f1be502e79c6a6dd299f039e5c996",
+      "filepath": "/full/tucana/20260525/recovery.img",
+      "sha1": "3ffff83bcca0cb809f8f23ef9120e111ce7ad560",
+      "sha256": "7f88dc970e169cb247579b530050435749b92e562423265fa472c2d9d8d9ade4",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260518/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260525/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tucana/20260518/super_empty.img",
+      "filepath": "/full/tucana/20260525/super_empty.img",
       "sha1": "77364d82d6451e04307492e4e242194761d2eb0d",
       "sha256": "a559e06b5c3ebe80f572652d7a1c687ed42c68212a183e4888ee49f9797ced17",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260518/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260525/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tucana/20260518/vbmeta.img",
-      "sha1": "d47fb091142ac39d4131cb31ba4baab70e81f852",
-      "sha256": "c52f2ba40275ab3f5b151d76abcd0f30bda81795c985862ed48d633de6f120f4",
+      "filepath": "/full/tucana/20260525/vbmeta.img",
+      "sha1": "970c56210a2ef0be3d30dec8b8faaf14c572e2b2",
+      "sha256": "6c0fbb8254824fc6a997b6ea80fb6e8f08277e2745f6892e626d565ec796b5c2",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260518/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260525/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
