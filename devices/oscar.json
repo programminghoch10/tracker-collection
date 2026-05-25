@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-18",
-  "datetime": 1779082853,
+  "date": "2026-05-25",
+  "datetime": 1779702883,
   "files": [
     {
-      "date": "2026-05-18",
-      "datetime": 1779082853,
-      "filename": "lineage-23.2-20260518-nightly-oscar-signed.zip",
-      "filepath": "/full/oscar/20260518/lineage-23.2-20260518-nightly-oscar-signed.zip",
+      "date": "2026-05-25",
+      "datetime": 1779702883,
+      "filename": "lineage-23.2-20260525-nightly-oscar-signed.zip",
+      "filepath": "/full/oscar/20260525/lineage-23.2-20260525-nightly-oscar-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "8781e18c87c80853d158cec1c728afa1f3fe019f",
-      "sha256": "21c61e26dcdc591d07ea9eaee743d66dd870969118e9e8daaef88a30ed39ac89",
-      "size": 1720191780,
+      "os_sdk_level": 36,
+      "sha1": "b170a306859c467aa041cd67fd3e8bbdf15c54dd",
+      "sha256": "1a6cfdcf2d7e44c0026fb9e8a6a447dab68971c963872da721a728dff65a2296",
+      "size": 1720183704,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/oscar/20260518/lineage-23.2-20260518-nightly-oscar-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/oscar/20260525/lineage-23.2-20260525-nightly-oscar-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/oscar/20260518/boot.img",
-      "sha1": "757f4018062fc3499e2819d583d6238c0c5b6c29",
-      "sha256": "dd828a455f63d3c2a817dc27dba32edbecbd922ee68343c617393124b8467ad8",
+      "filepath": "/full/oscar/20260525/boot.img",
+      "sha1": "1b5369252158caf43407f736231a3e8c5d781c3b",
+      "sha256": "fc0d24a62750c2606b9962c7cc4c5628b7fa3dabcf3c0644651bb295cce3c92c",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/oscar/20260518/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscar/20260525/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/oscar/20260518/dtbo.img",
-      "sha1": "9984af300b8989dd4196d653512ebd869339e749",
-      "sha256": "05660b7ee18ce4b046be2e6beb857c0b4147755cc149cefc33748bba3061050a",
+      "filepath": "/full/oscar/20260525/dtbo.img",
+      "sha1": "2b234d756a9e1c5c2ccaf2ab29284ad866f11b83",
+      "sha256": "5a04c6e2beadba5c8f74787ab04af534df8a4b0e5365835cd06046f2a581a6e7",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/oscar/20260518/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscar/20260525/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/oscar/20260518/super_empty.img",
+      "filepath": "/full/oscar/20260525/super_empty.img",
       "sha1": "fb386e9b83e2aba6b75a3f387af63b4ea1ce2e07",
       "sha256": "1bcb34b6a98ad77887debd2133252dc857bdaddefbe9548aa03cea8035ef06ce",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/oscar/20260518/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscar/20260525/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/oscar/20260518/vbmeta.img",
-      "sha1": "36fbd79b714ff1371baacc896cecfa11c4fed3fc",
-      "sha256": "4c790d2a0f3f3bf35c15ce2edbd33449da767aa67c195a64a21c87cdb80a5388",
+      "filepath": "/full/oscar/20260525/vbmeta.img",
+      "sha1": "38fe0da9bd396b17783942c9403f61e94f2e3309",
+      "sha256": "1d1c6ee8504047b6ba764b16efb1a89c58450119387d28ac68189b24f6e4f564",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/oscar/20260518/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscar/20260525/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/oscar/20260518/vendor_boot.img",
-      "sha1": "bfac76cb4128ecc46dd616df992992f9e1347dbb",
-      "sha256": "2a06f9637323b79fabb37de954cf9091f9f27d7c1e09c2c1d95f4c53564d4523",
+      "filepath": "/full/oscar/20260525/vendor_boot.img",
+      "sha1": "e65fefc603cc5ab7e6605a179c7c2b69a0c93dc9",
+      "sha256": "68b6184a806b15c773d65094014eb9a6ef83dacd340336047399192803e7b410",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/oscar/20260518/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscar/20260525/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
