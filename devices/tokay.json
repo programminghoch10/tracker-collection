@@ -1,77 +1,79 @@
 {
-  "date": "2026-05-18",
-  "datetime": 1779069970,
+  "date": "2026-05-25",
+  "datetime": 1779667666,
   "files": [
     {
-      "date": "2026-05-18",
-      "datetime": 1779069970,
-      "filename": "lineage-23.2-20260518-nightly-tokay-signed.zip",
-      "filepath": "/full/tokay/20260518/lineage-23.2-20260518-nightly-tokay-signed.zip",
+      "date": "2026-05-25",
+      "datetime": 1779667666,
+      "filename": "lineage-23.2-20260525-nightly-tokay-signed.zip",
+      "filepath": "/full/tokay/20260525/lineage-23.2-20260525-nightly-tokay-signed.zip",
       "os_patch_level": "2026-05-01",
-      "sha1": "2bb33c0f9d0dc94f590656b4d98f443bd63b93ab",
-      "sha256": "1c5283b270dd1e2a19ed0a2f3fe00ec96ab6c8ca3135672844f11af7d34302fd",
-      "size": 1579590952,
+      "os_sdk_level": 36,
+      "sha1": "a9090b211a0043b27780646d96780cbf807fe5c0",
+      "sha256": "4a60dddec091e0ded5904db62271a4d4762b773221e57dc9fed9fdca02dbcf13",
+      "size": 1579566205,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/lineage-23.2-20260518-nightly-tokay-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/lineage-23.2-20260525-nightly-tokay-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tokay/20260518/boot.img",
-      "sha1": "8cf09afd3e46384973264521102e9d3fb9cc145d",
-      "sha256": "d82c2dece5a4e03ae9ba19246ccf539e2a497506450114f1f49870da18047295",
+      "filepath": "/full/tokay/20260525/boot.img",
+      "sha1": "a2d5fc54f255d9317ea2cfac9610ef322ce7d1f6",
+      "sha256": "7b7da73669baeb46de805a5206fe2343f876d84284d5aa79d859e62f731958c7",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tokay/20260518/dtbo.img",
-      "sha1": "8cb294c1906f77632d86ad7cf33b1789adeb2570",
-      "sha256": "f55edb4270a30cb75a40fad4fa8bf3c7c5c347aba8b5ea046c4263c3709314dc",
+      "filepath": "/full/tokay/20260525/dtbo.img",
+      "sha1": "38bb8d4c830fdd9b02ef41bdf69abf4d6820541b",
+      "sha256": "40ae784ff089a19e1c049e7bd9ac23aa6d6010abce1d818afdfb0a253413e163",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/tokay/20260518/init_boot.img",
-      "sha1": "a7c9539448e1d2f51a52feec29b330caedf162f8",
-      "sha256": "6437df698fc124ff902475cd9d924bb19a46038f6acb5f3b454d12498f6fc563",
+      "filepath": "/full/tokay/20260525/init_boot.img",
+      "sha1": "aace08c64cb782e3d41866cc43ad8c32016d4be8",
+      "sha256": "48fea4fdb5b503191c8cca5fb883cca66ca99f7e0d4b33cec6cbe0d177fbed9f",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tokay/20260518/super_empty.img",
+      "filepath": "/full/tokay/20260525/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tokay/20260518/vbmeta.img",
-      "sha1": "691ab5226f47a94e55c0ee8e218d4b49ceb139d5",
-      "sha256": "f1029720a116b1ed5bffd62f03c03fa25be4c3d3509461dd54e9411a7656854d",
+      "filepath": "/full/tokay/20260525/vbmeta.img",
+      "sha1": "88134334f0cd325847353ce2014cb6d287c7d1e2",
+      "sha256": "532c1cde345c0b587eb420f7182dbc3a83df373e1803d0fc8a72184c48c235c9",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/tokay/20260518/vendor_boot.img",
-      "sha1": "0071928facf7600d2d01fe1afb02b85980855041",
-      "sha256": "00243d85f64058b98d3c079439626592cac499e3e337350d9033297b047806e9",
+      "filepath": "/full/tokay/20260525/vendor_boot.img",
+      "sha1": "7c1552690a0eee86f8257a021416817784e1275e",
+      "sha256": "26c4043b43c8059a5f139eb6b4ef4328b425e75950fc7479845e2a4781b7c0d8",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/tokay/20260518/vendor_kernel_boot.img",
-      "sha1": "af30b0b6ccd41a08e65802f053ca366181734d51",
-      "sha256": "44527b45fcedc12ba7c7e82393d16c1c4a95c43e9aed3f5c0ac036b5b45764e1",
+      "filepath": "/full/tokay/20260525/vendor_kernel_boot.img",
+      "sha1": "a3c126e1c06fe0ddcff075f3c5b7c453a98a595f",
+      "sha256": "e39e09664244d7c1222fc813c80b860999a5ba6b44ac8d13f969c8d767f35987",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260518/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260525/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
+  "os_sdk_level": 36,
   "type": "nightly",
   "version": "23.2"
 }
