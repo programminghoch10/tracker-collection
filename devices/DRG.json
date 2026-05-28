@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-21",
-  "datetime": 1779349077,
+  "date": "2026-05-28",
+  "datetime": 1779942632,
   "files": [
     {
-      "date": "2026-05-21",
-      "datetime": 1779349077,
-      "filename": "lineage-22.2-20260521-nightly-DRG-signed.zip",
-      "filepath": "/full/DRG/20260521/lineage-22.2-20260521-nightly-DRG-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779942632,
+      "filename": "lineage-22.2-20260528-nightly-DRG-signed.zip",
+      "filepath": "/full/DRG/20260528/lineage-22.2-20260528-nightly-DRG-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "8a8572e1dc5c385135127efcd95e7df38b1588b9",
-      "sha256": "91346121e5702ea33e32213f7bdcbee2e1004661c33f56bcf2789e7be33dd00d",
-      "size": 928885145,
+      "ota_property_files": "payload_metadata.bin:2876:96087,payload.bin:2876:928874564,payload_properties.txt:928877498:154,apex_info.pb:1672:1157,metadata:69:633,metadata.pb:770:854                  ",
+      "sha1": "0980057862d64c6b0afac086d5fb3ef0e7cfbedb",
+      "sha256": "a612ac3345d8a447d8f49555b17fc21ccacdc39e70cb721f948db51bfd4fcc98",
+      "size": 928880584,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/DRG/20260521/lineage-22.2-20260521-nightly-DRG-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/DRG/20260528/lineage-22.2-20260528-nightly-DRG-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/DRG/20260521/boot.img",
-      "sha1": "a757b3e9e4c46c731cb821ae4f5433d1378a7b23",
-      "sha256": "11c78bc844657179a6efb9b50870412b60426de9ed0a7ca1029ec626cc4382bf",
-      "size": 31211520,
-      "url": "https://mirrorbits.lineageos.org/full/DRG/20260521/boot.img"
+      "filepath": "/full/DRG/20260528/boot.img",
+      "sha1": "804a60c34d7e3ad20afa080ea855620ba083e370",
+      "sha256": "1c0e56dd70c24b50b62321cb40f1b1664745251bdbfb13b269b71515a7f851d3",
+      "size": 31207424,
+      "url": "https://mirrorbits.lineageos.org/full/DRG/20260528/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:2876:96087,payload.bin:2876:928874564,payload_properties.txt:928877498:154,apex_info.pb:1672:1157,metadata:69:633,metadata.pb:770:854                  ",
   "type": "nightly",
   "version": "22.2"
 }
