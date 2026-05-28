@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-21",
-  "datetime": 1779321916,
+  "date": "2026-05-28",
+  "datetime": 1779966420,
   "files": [
     {
-      "date": "2026-05-21",
-      "datetime": 1779321916,
-      "filename": "lineage-23.2-20260521-nightly-pioneer-signed.zip",
-      "filepath": "/full/pioneer/20260521/lineage-23.2-20260521-nightly-pioneer-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779966420,
+      "filename": "lineage-23.2-20260528-nightly-pioneer-signed.zip",
+      "filepath": "/full/pioneer/20260528/lineage-23.2-20260528-nightly-pioneer-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "1ab1a166c5fab9dc4bab4571216eb48d576de156",
-      "sha256": "fbf850a52a7366dde371bb50da8addfe99e37b822a5f4f7a90f60861707ce051",
-      "size": 913174264,
+      "ota_property_files": "payload_metadata.bin:2905:107856,payload.bin:2905:913178296,payload_properties.txt:913181259:155,apex_info.pb:1579:1279,metadata:69:607,metadata.pb:744:787                  ",
+      "sha1": "43e4745eb2723c136623feb186c894f9f59c4cfe",
+      "sha256": "f7f14ad02fdef4abe6934ce465b037d09b6fdcc16943b14c08c652916c07b598",
+      "size": 913184342,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260521/lineage-23.2-20260521-nightly-pioneer-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260528/lineage-23.2-20260528-nightly-pioneer-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/pioneer/20260521/boot.img",
-      "sha1": "8ddff90fa7eebf4f64a4164d2a8d990fa99579a9",
-      "sha256": "84ce35d2f76c6b23a2862a4dd6c5a110b6a9be29863e9bda023195d394718a5e",
+      "filepath": "/full/pioneer/20260528/boot.img",
+      "sha1": "cdc4857165e5581952457e22411eee1e8eb105c1",
+      "sha256": "7e77ef7c6d255d88b4354c5768d83026418d369bb5140095283abf46cf6fced2",
       "size": 36237312,
-      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260521/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260528/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:2905:107856,payload.bin:2905:913178296,payload_properties.txt:913181259:155,apex_info.pb:1579:1279,metadata:69:607,metadata.pb:744:787                  ",
   "type": "nightly",
   "version": "23.2"
 }
