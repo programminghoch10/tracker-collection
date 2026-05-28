@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-21",
-  "datetime": 1779332999,
+  "date": "2026-05-28",
+  "datetime": 1779948005,
   "files": [
     {
-      "date": "2026-05-21",
-      "datetime": 1779332999,
-      "filename": "lineage-22.2-20260521-nightly-judyp-signed.zip",
-      "filepath": "/full/judyp/20260521/lineage-22.2-20260521-nightly-judyp-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779948005,
+      "filename": "lineage-22.2-20260528-nightly-judyp-signed.zip",
+      "filepath": "/full/judyp/20260528/lineage-22.2-20260528-nightly-judyp-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "f34a5ad35d928a597e49850bee8827f930a0fdff",
-      "sha256": "8eb2f45c478eb5c6600de5631d7ea823540c2adfdd3052743864bfe59e82feb7",
-      "size": 992259810,
+      "ota_property_files": "payload_metadata.bin:3564:158285,payload.bin:3564:992258470,payload_properties.txt:992262092:155,apex_info.pb:1726:1157,care_map.pb:2930:587,metadata:69:668,metadata.pb:805:873                       ",
+      "sha1": "ce5c77ae9146e41620f6496e661c71966c69add7",
+      "sha256": "03f51aaf7a9b9be15efb51f4ad7aa209c46de00a0b93b1c1339b7d7aeb605a37",
+      "size": 992265242,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/judyp/20260521/lineage-22.2-20260521-nightly-judyp-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/judyp/20260528/lineage-22.2-20260528-nightly-judyp-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/judyp/20260521/boot.img",
-      "sha1": "69fac5c03d675317ec38c31953138ca0d63008a1",
-      "sha256": "9e2c4fbf3a0c0a42dea786c87e36e113f478e9e3f5bc639d0fab9f3f09677853",
+      "filepath": "/full/judyp/20260528/boot.img",
+      "sha1": "203b643eda2f0d21ab650c51465a97906d9e4c58",
+      "sha256": "b9df0bb6db59e012fa48a566a6b172393a9de890ab1db2b06a86f1d69ea4a3de",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/judyp/20260521/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/judyp/20260528/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/judyp/20260521/dtbo.img",
-      "sha1": "ae483a1ae369563a035d1961a5684b59707e6b14",
-      "sha256": "f5167502ad7f53b6446932a4d920046d5c25d72266e3e28991c260fb4c2907c7",
+      "filepath": "/full/judyp/20260528/dtbo.img",
+      "sha1": "0afac4c4befa6fb6bdf57b3af16921e982ae3450",
+      "sha256": "0048ce223a161568b2635b8c0541016250d2da90ce07c9e97fd2206d6180ad06",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/judyp/20260521/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/judyp/20260528/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/judyp/20260521/vbmeta.img",
-      "sha1": "61ccbdbe479f171c27b1718b56e2a2b7bede611f",
-      "sha256": "d9931abb09f1cd0ab8cc12c2a7b5caac34158b810b78e7bb0dcadedd4579d03f",
+      "filepath": "/full/judyp/20260528/vbmeta.img",
+      "sha1": "d5580dfd4e4d68c7725e0bfc42ce05db736b161b",
+      "sha256": "214791f7f3ede66f3868636864cbfb3aa05708f7bcb02366e8070b83f3947470",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/judyp/20260521/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/judyp/20260528/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3564:158285,payload.bin:3564:992258470,payload_properties.txt:992262092:155,apex_info.pb:1726:1157,care_map.pb:2930:587,metadata:69:668,metadata.pb:805:873                       ",
   "type": "nightly",
   "version": "22.2"
 }
