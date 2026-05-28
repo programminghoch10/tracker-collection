@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-21",
-  "datetime": 1779365869,
+  "date": "2026-05-28",
+  "datetime": 1779950793,
   "files": [
     {
-      "date": "2026-05-21",
-      "datetime": 1779365869,
-      "filename": "lineage-22.2-20260521-nightly-taimen-signed.zip",
-      "filepath": "/full/taimen/20260521/lineage-22.2-20260521-nightly-taimen-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779950793,
+      "filename": "lineage-22.2-20260528-nightly-taimen-signed.zip",
+      "filepath": "/full/taimen/20260528/lineage-22.2-20260528-nightly-taimen-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "b3ec76a60662b0f49fdb83c89d31b1b0ff45602d",
-      "sha256": "faf87ea137fc892a6f7c7d03039cd5807ae78082e3edc8acb208de4642ffd4b4",
-      "size": 968995043,
+      "ota_property_files": "payload_metadata.bin:3347:89429,payload.bin:3347:968994848,payload_properties.txt:968998253:154,apex_info.pb:1700:1191,care_map.pb:2938:362,metadata:69:662,metadata.pb:799:853                       ",
+      "sha1": "51dd1c22206adfcd9ec7e54357c6ccdde73fe1ce",
+      "sha256": "9f595736150cc3c2880d2249aed189b6c2f62dd27e1c6dfac9f569fed3944554",
+      "size": 969001402,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260521/lineage-22.2-20260521-nightly-taimen-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260528/lineage-22.2-20260528-nightly-taimen-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/taimen/20260521/boot.img",
-      "sha1": "b0aff54c0fae12eb4e02d2737a0bd2fb6e62f293",
-      "sha256": "c3f1f49db7c9041aaa715f76eb5094c9774dc24bf0d776996bc106e080543a3b",
+      "filepath": "/full/taimen/20260528/boot.img",
+      "sha1": "a35c209cc7a94fb5320828332e46eb994994026e",
+      "sha256": "e8ef3e187adb4b1766198cec9aaa5d20aaf2c91528f63e2cf74ae15d41873392",
       "size": 41943040,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260521/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260528/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/taimen/20260521/dtbo.img",
-      "sha1": "65555f01b4a242d6b8a82a3ad3e3212b18aef928",
-      "sha256": "6b8f997d417f264194a8b0d0cda311b2b59e1f3c2412ede16b6285af9aa1d465",
+      "filepath": "/full/taimen/20260528/dtbo.img",
+      "sha1": "2278f4a3f5bb65b69d248b7eaf3c42cf74fb9a5f",
+      "sha256": "7b9761fbb9f70ffabfb963b96b4a4341cfd54bfd432a1f7989804344ecac11cc",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260521/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260528/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/taimen/20260521/vbmeta.img",
-      "sha1": "ae160fbdfef5a00501fa118dc958fdf9ee6570eb",
-      "sha256": "f227ce8ef38beec71c31e6f924946267c36fabb58c9683962b70ed16bc4218b0",
+      "filepath": "/full/taimen/20260528/vbmeta.img",
+      "sha1": "0ac158547df45bc169a516643f52e288878709e2",
+      "sha256": "799e5f6297d2899a174ef6837386d354f7aebe76e84475027fbf76ccdde4821a",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260521/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260528/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3347:89429,payload.bin:3347:968994848,payload_properties.txt:968998253:154,apex_info.pb:1700:1191,care_map.pb:2938:362,metadata:69:662,metadata.pb:799:853                       ",
   "type": "nightly",
   "version": "22.2"
 }
