@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-21",
-  "datetime": 1779332255,
+  "date": "2026-05-28",
+  "datetime": 1779958424,
   "files": [
     {
-      "date": "2026-05-21",
-      "datetime": 1779332255,
-      "filename": "lineage-23.2-20260521-nightly-sunfish-signed.zip",
-      "filepath": "/full/sunfish/20260521/lineage-23.2-20260521-nightly-sunfish-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779958424,
+      "filename": "lineage-23.2-20260528-nightly-sunfish-signed.zip",
+      "filepath": "/full/sunfish/20260528/lineage-23.2-20260528-nightly-sunfish-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "d7185f3fab79a0c95d04ec40812d99961ea6822b",
-      "sha256": "ad0eceba089333175fa5331d91a368c3e6aa1b94806b2b6e4ac076d51e1442b3",
-      "size": 1194705760,
+      "ota_property_files": "payload_metadata.bin:4249:122800,payload.bin:4249:1194699183,payload_properties.txt:1194703490:156,apex_info.pb:1952:1420,care_map.pb:3419:783,metadata:69:675,metadata.pb:812:1092                        ",
+      "sha1": "c4dfc35381cc25c9e0f87736b94879521a27d705",
+      "sha256": "87545d80a562aa803db83d411c9f8c9493cf4a13b41df7c57efc7c3ab56ae264",
+      "size": 1194706637,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/lineage-23.2-20260521-nightly-sunfish-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260528/lineage-23.2-20260528-nightly-sunfish-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/sunfish/20260521/boot.img",
-      "sha1": "d9444b93e920ba6b521f9c3eea22faca97697c1f",
-      "sha256": "fe3abbbbb815bfdfb6511d9e227edd7e6a489b799cc526f41cd175e16c495976",
+      "filepath": "/full/sunfish/20260528/boot.img",
+      "sha1": "8c622c0015d2c9acdf654c90074ab506cb3bfc88",
+      "sha256": "32a3918032b5ec2eef11106cee051c36025cd13cbc1b553757e22671d64cf32c",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260528/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/sunfish/20260521/dtbo.img",
-      "sha1": "0d1064ed0768d15885d86a0a13cdd573dc0fc4ca",
-      "sha256": "18a6f630f58d7b352f16002488e97e8c062321817b5a580bb7aa91ebd9ff0bc4",
+      "filepath": "/full/sunfish/20260528/dtbo.img",
+      "sha1": "cf52e5638770b6630448d372554625f676dccc67",
+      "sha256": "1c379226704cd2d4098a46e71045820f3281074e8ade9a6301247ac0088f9757",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260528/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/sunfish/20260521/super_empty.img",
+      "filepath": "/full/sunfish/20260528/super_empty.img",
       "sha1": "89fa029b4b985982dbc834f09845025422714c97",
       "sha256": "3cd413454b2259ac22de1539dd568f1fcc4dbebbd611e457322863ea82170e2a",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260528/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/sunfish/20260521/vbmeta.img",
-      "sha1": "1aeaa09dc92ccaf083c3978db2c88c808533a8a8",
-      "sha256": "067cbe2f0dc714060d3db3b8d6511976585c7fbab760687d433bd949d596d4e5",
+      "filepath": "/full/sunfish/20260528/vbmeta.img",
+      "sha1": "6e33cf1afae6e1349a305201a00d4907f5004e0a",
+      "sha256": "a07ac0a1c826584de815cdf57236edf1c26ed0046a42904d857a97b73cfa8ba3",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260521/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20260528/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4249:122800,payload.bin:4249:1194699183,payload_properties.txt:1194703490:156,apex_info.pb:1952:1420,care_map.pb:3419:783,metadata:69:675,metadata.pb:812:1092                        ",
   "type": "nightly",
   "version": "23.2"
 }
