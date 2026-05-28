@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-21",
-  "datetime": 1779363386,
+  "date": "2026-05-28",
+  "datetime": 1779967027,
   "files": [
     {
-      "date": "2026-05-21",
-      "datetime": 1779363386,
-      "filename": "lineage-23.2-20260521-nightly-waffle-signed.zip",
-      "filepath": "/full/waffle/20260521/lineage-23.2-20260521-nightly-waffle-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779967027,
+      "filename": "lineage-23.2-20260528-nightly-waffle-signed.zip",
+      "filepath": "/full/waffle/20260528/lineage-23.2-20260528-nightly-waffle-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "bdcc469e5c322fff8d41c10317a6c56a9f6bc8c1",
-      "sha256": "41dc97668863ef5f1ca2d69fde661fc6b0d753263e1b71441a9865a3ad6cb481",
-      "size": 2734580582,
+      "ota_property_files": "payload_metadata.bin:5199:210660,payload.bin:5199:2735441465,payload_properties.txt:2735446722:156,apex_info.pb:2411:1370,care_map.pb:3828:1324,metadata:69:709,metadata.pb:846:1517                        ",
+      "sha1": "f37da7943732d1c9aa74df84fc4c9f19e458aa3c",
+      "sha256": "c5ac4d307b8326ed7e0f203f05224fdf3f120051e6cef528cf3a87942621b4d6",
+      "size": 2735449869,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/lineage-23.2-20260521-nightly-waffle-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/lineage-23.2-20260528-nightly-waffle-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/waffle/20260521/boot.img",
-      "sha1": "7d253688f69844492b70506be2fa2284ad09af4a",
-      "sha256": "c71d9c6fcb4c2085a3b96c32feefbe25d06f03bb321329e39110ba9c607e2fa3",
+      "filepath": "/full/waffle/20260528/boot.img",
+      "sha1": "a50626eb97c8071bb44f8cc007906284829d1a2f",
+      "sha256": "a0dd78174eef070165acf9573857aa1b3e6ef242fa5fd25cc04ef8f9f75bc6a7",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/waffle/20260521/dtbo.img",
-      "sha1": "339f4e63ffe5938e952d7a50434f5c8a9e0692d3",
-      "sha256": "a6c6d5ec498c0acf7f22176e672002635f45a58abdbe776bb90d29ec67cd25e4",
+      "filepath": "/full/waffle/20260528/dtbo.img",
+      "sha1": "7d237483af2543047cec9e627b309ec8a5ded7b8",
+      "sha256": "ba44ba6227b47669492b73762b1171b55ab86691c6dcb93328b3bb8163471866",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/waffle/20260521/init_boot.img",
-      "sha1": "12c0d9a532ec0fd33b6739136fc3cac2cb5358bc",
-      "sha256": "b92083e21d54696873412223d3500c6e44e65a2bf196c0c41dfb761bf5ab9a12",
+      "filepath": "/full/waffle/20260528/init_boot.img",
+      "sha1": "d43b4bb7b866e7acb266ed85e32ceaef0f76d438",
+      "sha256": "78f7125b4df9c9c5779827817f6e833b0176f45f3d29e6acbc5e1bea993d12b1",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/waffle/20260521/recovery.img",
-      "sha1": "8b53b70452261bc38612a055537606826d1fbdaa",
-      "sha256": "33ed236e1020b49052b0f711c86bf4f82702091f8dbbf6f8f5aaaf5f19894a31",
+      "filepath": "/full/waffle/20260528/recovery.img",
+      "sha1": "5161b179eb90617a283b0c6ceac2b1eb5865c08a",
+      "sha256": "1a69f62c777225f22a95dccded2973af3fb0f268bd2c9fbef9bac097c681707f",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/waffle/20260521/super_empty.img",
+      "filepath": "/full/waffle/20260528/super_empty.img",
       "sha1": "5cb8157f5693477a06516d5c3ce759c2fe0a6dcf",
       "sha256": "8b7edad224569e9cca48df7bf0c491e8e45727671d18e9a71a57d195fd3b0831",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/waffle/20260521/vbmeta.img",
-      "sha1": "e1efd1bcd86f0544833a98ecf14f4c53c2d12fa5",
-      "sha256": "528b4bac24885c5f6434536b302e04c4af6f9b67f5e439f5a82ee0d9580d2819",
+      "filepath": "/full/waffle/20260528/vbmeta.img",
+      "sha1": "b8879c15e16f53b7e64917487f3fbac107f0d655",
+      "sha256": "ea1dcdf70ef29789f5c23c45d0a1ef5f1746f30b953c9b4f35e3f133d9fbfac3",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/waffle/20260521/vendor_boot.img",
-      "sha1": "c9b56ad61946615a56efb87afaf013632b15fded",
-      "sha256": "acabaf6092a44d1d6165b11421238a6023e32f5eb01b8a6177d095077c88ef54",
+      "filepath": "/full/waffle/20260528/vendor_boot.img",
+      "sha1": "10de4b219027aeacdd3e0bef21ca31d510ef7125",
+      "sha256": "31e92aec7a0f98a2ad1a1763c6f62b850bca6681490bb533434594c42776cac6",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260521/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260528/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5199:210660,payload.bin:5199:2735441465,payload_properties.txt:2735446722:156,apex_info.pb:2411:1370,care_map.pb:3828:1324,metadata:69:709,metadata.pb:846:1517                        ",
   "type": "nightly",
   "version": "23.2"
 }
