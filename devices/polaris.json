@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-21",
-  "datetime": 1779349596,
+  "date": "2026-05-28",
+  "datetime": 1779969913,
   "files": [
     {
-      "date": "2026-05-21",
-      "datetime": 1779349596,
-      "filename": "lineage-22.2-20260521-nightly-polaris-signed.zip",
-      "filepath": "/full/polaris/20260521/lineage-22.2-20260521-nightly-polaris-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779969913,
+      "filename": "lineage-22.2-20260528-nightly-polaris-signed.zip",
+      "filepath": "/full/polaris/20260528/lineage-22.2-20260528-nightly-polaris-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "a90c3803f9ddd4660bb3957cce1327bb1b65bc0a",
-      "sha256": "346c25b7a2cc95da2b30257c521a7d37d12e0959f988dde8dd8b2843e79178d6",
-      "size": 1218435113,
+      "ota_property_files": "metadata:69:334,metadata.pb:471:216                 ",
+      "sha1": "def4c0aa458a0d90f66d8ba7be102181db3fe345",
+      "sha256": "ca622e84faff8b2b202a3fd7034dd5a61b0907e70e8052c3f9fbf763be2712cc",
+      "size": 1218548601,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/polaris/20260521/lineage-22.2-20260521-nightly-polaris-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/polaris/20260528/lineage-22.2-20260528-nightly-polaris-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/polaris/20260521/boot.img",
-      "sha1": "19c3aac07aaf9c3246ca0b7a7e865facf74f5f07",
-      "sha256": "8e4e6b9e0a678aa876bc19a0b7bc0575f056d2874f6d7ede096bb33b0cb3eb05",
+      "filepath": "/full/polaris/20260528/boot.img",
+      "sha1": "0812c4283a23035bddd058fc8bda069470ee82f0",
+      "sha256": "90b156f367c7a6eb4394e775a0df4ddf1f1c78fb153d47080fc89bfec59f2d48",
       "size": 67092480,
-      "url": "https://mirrorbits.lineageos.org/full/polaris/20260521/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/polaris/20260528/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/polaris/20260521/recovery.img",
-      "sha1": "d6112de6cd1be61a44b7b63bfc71f5d81ee74d7c",
-      "sha256": "75187a77b877c729d8efcf46bdf56f84b947b0b30f7f02b7012b913d050a7087",
+      "filepath": "/full/polaris/20260528/recovery.img",
+      "sha1": "21f04cbede51e52d2eac0206ee7e23a8da1c9ad1",
+      "sha256": "de3f78f68e204b44b800b06c10f01c68c843308c45c8d32663d1986dd8f00996",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/polaris/20260521/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/polaris/20260528/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/polaris/20260521/super_empty.img",
+      "filepath": "/full/polaris/20260528/super_empty.img",
       "sha1": "2f6004ffda0c8a9c7b1f0623c56c415a5490882c",
       "sha256": "867393735f60491ceec7b607023b4483caea09d74c52e3eb7e52f531397cfa3e",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/polaris/20260521/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/polaris/20260528/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/polaris/20260521/vbmeta.img",
-      "sha1": "29c188d04733846dd535c0bcddd065379e0e1643",
-      "sha256": "91fff066a08dff8b980b65a2d7957553b8bf441e73cc9996f7c05dea40337076",
+      "filepath": "/full/polaris/20260528/vbmeta.img",
+      "sha1": "f9d836dc89b3ea32fb8f9d30075301e5537c83dc",
+      "sha256": "5139b04662a10b2f266dac43c71c80928e8773f70efa11a97d05bb58ee019c8a",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/polaris/20260521/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/polaris/20260528/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:334,metadata.pb:471:216                 ",
   "type": "nightly",
   "version": "22.2"
 }
