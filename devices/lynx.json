@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779439159,
+  "date": "2026-05-29",
+  "datetime": 1780023634,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779439159,
-      "filename": "lineage-23.2-20260522-nightly-lynx-signed.zip",
-      "filepath": "/full/lynx/20260522/lineage-23.2-20260522-nightly-lynx-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780023634,
+      "filename": "lineage-23.2-20260529-nightly-lynx-signed.zip",
+      "filepath": "/full/lynx/20260529/lineage-23.2-20260529-nightly-lynx-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "0e5b774d6c1a4112cccfd0f849b5beea59fc59b4",
-      "sha256": "f0a245826f88d5fe91e96afa2e82247b55e9849cad4bc549a29a192eb7bdbb97",
-      "size": 1431487830,
+      "ota_property_files": "payload_metadata.bin:4698:142506,payload.bin:4698:1431475588,payload_properties.txt:1431480344:156,apex_info.pb:1976:1602,care_map.pb:3625:1026,metadata:69:665,metadata.pb:802:1126                        ",
+      "sha1": "8a07f21a39184281d98da645f03cb8eb66492bf3",
+      "sha256": "d7dea805efffffa92ecf8bba3f2a67d7c917ca6bc3564042af45507d37b52d2d",
+      "size": 1431483491,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/lineage-23.2-20260522-nightly-lynx-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/lineage-23.2-20260529-nightly-lynx-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lynx/20260522/boot.img",
-      "sha1": "242db97bcde19f422fb37cb98f6271a132529a8e",
-      "sha256": "d76f5cd268cff4607ccc00888cc1798bd00754c7e52bf23029c7edac3962199e",
+      "filepath": "/full/lynx/20260529/boot.img",
+      "sha1": "2543382ec384bb5739b6b89244eee55f8b07577e",
+      "sha256": "426e9fb8951f5eb35ee55516e332598bc338e4540a34c70f5bd5569b1f867cb5",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lynx/20260522/dtbo.img",
-      "sha1": "d96af315665fb3be7db2a81a534671f8123e21dc",
-      "sha256": "116aa1218edcc96e7bb24ba0c109b1520aec3283b0fdd1add50f3fe36a67032c",
+      "filepath": "/full/lynx/20260529/dtbo.img",
+      "sha1": "b793a99667b96fbe0ce9b693ca393b555c0d359a",
+      "sha256": "11a9764450b09632643eb31ba0da99e84cf4bd36d44c91e8d0872b057011db0a",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/lynx/20260522/init_boot.img",
-      "sha1": "5c3bac06e8d7114ac098e10b82edd00515b2f295",
-      "sha256": "9b972ec223f3a83e2f505c71b3156a2a4fd6e93991d49a5a59a9ed83f247b033",
+      "filepath": "/full/lynx/20260529/init_boot.img",
+      "sha1": "ccfddc784b30d44035182934bbfc2865a23dc82b",
+      "sha256": "616daeec10f8c386aab3e928bc994687c1d235c3bedb0b49fe26cfc74fabf33a",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lynx/20260522/super_empty.img",
+      "filepath": "/full/lynx/20260529/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lynx/20260522/vbmeta.img",
-      "sha1": "3ee611c34c518176877151a033f3f3e81a550fb1",
-      "sha256": "0889f86b8e97667c4a227cffbfc168e6f09654db6a21f322c4ab83a54fda69b9",
+      "filepath": "/full/lynx/20260529/vbmeta.img",
+      "sha1": "4d81abfbaad33f0f47ee2bfeb7c04c444808c0cc",
+      "sha256": "075536ba9ffc684381095b74cc43077831407ccf8f32aafaf89377a02f63b87b",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lynx/20260522/vendor_boot.img",
-      "sha1": "e998b2cf7d42d57f7d118bf370282fea347268ee",
-      "sha256": "ca34aac7686ddd81a8b7341230e9c89a57763c54aee0fdf29e610d9587f37178",
+      "filepath": "/full/lynx/20260529/vendor_boot.img",
+      "sha1": "e76391b9540e033a54c3e980582c302fe97a5ce4",
+      "sha256": "fb7168a5688a1e15e8ecf499c43a872b88faccb270841ed1868a3ad7be9e0060",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/lynx/20260522/vendor_kernel_boot.img",
-      "sha1": "44791da3c78179ee4b73f689f876af43b040ea40",
-      "sha256": "bbd7832cb2d5ee51e2583efe3c4ac1d51638a8e8bcf52c581d200da1d7e02da1",
+      "filepath": "/full/lynx/20260529/vendor_kernel_boot.img",
+      "sha1": "279dcb94c914b1733b1522871fe8618086c122e5",
+      "sha256": "7b3d029e74bc4076ed50482603638a857a28a004fd804bc2c22ade1a19f6f0fd",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260522/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260529/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4698:142506,payload.bin:4698:1431475588,payload_properties.txt:1431480344:156,apex_info.pb:1976:1602,care_map.pb:3625:1026,metadata:69:665,metadata.pb:802:1126                        ",
   "type": "nightly",
   "version": "23.2"
 }
