@@ -1,71 +1,73 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779440637,
+  "date": "2026-05-29",
+  "datetime": 1780042853,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779440637,
-      "filename": "lineage-23.2-20260522-nightly-mayfly-signed.zip",
-      "filepath": "/full/mayfly/20260522/lineage-23.2-20260522-nightly-mayfly-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780042853,
+      "filename": "lineage-23.2-20260529-nightly-mayfly-signed.zip",
+      "filepath": "/full/mayfly/20260529/lineage-23.2-20260529-nightly-mayfly-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "36bb8f81ac975389f4c6675c277a55d358e45584",
-      "sha256": "cbcfe4a9f45c2238b8b8277f1e00d502426407dec4ab6d8a4a84997eec0dd236",
-      "size": 1888833346,
+      "ota_property_files": "payload_metadata.bin:4621:184685,payload.bin:4621:1888811294,payload_properties.txt:1888815973:156,apex_info.pb:2192:1279,care_map.pb:3518:1056,metadata:69:680,metadata.pb:817:1327                        ",
+      "sha1": "5c81a5aaee2808233d519e4bbdd8a9d5ecb6a72a",
+      "sha256": "aa016f2a9304fec21c82cfe9ed360cb61f62e56132cfe6e63ddeb5eda9bac901",
+      "size": 1888819120,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/lineage-23.2-20260522-nightly-mayfly-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260529/lineage-23.2-20260529-nightly-mayfly-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/mayfly/20260522/boot.img",
-      "sha1": "916c774caa6592503db87cc725dd382741afa00a",
-      "sha256": "2dd56c499048c172d3ae9cb7bb4778d6ffd2657b6708fdaeaf422ce63ebc38fe",
+      "filepath": "/full/mayfly/20260529/boot.img",
+      "sha1": "57530d7424e343ea2dc764881b6574a8bb854009",
+      "sha256": "54117eb4c07f9bc83b8bfd2a3cb0e223553a389231b08fa960aab9d46c03fa52",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/mayfly/20260522/dtbo.img",
-      "sha1": "9fb3b225bd5e4ee377b3287fb6e9c4f51bfa070a",
-      "sha256": "542a49b2b1d1b65cf27648f1c66cc1947311a0eb925523278c113970e2c4c76d",
+      "filepath": "/full/mayfly/20260529/dtbo.img",
+      "sha1": "1523cc265c13143650c601609bfda5a8f42775c9",
+      "sha256": "bc6203364a3000ae51fbe0dbdebb9cb9eb532d47f1e63dc40314ad4d4e6991a5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260529/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/mayfly/20260522/recovery.img",
-      "sha1": "f520f4c00ba49030da2c712b00734cd10ba2aa05",
-      "sha256": "d865bc3c48d7c0b5ce64c4ac1c1d3ab68636be6ca69d7cf8d78dbbd090ae7370",
+      "filepath": "/full/mayfly/20260529/recovery.img",
+      "sha1": "926932132140601dcd600b79156111ff7acf474c",
+      "sha256": "0fd201e3ca2d74fea617d23dd9a3c23065c4f2245ca768622bb1f6dc04d420b4",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260529/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/mayfly/20260522/super_empty.img",
+      "filepath": "/full/mayfly/20260529/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/mayfly/20260522/vbmeta.img",
-      "sha1": "5e8b56358f2f12f87d7193accbb334d69d72c3d1",
-      "sha256": "b19590dc446aab7e2a67f602c40069e6b5f1a78c84110c750ff1f360924996ab",
+      "filepath": "/full/mayfly/20260529/vbmeta.img",
+      "sha1": "6e18088b0067a23df3962020a018cec25873eb7c",
+      "sha256": "ca4d017c984e09afcfb7ab4b6d02b674eb137760eb065e0ea591812c7387f177",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260529/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/mayfly/20260522/vendor_boot.img",
-      "sha1": "fd3194b44c7ca5969341a97668b7749fefc4466d",
-      "sha256": "2cb166404d250a70c284ab555096d4988331198a3c9758f6859e4408aa40db48",
+      "filepath": "/full/mayfly/20260529/vendor_boot.img",
+      "sha1": "3fd48d1ebf42be097f19a92b51374618109a804a",
+      "sha256": "8bd93b3a62243fce4b526397222eb8f46561ee047fceef37d45d267d2c1fa6cb",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260522/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20260529/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4621:184685,payload.bin:4621:1888811294,payload_properties.txt:1888815973:156,apex_info.pb:2192:1279,care_map.pb:3518:1056,metadata:69:680,metadata.pb:817:1327                        ",
   "type": "nightly",
   "version": "23.2"
 }
