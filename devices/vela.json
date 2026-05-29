@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779470830,
+  "date": "2026-05-29",
+  "datetime": 1780075043,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779470830,
-      "filename": "lineage-22.2-20260522-nightly-vela-signed.zip",
-      "filepath": "/full/vela/20260522/lineage-22.2-20260522-nightly-vela-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780075043,
+      "filename": "lineage-22.2-20260529-nightly-vela-signed.zip",
+      "filepath": "/full/vela/20260529/lineage-22.2-20260529-nightly-vela-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "966cfdfe4f7b1193f44e68981b8f3be5f2e6a54e",
-      "sha256": "d4ac5d8028b11bc3c3f2feaa8a7678bc8ffde69ad58d95ff918a52b0a31352d0",
-      "size": 1234814394,
+      "ota_property_files": "metadata:69:321,metadata.pb:458:200                 ",
+      "sha1": "be41a9568d33749d2f062cde54bfaf08ec48bfff",
+      "sha256": "b03957aceadfbf3eb6b4364b8a39759579d59a603883834a385affbbd4dfcf08",
+      "size": 1234847815,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260522/lineage-22.2-20260522-nightly-vela-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260529/lineage-22.2-20260529-nightly-vela-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/vela/20260522/boot.img",
-      "sha1": "edb987c33422950111698693746bbe30a66735dd",
-      "sha256": "509a15057c0bb8bdd5e3378f243e2200bf6df1aa37d868c31edd576d29985124",
+      "filepath": "/full/vela/20260529/boot.img",
+      "sha1": "3d63dd4d27e136e92a50f45b3f18dc4d049d2ef5",
+      "sha256": "e0bd68b064a09294c300c0b93508a8f7c6a564cff09d7a5fd76d97c5b924d850",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/vela/20260522/dtbo.img",
-      "sha1": "0f9341700892722ac4e715e5661ead8bb74f8f8b",
-      "sha256": "9ea06e17c57d9768db1c38f42bdde16e773234b403fb3c4c4f3428bab87a7c40",
+      "filepath": "/full/vela/20260529/dtbo.img",
+      "sha1": "0e5915b3abd8d325c2f90677ed5f901501e6a881",
+      "sha256": "46b1256273c96906d87a19502057a920563e4c6e4b7950fe68b3b574e86d91be",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260529/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/vela/20260522/recovery.img",
-      "sha1": "78fd00e254f39e844f3b3bd8f7b2a912a8f7ce5a",
-      "sha256": "5bb7c047af896b48efd98e5792bfe9e407490a7ea02d5f8ed5e0e04af01aaec8",
+      "filepath": "/full/vela/20260529/recovery.img",
+      "sha1": "b2d3946aac1d240faccd5cab6a60f7ccfd0a79ae",
+      "sha256": "69581f510eb5279d64c87feb93b1f07edb4f76021195f9f27aece7388511258b",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260522/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260529/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/vela/20260522/super_empty.img",
+      "filepath": "/full/vela/20260529/super_empty.img",
       "sha1": "c3fa809c333fb2b9ce98d2ee2e2525490d39e839",
       "sha256": "bacc830739789f2d169a8eda7e67b129cab5d8680c4f47cd43c427a6f0fdc678",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/vela/20260522/vbmeta.img",
-      "sha1": "43b9084a3b796956b41cf4841f5b3123a9ecc988",
-      "sha256": "84a349ab26851d970c631dfb682a3857a195fd5522509954f83233bd72b004cd",
+      "filepath": "/full/vela/20260529/vbmeta.img",
+      "sha1": "58f3d9d8f51cd5a892f823f1a587da3ac934201c",
+      "sha256": "c790beb284580a75f91a436fc91f72acbaeee4c11d8abea0ede8aa9ea25ce7ef",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260529/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:321,metadata.pb:458:200                 ",
   "type": "nightly",
   "version": "22.2"
 }
