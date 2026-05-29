@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779472803,
+  "date": "2026-05-29",
+  "datetime": 1780061940,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779472803,
-      "filename": "lineage-22.2-20260522-nightly-walleye-signed.zip",
-      "filepath": "/full/walleye/20260522/lineage-22.2-20260522-nightly-walleye-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780061940,
+      "filename": "lineage-22.2-20260529-nightly-walleye-signed.zip",
+      "filepath": "/full/walleye/20260529/lineage-22.2-20260529-nightly-walleye-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "708873de09ccbe71054c1d170b0a87170337c601",
-      "sha256": "4aef7af3ecae1e25c9444b7ceba540c7d3621b9f1913eb8121e09fa2f949e8a9",
-      "size": 967549175,
+      "ota_property_files": "payload_metadata.bin:3367:89214,payload.bin:3367:967543447,payload_properties.txt:967546872:154,apex_info.pb:1716:1191,care_map.pb:2954:366,metadata:69:665,metadata.pb:802:866                       ",
+      "sha1": "b22006154a54a6c765d3462059c6e0b27943b0b6",
+      "sha256": "2220df6e02b7ad4e9751cf6f5655505a66dac55ba9ac371f9098e431807185bc",
+      "size": 967550021,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/walleye/20260522/lineage-22.2-20260522-nightly-walleye-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/walleye/20260529/lineage-22.2-20260529-nightly-walleye-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/walleye/20260522/boot.img",
-      "sha1": "9d5e900e39073bf998125af5535fd6e432484cb3",
-      "sha256": "b05026bf241839d7309906aec1b25a570adcc1fc1ef2f3d72da6696f143d4dc7",
+      "filepath": "/full/walleye/20260529/boot.img",
+      "sha1": "aeab2b59a9388d397af176b48ff73078731309bb",
+      "sha256": "d4230755ff13e2c39e62a249bf206d12cd99de5493480ce59e444031e76ee634",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/walleye/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/walleye/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/walleye/20260522/dtbo.img",
-      "sha1": "0c498df9f4192672f872bd53566c37f73c3a223a",
-      "sha256": "71519a4c2513783ff422c24a976c6cbf37379e8e9cb9e79776535aaad0c5b0bc",
+      "filepath": "/full/walleye/20260529/dtbo.img",
+      "sha1": "99f774ea7bc58e5faec3fb4fb254ab8136b50df9",
+      "sha256": "f146434b2375f4e4e640930926b20300df13a03d428f5444a1ca7459e3822e26",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/walleye/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/walleye/20260529/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/walleye/20260522/vbmeta.img",
-      "sha1": "8b0f8c60fd9aeab6cf3339510d48125a1821c0b4",
-      "sha256": "9428998a890d5f37f6fe0a819c6056d8a7f1e7ce0489158d6ce656f7ee71cc8b",
+      "filepath": "/full/walleye/20260529/vbmeta.img",
+      "sha1": "897559105ad91143449f4c74c133498aa017dbd5",
+      "sha256": "4e68eb1cb3c77ec53bed5b89f54d93ada31aea12ee409c661b5d85b4c1694d36",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/walleye/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/walleye/20260529/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3367:89214,payload.bin:3367:967543447,payload_properties.txt:967546872:154,apex_info.pb:1716:1191,care_map.pb:2954:366,metadata:69:665,metadata.pb:802:866                       ",
   "type": "nightly",
   "version": "22.2"
 }
