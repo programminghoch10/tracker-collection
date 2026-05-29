@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779416237,
+  "date": "2026-05-29",
+  "datetime": 1780043296,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779416237,
-      "filename": "lineage-23.2-20260522-nightly-aston-signed.zip",
-      "filepath": "/full/aston/20260522/lineage-23.2-20260522-nightly-aston-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780043296,
+      "filename": "lineage-23.2-20260529-nightly-aston-signed.zip",
+      "filepath": "/full/aston/20260529/lineage-23.2-20260529-nightly-aston-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "e11c3eb35c02520e683af9d854bce8c5752c80b0",
-      "sha256": "2527f08cf353a20e47dc2bed93f8c25673a04ceb270e40af7c81de94e763f726",
-      "size": 2322875252,
+      "ota_property_files": "payload_metadata.bin:5080:192728,payload.bin:5080:2322843651,payload_properties.txt:2322848789:156,apex_info.pb:2393:1279,care_map.pb:3719:1314,metadata:69:701,metadata.pb:838:1507                        ",
+      "sha1": "4f78e0ba3eb135704afd108363409e6c01024c9d",
+      "sha256": "5e20e676b58f8f22e62f5a14606d01a34a6ebecdd40c6074f2fddc1de16713da",
+      "size": 2322851936,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/lineage-23.2-20260522-nightly-aston-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/lineage-23.2-20260529-nightly-aston-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/aston/20260522/boot.img",
-      "sha1": "276500767c46612785d338abfec6f4f2f72dacc5",
-      "sha256": "1d49727fb14984487cb2804f390572a5b50d63504a5b84c463d1c0cb40f30952",
+      "filepath": "/full/aston/20260529/boot.img",
+      "sha1": "f99a66ab537241e33f7635ba66739cac7c2cc256",
+      "sha256": "375d5ab157dfa1c9f26e5dbc07295d1d9b07a58f9af65468dd130795542a23d5",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/aston/20260522/dtbo.img",
-      "sha1": "5578e4da24026792fd84bb7178b650a96983d1f1",
-      "sha256": "25117cdefcab83eeabe5cee5d9951307b4ddd6ac40cbbc144594791c982922c7",
+      "filepath": "/full/aston/20260529/dtbo.img",
+      "sha1": "437c1d756d128b3828b5edbbcdb03113d3993515",
+      "sha256": "8590631e73e4222459d56b5e9813905bf75591a416cfa7d5d1fa6543b70f2bca",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/aston/20260522/init_boot.img",
-      "sha1": "6f201311428e566f722e164946d0ad1332515d86",
-      "sha256": "7341ff9f57477ccaec49b94252c51f7debb7b94b1770cf64bed072976dd182e8",
+      "filepath": "/full/aston/20260529/init_boot.img",
+      "sha1": "d3b8354c165e84b4674ee2edb658a475142e06a4",
+      "sha256": "cc6e622945f81739bf6d27cc6a5c1e730a4dab74e167b2cd52d196e29ce2962c",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/aston/20260522/recovery.img",
-      "sha1": "1ce010e7b0fd8a848e13cacc5f725c0f1a8147a5",
-      "sha256": "ea9d4a90a9dd47a504ea96061a94f4b91eba49d4fcc813937afc68f95c0d8ac0",
+      "filepath": "/full/aston/20260529/recovery.img",
+      "sha1": "c641f920fef5254ccc0717d09b89ae3652ce7939",
+      "sha256": "5ee04f685fc7c6dea984d4b602a030ec3924ec8e24c05d2324ba4e255cc1e1cf",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/aston/20260522/super_empty.img",
+      "filepath": "/full/aston/20260529/super_empty.img",
       "sha1": "1d5eb286193eb76130ea7da5eaa30999bfa42172",
       "sha256": "361b47e830a7426fe189df4d4b466035b8ed6745269314b3abfb21cce727b33e",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/aston/20260522/vbmeta.img",
-      "sha1": "c803708c9be7fd2026e3adb30246ff1a789f1f56",
-      "sha256": "d879e06ccca87ea0bc5adb8fea3de7c1615de9e28b458eb0ca2312031773044f",
+      "filepath": "/full/aston/20260529/vbmeta.img",
+      "sha1": "4fd647f86dcb6a09a0414c2eec3894a1370eccd2",
+      "sha256": "fcf64e14a712d25fbcaaa8add9211cce54e981873d1f166dad38deab31421e52",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/aston/20260522/vendor_boot.img",
-      "sha1": "15c72bf6d1f2e6482fb993248d18045888f53203",
-      "sha256": "3cb9ea917e4227f69a9bd762fb4877a199a002d39c814c1312a9c6e63d6577be",
+      "filepath": "/full/aston/20260529/vendor_boot.img",
+      "sha1": "34db01a445e7235c7d877b38e7fc9eba3cc988d3",
+      "sha256": "5af19fd033ab153dd3abfaa86c3273e662f68b16b3e0611d857e2d580e69e211",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/aston/20260522/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/aston/20260529/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5080:192728,payload.bin:5080:2322843651,payload_properties.txt:2322848789:156,apex_info.pb:2393:1279,care_map.pb:3719:1314,metadata:69:701,metadata.pb:838:1507                        ",
   "type": "nightly",
   "version": "23.2"
 }
