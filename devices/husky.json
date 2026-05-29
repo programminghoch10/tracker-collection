@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779428860,
+  "date": "2026-05-29",
+  "datetime": 1780069862,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779428860,
-      "filename": "lineage-23.2-20260522-nightly-husky-signed.zip",
-      "filepath": "/full/husky/20260522/lineage-23.2-20260522-nightly-husky-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780069862,
+      "filename": "lineage-23.2-20260529-nightly-husky-signed.zip",
+      "filepath": "/full/husky/20260529/lineage-23.2-20260529-nightly-husky-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "7d6a1a2eed86ae7f0f1660159512f14be24e19e4",
-      "sha256": "aef35d2aa2cb9bb0123bdd09e042334c38fd9e881a58b20e26f0478df2c15c04",
-      "size": 1384377411,
+      "ota_property_files": "payload_metadata.bin:4804:138741,payload.bin:4804:1384370190,payload_properties.txt:1384375052:156,apex_info.pb:2000:1688,care_map.pb:3735:1022,metadata:69:668,metadata.pb:805:1147                        ",
+      "sha1": "e717757e7a16e9149754b1b0808bc974d5faff00",
+      "sha256": "47eee2d24138c538ff2e88b71dae99bfb23e2addc4c4e0d9d93531c78c2fd5bc",
+      "size": 1384378199,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/lineage-23.2-20260522-nightly-husky-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/lineage-23.2-20260529-nightly-husky-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/husky/20260522/boot.img",
-      "sha1": "fa031a682c8368dcb79f763f268f545e266f206f",
-      "sha256": "9a2f29dac947a0c93d32284108e05356f036f273063aba6f7ef6f8a4fb9e8e72",
+      "filepath": "/full/husky/20260529/boot.img",
+      "sha1": "53f4019a7d4e01f6af38b69e261af3a1981641a8",
+      "sha256": "0af44afccb6caa277140e91200150ff54b65e7e4f3b0bf4b10b72eb461ef86f5",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/husky/20260522/dtbo.img",
-      "sha1": "e701cb7bcc295a48f645c8114ee45f2cf4fd061a",
-      "sha256": "46f5e759600d0f90e4d3beb01285685017f82864079fc82855a8e3711ca53bbd",
+      "filepath": "/full/husky/20260529/dtbo.img",
+      "sha1": "586acb665a7bb45390d829bd4d49df2cd70374d8",
+      "sha256": "e427d6d22e907df1fa934ef81ed06cc0a54c7aff8aa29f47ba91b5a1b3437c06",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/husky/20260522/init_boot.img",
-      "sha1": "872df98f7ded4f3f22eb64bc40f53c2412614afe",
-      "sha256": "3e5e1ce4c7817965cfefa51b55419d60bff961a7e4a91724be1bd8cfe89fc526",
+      "filepath": "/full/husky/20260529/init_boot.img",
+      "sha1": "32c5307b3055f7f62240bc6fe41351e8d464dea3",
+      "sha256": "58ab0b9f990cd014637422bc3337c1bbaec7cc676eeadfea58e5133d2ed00b09",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/husky/20260522/super_empty.img",
+      "filepath": "/full/husky/20260529/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/husky/20260522/vbmeta.img",
-      "sha1": "767e6d76cacdc848e0cc5996e359ce67cf597b66",
-      "sha256": "aa04c26dd7f3d3b2e98692413ab8f207dab8b3e044e6d0c09a504a97fcbd0997",
+      "filepath": "/full/husky/20260529/vbmeta.img",
+      "sha1": "5efbc14916d0bf3e0ef1c359ac28dbe52e49414b",
+      "sha256": "00c2a2de465ff8f9c344a90a42b8b32ff982ac40193e527ed54d5071575601a6",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/husky/20260522/vendor_boot.img",
-      "sha1": "5c17014d6cbd964fa0bd288638f4f24f9f6105f2",
-      "sha256": "7019c2f44784b9228d6c0388a7670ef944afc74932daafb602598275bf2a0101",
+      "filepath": "/full/husky/20260529/vendor_boot.img",
+      "sha1": "c098c30e4e2abbdff769ce3b9b4e202a64f51f95",
+      "sha256": "9db3f7fb0c77dff6e5175900c693cdde7600fa2b00c31bc5d07a14014ecde395",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/husky/20260522/vendor_kernel_boot.img",
-      "sha1": "f1c4edbb93e708a0eb76d9d306d744c2e492f095",
-      "sha256": "cc1d23facda7dc0244e92bdf53cfe4584c3c749c4b379ce1faa595b4c32b69ca",
+      "filepath": "/full/husky/20260529/vendor_kernel_boot.img",
+      "sha1": "30ceb3e7287e87c49fb6fe502ebabe7c7e63f6a3",
+      "sha256": "c1965369e44dbdec94b4badea1d5335ff8a8ec6b3e14ef1273d40bd0b61c78fd",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20260522/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20260529/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4804:138741,payload.bin:4804:1384370190,payload_properties.txt:1384375052:156,apex_info.pb:2000:1688,care_map.pb:3735:1022,metadata:69:668,metadata.pb:805:1147                        ",
   "type": "nightly",
   "version": "23.2"
 }
