@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779475496,
+  "date": "2026-05-29",
+  "datetime": 1780050495,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779475496,
-      "filename": "lineage-22.2-20260522-nightly-xz2c-signed.zip",
-      "filepath": "/full/xz2c/20260522/lineage-22.2-20260522-nightly-xz2c-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780050495,
+      "filename": "lineage-22.2-20260529-nightly-xz2c-signed.zip",
+      "filepath": "/full/xz2c/20260529/lineage-22.2-20260529-nightly-xz2c-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "2009aa2d80ba24bab65eca691e0dfc466d1cb07c",
-      "sha256": "10aa9910b3b3804383259f922ba70032cd64fa5600fb2a2c693fa5b133b505c3",
-      "size": 1006907449,
+      "ota_property_files": "payload_metadata.bin:3534:144738,payload.bin:3534:1006917560,payload_properties.txt:1006921152:156,apex_info.pb:1741:1157,care_map.pb:2945:542,metadata:69:676,metadata.pb:813:880                         ",
+      "sha1": "fb023a131b7de5664d0196c1946fca9fe73f7772",
+      "sha256": "122524424e94b532ee0502994cdd451720a475d4edd264a0d2c7d0c6536e29cf",
+      "size": 1006924303,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260522/lineage-22.2-20260522-nightly-xz2c-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260529/lineage-22.2-20260529-nightly-xz2c-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/xz2c/20260522/boot.img",
-      "sha1": "c8da6f941b1c61ca8e4e9919efff6351d745712e",
-      "sha256": "50ebb8a3857765cff55fec09d285dfad535630a6a0bfb3636d91b6731d69b85d",
+      "filepath": "/full/xz2c/20260529/boot.img",
+      "sha1": "8d3c28e3a82225c3ff4cd8157e7ce46f0265a571",
+      "sha256": "80dab7c63b40ca44846db46d0dd9b28f9cefa6c760ee26c12894d04cd65e483f",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/xz2c/20260522/dtbo.img",
-      "sha1": "1bef6218db0724b90f978520684b6b105844f885",
-      "sha256": "2262260f4a1322165f1f8a14e183202ad5b5b4cc1be87882427638e2529662c2",
+      "filepath": "/full/xz2c/20260529/dtbo.img",
+      "sha1": "29a3c7bdd5f850f36f5796e9fc4cc5cf8a11d983",
+      "sha256": "7d60a86c9a892d1f7a8f65f89468a3c36b256cded5f6d4a131a6478af08df47b",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260529/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/xz2c/20260522/vbmeta.img",
-      "sha1": "2ca74e3bb597626ae43fcae814bf0ebae4a0aca0",
-      "sha256": "4fb2b9645ab5ac1ace36163cdb47b9b78527d56ab0f71099c11751925157eaa8",
+      "filepath": "/full/xz2c/20260529/vbmeta.img",
+      "sha1": "c855751539d5acb1a263cd82c3cefbaf70c51667",
+      "sha256": "84852c3458a6f571ae2123396a66d76d9f865a7d2ba08317d091cbb7edb811de",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/xz2c/20260529/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3534:144738,payload.bin:3534:1006917560,payload_properties.txt:1006921152:156,apex_info.pb:1741:1157,care_map.pb:2945:542,metadata:69:676,metadata.pb:813:880                         ",
   "type": "nightly",
   "version": "22.2"
 }
