@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779423547,
+  "date": "2026-05-29",
+  "datetime": 1780013053,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779423547,
-      "filename": "lineage-23.2-20260522-nightly-hotdogb-signed.zip",
-      "filepath": "/full/hotdogb/20260522/lineage-23.2-20260522-nightly-hotdogb-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780013053,
+      "filename": "lineage-23.2-20260529-nightly-hotdogb-signed.zip",
+      "filepath": "/full/hotdogb/20260529/lineage-23.2-20260529-nightly-hotdogb-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "955f7eb9c1053711dc7cf2a4d0b905f63c33983c",
-      "sha256": "04c68cfc9dc2f895637e364e7b8e1c71cfe47fbf9d2aa8957053bbc1f636edea",
-      "size": 1155767279,
+      "ota_property_files": "payload_metadata.bin:4601:152051,payload.bin:4601:1155757768,payload_properties.txt:1155762427:156,apex_info.pb:2146:1279,care_map.pb:3472:1082,metadata:69:687,metadata.pb:824:1274                        ",
+      "sha1": "c6e3e4ba55f9f9eecdd0dd6aed5db82e3646630e",
+      "sha256": "6a031fcd8c9b4b18f0fcf1d56141588b21e2a9f526b6855d2268b131b46c0010",
+      "size": 1155765574,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260522/lineage-23.2-20260522-nightly-hotdogb-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260529/lineage-23.2-20260529-nightly-hotdogb-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/hotdogb/20260522/boot.img",
-      "sha1": "426ac0ed9e6a128e11c922e30ab5a4ad471e6e11",
-      "sha256": "e8aa4a4e816fb0c2baaef929ea3936b033e12943e4175e672c975db9f9979889",
+      "filepath": "/full/hotdogb/20260529/boot.img",
+      "sha1": "cfb3cede6ac824cb7f5c88ee39d6d1441f4f674f",
+      "sha256": "3ffd9e0b4caaf9486992aa4d6ec75ce0f9c63055dd8187f9d25ca50480a1cc22",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/hotdogb/20260522/dtbo.img",
-      "sha1": "c46d7575ba375d70a58e2b786c6614a0fd5796a6",
-      "sha256": "ba49836708bb0d5ec6332d1024507efaa12aa0f013fb41da6f28fe1285c88101",
+      "filepath": "/full/hotdogb/20260529/dtbo.img",
+      "sha1": "95833e6ed2d9fe9550bf92f2bfc22f194d137ada",
+      "sha256": "44cdea5876f2adfadc1db907c1e745cdec4c8b541f58de0665088cc2c8ab112a",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260529/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/hotdogb/20260522/recovery.img",
-      "sha1": "3c4385bd9f1add9783313f8d792af44e3f156ea4",
-      "sha256": "137b036619667bdb8c4b7ebdbf1e71a3321fa80907ae8be0a462808717655a16",
+      "filepath": "/full/hotdogb/20260529/recovery.img",
+      "sha1": "b874f65c07088edc70634a68681b319eda742781",
+      "sha256": "13b48dcf1912b668c865b3c636809bee2d728d758c7449ff01b80aee7c6ceb59",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260522/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260529/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/hotdogb/20260522/vbmeta.img",
-      "sha1": "345f2ea7f557f79b1653cdb2ed34a1ad1534ddf3",
-      "sha256": "496cec750a04e8746bfd7a992706d6a1ed7960f301809ffa9e06228587eb4f1c",
+      "filepath": "/full/hotdogb/20260529/vbmeta.img",
+      "sha1": "5d95cbe6ad61549a1a0b1d106c969ca9312fe12b",
+      "sha256": "a0f2f8b2b0125a628bf1ff4e225b5b5d354c32da3e040ff354fcef01668f37d5",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20260529/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4601:152051,payload.bin:4601:1155757768,payload_properties.txt:1155762427:156,apex_info.pb:2146:1279,care_map.pb:3472:1082,metadata:69:687,metadata.pb:824:1274                        ",
   "type": "nightly",
   "version": "23.2"
 }
