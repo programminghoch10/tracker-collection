@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779597215,
+  "date": "2026-05-28",
+  "datetime": 1779991478,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779597215,
-      "filename": "lineage-22.2-20260524-nightly-kiev-signed.zip",
-      "filepath": "/full/kiev/20260524/lineage-22.2-20260524-nightly-kiev-signed.zip",
+      "date": "2026-05-28",
+      "datetime": 1779991478,
+      "filename": "lineage-23.2-20260528-nightly-kiev-signed.zip",
+      "filepath": "/full/kiev/20260528/lineage-23.2-20260528-nightly-kiev-signed.zip",
       "os_patch_level": "2026-05-01",
-      "os_sdk_level": 35,
-      "sha1": "64312b32254421866080bd2cf3a92bca2efe9c74",
-      "sha256": "8da45df49da9db89cdf125f8ff18d182c27459030c5f78e6b514094e9e193487",
-      "size": 1106021726,
+      "os_sdk_level": 36,
+      "ota_property_files": "payload_metadata.bin:4497:131212,payload.bin:4497:1169871299,payload_properties.txt:1169875854:156,apex_info.pb:2061:1279,care_map.pb:3387:1063,metadata:69:677,metadata.pb:814:1199                        ",
+      "sha1": "9e8cc125de5760b494ee15fe2d34e933bf81aded",
+      "sha256": "637e71473dbeeae7c72ec4831eef6be53ee3ed7c65d4dac4585dded4ac7f7b02",
+      "size": 1169879001,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/kiev/20260524/lineage-22.2-20260524-nightly-kiev-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20260528/lineage-23.2-20260528-nightly-kiev-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/kiev/20260524/boot.img",
-      "sha1": "20629bcd0d10d17451c00b53b131a80af317596b",
-      "sha256": "26824423d29e4ae59a142a0b53970a7c1da5b46b9f0109f3bccc8a881b313d6b",
+      "filepath": "/full/kiev/20260528/boot.img",
+      "sha1": "19aa531aa8d2a1e88842cb133e66b4b2911beadb",
+      "sha256": "5a287898383c954f5177be603abd9df15f0fbbb84475d0eacb762d9006d0b1a8",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/kiev/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20260528/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/kiev/20260524/dtbo.img",
-      "sha1": "145fd53bffe476a7b83f328892f2223b813fd91b",
-      "sha256": "af0e9328a90b3ea74e8d4e1cb5e4a9062b4c5627053935644bc24956eb391f5c",
+      "filepath": "/full/kiev/20260528/dtbo.img",
+      "sha1": "fcafea91cdd1f49785476c50cd2cb0609f60055d",
+      "sha256": "87e5c773030f12a984a6f0f09dc60bafde807d615a8a431dad71ec345adfaa1a",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/kiev/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20260528/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/kiev/20260524/recovery.img",
-      "sha1": "752a59cdff40213c33d47279622eeb554b60e36b",
-      "sha256": "56391a032fd11dd477f0cd042f63c932ac5b899571d746d2c7eccc1f0eeef442",
+      "filepath": "/full/kiev/20260528/recovery.img",
+      "sha1": "a0173a400597b4e7b867e30ce7783a8ebc45c1a1",
+      "sha256": "1baaeba7ca479be5632a41db4bae19e90537b26184321d19672099e054bfa18e",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/kiev/20260524/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20260528/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/kiev/20260524/super_empty.img",
-      "sha1": "459785e3c347dd4629a06f5091c41e5c453d8ab4",
-      "sha256": "1583e03bb175057db52ecd213fae4745478b2d11e626bdea603fe215bc9c768a",
-      "size": 4744,
-      "url": "https://mirrorbits.lineageos.org/full/kiev/20260524/super_empty.img"
+      "filepath": "/full/kiev/20260528/super_empty.img",
+      "sha1": "45ebe8cf6adc4ea57763edfdbcea83f8b9889453",
+      "sha256": "fb29538b4370a5a9ee125e35ee36b83a864812f3ed4bacf4986d57fe8354b096",
+      "size": 5056,
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20260528/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/kiev/20260524/vbmeta.img",
-      "sha1": "c4a48da8369d2b5692d34e5292229a0e96d00459",
-      "sha256": "0513b8dce64c0b0773841094d243ee6c08813010b9d85a19c670e9d1015f999b",
+      "filepath": "/full/kiev/20260528/vbmeta.img",
+      "sha1": "ac6de9ba92098f7ed7d0b3d4e40524d9bfde9015",
+      "sha256": "64dfdbfb8fc60c1f7c420c28c9a0b7b518fa391d4e989934c4033ad9472d60a2",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/kiev/20260524/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/kiev/20260528/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
-  "os_sdk_level": 35,
+  "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4497:131212,payload.bin:4497:1169871299,payload_properties.txt:1169875854:156,apex_info.pb:2061:1279,care_map.pb:3387:1063,metadata:69:677,metadata.pb:814:1199                        ",
   "type": "nightly",
-  "version": "22.2"
+  "version": "23.2"
 }
