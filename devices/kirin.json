@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779429513,
+  "date": "2026-05-29",
+  "datetime": 1780036566,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779429513,
-      "filename": "lineage-23.2-20260522-nightly-kirin-signed.zip",
-      "filepath": "/full/kirin/20260522/lineage-23.2-20260522-nightly-kirin-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780036566,
+      "filename": "lineage-23.2-20260529-nightly-kirin-signed.zip",
+      "filepath": "/full/kirin/20260529/lineage-23.2-20260529-nightly-kirin-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "75b8f4673ec867f27e5d798b5a4e7473e0841fb8",
-      "sha256": "aea0252cef2911f37010c9384d552a13fc313c1ebaeb546c854ff18652fb909b",
-      "size": 913862826,
+      "ota_property_files": "payload_metadata.bin:2898:107856,payload.bin:2898:913854087,payload_properties.txt:913857043:155,apex_info.pb:1572:1279,metadata:69:606,metadata.pb:743:781                  ",
+      "sha1": "1d368f81b0c4a482684b105cbc015f40d6f21804",
+      "sha256": "be4704195435596a1fcf8c45c184284ce2963a191c5744164c2ec2b33a620c8b",
+      "size": 913860126,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/kirin/20260522/lineage-23.2-20260522-nightly-kirin-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/kirin/20260529/lineage-23.2-20260529-nightly-kirin-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/kirin/20260522/boot.img",
-      "sha1": "71a759ad3f9a1769318c95c8bf356a64e54df586",
-      "sha256": "0499a292aa23a01c2247508116ed120ae127888309dafd82f72cca456549dc67",
-      "size": 35946496,
-      "url": "https://mirrorbits.lineageos.org/full/kirin/20260522/boot.img"
+      "filepath": "/full/kirin/20260529/boot.img",
+      "sha1": "d9b8f8ee80e4134e1d64438e49fe497c6b07a919",
+      "sha256": "fbd24df41a4296c589b7b14918868d4fdbc7885a64ab0a1fd48046d1dbfdb8a9",
+      "size": 35938304,
+      "url": "https://mirrorbits.lineageos.org/full/kirin/20260529/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:2898:107856,payload.bin:2898:913854087,payload_properties.txt:913857043:155,apex_info.pb:1572:1279,metadata:69:606,metadata.pb:743:781                  ",
   "type": "nightly",
   "version": "23.2"
 }
