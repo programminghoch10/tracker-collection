@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779408295,
+  "date": "2026-05-29",
+  "datetime": 1780012916,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779408295,
-      "filename": "lineage-23.2-20260522-nightly-bathena-signed.zip",
-      "filepath": "/full/bathena/20260522/lineage-23.2-20260522-nightly-bathena-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780012916,
+      "filename": "lineage-23.2-20260529-nightly-bathena-signed.zip",
+      "filepath": "/full/bathena/20260529/lineage-23.2-20260529-nightly-bathena-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "b471f968b12a46d690fd6267c0623b88ebd7bede",
-      "sha256": "3d9971b78689567359283cb2e1da430d1e12bccbedb63456744854ad4e41e6bc",
-      "size": 1072372243,
+      "ota_property_files": "payload_metadata.bin:3966:141824,payload.bin:3966:1072325922,payload_properties.txt:1072329946:156,apex_info.pb:1826:1279,care_map.pb:3152:767,metadata:69:671,metadata.pb:808:970                         ",
+      "sha1": "7a3ac7956c353b14ea0bb7cccddd07ef654a7092",
+      "sha256": "cf18ddc3045a285ef8f238c6c2ff3c871a3c3a3485a802b49ebd240ca6b710d7",
+      "size": 1072333093,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20260522/lineage-23.2-20260522-nightly-bathena-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20260529/lineage-23.2-20260529-nightly-bathena-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/bathena/20260522/boot.img",
-      "sha1": "aac49a496cff89135cf265a06ece5d56d713a2e2",
-      "sha256": "d4c8200d512ab577f2da440be61d895a9af5026e097eae351a59fe785f955286",
+      "filepath": "/full/bathena/20260529/boot.img",
+      "sha1": "e151af4c5170f205869d0f185022bb5a5c650835",
+      "sha256": "ae0690154f2eba1c050f47ebb7b3d30f7d8430a190751b5da101f45b5ab2f162",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/bathena/20260522/dtbo.img",
-      "sha1": "4d1a25269e964b3a4de36c0f12e241812a3f2efa",
-      "sha256": "cb3b4ef5e220d5ca405a776b1cc2ba23007b16fe99acc466a61844d9df687d34",
+      "filepath": "/full/bathena/20260529/dtbo.img",
+      "sha1": "3f964234def92f51e0a5ca4f7e6059886b127c41",
+      "sha256": "8b55d3385d239ab857c9aa78878e39e8ab17a92f4452e14a3c88685d12412d48",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20260529/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/bathena/20260522/recovery.img",
-      "sha1": "2a9afb552aa7354d169b735761fe0d74f70096ad",
-      "sha256": "cc673c96b29194da0cb5fc8c2b7452d4ed8f281359c41ec774ae523e0ad77777",
+      "filepath": "/full/bathena/20260529/recovery.img",
+      "sha1": "cb7d572bf90679ce4313d0eb7ea23fcb125e76c6",
+      "sha256": "c5ca87af3eadd0aff713c1dd7114d047b102f76bcba783a0043cd45fa17b6f1f",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20260522/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20260529/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/bathena/20260522/super_empty.img",
+      "filepath": "/full/bathena/20260529/super_empty.img",
       "sha1": "8c7110f8488d65471040b82515803761e483038f",
       "sha256": "09101bf5363fc32937c4bf96c91c774f0f9486570595371a36abce920e2ff802",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/bathena/20260522/vbmeta.img",
-      "sha1": "3a40e5275debf55d1c5a355feb555ac82881919d",
-      "sha256": "40bc774fc64ef11664c4c5524b3392700ee0d9f1cb63d4a64f942e3798bcc725",
+      "filepath": "/full/bathena/20260529/vbmeta.img",
+      "sha1": "18e8d77d16cc00a48b00cefbb4354eb3806c1d54",
+      "sha256": "c1700d627a3f4be6d803f91bb6b361d33d5f4a3fb817f42f0d820d14d59d2f29",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/bathena/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20260529/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:3966:141824,payload.bin:3966:1072325922,payload_properties.txt:1072329946:156,apex_info.pb:1826:1279,care_map.pb:3152:767,metadata:69:671,metadata.pb:808:970                         ",
   "type": "nightly",
   "version": "23.2"
 }
