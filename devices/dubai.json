@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779408132,
+  "date": "2026-05-29",
+  "datetime": 1780044327,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779408132,
-      "filename": "lineage-23.2-20260522-nightly-dubai-signed.zip",
-      "filepath": "/full/dubai/20260522/lineage-23.2-20260522-nightly-dubai-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780044327,
+      "filename": "lineage-23.2-20260529-nightly-dubai-signed.zip",
+      "filepath": "/full/dubai/20260529/lineage-23.2-20260529-nightly-dubai-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "4a6db1f897cdd35acf958d9a2483a3e30c660bdb",
-      "sha256": "21ba66e5562e9fd8d647f801a835757304e003c043f128b1161aaac8f8c81f29",
-      "size": 1445163038,
+      "ota_property_files": "payload_metadata.bin:4144:149257,payload.bin:4144:1445144819,payload_properties.txt:1445149021:156,apex_info.pb:1950:1279,care_map.pb:3276:821,metadata:69:675,metadata.pb:812:1090                        ",
+      "sha1": "20e3152d7da63d49dd8d972bdfffc49baa649385",
+      "sha256": "3b84fc13ccd1b70024cacdce9b72c6233c525f35ddb95c194a1827d6e604a4fd",
+      "size": 1445152168,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20260522/lineage-23.2-20260522-nightly-dubai-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20260529/lineage-23.2-20260529-nightly-dubai-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/dubai/20260522/boot.img",
-      "sha1": "2b93b47279bd167c1a003987c808419f523047bc",
-      "sha256": "ecc7ea6c1b6a469c469b0bb7b6124c0997e08ad3333d2cfb2a3667dc14a94383",
+      "filepath": "/full/dubai/20260529/boot.img",
+      "sha1": "231a168a1c4f8ac947397a3a948aa2c01d561dd1",
+      "sha256": "0fdc5e65590a8f29512f7f2f3d91bdbb6cb5e516c08999ec4295adae2f390b73",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/dubai/20260522/dtbo.img",
-      "sha1": "d4ad5e707e30ab0989a10730a300f7a06b04feda",
-      "sha256": "f2f4e91f2795621d9230635857c3c596c8626429ef6383c73efc84e5c03dc7c6",
+      "filepath": "/full/dubai/20260529/dtbo.img",
+      "sha1": "3a92d551d150c3ecfa68dc663b08a37edea5fe28",
+      "sha256": "89a082679fdb9abdca987f8190c0698cee8a2fe91ebbb98143a56bb96a3b165c",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20260529/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/dubai/20260522/super_empty.img",
+      "filepath": "/full/dubai/20260529/super_empty.img",
       "sha1": "394d330480c1e08e5dc79b700d6558a8a65801a6",
       "sha256": "6bafd5e5f19d58642e40be81a07cf0b4105bb30a04f7527d4d5faf8a1b63f7c3",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/dubai/20260522/vbmeta.img",
-      "sha1": "3987027e7cdcfbde3aafc44dcdbc285894924b76",
-      "sha256": "6977566b795e9003e92e32c00a253eadb59ab3e2a5aa6930346095dbd335c350",
+      "filepath": "/full/dubai/20260529/vbmeta.img",
+      "sha1": "06cd649ca35f1140ac8f0ea1926fe738728252b9",
+      "sha256": "d4e1c2402a1c0841aa9d6b65cee1d0503b93f8028603cbfbd129de62649b6993",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20260529/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/dubai/20260522/vendor_boot.img",
-      "sha1": "d713d35371bed7f90da3cb6e53b291ad5eea9fda",
-      "sha256": "03487bcb72f5cd27ad5e754c9b15ce4b63fa5760e5b3d41b7523452baedb50b8",
+      "filepath": "/full/dubai/20260529/vendor_boot.img",
+      "sha1": "a8262a6b355594ae275bfc59514c7f12868a67e4",
+      "sha256": "9bdb12a7832a347ce386f898be35073c7109705ee089e26604ed73ac1bc2f8b3",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dubai/20260522/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20260529/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4144:149257,payload.bin:4144:1445144819,payload_properties.txt:1445149021:156,apex_info.pb:1950:1279,care_map.pb:3276:821,metadata:69:675,metadata.pb:812:1090                        ",
   "type": "nightly",
   "version": "23.2"
 }
