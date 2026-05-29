@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-22",
-  "datetime": 1779408136,
+  "date": "2026-05-29",
+  "datetime": 1780073331,
   "files": [
     {
-      "date": "2026-05-22",
-      "datetime": 1779408136,
-      "filename": "lineage-23.2-20260522-nightly-coral-signed.zip",
-      "filepath": "/full/coral/20260522/lineage-23.2-20260522-nightly-coral-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780073331,
+      "filename": "lineage-23.2-20260529-nightly-coral-signed.zip",
+      "filepath": "/full/coral/20260529/lineage-23.2-20260529-nightly-coral-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "4de5b7f43420f5557dc089ae52b6e09f921e398d",
-      "sha256": "e1e4c78dc2860385c4ff7e2db3c68b498bae1ddbeb7182ebadf8c8ff286bfff2",
-      "size": 1324137175,
+      "ota_property_files": "payload_metadata.bin:4148:130732,payload.bin:4148:1324136453,payload_properties.txt:1324140659:156,apex_info.pb:1903:1386,care_map.pb:3336:765,metadata:69:668,metadata.pb:805:1050                        ",
+      "sha1": "55e00eb2a80874309ec654d5f6a902e6fc7580fd",
+      "sha256": "fbdd978322dabbd6a96bf60e34771d57cef2af80b96079783067027c536ff410",
+      "size": 1324143806,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260522/lineage-23.2-20260522-nightly-coral-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260529/lineage-23.2-20260529-nightly-coral-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/coral/20260522/boot.img",
-      "sha1": "4c793efe03387d3978dfc84d9ad931ba23bdd331",
-      "sha256": "b379666cf0306b094a8384325c31284959598a8cb81ea47b8ab18c6c6fdd9c35",
+      "filepath": "/full/coral/20260529/boot.img",
+      "sha1": "eb6cacf91056104fd514f0317a1158724fbb40d2",
+      "sha256": "60c9ff397171832bd744fc644b61d1066d3a90e458fe9d5cfdd852ba1e71f38f",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260522/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/coral/20260522/dtbo.img",
-      "sha1": "27c7632d9bed620b97909c1916e1b51e6f4e9c38",
-      "sha256": "59e0849b912f1ffd28d17334a658b8ccd7ee1bae7ef80d17309e05bdb6cff936",
+      "filepath": "/full/coral/20260529/dtbo.img",
+      "sha1": "ff9eb596442131e7911dfb8082df7edbcac6b988",
+      "sha256": "bb0157ec31929748671e7854db7d719e921b72e91568a73f72c9cfa817a4f060",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260522/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260529/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/coral/20260522/super_empty.img",
+      "filepath": "/full/coral/20260529/super_empty.img",
       "sha1": "394e4849a848ac2bfe6e60b7c76035019f364bc4",
       "sha256": "12802f79aaeec9cd4a060ad35e394977b90f4dd94208876b16bc6ebf160d6f29",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260522/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260529/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/coral/20260522/vbmeta.img",
-      "sha1": "d5bd78bfc30e89a160592f280d854c67d7d8d423",
-      "sha256": "772fdd8e00ebc8377ecd94a8777da6cf31f681909a636277145d2946cb587990",
+      "filepath": "/full/coral/20260529/vbmeta.img",
+      "sha1": "b1615caafcf4c00c1d88c6449e7e3bad3c135ee0",
+      "sha256": "5ce2b29609d8128bf926e2bb8b1ba14ad8919f4050d33018511a9dd9947e3d21",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260522/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260529/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4148:130732,payload.bin:4148:1324136453,payload_properties.txt:1324140659:156,apex_info.pb:1903:1386,care_map.pb:3336:765,metadata:69:668,metadata.pb:805:1050                        ",
   "type": "nightly",
   "version": "23.2"
 }
