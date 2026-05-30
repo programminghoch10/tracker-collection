@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779534950,
+  "date": "2026-05-30",
+  "datetime": 1780120488,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779534950,
-      "filename": "lineage-23.2-20260523-nightly-xpeng-signed.zip",
-      "filepath": "/full/xpeng/20260523/lineage-23.2-20260523-nightly-xpeng-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780120488,
+      "filename": "lineage-23.2-20260530-nightly-xpeng-signed.zip",
+      "filepath": "/full/xpeng/20260530/lineage-23.2-20260530-nightly-xpeng-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "59f4b2cb8fa8f273b79a8c8f193060b7780baa99",
-      "sha256": "aa9b123a71afc9bc9fe627e5c786c957445ef2969f0a3dc84eb7e7a94ca9a035",
-      "size": 1422816078,
+      "ota_property_files": "payload_metadata.bin:4129:146389,payload.bin:4129:1422813201,payload_properties.txt:1422817388:156,apex_info.pb:1950:1279,care_map.pb:3276:806,metadata:69:675,metadata.pb:812:1090                        ",
+      "sha1": "39c0969915e6dc1eaecead4cb979cd45ab0ed6a2",
+      "sha256": "215deeb314b5a823c2774362df389894449b108a462e10eda19dc5635cf1396b",
+      "size": 1422820535,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260523/lineage-23.2-20260523-nightly-xpeng-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260530/lineage-23.2-20260530-nightly-xpeng-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/xpeng/20260523/boot.img",
-      "sha1": "cd1043f1d490cfd0012df12ad6a63f5d85d8ec2e",
-      "sha256": "582501c369ec5ec4550a85138924fd5f24c2b99acb5df47036449431b28edf19",
+      "filepath": "/full/xpeng/20260530/boot.img",
+      "sha1": "ca34db741fd4bfc8eb3c288a1fb68d9f6bebc5fd",
+      "sha256": "38e0f91dd49205fed187e7998c9d6e8261a268d1a26bf7fb2d9ed010d55bb097",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/xpeng/20260523/dtbo.img",
-      "sha1": "fe51bef8af6bd32823139ba915b0f7a59f824d88",
-      "sha256": "d3f04e8912c9b91438649d267759902704a604b5bfb531713f6a4d81d65154b2",
+      "filepath": "/full/xpeng/20260530/dtbo.img",
+      "sha1": "b7657aad71963c93893c082e54861fd193b124b3",
+      "sha256": "e1ff3064261b436e44ab132cc5b0c40d89ef5ad24b31e9a7863e3690745ea753",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260530/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/xpeng/20260523/super_empty.img",
+      "filepath": "/full/xpeng/20260530/super_empty.img",
       "sha1": "132a517edbf50330de5c7c6ced995a7f0f040c12",
       "sha256": "edad590e7ceb9a0f2a31a6af4c4761c45e84d1fca7889a81f16debff96006bfd",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/xpeng/20260523/vbmeta.img",
-      "sha1": "7e857e481622b6290933f5d4f6d5a4703f891dab",
-      "sha256": "40595c1c6010157ff63306389c7f23aa05bef276714b56242abaa76390101e08",
+      "filepath": "/full/xpeng/20260530/vbmeta.img",
+      "sha1": "75750e21f92dca85cf0d0247b0f5af015792cdfb",
+      "sha256": "2f5d43a1cf27e76da7393f4ed30c5cd236417afd38957abcf501ab0c03f32125",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260530/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/xpeng/20260523/vendor_boot.img",
-      "sha1": "553ebafeaeeb08be91c4d06f1ffffe28b2350b94",
-      "sha256": "ab4c97f264f3ab90225497554d529090db859dcd3a8c9095e4058387fdbe2e6f",
+      "filepath": "/full/xpeng/20260530/vendor_boot.img",
+      "sha1": "becaaaccf290018bc3d338051a2414f4d06c4e2f",
+      "sha256": "4b623d3e6b3faf1b49e86b044b13ae0f0b6f93d29efc7e003fcb1773e9fa3150",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260523/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260530/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4129:146389,payload.bin:4129:1422813201,payload_properties.txt:1422817388:156,apex_info.pb:1950:1279,care_map.pb:3276:806,metadata:69:675,metadata.pb:812:1090                        ",
   "type": "nightly",
   "version": "23.2"
 }
