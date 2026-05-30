@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779503771,
+  "date": "2026-05-30",
+  "datetime": 1780144216,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779503771,
-      "filename": "lineage-23.2-20260523-nightly-cebu-signed.zip",
-      "filepath": "/full/cebu/20260523/lineage-23.2-20260523-nightly-cebu-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780144216,
+      "filename": "lineage-23.2-20260530-nightly-cebu-signed.zip",
+      "filepath": "/full/cebu/20260530/lineage-23.2-20260530-nightly-cebu-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "f2dd6b5f79f6179d157b7ecb3113c27290b12d03",
-      "sha256": "d080fb9eb07442bcffd835f42bca0563da07719002fcee8ec23c01cb087d895a",
-      "size": 1101378959,
+      "ota_property_files": "payload_metadata.bin:3995:142137,payload.bin:3995:1101389509,payload_properties.txt:1101393562:156,apex_info.pb:1835:1279,care_map.pb:3161:787,metadata:69:673,metadata.pb:810:977                         ",
+      "sha1": "34f6721d90b39d3af8ecd7201c59bbe9e546e995",
+      "sha256": "bb6c9501527015a3b0e734036cbec0ffd3ef8efaa53e8a7ccbf05b01697e3956",
+      "size": 1101396709,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cebu/20260523/lineage-23.2-20260523-nightly-cebu-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cebu/20260530/lineage-23.2-20260530-nightly-cebu-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cebu/20260523/boot.img",
-      "sha1": "28a9d73f0f87a93804b0357375b44ecae48c1070",
-      "sha256": "52f5523d797ce26dfa319546aff52d7b05ec07f2cf97d9b55d3e139c5f9c0996",
+      "filepath": "/full/cebu/20260530/boot.img",
+      "sha1": "d89949bc992c5d4af14b3d73f4cab267daac8156",
+      "sha256": "d4e8ab1b2c0befa6057eb4d4ffa35a86e2891bcaaf05ff6f9ece72a3b0aa1613",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/cebu/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cebu/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/cebu/20260523/dtbo.img",
-      "sha1": "6df11a5981086e12c5b0fc69e14ce4ac73925c3f",
-      "sha256": "4f974aaa744cbc3ba0a7d192b5b53e7e411cbc6d216f5f92bb208b5be730bf74",
+      "filepath": "/full/cebu/20260530/dtbo.img",
+      "sha1": "062fcff8fdf5e448854afa8606e065296f1662ee",
+      "sha256": "1f2c9e02dd094ee707f59adbccecdbe4427e0f88d931ab9a87ec48563db1a696",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/cebu/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/cebu/20260530/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/cebu/20260523/recovery.img",
-      "sha1": "0c8cbc24e3ea8b83a68db37b958eacce605ea832",
-      "sha256": "1f5e5416bf6b4b2b262baac8e6fe2bd5ed103f8bf62d6e7f83ae6b1cf3114749",
+      "filepath": "/full/cebu/20260530/recovery.img",
+      "sha1": "0a013e513a9b1d7a63a2f4dfba340bc19a219fe5",
+      "sha256": "1c27f4ab365f8da697c331ef1f89d66d47b9f54c879b139baac96cd3a6051cd1",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/cebu/20260523/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/cebu/20260530/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/cebu/20260523/super_empty.img",
+      "filepath": "/full/cebu/20260530/super_empty.img",
       "sha1": "ef8c432e858b397c9e11a84b9973c3d698af8a21",
       "sha256": "4cca67ce901e9256d62f4aca5efae677833f703080b952e512036d9b0adb3019",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/cebu/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/cebu/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/cebu/20260523/vbmeta.img",
-      "sha1": "916769cd52ad4c998f1297e01c3d27c41069d128",
-      "sha256": "8d77054bd43c65d55a369ed1be904954c14b7f9ca2d78e3bfcaaf0e71b47e53a",
+      "filepath": "/full/cebu/20260530/vbmeta.img",
+      "sha1": "5f1cd80ce237e9106a28cb0f52f537156de8569b",
+      "sha256": "31cd1e7721259b037acefbefd6c48973a9e829d24b572edfffc32bf6335b2060",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/cebu/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/cebu/20260530/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:3995:142137,payload.bin:3995:1101389509,payload_properties.txt:1101393562:156,apex_info.pb:1835:1279,care_map.pb:3161:787,metadata:69:673,metadata.pb:810:977                         ",
   "type": "nightly",
   "version": "23.2"
 }
