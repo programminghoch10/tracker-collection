@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779515726,
+  "date": "2026-05-30",
+  "datetime": 1780146926,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779515726,
-      "filename": "lineage-23.2-20260523-nightly-mermaid-signed.zip",
-      "filepath": "/full/mermaid/20260523/lineage-23.2-20260523-nightly-mermaid-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780146926,
+      "filename": "lineage-23.2-20260530-nightly-mermaid-signed.zip",
+      "filepath": "/full/mermaid/20260530/lineage-23.2-20260530-nightly-mermaid-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "f4457e6744258cd5c1d1bc7774252cece8b091db",
-      "sha256": "155686d52f58fb510c12de6a6c5b61a29a0d99f49a53315844d2c5bf4f0e2749",
-      "size": 913745364,
+      "ota_property_files": "payload_metadata.bin:2910:107857,payload.bin:2910:913766607,payload_properties.txt:913769575:155,apex_info.pb:1584:1279,metadata:69:608,metadata.pb:745:791                  ",
+      "sha1": "bf8ea23cad294e926eb3072171c2923c19e751f0",
+      "sha256": "b8b10d4b55f150c8d26aff43da4faef9feae7f81ecf53a8e206f9249f3029633",
+      "size": 913772658,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260523/lineage-23.2-20260523-nightly-mermaid-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260530/lineage-23.2-20260530-nightly-mermaid-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/mermaid/20260523/boot.img",
-      "sha1": "c8d476f81918e532facb6504a62beeaaa5d7e4db",
-      "sha256": "7dfeaf8f60ba0dd015aea0a88853637db4c145f26f497632a0dede44323603dd",
-      "size": 36278272,
-      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260523/boot.img"
+      "filepath": "/full/mermaid/20260530/boot.img",
+      "sha1": "60b6f5bec36aa97262958922869e51d374e80f06",
+      "sha256": "733bfb31be4b62ae98282763fe21a45dd85ff41e638477b0da67c39de3ed1232",
+      "size": 36282368,
+      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260530/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:2910:107857,payload.bin:2910:913766607,payload_properties.txt:913769575:155,apex_info.pb:1584:1279,metadata:69:608,metadata.pb:745:791                  ",
   "type": "nightly",
   "version": "23.2"
 }
