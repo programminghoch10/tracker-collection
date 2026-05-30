@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779511188,
+  "date": "2026-05-30",
+  "datetime": 1780099422,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779511188,
-      "filename": "lineage-23.2-20260523-nightly-gta4xlwifi-signed.zip",
-      "filepath": "/full/gta4xlwifi/20260523/lineage-23.2-20260523-nightly-gta4xlwifi-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780099422,
+      "filename": "lineage-23.2-20260530-nightly-gta4xlwifi-signed.zip",
+      "filepath": "/full/gta4xlwifi/20260530/lineage-23.2-20260530-nightly-gta4xlwifi-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "ff20cd14a183be2a2c9e5b2355ae9797657e5595",
-      "sha256": "c9bd70c52eb97e4ae89f84deb3cd80e3c1d6d110d37a74d68acfb51f00cec5f7",
-      "size": 1070403807,
+      "ota_property_files": "metadata:69:347,metadata.pb:484:233                 ",
+      "sha1": "eb38d341e083429f556e11cb680cf483674de194",
+      "sha256": "ebdcd6bc0b201a60e168699ac544169c9ee0c785f4d30377cec6fbcd1ca85362",
+      "size": 1070429589,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260523/lineage-23.2-20260523-nightly-gta4xlwifi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260530/lineage-23.2-20260530-nightly-gta4xlwifi-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/gta4xlwifi/20260523/boot.img",
-      "sha1": "ab1c13ba97f14437ac8a58413766bef8a9ef657c",
-      "sha256": "f4b81de2981e4a01914b61d8111ec64c47c430649938ad190c716f30f86ed673",
+      "filepath": "/full/gta4xlwifi/20260530/boot.img",
+      "sha1": "135ca6010b96849dcd58af651dc5c97f5de929d7",
+      "sha256": "6a342e6f2175b441d8f88b74aaaf3c17547269f8f396620e70fdc91be0b845af",
       "size": 61865984,
-      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/gta4xlwifi/20260523/dtbo.img",
-      "sha1": "a4ef9c51d0b5d30aa7b3147f0366556e33bf3d26",
-      "sha256": "ffd1a048b3b2fd4b3e0deb94a56778cebcc0b934e2c63d656945efd1d52466a8",
+      "filepath": "/full/gta4xlwifi/20260530/dtbo.img",
+      "sha1": "e70ed03a267ee24808a0b49202a7384c97312c6c",
+      "sha256": "d67ed179275a132d40090b7621df7f7b783b17a347366e05557db54465bae880",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260530/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/gta4xlwifi/20260523/recovery.img",
-      "sha1": "da4d263d9dd7eaa4f32ed629937f112c40b0e3b8",
-      "sha256": "a526bae6e29e9cd59f5433678b7a73d22c8333229894ecf629588b22fae9b9c0",
+      "filepath": "/full/gta4xlwifi/20260530/recovery.img",
+      "sha1": "94a41c4231ac4a4f328e706544e3f3a9c012e6a7",
+      "sha256": "8b981658213ec6f9451deed39a70c270283b08939343b42c6cdc4fbc06988a09",
       "size": 71106560,
-      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260523/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260530/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/gta4xlwifi/20260523/super_empty.img",
+      "filepath": "/full/gta4xlwifi/20260530/super_empty.img",
       "sha1": "69bb4d800974a9ca9cd2bdcd5484c74ec8931398",
       "sha256": "e79b53fa9ef5a0cfe234add0acc0bee27d28f8f0e46728b2e14a34002f411b17",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/gta4xlwifi/20260523/vbmeta.img",
-      "sha1": "60a168d99662f3619ab848e78c2c001eb8096706",
-      "sha256": "e29fa93e143b5aac7698fb70851c21c6b426f98dd68213a350dd12ee5517d9b2",
+      "filepath": "/full/gta4xlwifi/20260530/vbmeta.img",
+      "sha1": "f9e2ff8d626d488f66255a5467a93fa556e9f3e9",
+      "sha256": "722191ed9a96b9f4518d2ace867471df8acffe59e57edb4804b44d43a4a73bc7",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20260530/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "metadata:69:347,metadata.pb:484:233                 ",
   "type": "nightly",
   "version": "23.2"
 }
