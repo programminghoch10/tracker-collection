@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779545792,
+  "date": "2026-05-30",
+  "datetime": 1780116226,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779545792,
-      "filename": "lineage-22.2-20260523-nightly-payton-signed.zip",
-      "filepath": "/full/payton/20260523/lineage-22.2-20260523-nightly-payton-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780116226,
+      "filename": "lineage-22.2-20260530-nightly-payton-signed.zip",
+      "filepath": "/full/payton/20260530/lineage-22.2-20260530-nightly-payton-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "62ee4cd0d2dc53cccf3b2e350a81284d17b558bf",
-      "sha256": "15d33aec8e6638f17914121e234f0b7608e62a038e128b88b00bc9ca19d84eeb",
-      "size": 921903119,
+      "ota_property_files": "payload_metadata.bin:2772:134009,payload.bin:2772:921906290,payload_properties.txt:921909120:155,apex_info.pb:1568:1157,metadata:69:605,metadata.pb:742:778                  ",
+      "sha1": "f9c20138e22eba441cebb99315956a0480067807",
+      "sha256": "8ee9ace33cd1477af17b17538d28f8f5350b249ae2f12f789042b5cc883871df",
+      "size": 921912207,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/payton/20260523/lineage-22.2-20260523-nightly-payton-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/payton/20260530/lineage-22.2-20260530-nightly-payton-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/payton/20260523/boot.img",
-      "sha1": "389b04aef5583ef7272a98e842dcd45916e0c284",
-      "sha256": "de89442b4eefcc520ea65e27fb94351c63f4d6c5ad32d5f674a212361b16ed7c",
+      "filepath": "/full/payton/20260530/boot.img",
+      "sha1": "510da03300e678d6b4f6f209c9e473b3ee8844bf",
+      "sha256": "a8656c38df379393d5089f8667489199b880080dfe9eca7cf7b90a326f647ab3",
       "size": 30298112,
-      "url": "https://mirrorbits.lineageos.org/full/payton/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/payton/20260530/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:2772:134009,payload.bin:2772:921906290,payload_properties.txt:921909120:155,apex_info.pb:1568:1157,metadata:69:605,metadata.pb:742:778                  ",
   "type": "nightly",
   "version": "22.2"
 }
