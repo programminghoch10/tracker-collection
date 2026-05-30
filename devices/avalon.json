@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779494699,
+  "date": "2026-05-30",
+  "datetime": 1780152459,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779494699,
-      "filename": "lineage-23.2-20260523-nightly-avalon-signed.zip",
-      "filepath": "/full/avalon/20260523/lineage-23.2-20260523-nightly-avalon-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780152459,
+      "filename": "lineage-23.2-20260530-nightly-avalon-signed.zip",
+      "filepath": "/full/avalon/20260530/lineage-23.2-20260530-nightly-avalon-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "7e6d9b989b6c94fa9b520591e1a8bcc780675088",
-      "sha256": "3bca0e54b02043d4b2c14e4487533f395d796ea9cb1ebd1317b585093a99473d",
-      "size": 2619301049,
+      "ota_property_files": "payload_metadata.bin:5156:203286,payload.bin:5156:2621811772,payload_properties.txt:2621816986:156,apex_info.pb:2375:1370,care_map.pb:3792:1317,metadata:69:699,metadata.pb:836:1491                        ",
+      "sha1": "fed06b9bd3c23c678d389aa36e428452ab2f8352",
+      "sha256": "205059c139f49111311d3606b5e55b4d4ada9b4827e37c6f2539be98571ffe43",
+      "size": 2621820133,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/lineage-23.2-20260523-nightly-avalon-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/lineage-23.2-20260530-nightly-avalon-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/avalon/20260523/boot.img",
-      "sha1": "64156eed5751e2c0f70b8ebc8741528b2b62d0fb",
-      "sha256": "4158c1d8e67f805e89f8360d65eedee41202b884b363ccb252cb11186c17bee0",
+      "filepath": "/full/avalon/20260530/boot.img",
+      "sha1": "03e156e06c7243f2396121e5be72eb426037ac22",
+      "sha256": "6ae6a558f0da2e6ce8b628eb5889a669582b7d285dbf39475f2f901558f4333c",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/avalon/20260523/dtbo.img",
-      "sha1": "fb0005963ed90763a2c69df9120668ff5668d935",
-      "sha256": "6fa770299368b7145c70983f2caa7dea6222368d637433740a9ebe5d30449926",
+      "filepath": "/full/avalon/20260530/dtbo.img",
+      "sha1": "acede10d524415358041f00d6b414b73d13f6f25",
+      "sha256": "65f1307b50c15a2e53a9e4f8f513c4c8a7a22c17e1e83cd2e5c7aaf95c5f6e2f",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/avalon/20260523/init_boot.img",
-      "sha1": "2985e604aef09ef0b1b6f02b77dfc1fed9393860",
-      "sha256": "7988d6708a67459302b7fcafd8800585567c66b349c80d0fe62a8664d77f3286",
+      "filepath": "/full/avalon/20260530/init_boot.img",
+      "sha1": "23070c9678def540b27e6640c66748be47b5a6e4",
+      "sha256": "a95472eedd5710733ebd3d4de0ea053e65ba7d0e2a516603e3161d7a390e610f",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/avalon/20260523/recovery.img",
-      "sha1": "bf7b308ccf686ba4317f39200f18276fb9fedcce",
-      "sha256": "c52247cd6b1e70505c068b688f286f6f02f57c16af3732b063166311c690da61",
+      "filepath": "/full/avalon/20260530/recovery.img",
+      "sha1": "d74e1e02ebaa3444c4da6d22af0cbfa394dadd6e",
+      "sha256": "4bad9888de3aca5a66dd9099b519039438fffb529ccf86336539f8e2ca1dfd39",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/avalon/20260523/super_empty.img",
+      "filepath": "/full/avalon/20260530/super_empty.img",
       "sha1": "54ea9dfe41c685d320eb9286ad838afded7feabb",
       "sha256": "ec03e8b68bd343bb47ae856af55cd76c7daf5b6d5be563cd5464bb1d3091725c",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/avalon/20260523/vbmeta.img",
-      "sha1": "5af726d274dccbfa155614fc4698aa52c1f05fbf",
-      "sha256": "86ef2873b166e0edfc7e591b418c2a06b12bafe2381228e12bd29276972ac667",
+      "filepath": "/full/avalon/20260530/vbmeta.img",
+      "sha1": "9f4071f815e83ecd6892f19de07684f37f4c7f70",
+      "sha256": "23b3a4161dfc919095de62f1c221d28ebb0d18ee5a77b68fe5c1a9ea6f070c33",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/avalon/20260523/vendor_boot.img",
-      "sha1": "4a6076509ce0399901f30b31916215a0536b9e7e",
-      "sha256": "3b1a5e4efd6a8227c7a8c184b3b6db41d5d1bf2be8c8e0ef5e5054cc3e28224f",
+      "filepath": "/full/avalon/20260530/vendor_boot.img",
+      "sha1": "ae7cc53c5b4f870944c8e38a2c39c310a6994b1c",
+      "sha256": "dc6d8a7329c21bb610e77c1045c738332f8eff5b6b01269f4de55db7c40d8857",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/avalon/20260523/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20260530/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5156:203286,payload.bin:5156:2621811772,payload_properties.txt:2621816986:156,apex_info.pb:2375:1370,care_map.pb:3792:1317,metadata:69:699,metadata.pb:836:1491                        ",
   "type": "nightly",
   "version": "23.2"
 }
