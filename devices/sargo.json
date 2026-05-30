@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779554235,
+  "date": "2026-05-30",
+  "datetime": 1780157057,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779554235,
-      "filename": "lineage-22.2-20260523-nightly-sargo-signed.zip",
-      "filepath": "/full/sargo/20260523/lineage-22.2-20260523-nightly-sargo-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780157057,
+      "filename": "lineage-22.2-20260530-nightly-sargo-signed.zip",
+      "filepath": "/full/sargo/20260530/lineage-22.2-20260530-nightly-sargo-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "2147d17f1c8a7b47a135d1c4cc6d64837d2b6e79",
-      "sha256": "4416e5441727d14c486c747e4c3746cd5977c2ddee534f2c3d7af5f4b9f931b7",
-      "size": 1127061286,
+      "ota_property_files": "payload_metadata.bin:3918:115207,payload.bin:3918:1127045695,payload_properties.txt:1127049671:156,apex_info.pb:1882:1191,care_map.pb:3120:751,metadata:69:665,metadata.pb:802:1032                        ",
+      "sha1": "62dbd2453973dcd771bdf1356309206d0528b323",
+      "sha256": "dffc206da9dd3c40811fcb7cf00033e2805e5170e34863c170c29982415a2890",
+      "size": 1127052822,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260523/lineage-22.2-20260523-nightly-sargo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260530/lineage-22.2-20260530-nightly-sargo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/sargo/20260523/boot.img",
-      "sha1": "eb99ce08ad8d75e78768680b6c6c0e69aa43a3ce",
-      "sha256": "248b495efb2a3b728222e69accc29b06498b02943b4ad5f20470495097fe14d7",
+      "filepath": "/full/sargo/20260530/boot.img",
+      "sha1": "6e4d7061e6d008dc3f554b0fe776ae1813c8449a",
+      "sha256": "e5cfa7214e4ae036cfb967d8fded47fd92bbd8b8130b29f9a0e201fa283f9d0b",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/sargo/20260523/dtbo.img",
-      "sha1": "5d6f38b8c5acdac2313bbe0db887a8c2df5a3a2e",
-      "sha256": "f2c834564c9d528325e9d19c462ab0d6b0eb95d8ac28dec708b2db6b0fc4addf",
+      "filepath": "/full/sargo/20260530/dtbo.img",
+      "sha1": "b61245c3866b9f599243c958c53f3a75576fd1f8",
+      "sha256": "a19f9b2deadd635d9c35c494b25238e16d97a0567ef82b3c3a9b5365b964b167",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260530/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/sargo/20260523/super_empty.img",
+      "filepath": "/full/sargo/20260530/super_empty.img",
       "sha1": "63bc61d1abc09a2bdc1b1ba606411f889f3facba",
       "sha256": "62024718661d2d02841a0ffc84e63ad815e60a4b3090ffe26e4c70abfab3197b",
       "size": 4656,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/sargo/20260523/vbmeta.img",
-      "sha1": "41b7a5e0912b93bf6c88af1575a9ddc536f708c3",
-      "sha256": "d9eb3961d40472bf733df7ff840a39aacfc9390063dd92e23cdc59a4d45ec830",
+      "filepath": "/full/sargo/20260530/vbmeta.img",
+      "sha1": "f40987e053a83685573a2c43d1d7b24d605c06c2",
+      "sha256": "579312680db4f1708f9b7d01e3a4c1e4d23cda0b123422ff8083a9629d5cd560",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260530/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3918:115207,payload.bin:3918:1127045695,payload_properties.txt:1127049671:156,apex_info.pb:1882:1191,care_map.pb:3120:751,metadata:69:665,metadata.pb:802:1032                        ",
   "type": "nightly",
   "version": "22.2"
 }
