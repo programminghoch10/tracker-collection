@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779505202,
+  "date": "2026-05-30",
+  "datetime": 1780119849,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779505202,
-      "filename": "lineage-23.2-20260523-nightly-devon-signed.zip",
-      "filepath": "/full/devon/20260523/lineage-23.2-20260523-nightly-devon-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780119849,
+      "filename": "lineage-23.2-20260530-nightly-devon-signed.zip",
+      "filepath": "/full/devon/20260530/lineage-23.2-20260530-nightly-devon-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "cbfc18ae7329f1a0125daf248367e2631eb3fa2e",
-      "sha256": "50b212d44b49db4dada041f7349cfb3e1b63f306b494187dd879b0b244875d05",
-      "size": 1100109651,
+      "ota_property_files": "payload_metadata.bin:4137:123618,payload.bin:4137:1100079854,payload_properties.txt:1100084049:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
+      "sha1": "1f0b1e660cdba933a17d1adea5e1be18e6b0e4b9",
+      "sha256": "7db6d696efe707c23d04ff9903aeda47595166623514ef5083851c1350102ae9",
+      "size": 1100087196,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/devon/20260523/lineage-23.2-20260523-nightly-devon-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20260530/lineage-23.2-20260530-nightly-devon-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/devon/20260523/boot.img",
-      "sha1": "19303d8d9d3bd980bfa652ec8543f20d42254ab0",
-      "sha256": "d6edcf4691d96c0150e502f95f962df7e758f74a5851482ef23c766e04e78206",
+      "filepath": "/full/devon/20260530/boot.img",
+      "sha1": "c44b201d2e0ca9c5c6bfc031ca12414e05aa5978",
+      "sha256": "0fbd4970747dfa61a1bc19dbbd413af3e66a515d66c82fb099eaf9c55d44706d",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/devon/20260523/dtbo.img",
-      "sha1": "961f1fcad31f587d99d84bcbc060e41fdc571a7f",
-      "sha256": "60f3b2db1aa7666e078f6274938c61079306cdcfc41c975540abec17e5eb454e",
+      "filepath": "/full/devon/20260530/dtbo.img",
+      "sha1": "c89a97028780a90d38e35628932b10cca5825e15",
+      "sha256": "4ad8996931fc9bdd84a62bcd34a00a0548699b9cbd597f907d38646e7becd8b6",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20260530/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/devon/20260523/super_empty.img",
+      "filepath": "/full/devon/20260530/super_empty.img",
       "sha1": "da8fc41736746e722c512866f7e028ae0b647fdf",
       "sha256": "0af59ad1e465cfd9338b7046fbd313e12a5d0203cfe81cbac6a9fc37858d595a",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/devon/20260523/vbmeta.img",
-      "sha1": "cab52e5743d7a6e65baf3757430118d4c235cd4d",
-      "sha256": "5807433c207de62ec4de5bd67e8b817187a44ce81b15a25d254c13a8f4933bbc",
+      "filepath": "/full/devon/20260530/vbmeta.img",
+      "sha1": "501e832f6e74c188155eebe6e0f6637b043dd50a",
+      "sha256": "460a06223d47ef6bc2707d3e7da76c415f876715add81eec41dd5bbeae2cc8b2",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20260530/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/devon/20260523/vendor_boot.img",
-      "sha1": "5b4acadf50a8df26e50ab9916017c07dd1f1ca38",
-      "sha256": "72ce287bd5e5897395a672e66b54ba253c05d276176a2fdc35ea40a3176dd4e1",
+      "filepath": "/full/devon/20260530/vendor_boot.img",
+      "sha1": "390588736faa4bd2f7adc120980ecda42ac85233",
+      "sha256": "636b709f6e99a075dbbfdb3c4e12c9cb286b1aceedb61f4d0c3dbb9f6e6647aa",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/devon/20260523/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/devon/20260530/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4137:123618,payload.bin:4137:1100079854,payload_properties.txt:1100084049:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
   "type": "nightly",
   "version": "23.2"
 }
