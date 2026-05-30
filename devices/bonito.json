@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779537033,
+  "date": "2026-05-30",
+  "datetime": 1780160267,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779537033,
-      "filename": "lineage-22.2-20260523-nightly-bonito-signed.zip",
-      "filepath": "/full/bonito/20260523/lineage-22.2-20260523-nightly-bonito-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780160267,
+      "filename": "lineage-22.2-20260530-nightly-bonito-signed.zip",
+      "filepath": "/full/bonito/20260530/lineage-22.2-20260530-nightly-bonito-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "32a9099b0d4c209c59d76f9de71f649b1129dee7",
-      "sha256": "5efb2630e46a8f119f8512a5995da2e037d96d9a176aa0907bb6b42008284793",
-      "size": 1126858057,
+      "ota_property_files": "payload_metadata.bin:3947:115149,payload.bin:3947:1126860086,payload_properties.txt:1126864091:156,apex_info.pb:1903:1191,care_map.pb:3141:759,metadata:69:668,metadata.pb:805:1050                        ",
+      "sha1": "542ba39e950eee1b436c72968b959f7a53c59252",
+      "sha256": "1684408e4d48391c298dc8d060f3790d6c884e46510dd356a3a695316c3bca4e",
+      "size": 1126867242,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260523/lineage-22.2-20260523-nightly-bonito-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260530/lineage-22.2-20260530-nightly-bonito-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/bonito/20260523/boot.img",
-      "sha1": "d80fe3bc6e5cd2af10f25fefe5b696a1ae6f7703",
-      "sha256": "0a4f3076910593d3f33848cb6ef70e72661f7772d85705135453548553870fb4",
+      "filepath": "/full/bonito/20260530/boot.img",
+      "sha1": "a2689c5b2a547fa3d1b17dababf02eb5abba43e6",
+      "sha256": "f1de6e957c5fdbb69cd797b8a1598bc9fce3bdced448f6540fcb960d03ab06b7",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/bonito/20260523/dtbo.img",
-      "sha1": "472d47592a7e4a405611490107b8330fddd175a2",
-      "sha256": "34165205034098aa688d102106e44e49a65b1913a099df2e6cbb8082e5346a98",
+      "filepath": "/full/bonito/20260530/dtbo.img",
+      "sha1": "68af2c007858d5449ef0343e5ad3746708d5e2f9",
+      "sha256": "b19d1c22b510378592ebdff12c7afe8002b020c01a82ea8761e34d97ffb55c49",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260530/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/bonito/20260523/super_empty.img",
+      "filepath": "/full/bonito/20260530/super_empty.img",
       "sha1": "63bc61d1abc09a2bdc1b1ba606411f889f3facba",
       "sha256": "62024718661d2d02841a0ffc84e63ad815e60a4b3090ffe26e4c70abfab3197b",
       "size": 4656,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/bonito/20260523/vbmeta.img",
-      "sha1": "9878c7f5cd7fd1b779e7f2e0ca753374b47ee8ba",
-      "sha256": "ac05b6fa0f10f79471f9afbd79188fd9b1da4cd741c2ee4594d3b96e9df336e3",
+      "filepath": "/full/bonito/20260530/vbmeta.img",
+      "sha1": "4b3ee81535c3618e43f28081b505d49db73c07ae",
+      "sha256": "a95aedf946419a7886043abb3ba98ab01d2114c1b52e8f92e67b866181cbed3d",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260530/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3947:115149,payload.bin:3947:1126860086,payload_properties.txt:1126864091:156,apex_info.pb:1903:1191,care_map.pb:3141:759,metadata:69:668,metadata.pb:805:1050                        ",
   "type": "nightly",
   "version": "22.2"
 }
