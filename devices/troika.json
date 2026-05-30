@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779702479,
+  "date": "2026-05-29",
+  "datetime": 1780087686,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779702479,
-      "filename": "lineage-23.2-20260525-nightly-troika-signed.zip",
-      "filepath": "/full/troika/20260525/lineage-23.2-20260525-nightly-troika-signed.zip",
+      "date": "2026-05-29",
+      "datetime": 1780087686,
+      "filename": "lineage-23.2-20260529-nightly-troika-signed.zip",
+      "filepath": "/full/troika/20260529/lineage-23.2-20260529-nightly-troika-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "28c02550e46448e235e82cafe8382569c81dfd6b",
-      "sha256": "22b6275d0d8050608b96ab4a797e97451db6ac210718ad7ddf20933d6786a08d",
-      "size": 936653359,
+      "ota_property_files": "payload_metadata.bin:3721:114123,payload.bin:3721:936653718,payload_properties.txt:936657497:155,apex_info.pb:1805:1279,care_map.pb:3131:543,metadata:69:688,metadata.pb:825:932                       ",
+      "sha1": "ecdf988a767950c77b78fa3467e531597cf13166",
+      "sha256": "0395e0aee34c61fb0605953fa79a24fd62074bd7179f90b45bebbf73b876a0a3",
+      "size": 936660643,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260525/lineage-23.2-20260525-nightly-troika-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260529/lineage-23.2-20260529-nightly-troika-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/troika/20260525/boot.img",
-      "sha1": "c3c672002123d84bfc62ba97dca7fc2755b3bd0c",
-      "sha256": "4c73861e937d41e40c7a1cb85a1916ba5e8642837de22bb394e8e9d6270837a2",
+      "filepath": "/full/troika/20260529/boot.img",
+      "sha1": "e1fc37896b24083bffac9794f4090f6ce0ec6928",
+      "sha256": "5d01c50781e0477a5f27e9f801acc8b5d12832ca93a7348148361f7c6f012742",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260529/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/troika/20260525/dtbo.img",
-      "sha1": "4a7b003f3684400795eb3676cb5f83fd388ab034",
-      "sha256": "a037671352b49cbfbb8fdef58cc9e146429d7999a0124e637f22bac4713f539d",
+      "filepath": "/full/troika/20260529/dtbo.img",
+      "sha1": "4c94162f35f98509b6ad1c8ce142813856428821",
+      "sha256": "8b3c62f552eebb1853c4b2fed9aec709a73507c280b30fa94da8ecb8f95f9f71",
       "size": 1048576,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260529/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/troika/20260525/vbmeta.img",
-      "sha1": "7867b7697b2ba4390fd2c397c9ba7eb8a323907f",
-      "sha256": "83858988a716fd298cda32c713cb187100540dbd6f443a756e533f9a8a9b0473",
+      "filepath": "/full/troika/20260529/vbmeta.img",
+      "sha1": "f70dc45e87495644fed9006315c92bd93b9843e2",
+      "sha256": "1d8f20e1d6e9b3e7342e61bdbd57ecfe7551f7de2a7f2d2c00ecf8fabdfd8282",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260529/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:3721:114123,payload.bin:3721:936653718,payload_properties.txt:936657497:155,apex_info.pb:1805:1279,care_map.pb:3131:543,metadata:69:688,metadata.pb:825:932                       ",
   "type": "nightly",
   "version": "23.2"
 }
