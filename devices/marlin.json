@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779561588,
+  "date": "2026-05-30",
+  "datetime": 1780144155,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779561588,
-      "filename": "lineage-22.2-20260523-nightly-marlin-signed.zip",
-      "filepath": "/full/marlin/20260523/lineage-22.2-20260523-nightly-marlin-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780144155,
+      "filename": "lineage-22.2-20260530-nightly-marlin-signed.zip",
+      "filepath": "/full/marlin/20260530/lineage-22.2-20260530-nightly-marlin-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "0cbdb692621007e58a6d50fa22a516e2144e84eb",
-      "sha256": "0f54e7385a8218a3630b25aa65c71cf88a9f70076018e877ad68e59713be1c20",
-      "size": 881767689,
+      "ota_property_files": "payload_metadata.bin:2802:119763,payload.bin:2802:881754162,payload_properties.txt:881757022:155,apex_info.pb:1598:1157,metadata:69:611,metadata.pb:748:802                  ",
+      "sha1": "ee435a44e1e8595ae94dce8214f5927959461679",
+      "sha256": "ab2cbadfa4bb6b9d9359e478d75e0203c8678127c47ed19c04568ede697cfeaf",
+      "size": 881760109,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/marlin/20260523/lineage-22.2-20260523-nightly-marlin-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/marlin/20260530/lineage-22.2-20260530-nightly-marlin-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/marlin/20260523/boot.img",
-      "sha1": "44028ef531b645f5f93f1dd129b16954cae7b9b7",
-      "sha256": "a7f42ec04d9a0468b0e4f6cb736e9b2108d971f7a6d1f3d2af27a85b752bbc12",
+      "filepath": "/full/marlin/20260530/boot.img",
+      "sha1": "8e9938d01df4683f84516966a9d4ab0bae9bd1d1",
+      "sha256": "133db29c86058cfaae2358180da9852ff408f7e1d6a1c2b96f3ed168a54d7137",
       "size": 31170560,
-      "url": "https://mirrorbits.lineageos.org/full/marlin/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/marlin/20260530/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:2802:119763,payload.bin:2802:881754162,payload_properties.txt:881757022:155,apex_info.pb:1598:1157,metadata:69:611,metadata.pb:748:802                  ",
   "type": "nightly",
   "version": "22.2"
 }
