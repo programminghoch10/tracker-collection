@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-23",
-  "datetime": 1779534578,
+  "date": "2026-05-30",
+  "datetime": 1780138224,
   "files": [
     {
-      "date": "2026-05-23",
-      "datetime": 1779534578,
-      "filename": "lineage-23.2-20260523-nightly-vermeer-signed.zip",
-      "filepath": "/full/vermeer/20260523/lineage-23.2-20260523-nightly-vermeer-signed.zip",
+      "date": "2026-05-30",
+      "datetime": 1780138224,
+      "filename": "lineage-23.2-20260530-nightly-vermeer-signed.zip",
+      "filepath": "/full/vermeer/20260530/lineage-23.2-20260530-nightly-vermeer-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "b542942b6acc3deb2bb4329c2fec4545518de4e1",
-      "sha256": "fa7050299fa39040c567fa528ad862ce7c15c011ebc0a50ac6dd81118bfc4e6a",
-      "size": 2802056415,
+      "ota_property_files": "payload_metadata.bin:4955:205805,payload.bin:4955:2802045142,payload_properties.txt:2802050155:156,apex_info.pb:2317:1279,care_map.pb:3643:1265,metadata:69:693,metadata.pb:830:1439                        ",
+      "sha1": "3b5936caf55bf2c6d2b8a73d1dec83c4af50ad4a",
+      "sha256": "18414b494a6c2f036d18aae8084d2c9a8667bd276932dcfa2fbe41b6b2db5273",
+      "size": 2802053302,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/lineage-23.2-20260523-nightly-vermeer-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/lineage-23.2-20260530-nightly-vermeer-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/vermeer/20260523/boot.img",
-      "sha1": "a9413a7bc0d1a0e41940ad812b47fa1cee7def98",
-      "sha256": "10798d3d2c152bb7937d05cdf370e29d16d83c82d510612195aaac3d11d61e76",
+      "filepath": "/full/vermeer/20260530/boot.img",
+      "sha1": "c74d8558ca2253c98a4f246bae701e55e306a06f",
+      "sha256": "3fab2ae03fd5d691bcfb0e2a51c301319ff201930df4edacd1fcd157caa71bb1",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/vermeer/20260523/dtbo.img",
-      "sha1": "0ed6420a9cf9555554f45f0240efed50fc6a8c7e",
-      "sha256": "1aa18c7737173c6dc6b80532b8b96bb751fd2280bfd43b50c4104f1ea3bd9edb",
+      "filepath": "/full/vermeer/20260530/dtbo.img",
+      "sha1": "d98133620ae07e269b5585cdbf5c8317b06c70c5",
+      "sha256": "fb726a6ab3421eeefc93ff22f1575d9d56148ade9b5175fbbd9910e7f3e7491f",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/vermeer/20260523/init_boot.img",
-      "sha1": "b8fab35352fbe6b0def46b6f5089abb6b7accd97",
-      "sha256": "a287baf2e5ebd4666f8bd851805878a5b0051ff7c711bae64b8d00817246494f",
+      "filepath": "/full/vermeer/20260530/init_boot.img",
+      "sha1": "fb38f08c04260c65216028d1938f9f8ee61d5545",
+      "sha256": "fa5f7d8ecc6a9e1a8a7efc6e7c0616ee89f5849202b5142419835c8e798f517b",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/vermeer/20260523/recovery.img",
-      "sha1": "f603e860b346bf15ef31e7dc5c34d47532e157c0",
-      "sha256": "81645c18fda12c9516c725b1eafdccfd7afe1bc79f5711527cbe9555e3ed9d22",
+      "filepath": "/full/vermeer/20260530/recovery.img",
+      "sha1": "ed3ed96a51f14c36fe3769eca4d86f3c964f2c4e",
+      "sha256": "e45c92ce5ecb83f67940776048ba390c6a1ae386fa012ec67384c8cf48cbaee7",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/vermeer/20260523/super_empty.img",
+      "filepath": "/full/vermeer/20260530/super_empty.img",
       "sha1": "9ef449029f0a99ae9e621c6391a09b47329db2d7",
       "sha256": "e6843857f8ff612e1bd468f36e89607c80b792db606b4728a2d14b538c3df575",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/vermeer/20260523/vbmeta.img",
-      "sha1": "01fd3ecd2b4ee144f17454eb46bad55f9c7854a5",
-      "sha256": "c36fe403cb319928241e548c298611b8877607e5494962c2bbeff56ca42e5d3a",
+      "filepath": "/full/vermeer/20260530/vbmeta.img",
+      "sha1": "e247ffcda345fa1b74728b2221b2b349af54736b",
+      "sha256": "3a4946ad2db199bb4da7334ebc72ebfa083d7e61448d1c23a63339a1324bd21b",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/vermeer/20260523/vendor_boot.img",
-      "sha1": "e934c6814d11cebe0f69ee4d4d1e9f23b0ae4b70",
-      "sha256": "88f19fa60bc82535869e1fa6834367d5e531a49b9f051d245a67b463d36e3d31",
+      "filepath": "/full/vermeer/20260530/vendor_boot.img",
+      "sha1": "13741d5af7618ea2d042eff82256b10fe16fa196",
+      "sha256": "09ff3dfdacd265969795bf0d8b73426aa93303cbf823f16f418665d94146254e",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260523/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20260530/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4955:205805,payload.bin:4955:2802045142,payload_properties.txt:2802050155:156,apex_info.pb:2317:1279,care_map.pb:3643:1265,metadata:69:693,metadata.pb:830:1439                        ",
   "type": "nightly",
   "version": "23.2"
 }
