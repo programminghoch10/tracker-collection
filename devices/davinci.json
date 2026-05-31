@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779589019,
+  "date": "2026-05-31",
+  "datetime": 1780201135,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779589019,
-      "filename": "lineage-23.2-20260524-nightly-davinci-signed.zip",
-      "filepath": "/full/davinci/20260524/lineage-23.2-20260524-nightly-davinci-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780201135,
+      "filename": "lineage-23.2-20260531-nightly-davinci-signed.zip",
+      "filepath": "/full/davinci/20260531/lineage-23.2-20260531-nightly-davinci-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "9587941b56730525cb6a2d442c29be7563f50f81",
-      "sha256": "e8aa2892729354f675122566176cea6c415eea60809db3ec8773846d95f8d57c",
-      "size": 1378992904,
+      "ota_property_files": "metadata:69:341,metadata.pb:478:234                 ",
+      "sha1": "6bbb4eef754c9bc5a53374a7ea04b4735809a571",
+      "sha256": "c59418230afa7e192d5417e11206f19d5af15eaf48410293392a186f9c1ffb99",
+      "size": 1378922065,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/davinci/20260524/lineage-23.2-20260524-nightly-davinci-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/davinci/20260531/lineage-23.2-20260531-nightly-davinci-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/davinci/20260524/boot.img",
-      "sha1": "8a4a4b6f289c218e5b6700c42ce631596bf62a4f",
-      "sha256": "7c566c68754bc7220a9ef49a48ef40713071246f6300df0f58745f6cd7469a44",
+      "filepath": "/full/davinci/20260531/boot.img",
+      "sha1": "fb29c207e597b60ebc5c45312332102de553ced0",
+      "sha256": "d29d1d02d52edcb90101fa6f7d294bcc87a885ae2f5e30e213480d5851251f5d",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/davinci/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/davinci/20260531/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/davinci/20260524/dtbo.img",
-      "sha1": "fe2d8a3a0c78f18d9de571ab6faad149c0a804b7",
-      "sha256": "c9f34c1db0f64be4c0a7cdfc89a59d20b64aca8fbd11ceae0281d96bc3d99362",
+      "filepath": "/full/davinci/20260531/dtbo.img",
+      "sha1": "bdd239f6d14bf1750abd63ac48b8d9c2701767fd",
+      "sha256": "67849b7099ac112895cf31bf126501893efbbd8fb52bb1d520a3caadd64cfba1",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/davinci/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/davinci/20260531/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/davinci/20260524/recovery.img",
-      "sha1": "64c9b0b23d132489e9bb00fd4bbff5e864d4e724",
-      "sha256": "9130226f85c01d566fc8602a0b4839225f6fe7cf73dba74141e5adb944d75fd0",
+      "filepath": "/full/davinci/20260531/recovery.img",
+      "sha1": "a6975e2764a50324ebe86a6eaa462b5ed1307fa3",
+      "sha256": "7d53b8256b75bda160ee84a1204f786ca1fde9eb0846947670f1f93e1e06f97c",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/davinci/20260524/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/davinci/20260531/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/davinci/20260524/super_empty.img",
+      "filepath": "/full/davinci/20260531/super_empty.img",
       "sha1": "db844011388ff62ed50151f89432c8142f566481",
       "sha256": "09e019c21d04e03ccba06950d420b28f43d4a5f4dc95a3f9f93a0438b658233c",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/davinci/20260524/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/davinci/20260531/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/davinci/20260524/vbmeta.img",
-      "sha1": "58008b94d28724f02f80e70a4131e44b814df3b7",
-      "sha256": "d4a47fc6306c031f2ed1bdb279026face33c4e917526472a7dbf38877d573980",
+      "filepath": "/full/davinci/20260531/vbmeta.img",
+      "sha1": "30f1bd4d6e081f943dd243237502f17934d1540f",
+      "sha256": "958920133575212c78defb3204bcac794d232fa8c0ab441b20626acb7c5a8b46",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/davinci/20260524/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/davinci/20260531/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "metadata:69:341,metadata.pb:478:234                 ",
   "type": "nightly",
   "version": "23.2"
 }
