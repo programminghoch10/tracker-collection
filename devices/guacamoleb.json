@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779596660,
+  "date": "2026-05-31",
+  "datetime": 1780201681,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779596660,
-      "filename": "lineage-23.2-20260524-nightly-guacamoleb-signed.zip",
-      "filepath": "/full/guacamoleb/20260524/lineage-23.2-20260524-nightly-guacamoleb-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780201681,
+      "filename": "lineage-23.2-20260531-nightly-guacamoleb-signed.zip",
+      "filepath": "/full/guacamoleb/20260531/lineage-23.2-20260531-nightly-guacamoleb-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "1642a9febefaf072d15142c1e7d6f8ef13712617",
-      "sha256": "c511d9e6f389dd46ada2359ba555100e74509259ac4795e614b480fb2d16e1ab",
-      "size": 1140521882,
+      "ota_property_files": "payload_metadata.bin:3739:139243,payload.bin:3739:1140516279,payload_properties.txt:1140520076:156,apex_info.pb:1775:1279,care_map.pb:3101:591,metadata:69:682,metadata.pb:819:908                         ",
+      "sha1": "90453526d85f2b67e47d8b4a943fa1409dc66003",
+      "sha256": "975edaa801189ddb8f66fb3153cb259f51d0bbb1229e8d3c55ca044f043aade2",
+      "size": 1140523223,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260524/lineage-23.2-20260524-nightly-guacamoleb-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260531/lineage-23.2-20260531-nightly-guacamoleb-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/guacamoleb/20260524/boot.img",
-      "sha1": "88d5a97a6a593247f3a8a1149389382ac0417523",
-      "sha256": "3ef90dc7cf45782b0233247ac628d3078d7d90531e17dbb1402d1867d666af2f",
+      "filepath": "/full/guacamoleb/20260531/boot.img",
+      "sha1": "5ac3a58ae565bf02a4ea7dd2dc87718a274c955a",
+      "sha256": "e6634673a7410d91d89eadaac559a525ed2589042ab07ec464754a5221186687",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260531/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/guacamoleb/20260524/dtbo.img",
-      "sha1": "07c454e24081f35a813c770a0a4df9a2d3f1ab8e",
-      "sha256": "713d5cf00dee8d515e123098ceba3f571e2711a74e58e22f4b4b3d5c49de4300",
+      "filepath": "/full/guacamoleb/20260531/dtbo.img",
+      "sha1": "b880870506a1d32efd7ab3ee98bb24e2092c6176",
+      "sha256": "1dcd71726f512c04f0ab2b2890b217452af89d86f987f287dfa5c8e3431ed4bf",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260531/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/guacamoleb/20260524/vbmeta.img",
-      "sha1": "cc214ef7713d81060cb0a42979018c3c6df8f9e7",
-      "sha256": "840b1ec8cd392e90f196b16cc88ad6380ee997dbc9c06d7cb91ed083e3b598f8",
+      "filepath": "/full/guacamoleb/20260531/vbmeta.img",
+      "sha1": "94c8d4d608a9c6827606826632010c7bc091d30b",
+      "sha256": "ee87bec5e81d20cba2ee45a532aa885ea00c0e3f73339934a59cbd95e5da8619",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260524/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260531/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:3739:139243,payload.bin:3739:1140516279,payload_properties.txt:1140520076:156,apex_info.pb:1775:1279,care_map.pb:3101:591,metadata:69:682,metadata.pb:819:908                         ",
   "type": "nightly",
   "version": "23.2"
 }
