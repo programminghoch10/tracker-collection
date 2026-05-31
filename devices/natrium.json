@@ -1,39 +1,41 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779625608,
+  "date": "2026-05-31",
+  "datetime": 1780185720,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779625608,
-      "filename": "lineage-22.2-20260524-nightly-natrium-signed.zip",
-      "filepath": "/full/natrium/20260524/lineage-22.2-20260524-nightly-natrium-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780185720,
+      "filename": "lineage-22.2-20260531-nightly-natrium-signed.zip",
+      "filepath": "/full/natrium/20260531/lineage-22.2-20260531-nightly-natrium-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "ba5524e0810739c5e659d52c1681403d2430ce72",
-      "sha256": "a6171fd15e0d3995aab51efa2f0255c6c7b7b000cdcfecb66dabb375b379199d",
-      "size": 990281146,
+      "ota_property_files": "metadata:69:322,metadata.pb:459:204                 ",
+      "sha1": "027d11aec6778e706b2ef01366542e495116ff98",
+      "sha256": "9ee3bad4a8e3f48ffbcee9256e2d4443b431d7ca5e1dcce4988b081a091100fb",
+      "size": 990285266,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/natrium/20260524/lineage-22.2-20260524-nightly-natrium-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/natrium/20260531/lineage-22.2-20260531-nightly-natrium-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/natrium/20260524/boot.img",
-      "sha1": "a79234687f19e35e702ab5e684c1c9e63f1f9d86",
-      "sha256": "28813b97d62ef4fbca975173a635af24216d8ecd4376967a993e93fd9992e5be",
+      "filepath": "/full/natrium/20260531/boot.img",
+      "sha1": "354cca072636fbee834155eedc420864bc212381",
+      "sha256": "8477883cc36b2b7d559dd9c1dce75704a69cda2c5f42a4a33ba693c10bc23e8d",
       "size": 15159296,
-      "url": "https://mirrorbits.lineageos.org/full/natrium/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/natrium/20260531/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/natrium/20260524/recovery.img",
-      "sha1": "b8f006de7fd7c98f9235b5c7b7c1ddf55c51ba2c",
-      "sha256": "c32cedab2f8e29fa836b7b7a7fa24c62d54132d20bf4f20cb6fdecb99c4adc42",
+      "filepath": "/full/natrium/20260531/recovery.img",
+      "sha1": "a7fb706afb9ad0d1dd0bc73e8032518625883584",
+      "sha256": "aee8743434875d7469c3fa1707c08d3838dc07c954f2411e37df6313db98f26e",
       "size": 22286336,
-      "url": "https://mirrorbits.lineageos.org/full/natrium/20260524/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/natrium/20260531/recovery.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:322,metadata.pb:459:204                 ",
   "type": "nightly",
   "version": "22.2"
 }
