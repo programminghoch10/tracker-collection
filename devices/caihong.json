@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779580999,
+  "date": "2026-05-31",
+  "datetime": 1780185792,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779580999,
-      "filename": "lineage-23.2-20260524-nightly-caihong-signed.zip",
-      "filepath": "/full/caihong/20260524/lineage-23.2-20260524-nightly-caihong-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780185792,
+      "filename": "lineage-23.2-20260531-nightly-caihong-signed.zip",
+      "filepath": "/full/caihong/20260531/lineage-23.2-20260531-nightly-caihong-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "02c48bbafb9cde3f60e740c59252678fe943bd45",
-      "sha256": "786de06066cb240314a4c7f9a69a697c585fe083a8fb58afb4d904744e1372e5",
-      "size": 2018508391,
+      "ota_property_files": "payload_metadata.bin:5159:178767,payload.bin:5159:2018495569,payload_properties.txt:2018500786:156,apex_info.pb:2420:1328,care_map.pb:3795:1317,metadata:69:710,metadata.pb:847:1525                        ",
+      "sha1": "21092935e726469a8a812384e968b59f68cc7024",
+      "sha256": "c4a4ea68f9ae001ac85bdf0c61c401dd1ee05ebf1840ac0b9234705f167260a7",
+      "size": 2018503933,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/lineage-23.2-20260524-nightly-caihong-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/lineage-23.2-20260531-nightly-caihong-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/caihong/20260524/boot.img",
-      "sha1": "20a98cc7ee781e2fc8df7dff4a7b353821b1d82e",
-      "sha256": "fb2f02c78e28079b2e00c62c0636566634bc4d5738570d9de5a844c9830711e7",
+      "filepath": "/full/caihong/20260531/boot.img",
+      "sha1": "2a4ed055872dc71ed52f755bfa7ec1b9c75dd418",
+      "sha256": "3b46ad1eead5fd5de1f855f9a10f6f13bc3c029747275ee4f38c84d11b343bf9",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/caihong/20260524/dtbo.img",
-      "sha1": "eb356fc9b20091b060fdea40029f431cee742b6b",
-      "sha256": "f27e554689f15a09d67e40dadaa73fc0a42172ab8251118ce989c2c465277ce2",
+      "filepath": "/full/caihong/20260531/dtbo.img",
+      "sha1": "a28fab302b06eaa182e3b4efe71a31b99628cd97",
+      "sha256": "2b54dd93f182fa63a9512b10afd944b27aa0fdc5389b952ec2191e69dfed791b",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/caihong/20260524/init_boot.img",
-      "sha1": "f0abbfedcb1bc0aa582bddc9677dc32740072294",
-      "sha256": "cd821163b614858846504f2dbe536c4f4b6c4445dcfbb7a60906550d21ae65c9",
+      "filepath": "/full/caihong/20260531/init_boot.img",
+      "sha1": "a0d610d202cde83dc889cd1989eb7de2f06ae88f",
+      "sha256": "2387379c6ed645f68f5d6e8078c3276f208596d9fbf7520e0b1aa06c895a2496",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/caihong/20260524/recovery.img",
-      "sha1": "c1988a3da7a9acf8192b5212ccae7621ab258eb9",
-      "sha256": "6f7443cc2637443ecb3de87900a4243ac45bc0d24f6ebff0369f3e47a4267bd2",
+      "filepath": "/full/caihong/20260531/recovery.img",
+      "sha1": "603656b169acec083f1a3b5135916db8d79e7175",
+      "sha256": "565126d630abd54de4df826d71a8925d942f1e1b65abf0b8f5ecb330e9575550",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/caihong/20260524/super_empty.img",
+      "filepath": "/full/caihong/20260531/super_empty.img",
       "sha1": "54ea9dfe41c685d320eb9286ad838afded7feabb",
       "sha256": "ec03e8b68bd343bb47ae856af55cd76c7daf5b6d5be563cd5464bb1d3091725c",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/caihong/20260524/vbmeta.img",
-      "sha1": "46699bd35ab9028b99422a66e12dc9803d930654",
-      "sha256": "b4219851483dd9db47c127b8d446da141a42d75d523f596f3f3a911448174e4e",
+      "filepath": "/full/caihong/20260531/vbmeta.img",
+      "sha1": "b7ccb9dfed8b76408536547abc57bace455c40c8",
+      "sha256": "5d761c86126c39443517bd80bcf29e77da0421370bd33b6d51e38dfadb373f60",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/caihong/20260524/vendor_boot.img",
-      "sha1": "d5980079798c8b57be44935d60e79fc760bbb64b",
-      "sha256": "67ff5bdf40715414be6356ee0e08f48512ccde1405fad7bdf53a59310c5c5072",
+      "filepath": "/full/caihong/20260531/vendor_boot.img",
+      "sha1": "fd22dab7a7c8f39bb3cabd36412045ad39279dc2",
+      "sha256": "26305424beb838174e58a279bed1ca5f331ff8ed0351fc34ae7e1956f9a39612",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260524/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260531/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5159:178767,payload.bin:5159:2018495569,payload_properties.txt:2018500786:156,apex_info.pb:2420:1328,care_map.pb:3795:1317,metadata:69:710,metadata.pb:847:1525                        ",
   "type": "nightly",
   "version": "23.2"
 }
