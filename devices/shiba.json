@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779605087,
+  "date": "2026-05-31",
+  "datetime": 1780196326,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779605087,
-      "filename": "lineage-23.2-20260524-nightly-shiba-signed.zip",
-      "filepath": "/full/shiba/20260524/lineage-23.2-20260524-nightly-shiba-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780196326,
+      "filename": "lineage-23.2-20260531-nightly-shiba-signed.zip",
+      "filepath": "/full/shiba/20260531/lineage-23.2-20260531-nightly-shiba-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "272c293f7410db370c351953296efaf84b5a5457",
-      "sha256": "e3df50bb73b5337251146014ff8e968af5ab58e18ed51c5962bc56fae2a58166",
-      "size": 1376615386,
+      "ota_property_files": "payload_metadata.bin:4804:138170,payload.bin:4804:1376598765,payload_properties.txt:1376603627:156,apex_info.pb:2000:1688,care_map.pb:3735:1022,metadata:69:668,metadata.pb:805:1147                        ",
+      "sha1": "9aec225c61a9772637e29607235f24e716d42b30",
+      "sha256": "334e5f79d9c1445963351892787f8e747fb359973ef9e3d5158a7d817d984d70",
+      "size": 1376606774,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/lineage-23.2-20260524-nightly-shiba-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/lineage-23.2-20260531-nightly-shiba-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/shiba/20260524/boot.img",
-      "sha1": "04997da709846a85b75cf94ab3940a53f133f470",
-      "sha256": "b205f2b26522b8e7dff394549b87f52f1d223281a99838c4548d127d1bcae43c",
+      "filepath": "/full/shiba/20260531/boot.img",
+      "sha1": "ec564f0f32ca8af01085a496b42e46b484270282",
+      "sha256": "589efe2891ab862cf0b59b6c6873d6a52938e7d73a6799d9d4c6eae562402031",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/shiba/20260524/dtbo.img",
-      "sha1": "f85e502338b8ba5fbb4184fd3274dd5373ba93c9",
-      "sha256": "5485dd35d93895530e79293b1b230dea70696f271883a1c15deb8ff1e8bbfe25",
+      "filepath": "/full/shiba/20260531/dtbo.img",
+      "sha1": "b77dca07f14454c3e448a10972fd5fb302d3cf30",
+      "sha256": "2e23eebcb9cf135e151b16895920346e85f9e38233306e34096688d92f28f960",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/shiba/20260524/init_boot.img",
-      "sha1": "de1914896dd54a0f478cb5230dbced19e534851e",
-      "sha256": "edf7eb16035429d2e51cb791e63f696b32b64afd55020e608bfb7c5665ebdc66",
+      "filepath": "/full/shiba/20260531/init_boot.img",
+      "sha1": "6e65f172ff75772eae1612a2c5e6a42eb1641d96",
+      "sha256": "214f5154151a97a0c9286a4c16a3ec35cab2c7306476537129682bc4931a987f",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/shiba/20260524/super_empty.img",
+      "filepath": "/full/shiba/20260531/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/shiba/20260524/vbmeta.img",
-      "sha1": "280dbb78b9c245a1b4b664632eced92cc0a6ee3b",
-      "sha256": "d0b471d39be97adb969922ca53b144408a678f644aaa02eedb8c5e266582e502",
+      "filepath": "/full/shiba/20260531/vbmeta.img",
+      "sha1": "91a7f5b14c9860823594050cd86d09011a6c576f",
+      "sha256": "00ea6279c6fea1904d93fd271dfec868261d3afa1cd5bc59aa941eaf032ceef8",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/shiba/20260524/vendor_boot.img",
-      "sha1": "454a861ff185029f1635969a7ccac661780a368f",
-      "sha256": "ecf24ede398790bd594655dde2f300e85c2c211ebca61fa15e72da252bfbfa28",
+      "filepath": "/full/shiba/20260531/vendor_boot.img",
+      "sha1": "81d93a1f32661b3b14646750e13d0bbbbedfcf4f",
+      "sha256": "515de8a18505be9db82228c89b352be38c53748db858da199fed7c0cabe30ed6",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/shiba/20260524/vendor_kernel_boot.img",
-      "sha1": "d3364b2b8252a62cb01cfefaddea3c5b5645e575",
-      "sha256": "17d58d1c51987e64c611324186a265298c2ef5cfe215f623822c81fcf6d21d1e",
+      "filepath": "/full/shiba/20260531/vendor_kernel_boot.img",
+      "sha1": "3d06eb1c4613d0ae1de818d3a6a6780c16e65d8f",
+      "sha256": "ec0e1b225962d933998da3826fb3572dd8cccf1ab26c4e08d8d376849815c86e",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20260524/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20260531/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4804:138170,payload.bin:4804:1376598765,payload_properties.txt:1376603627:156,apex_info.pb:2000:1688,care_map.pb:3735:1022,metadata:69:668,metadata.pb:805:1147                        ",
   "type": "nightly",
   "version": "23.2"
 }
