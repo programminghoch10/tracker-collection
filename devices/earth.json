@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779591144,
+  "date": "2026-05-31",
+  "datetime": 1780212786,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779591144,
-      "filename": "lineage-23.2-20260524-nightly-earth-signed.zip",
-      "filepath": "/full/earth/20260524/lineage-23.2-20260524-nightly-earth-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780212786,
+      "filename": "lineage-23.2-20260531-nightly-earth-signed.zip",
+      "filepath": "/full/earth/20260531/lineage-23.2-20260531-nightly-earth-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "82f037feab5af0ab17ee41149add38fdafbbbb72",
-      "sha256": "a3812524264f527a1fbdca8fbf04495716fa5f9f6f2d66f45854b9254c342b09",
-      "size": 1049879879,
+      "ota_property_files": "payload_metadata.bin:4233:105628,payload.bin:4233:1049838761,payload_properties.txt:1049843052:156,apex_info.pb:2006:1310,care_map.pb:3363:823,metadata:69:683,metadata.pb:820:1138                        ",
+      "sha1": "0f913dff4dae5ed403faea1972dd01a5e9e35400",
+      "sha256": "ef1233fd322f48a713bc3581443060d489387c190ce83f38e4e1244a3fe83338",
+      "size": 1049846199,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260524/lineage-23.2-20260524-nightly-earth-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260531/lineage-23.2-20260531-nightly-earth-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/earth/20260524/boot.img",
-      "sha1": "e6968c3b5dd18eb355865465ca47934bcd04d15e",
-      "sha256": "7cc38641c024c652d3375a0fc3213c63592dba985a51c1f4b3982c878c80ed2d",
+      "filepath": "/full/earth/20260531/boot.img",
+      "sha1": "444bbe96fb230b7996dd83e34a769e5976c5c3db",
+      "sha256": "4aec17c694f02dd7e69709ad87aa3d76ce4237c01b4ff1234db53e378a4bb9a9",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260531/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/earth/20260524/dtbo.img",
-      "sha1": "ab0f41240fbc97336e54f216f3707e5e039f7d37",
-      "sha256": "f56bd8beb321edbd69b096a44d4ae02368b32cd7e8b6f3115d342035eaa64fd5",
+      "filepath": "/full/earth/20260531/dtbo.img",
+      "sha1": "47bdddef4ba56b791bfff5bc54cc1167b8c67083",
+      "sha256": "6bcfd0ed0135b338f9ea4c244643073f94f6ce8a3c4c8a9fa5326e6b10a25927",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260531/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/earth/20260524/vbmeta.img",
-      "sha1": "2411d488a6a83c8b9f29409acadc9d5c754c7fec",
-      "sha256": "691de8e4ebea281366f1ca3181576e28913c97ff7b07f699a1e7d5aa66e84a50",
+      "filepath": "/full/earth/20260531/vbmeta.img",
+      "sha1": "380d66131a080b29c72b1789f21a76588193a51f",
+      "sha256": "19251fbd18a52e62ad74fb08571609e87ab68019792945814f96739a26fadb64",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260524/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260531/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4233:105628,payload.bin:4233:1049838761,payload_properties.txt:1049843052:156,apex_info.pb:2006:1310,care_map.pb:3363:823,metadata:69:683,metadata.pb:820:1138                        ",
   "type": "nightly",
   "version": "23.2"
 }
