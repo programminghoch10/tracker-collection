@@ -1,39 +1,41 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779625255,
+  "date": "2026-05-31",
+  "datetime": 1780231615,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779625255,
-      "filename": "lineage-22.2-20260524-nightly-ocean-signed.zip",
-      "filepath": "/full/ocean/20260524/lineage-22.2-20260524-nightly-ocean-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780231615,
+      "filename": "lineage-22.2-20260531-nightly-ocean-signed.zip",
+      "filepath": "/full/ocean/20260531/lineage-22.2-20260531-nightly-ocean-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "1948f771bcf25a7cc04850919b39dc2bb684fc2f",
-      "sha256": "301e09c57090bdd5a8f34592dd4633f585aebf547e08ac771511ec73b312579f",
-      "size": 907169969,
+      "ota_property_files": "payload_metadata.bin:2769:96167,payload.bin:2769:907166504,payload_properties.txt:907169331:154,apex_info.pb:1565:1157,metadata:69:604,metadata.pb:741:776                  ",
+      "sha1": "46cd86d6279231ef9a5f868e7e48f2448509da88",
+      "sha256": "9ed390ce9fed50f50eb31e142a6a2d9cc60e915766d184848538a41580e95adc",
+      "size": 907172417,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/ocean/20260524/lineage-22.2-20260524-nightly-ocean-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/ocean/20260531/lineage-22.2-20260531-nightly-ocean-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/ocean/20260524/boot.img",
-      "sha1": "80e2ef0047f533077cda267149b1e3b6940278db",
-      "sha256": "48546cc8cfaa3053e5da3f710fa9cd4d3ea419fd09b4577380497209718479ad",
+      "filepath": "/full/ocean/20260531/boot.img",
+      "sha1": "ef0ed14d8614597d586caf7ba483592162d680ae",
+      "sha256": "5d12de03e3e107c6c0f4ae56c35e70600eb36b1638358dd09e598509c7d7c8eb",
       "size": 28135424,
-      "url": "https://mirrorbits.lineageos.org/full/ocean/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ocean/20260531/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/ocean/20260524/dtbo.img",
+      "filepath": "/full/ocean/20260531/dtbo.img",
       "sha1": "de26b067c2e9fde7acb366937c35ff93076d30d0",
       "sha256": "7a469df7534047a7eae099914971975267e978939e3d590ea48d52e29f90d1b6",
       "size": 1789359,
-      "url": "https://mirrorbits.lineageos.org/full/ocean/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/ocean/20260531/dtbo.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:2769:96167,payload.bin:2769:907166504,payload_properties.txt:907169331:154,apex_info.pb:1565:1157,metadata:69:604,metadata.pb:741:776                  ",
   "type": "nightly",
   "version": "22.2"
 }
