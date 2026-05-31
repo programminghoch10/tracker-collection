@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-24",
-  "datetime": 1779580992,
+  "date": "2026-05-31",
+  "datetime": 1780198621,
   "files": [
     {
-      "date": "2026-05-24",
-      "datetime": 1779580992,
-      "filename": "lineage-23.2-20260524-nightly-miami-signed.zip",
-      "filepath": "/full/miami/20260524/lineage-23.2-20260524-nightly-miami-signed.zip",
+      "date": "2026-05-31",
+      "datetime": 1780198621,
+      "filename": "lineage-23.2-20260531-nightly-miami-signed.zip",
+      "filepath": "/full/miami/20260531/lineage-23.2-20260531-nightly-miami-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "5ec4aa27adb9e71583a7ccdf95dd278d3d1b533a",
-      "sha256": "699d45453be3d1c6b0b377a6be12c3f94d86a58b74be2c754bcf3171c6ad2a5d",
-      "size": 1173254301,
+      "ota_property_files": "payload_metadata.bin:4160:133369,payload.bin:4160:1173258109,payload_properties.txt:1173262327:156,apex_info.pb:1978:1279,care_map.pb:3304:809,metadata:69:679,metadata.pb:816:1114                        ",
+      "sha1": "a84cf95344d49e363c76c3c173950fe4a98ee3e8",
+      "sha256": "5eccfb7be0babb3a516540ea9308cad5555bbea3aecbefa2bd8a39e698016b54",
+      "size": 1173265474,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260524/lineage-23.2-20260524-nightly-miami-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260531/lineage-23.2-20260531-nightly-miami-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/miami/20260524/boot.img",
-      "sha1": "e954443fe783753064a0212b790f04e6f61ca4d7",
-      "sha256": "a2a9724fb48b7fbccdd6fd2802a6edf78c792a673df9ff5420d5d9308b0ba908",
+      "filepath": "/full/miami/20260531/boot.img",
+      "sha1": "cedefb5422606c5e6fa12e337f8e49a155ea1c06",
+      "sha256": "1c39c9dae8b12d3b905be6d301e4d1a30ecb0d8d454c435385f2076ecfb8accb",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260524/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260531/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/miami/20260524/dtbo.img",
-      "sha1": "a8fb6e0594beffb23650f7e49cb12e769851dd09",
-      "sha256": "953e642f524e87b5d53d8703500dc3e729534a84d4fe8787c26cbbb1ed8b158b",
+      "filepath": "/full/miami/20260531/dtbo.img",
+      "sha1": "da78c4730278f3c800be2dbc4abbc4df74553796",
+      "sha256": "6fe509ed36ca8f5bc10972d650b72d50c0ba72e14464bfe325750fcf5b1d9736",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260524/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260531/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/miami/20260524/super_empty.img",
+      "filepath": "/full/miami/20260531/super_empty.img",
       "sha1": "42c82b4cf345724eb94013ba0218a6f9d83dbb38",
       "sha256": "edf5be1e849763d3c8e9ec0e69fd6b85e7bd02b43d01ee8f5430cf852482676f",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260524/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260531/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/miami/20260524/vbmeta.img",
-      "sha1": "43ee38d03c1ad7c233f9f206e02f69c96728f6ac",
-      "sha256": "5e0ed20d63b04b68f6cc0d24751d019817d4249d4caa122c7e503b1340efb387",
+      "filepath": "/full/miami/20260531/vbmeta.img",
+      "sha1": "4b52a5f6541d548c94bc18f7602ba22134e83b21",
+      "sha256": "32e2888a3354fc4b62981c62901a3b7f23a525055653b70ee3237567e74cdd49",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260524/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260531/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/miami/20260524/vendor_boot.img",
-      "sha1": "792c9211ee235846de4e48342eefdd7580a31ebf",
-      "sha256": "10952226ff291cecab410f4a59204b7be74ede68ced897970452a45dda8da708",
+      "filepath": "/full/miami/20260531/vendor_boot.img",
+      "sha1": "a6d9fd00096bb759385a410ebdc53e4e4618347b",
+      "sha256": "8558c7539f75b9b477b16859ecfe2ec2caad0b2798543e4fda7fbbf53df9a4d9",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260524/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260531/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4160:133369,payload.bin:4160:1173258109,payload_properties.txt:1173262327:156,apex_info.pb:1978:1279,care_map.pb:3304:809,metadata:69:679,metadata.pb:816:1114                        ",
   "type": "nightly",
   "version": "23.2"
 }
