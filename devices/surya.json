@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779682235,
+  "date": "2026-06-01",
+  "datetime": 1780282627,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779682235,
-      "filename": "lineage-22.2-20260525-nightly-surya-signed.zip",
-      "filepath": "/full/surya/20260525/lineage-22.2-20260525-nightly-surya-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780282627,
+      "filename": "lineage-22.2-20260601-nightly-surya-signed.zip",
+      "filepath": "/full/surya/20260601/lineage-22.2-20260601-nightly-surya-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "adc72ab8ab10520f2c47915a38a14fb7f647f7d8",
-      "sha256": "27b7f2dc5e7484b9cd05070606681c9a551f19b1685505a5f9a7bf60973dfec8",
-      "size": 1400693113,
+      "ota_property_files": "metadata:69:333,metadata.pb:470:219                 ",
+      "sha1": "79bf64ee1f1f1a15f0ffb7148022ecb49857f710",
+      "sha256": "400c7ab463429ef8b53e9faaa81d4660769593e3f2984e4231310b162c4fbb8b",
+      "size": 1400473821,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260525/lineage-22.2-20260525-nightly-surya-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260601/lineage-22.2-20260601-nightly-surya-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/surya/20260525/boot.img",
-      "sha1": "9be1b2be464eba80bab007cd7d5cc4fc35c29732",
-      "sha256": "40f515f564abcaefb0263531c5e6b0c3ccf2124f10075ff62432c850d4bb1065",
+      "filepath": "/full/surya/20260601/boot.img",
+      "sha1": "29d0ed0cafe0ee325c8c2bc2d8a29b9be7e928b9",
+      "sha256": "6ce1bbe9f1ada764c77f0b5ac91709bc90585d5afdc453598c6ae2b756f77c69",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260601/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/surya/20260525/dtbo.img",
-      "sha1": "7d71710fb9317905b05aa7c9c9c14bbe15218345",
-      "sha256": "f0b6fdf80e9c8213dc29f7a5586881db02d207cf57d92bd0b477982a3ce51ec0",
+      "filepath": "/full/surya/20260601/dtbo.img",
+      "sha1": "c3e257d407a15dd1faee1c1fcfdd24da3aa3ebae",
+      "sha256": "7d04fa41bfb60241debdad27b7b24503295d763bd2cc1d9f63ab50065def213a",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260601/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/surya/20260525/recovery.img",
-      "sha1": "73a3f8f41e91719b1c3ff5305f2a7392099d66a5",
-      "sha256": "4199934e6b7daa0a4bb77cf58d28ab6b62dd0c8011f986c9e613fd8e356ca0da",
+      "filepath": "/full/surya/20260601/recovery.img",
+      "sha1": "ac6c8617da7973ae5d53f81b0824c3efd3ee0634",
+      "sha256": "59f4eeedfc3c8b96a7cc50304b45a0d32db02baea83253e09b3902b99eb0e1ad",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260601/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/surya/20260525/super_empty.img",
+      "filepath": "/full/surya/20260601/super_empty.img",
       "sha1": "d5448da4d5a43d010a268d0d14e40b50b0772bfa",
       "sha256": "1acfeb9584b9769d4947c28f349b66f866a3099b6c2803b9c78f282662457344",
       "size": 4592,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260525/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260601/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/surya/20260525/vbmeta.img",
-      "sha1": "d071e1d61b5fcc05b1bba630bb50a2a468d0277d",
-      "sha256": "4022729222b46fedd6597d0e0eae7cd35af10bb27beca5e8ea943efeccc066ab",
+      "filepath": "/full/surya/20260601/vbmeta.img",
+      "sha1": "46943c8e66c7058272b96a184a9afcacea4718ff",
+      "sha256": "66e28e314cbd92a9e34c6ed3f136226bb9d98605e3e44827a3587cde40bd914a",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260601/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:333,metadata.pb:470:219                 ",
   "type": "nightly",
   "version": "22.2"
 }
