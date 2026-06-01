@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779710672,
+  "date": "2026-06-01",
+  "datetime": 1780311281,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779710672,
-      "filename": "lineage-23.2-20260525-nightly-corvette-signed.zip",
-      "filepath": "/full/corvette/20260525/lineage-23.2-20260525-nightly-corvette-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780311281,
+      "filename": "lineage-23.2-20260601-nightly-corvette-signed.zip",
+      "filepath": "/full/corvette/20260601/lineage-23.2-20260601-nightly-corvette-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "3c49c10906285da189db6d92a8f38faca6c68289",
-      "sha256": "44171a98b97ce064888939f78c8a46cd2ea1db9695162b08a3dda49b67ec82f3",
-      "size": 3071743146,
+      "ota_property_files": "payload_metadata.bin:5025:221413,payload.bin:5025:3071764075,payload_properties.txt:3071769158:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
+      "sha1": "7eceb6d098a0703eca28e8bfe722ee3c75c6cf9a",
+      "sha256": "caf9700f49d000dc7e75c17ae8d6695dbd51268bb14ae9701a3d95ce26b38eb0",
+      "size": 3071772305,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/lineage-23.2-20260525-nightly-corvette-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/lineage-23.2-20260601-nightly-corvette-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/corvette/20260525/boot.img",
-      "sha1": "8a6e159b9d458c92bc47b6b52718ccee4aa1736a",
-      "sha256": "26c8897375ff36138c0ec3947ed087621ed06b464bc4da643027197c93f895cf",
+      "filepath": "/full/corvette/20260601/boot.img",
+      "sha1": "60e09199d7a6e2145c981bf202edccd7521f138a",
+      "sha256": "91f770c677bf629788d064e19fe1eba879e9730653f89faa1a500ed6bb1e0398",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/corvette/20260525/dtbo.img",
-      "sha1": "c0b324c2b020d5837ca1fbdce3da004b82982432",
-      "sha256": "712e4fa806c9200a46113ec0c9c2b5fde5c1a6ef20f36e19fd91129b77bdd8f7",
+      "filepath": "/full/corvette/20260601/dtbo.img",
+      "sha1": "51510f5d7722aa81baed92878123cead5d371dda",
+      "sha256": "110d979944204cca0b4b643953387fa51e046a3dbe3bb49ab1548a1e12f27f27",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/corvette/20260525/init_boot.img",
-      "sha1": "6770589c449c4fdbdb261c016812b6d354f7a81a",
-      "sha256": "28d7f25c8cc59eec90d580c443e354b92e41e1f2e8a0a84d1503e88c0eec74fa",
+      "filepath": "/full/corvette/20260601/init_boot.img",
+      "sha1": "cb7487c3771d84f2c0f79654915cbc854ac8316a",
+      "sha256": "47c4b641aaf246cea2142aea88059c94f1b6b5ac3c24c9c8f57de751bad14901",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/corvette/20260525/recovery.img",
-      "sha1": "edb80c62690bf468600b4f1e77515c91567bd7f5",
-      "sha256": "7ac3fda2d3230c54990eed5c8a00e172a373756c41ed3a2cd9e2c9a4ed142919",
+      "filepath": "/full/corvette/20260601/recovery.img",
+      "sha1": "f9c7556998d1d1a345c50e82f10e9d44ac5824a3",
+      "sha256": "b21564c91413ba2660d426b5d2114d905e7662e7deaeba8daabec03cc6482f20",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/corvette/20260525/super_empty.img",
+      "filepath": "/full/corvette/20260601/super_empty.img",
       "sha1": "547ff4ea96448708881973471999209714ed7824",
       "sha256": "9ee6b4a2ea937c6e5f098019fdf4d991f1c7d7a2c7fe17f458b102f759afec65",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/corvette/20260525/vbmeta.img",
-      "sha1": "9c2975347a2c5b1ee1561d090e26f6a9bdb5c354",
-      "sha256": "8966f59007841504ff9ac93255b0fb9b7f4f590e9d8779d188e6f0df856efd44",
+      "filepath": "/full/corvette/20260601/vbmeta.img",
+      "sha1": "907665e38e239b887c0f3c68d77c45c62f897ce6",
+      "sha256": "7755b50b19901a5e5529fafc0087166df75f4ebdaec59006aaf76a55d1304f83",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/corvette/20260525/vendor_boot.img",
-      "sha1": "a4fd4180a4a04b6fbd886b39c0b2741c6d762111",
-      "sha256": "36aa05812e94b37883bcc7eb5742c5eba4778cb65dd68016a40130550335812a",
+      "filepath": "/full/corvette/20260601/vendor_boot.img",
+      "sha1": "506dbd19a013412aab55de410cf013ce7429ba78",
+      "sha256": "bd04236697ec37ad1dd182d7dc899ccba7a2d7cf4dd713ebbbc21b96b8cfe204",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260525/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260601/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5025:221413,payload.bin:5025:3071764075,payload_properties.txt:3071769158:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
   "type": "nightly",
   "version": "23.2"
 }
