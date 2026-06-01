@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779685677,
+  "date": "2026-06-01",
+  "datetime": 1780318037,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779685677,
-      "filename": "lineage-22.2-20260525-nightly-miatoll-signed.zip",
-      "filepath": "/full/miatoll/20260525/lineage-22.2-20260525-nightly-miatoll-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780318037,
+      "filename": "lineage-22.2-20260601-nightly-miatoll-signed.zip",
+      "filepath": "/full/miatoll/20260601/lineage-22.2-20260601-nightly-miatoll-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "752aaa6d75d44d8ed035f6125588a081fdb4cd98",
-      "sha256": "84e5054b34284c5bd96b10f0501f53a3cfbb6a2a8971adb42eaac9ce334cc5ba",
-      "size": 1347130863,
+      "ota_property_files": "metadata:69:368,metadata.pb:505:282                 ",
+      "sha1": "bbf0e697484eba2f636f75071ad69763f7bffa39",
+      "sha256": "d8afdf2519dcc158d5cba1a883f6a0acec1a82799a9a054913a04ce433b960ee",
+      "size": 1347041683,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260525/lineage-22.2-20260525-nightly-miatoll-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260601/lineage-22.2-20260601-nightly-miatoll-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/miatoll/20260525/boot.img",
-      "sha1": "8a08918b8c74267e35e831366d81ff8eef0ae24f",
-      "sha256": "845147dd1b80a82dd636788d814f3a64df27415320353b8b12a6ae2bcf405182",
+      "filepath": "/full/miatoll/20260601/boot.img",
+      "sha1": "e05290b6c94a84ac2449954dfbb13037745505b0",
+      "sha256": "cb6d240af2d790f61b994e26177e90b85eea23916426bcd7d693f42800d514f9",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260601/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/miatoll/20260525/dtbo.img",
-      "sha1": "421c25686c6cf40086a78e4fa84c99113e6caed8",
-      "sha256": "cd62ad20c6533b41153e53694f8d94f72c631a0e744535c0bdda22ca3fcc98fc",
+      "filepath": "/full/miatoll/20260601/dtbo.img",
+      "sha1": "438ac0acbc4a954a65213fe4eb483ad16691dcc1",
+      "sha256": "2aa26da90ded00a6d00911e12736f329cf20a66abed76a4541d4b07d3a8b53df",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260601/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/miatoll/20260525/recovery.img",
-      "sha1": "3b2fb74d85f91f83875f06a9740d8d6fa4ee4b49",
-      "sha256": "a56b5193a58a70540e3a0113d3610d483ed863f8a3b9661d0b8a1bd64622ae77",
+      "filepath": "/full/miatoll/20260601/recovery.img",
+      "sha1": "ead4669563e193305e4353719f28bd9ffd9540df",
+      "sha256": "6793e767b233f8d4e69cbe1ceec031f8dbcbb89c259589306a0de7033e478699",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260601/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/miatoll/20260525/super_empty.img",
+      "filepath": "/full/miatoll/20260601/super_empty.img",
       "sha1": "4cf19d0697b1d3ebea038ce4f5e2063425da48e9",
       "sha256": "60488a0960f0742f20ac8d35bbddadd91622e8ad17fb35d344d60c29fd8fcc91",
       "size": 4592,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260525/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260601/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/miatoll/20260525/vbmeta.img",
-      "sha1": "07f27c3c03b545d3aaf15ad83922fce125fbc868",
-      "sha256": "9180aebaf71e07f86eb60fcd9d3811519a08be61e1f86d2fb05a9080ecb99727",
+      "filepath": "/full/miatoll/20260601/vbmeta.img",
+      "sha1": "7b77f2205f6ae32bc4935763b9313695f3b814fd",
+      "sha256": "320bb5b05ef15d4a22231ed5bee43ae52d91ab0ecb8a7bf92de07dbbeda6acd5",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/miatoll/20260601/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:368,metadata.pb:505:282                 ",
   "type": "nightly",
   "version": "22.2"
 }
