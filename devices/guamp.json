@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779705008,
+  "date": "2026-06-01",
+  "datetime": 1780309214,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779705008,
-      "filename": "lineage-23.2-20260525-nightly-guamp-signed.zip",
-      "filepath": "/full/guamp/20260525/lineage-23.2-20260525-nightly-guamp-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780309214,
+      "filename": "lineage-23.2-20260601-nightly-guamp-signed.zip",
+      "filepath": "/full/guamp/20260601/lineage-23.2-20260601-nightly-guamp-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "c80b0cadfeab79d97742c40a81a41f66f4025b58",
-      "sha256": "fe33b9ae0798aa42a3b59f102566cc56483a91f2383c63d0de03b010caf53d7f",
-      "size": 1072199206,
+      "ota_property_files": "payload_metadata.bin:4012:141825,payload.bin:4012:1072230071,payload_properties.txt:1072234141:156,apex_info.pb:1848:1279,care_map.pb:3174:791,metadata:69:675,metadata.pb:812:988                         ",
+      "sha1": "711c8e70d914febc6d7548e07bfc0d2f1a513950",
+      "sha256": "ae8066439cf75822f6ed2da2620de5c66c904c356fdbad33d9c9ffe9e43b6f83",
+      "size": 1072237288,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260525/lineage-23.2-20260525-nightly-guamp-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260601/lineage-23.2-20260601-nightly-guamp-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/guamp/20260525/boot.img",
-      "sha1": "7d96d1fc64ff8051de50b2093d546d773fd2316d",
-      "sha256": "0bfa1131a366b75a35688f85dd49a6b2224304430364780b93ca88cb2b80ec2a",
+      "filepath": "/full/guamp/20260601/boot.img",
+      "sha1": "cbb0573c7ed497e933162af972c3ef8e47d3625c",
+      "sha256": "6522b00364ae5d90df4719d4e30beacab06ea9d1e2da337ab2486cb9f5aa78ab",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260601/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/guamp/20260525/dtbo.img",
-      "sha1": "d809ff4ed87599f2c338cb74ce6a43654342f128",
-      "sha256": "e3f0222d1c360120f5c9d62d37ee9e6ed790edb541738830e1411a95c6df5906",
+      "filepath": "/full/guamp/20260601/dtbo.img",
+      "sha1": "4ad2b9b46789dc724297d8842cd5137cdb75f85c",
+      "sha256": "257c8dad742259f2e035841dcc218c16d076f6922c8fc6468aff409bcdfb1481",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260601/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/guamp/20260525/recovery.img",
-      "sha1": "31479a46032042b22408c7ff614d6bb59e7cc879",
-      "sha256": "dfc23821006642748f0b99206cd945732d972575dd98eae229d7307bf976e0a6",
+      "filepath": "/full/guamp/20260601/recovery.img",
+      "sha1": "0408f8c09e91f605d9469b58b62ba5dd48e52bfe",
+      "sha256": "6d54f09a6128173d9e0d9b061d86478e0030a7c3e1c7fd1cb30958afe5ec9595",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260601/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/guamp/20260525/super_empty.img",
+      "filepath": "/full/guamp/20260601/super_empty.img",
       "sha1": "ef8c432e858b397c9e11a84b9973c3d698af8a21",
       "sha256": "4cca67ce901e9256d62f4aca5efae677833f703080b952e512036d9b0adb3019",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260525/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260601/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/guamp/20260525/vbmeta.img",
-      "sha1": "2d200a929132fd4d9d11a5b87a05d59ee7d31380",
-      "sha256": "a33e26174040b9b33d8a7823648860f99c09fb7673961bc10be5f34a850b6a94",
+      "filepath": "/full/guamp/20260601/vbmeta.img",
+      "sha1": "4f577f6cac2803bd17cc0cfaba79ecdd50c78f75",
+      "sha256": "100750f3ce86928a69e8539264ec6f9375d939f6ff489b4911d6afa4db905964",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/guamp/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20260601/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4012:141825,payload.bin:4012:1072230071,payload_properties.txt:1072234141:156,apex_info.pb:1848:1279,care_map.pb:3174:791,metadata:69:675,metadata.pb:812:988                         ",
   "type": "nightly",
   "version": "23.2"
 }
