@@ -1,39 +1,41 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779686734,
+  "date": "2026-06-01",
+  "datetime": 1780301133,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779686734,
-      "filename": "lineage-22.2-20260525-nightly-cheeseburger-signed.zip",
-      "filepath": "/full/cheeseburger/20260525/lineage-22.2-20260525-nightly-cheeseburger-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780301133,
+      "filename": "lineage-22.2-20260601-nightly-cheeseburger-signed.zip",
+      "filepath": "/full/cheeseburger/20260601/lineage-22.2-20260601-nightly-cheeseburger-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "452827f932d12e944676fcfd75c33873a110185a",
-      "sha256": "4110abd2ea5cd6af440e539583ea1e097e3f0b14fc6056a98909a99f8de217da",
-      "size": 1072196235,
+      "ota_property_files": "metadata:69:350,metadata.pb:487:256                 ",
+      "sha1": "3ef53eed09549016c70d29d10a66c253030eb76b",
+      "sha256": "b2a0b3e5829e5ea13109e9676e0ed7e139c1c2a76d1469e560edf06693713d11",
+      "size": 1072257516,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cheeseburger/20260525/lineage-22.2-20260525-nightly-cheeseburger-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cheeseburger/20260601/lineage-22.2-20260601-nightly-cheeseburger-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cheeseburger/20260525/boot.img",
-      "sha1": "4e6208c5665cc3936d327c18f2976089185042d3",
-      "sha256": "d4c87e0deee36e1434bac2b2c85d75ad01fe130caf1301d4499c6417958d3382",
+      "filepath": "/full/cheeseburger/20260601/boot.img",
+      "sha1": "07faa75e36dd97939398f0d9a9b4b0cb410d8519",
+      "sha256": "dca22cf9cf328e37fcac2c804fd6d3208cc222bd906a18b1518e459d6b4de613",
       "size": 17653760,
-      "url": "https://mirrorbits.lineageos.org/full/cheeseburger/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheeseburger/20260601/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/cheeseburger/20260525/recovery.img",
-      "sha1": "0249d4bab62723953495e8131fbde7d35a4a972b",
-      "sha256": "265834572c676cb4c131077255590ae7cf1f4af645fee0c7443969f501e45353",
+      "filepath": "/full/cheeseburger/20260601/recovery.img",
+      "sha1": "ce12d9150e9d5711d566668ce21dc3c959ae8bb2",
+      "sha256": "a7442f71f0d52ccefe97d3e7be944fe3fc630a44d955dc26e8e5e83f99d154be",
       "size": 30584832,
-      "url": "https://mirrorbits.lineageos.org/full/cheeseburger/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheeseburger/20260601/recovery.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:350,metadata.pb:487:256                 ",
   "type": "nightly",
   "version": "22.2"
 }
