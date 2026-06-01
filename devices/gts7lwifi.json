@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779674183,
+  "date": "2026-06-01",
+  "datetime": 1780272125,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779674183,
-      "filename": "lineage-23.2-20260525-nightly-gts7lwifi-signed.zip",
-      "filepath": "/full/gts7lwifi/20260525/lineage-23.2-20260525-nightly-gts7lwifi-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780272125,
+      "filename": "lineage-23.2-20260601-nightly-gts7lwifi-signed.zip",
+      "filepath": "/full/gts7lwifi/20260601/lineage-23.2-20260601-nightly-gts7lwifi-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "86bc2bdd6d9495b7217493b7f907cf7faf9c80a5",
-      "sha256": "48007ebe88374a501a001caba204d1e1c1d8ddaf78146131f954096ac41b4452",
-      "size": 1274013537,
+      "ota_property_files": "metadata:69:335,metadata.pb:472:219                 ",
+      "sha1": "c13a554924645f36febd3973e0cd123a2c45c5e8",
+      "sha256": "c812909035d7c7ba9097ee5fe00318872838a72fbb5b219a6224f9295d1967f2",
+      "size": 1274110020,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260525/lineage-23.2-20260525-nightly-gts7lwifi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260601/lineage-23.2-20260601-nightly-gts7lwifi-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/gts7lwifi/20260525/boot.img",
-      "sha1": "572364d6fe5d593e98740a16f2d51b11ef7fcd22",
-      "sha256": "baf017d2f98e6fd51d47e5aabe0ad78e08f16666aa6a6d0a25c1974ab256ddf7",
+      "filepath": "/full/gts7lwifi/20260601/boot.img",
+      "sha1": "1ee7345e5549764aa9eea150f65c37c1f2e43c1d",
+      "sha256": "2289239019ec04ebc0c79c0b0ac5e0aa7cb01f84e1dd0a11a9911dc90a4a1536",
       "size": 71303168,
-      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260601/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/gts7lwifi/20260525/dtbo.img",
-      "sha1": "afe99d154ff60c5832e4371ca09efc207fdf7f08",
-      "sha256": "1822eb80bfb4b42da3df66b44c077b4177d46ac6c462de9bf72e6d8c7560fbc6",
+      "filepath": "/full/gts7lwifi/20260601/dtbo.img",
+      "sha1": "6afe505a4ae7fbf412e59559dc0c4223c2438b25",
+      "sha256": "196b0486e9b6160fbd0fe310a57b6ba0e0ee3d8a34f468c1f5abc40a8b33327e",
       "size": 10485760,
-      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260601/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/gts7lwifi/20260525/recovery.img",
-      "sha1": "16dccfb10e54046ef7260b49467bc3c7aa97f220",
-      "sha256": "5f490f9136d0d588bb6c0b49bfd83f7571ed62505ea0a5a00e8d64deb2d3bf29",
+      "filepath": "/full/gts7lwifi/20260601/recovery.img",
+      "sha1": "a8c86829329a89c5993f255796199a41165453c5",
+      "sha256": "ce6a5fc269ce3ed92f78d93cb661f5b159ef5f85ca7d78d608513dbf3b9398cf",
       "size": 86888448,
-      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260601/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/gts7lwifi/20260525/super_empty.img",
+      "filepath": "/full/gts7lwifi/20260601/super_empty.img",
       "sha1": "a532f5af76aa976031d47ee51f7a5b52a4ddcf0a",
       "sha256": "3c15db5ccb16c8e032485cab9da1117df4c980c993947ea2ac820afcc096562d",
       "size": 4644,
-      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260525/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260601/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/gts7lwifi/20260525/vbmeta.img",
-      "sha1": "9194fbc8efea8879f5e70086700f21e10e26d65a",
-      "sha256": "89970c99ae4d235fede8a8c87ee358383932e7434895425b8fb8cb38a82cce1c",
+      "filepath": "/full/gts7lwifi/20260601/vbmeta.img",
+      "sha1": "b6f20597aa144f5c5ee663a690389d505d246ecd",
+      "sha256": "d5fe45f8d280577639d649d797812bf678db25b8afd5fa50da64da67b4668b08",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20260601/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "metadata:69:335,metadata.pb:472:219                 ",
   "type": "nightly",
   "version": "23.2"
 }
