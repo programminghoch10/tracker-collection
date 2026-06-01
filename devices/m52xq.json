@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779689388,
+  "date": "2026-06-01",
+  "datetime": 1780285520,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779689388,
-      "filename": "lineage-23.2-20260525-nightly-m52xq-signed.zip",
-      "filepath": "/full/m52xq/20260525/lineage-23.2-20260525-nightly-m52xq-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780285520,
+      "filename": "lineage-23.2-20260601-nightly-m52xq-signed.zip",
+      "filepath": "/full/m52xq/20260601/lineage-23.2-20260601-nightly-m52xq-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "8b5535e85ba3636981abd2ba85f37fd0adf757c7",
-      "sha256": "8a88ac0364b7a4361b10a837fd627a3cee79f1754174f8a9478ab5f5c06daba7",
-      "size": 1268536500,
+      "ota_property_files": "metadata:69:325,metadata.pb:462:205                 ",
+      "sha1": "9fef21046dcacfb917c0737861a70a59469bd9db",
+      "sha256": "0436384e1d3e1da18369c51a5dee2c2712adcf630879db057a4e5a942e2ac4bc",
+      "size": 1268737215,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260525/lineage-23.2-20260525-nightly-m52xq-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260601/lineage-23.2-20260601-nightly-m52xq-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/m52xq/20260525/boot.img",
-      "sha1": "3b13be9eba7bd22d52255f5326e1f8a83f0ea373",
-      "sha256": "8e6f8a92dacb9de26da50a52307d16bfb16a9ed24112ae42f65c6a1ce3ca038b",
+      "filepath": "/full/m52xq/20260601/boot.img",
+      "sha1": "141fd94eae9e47100ac14bb9085f34f01135eecc",
+      "sha256": "d4d28bf7c2df3a7608d376e3b84f9a5b105410e8e879db2253184b4a3844b6d2",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260601/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/m52xq/20260525/dtbo.img",
-      "sha1": "33e4134e613135b56429d5f3a4d3357eefb05198",
-      "sha256": "69edd43bd33722725db0a34d7bed481155dd33d1f71a22822c7a890d5e92d4f1",
+      "filepath": "/full/m52xq/20260601/dtbo.img",
+      "sha1": "61611be95ea52f8608ae8b930454244f763b8376",
+      "sha256": "160b6702f4d96cc72f907cfba63649468d1191af696856e8319745e36d964cfa",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260601/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/m52xq/20260525/recovery.img",
-      "sha1": "89dfb352582f4e1d40bdd19e106c9b38dc2926df",
-      "sha256": "caa6b2df2e6887b265b6a70e9147f4378ba67f72fbc2cd52211e4d000973966e",
+      "filepath": "/full/m52xq/20260601/recovery.img",
+      "sha1": "8afc9fb9e92f1ff9b29b8617ca2539f04e4a490f",
+      "sha256": "d63f131098e1a3ff9e86884bb9f3b9c4cf88652db35be7106984956c5e5297d4",
       "size": 81788928,
-      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260601/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/m52xq/20260525/vbmeta.img",
-      "sha1": "3074dd28649bcc7d0da6cfd953e7690d6b976620",
-      "sha256": "bb5035fb53820e1bdda9a41836b510717a04adbf82743a449e39ecde8636976f",
+      "filepath": "/full/m52xq/20260601/vbmeta.img",
+      "sha1": "9dcf7c00dc4e52466dbcddec48494af94269b92c",
+      "sha256": "2425aba17a5c48bbcc75b95694cfb08dffe6772b899d0fc14daf5ce2f1d684c2",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260601/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/m52xq/20260525/vendor_boot.img",
-      "sha1": "6fcdfd2f27cee6de92fe12ba1b8f404ffb688ac0",
-      "sha256": "5466a28269bef94baa1dac3bcebb01efd8aa4f723a96fd7e5ddea6178c74e487",
+      "filepath": "/full/m52xq/20260601/vendor_boot.img",
+      "sha1": "6d20a25e2e277116189178837dc434a6ab5ffe3d",
+      "sha256": "2dbb342108887ab78aa4f36eda2de2c147d68911ce18c00454ee74de5ddcb97b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260525/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/m52xq/20260601/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "metadata:69:325,metadata.pb:462:205                 ",
   "type": "nightly",
   "version": "23.2"
 }
