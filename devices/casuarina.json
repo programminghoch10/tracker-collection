@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-25",
-  "datetime": 1779678424,
+  "date": "2026-06-01",
+  "datetime": 1780295174,
   "files": [
     {
-      "date": "2026-05-25",
-      "datetime": 1779678424,
-      "filename": "lineage-22.2-20260525-nightly-casuarina-signed.zip",
-      "filepath": "/full/casuarina/20260525/lineage-22.2-20260525-nightly-casuarina-signed.zip",
+      "date": "2026-06-01",
+      "datetime": 1780295174,
+      "filename": "lineage-22.2-20260601-nightly-casuarina-signed.zip",
+      "filepath": "/full/casuarina/20260601/lineage-22.2-20260601-nightly-casuarina-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "b3bf31a82673d1406d22101d03d5b67db46e24f3",
-      "sha256": "b8f25dbc70f418887957fdf3f9ef776a8680ad5a307f1f87e64d9341821b3fdb",
-      "size": 1126558730,
+      "ota_property_files": "metadata:69:347,metadata.pb:484:232                 ",
+      "sha1": "6960845edde48b075b219c3945371c6ee33f0a80",
+      "sha256": "b3a5df02e0d1b7aa961fb78c7d3427fad84c50ee840ec02fc0625c7a357d456f",
+      "size": 1126631067,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260525/lineage-22.2-20260525-nightly-casuarina-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260601/lineage-22.2-20260601-nightly-casuarina-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/casuarina/20260525/boot.img",
-      "sha1": "f361101e5c87d461192a704670a3b136fde334d3",
-      "sha256": "f278c1f9f87a04ce350517a7c3c52d0c9eb24c9b92f359712de32dfb18702e5c",
+      "filepath": "/full/casuarina/20260601/boot.img",
+      "sha1": "ee05326ee8a3bf878c314d53687aee4cafb0f824",
+      "sha256": "1353366bd30055db4389702f95a6fff463fa83876fb662d14d8277d0a6d9ef68",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260525/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260601/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/casuarina/20260525/dtbo.img",
-      "sha1": "7247d46d0b05c0c2f8e36671ea36a10c16d574b8",
-      "sha256": "b284415a00a4967e693d4ec986fd78547a3c99e3d454942f9f21be4f3e97e512",
+      "filepath": "/full/casuarina/20260601/dtbo.img",
+      "sha1": "7f8690cbe2b1381c0943b8e2b98c05bb02c89d7e",
+      "sha256": "f30d86c3dfa094596f36261fd23a3566ac09f829dbae38ff6437fb4da2f60973",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260525/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260601/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/casuarina/20260525/recovery.img",
-      "sha1": "a2612a9cd3e5d2a84b746d026647d9d777f2076c",
-      "sha256": "9c70d47bdab36dbcf3ec9c29856c0a48074adc404a7a42879249746e273b8985",
+      "filepath": "/full/casuarina/20260601/recovery.img",
+      "sha1": "6e033c638d6b86013996a34f1e8794c3fe828301",
+      "sha256": "1a3d17d4ffeca64d497f3f204b6e72fded95c239a88d723125f42242dbef363e",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260525/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260601/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/casuarina/20260525/vbmeta.img",
-      "sha1": "a5a1569821baca6e5f1f444b3057fcb23268172b",
-      "sha256": "3834548668d8796abbdb9f5cb7dfccec19c6fb77ccad9331ead214eb08fb82d5",
+      "filepath": "/full/casuarina/20260601/vbmeta.img",
+      "sha1": "eb6c913c76b4391ba5b544af61628fac3c34120e",
+      "sha256": "ee25e7cf704ecc2d5e40845af57d5a9643d07bad0ea2261628de08e3dd0aef74",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260525/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260601/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:347,metadata.pb:484:232                 ",
   "type": "nightly",
   "version": "22.2"
 }
