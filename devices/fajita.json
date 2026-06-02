@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779784162,
+  "date": "2026-06-02",
+  "datetime": 1780358521,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779784162,
-      "filename": "lineage-22.2-20260526-nightly-fajita-signed.zip",
-      "filepath": "/full/fajita/20260526/lineage-22.2-20260526-nightly-fajita-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780358521,
+      "filename": "lineage-22.2-20260602-nightly-fajita-signed.zip",
+      "filepath": "/full/fajita/20260602/lineage-22.2-20260602-nightly-fajita-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "fbc4eb10d123e700bda7b99d568452a5a7990790",
-      "sha256": "be4a723c0b51f841fbe1fade804b051443aaeeec5e28fec846a886d9953b4635",
-      "size": 1075251582,
+      "ota_property_files": "payload_metadata.bin:3581:119043,payload.bin:3581:1075242368,payload_properties.txt:1075246007:156,apex_info.pb:1771:1157,care_map.pb:2975:559,metadata:69:681,metadata.pb:818:905                         ",
+      "sha1": "9fe66cf8043ac8a77862e6eb5a33f1848dc4ac4d",
+      "sha256": "03486b911a9803a6a70d5388f1ff6116f0198126454d087a075a6212119914e8",
+      "size": 1075249158,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260526/lineage-22.2-20260526-nightly-fajita-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260602/lineage-22.2-20260602-nightly-fajita-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/fajita/20260526/boot.img",
-      "sha1": "56e51def1801f2b9ce6dd5d22a9446819234a623",
-      "sha256": "9abe7e9b84df2afccb0b3a643583f4f97f5b1d901e8003a44b5d8c595ecf99db",
+      "filepath": "/full/fajita/20260602/boot.img",
+      "sha1": "f5cb35c531364b6f766850c52b2c8a3480c61fd3",
+      "sha256": "7853ef2efffc8d11d5cd5db5c28d08ef08ca8f358cc8354ac20589a1a5dbdb5d",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/fajita/20260526/dtbo.img",
-      "sha1": "d9b7e856451d8ddd099dfa1ad2587cf96f6119d3",
-      "sha256": "d41467cf84a40182178089255701aeff33316c77a13c54e10adeffb88ee1204c",
+      "filepath": "/full/fajita/20260602/dtbo.img",
+      "sha1": "efbbd9410f0fa546f91274c82618a22d66168597",
+      "sha256": "03e81b3ffdffd6d1f6f47d6af862ff2c37a68dc68773f0fc33584a85985a9d99",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260602/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/fajita/20260526/vbmeta.img",
-      "sha1": "830cfb385b44a57c7c0199483ff65963bed875cc",
-      "sha256": "d536066029c929aa7b2baaafcd61e9d6256d51dc339524107747a40838214a88",
+      "filepath": "/full/fajita/20260602/vbmeta.img",
+      "sha1": "f3aadae2067671fea50c1de5abc65232faccbfcb",
+      "sha256": "7dceb0fc0209cab6621fa26d295c990f11873024b441f51d207e777cb5c49ba0",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260602/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3581:119043,payload.bin:3581:1075242368,payload_properties.txt:1075246007:156,apex_info.pb:1771:1157,care_map.pb:2975:559,metadata:69:681,metadata.pb:818:905                         ",
   "type": "nightly",
   "version": "22.2"
 }
