@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779762370,
+  "date": "2026-06-02",
+  "datetime": 1780391133,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779762370,
-      "filename": "lineage-23.2-20260526-nightly-komodo-signed.zip",
-      "filepath": "/full/komodo/20260526/lineage-23.2-20260526-nightly-komodo-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780391133,
+      "filename": "lineage-23.2-20260602-nightly-komodo-signed.zip",
+      "filepath": "/full/komodo/20260602/lineage-23.2-20260602-nightly-komodo-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "371f4dbd820834317b0cd47793ca4a6a1ee48173",
-      "sha256": "fd09f111d1f6c919fc099d31bc23f3e7bc6153682b009cdbb09369f0d2dc9084",
-      "size": 1589184158,
+      "ota_property_files": "payload_metadata.bin:4784:151920,payload.bin:4784:1589471163,payload_properties.txt:1589476005:156,apex_info.pb:2024:1632,care_map.pb:3703:1034,metadata:69:671,metadata.pb:808:1168                        ",
+      "sha1": "9ce7954c59a340477f83e2742440b6f122942266",
+      "sha256": "cff6bc8c0060daea4dd66f621891627b3be7b86b8249e06e4baa9dc8cd9c4b33",
+      "size": 1589479152,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/lineage-23.2-20260526-nightly-komodo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/lineage-23.2-20260602-nightly-komodo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/komodo/20260526/boot.img",
-      "sha1": "cf5109b884aa2a845de2b2fd0c433254505d3fa1",
-      "sha256": "b4bef635497d54292208836f57085d0bb2eb56c039816c88c7a5f8cfa790771f",
+      "filepath": "/full/komodo/20260602/boot.img",
+      "sha1": "503668dd98029f11c61261af004f18dd4dcf4967",
+      "sha256": "3159eba1f446bcfef3803c8cbb8ad87730de8e4f0085d7faeaa35436cef0dafc",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/komodo/20260526/dtbo.img",
-      "sha1": "067b77496387cbae169b87ac85a0c7edee5faf20",
-      "sha256": "7c2f6e1d2b5410c015692cab1535f0aaff3084665b1092c9c92e9b8a85f1d02c",
+      "filepath": "/full/komodo/20260602/dtbo.img",
+      "sha1": "8dc1ec4696c73981dcf3545592bbde0cd061972e",
+      "sha256": "f49caeab6a4a5cb5dea999392cbbe60624bfad9f4dad0e3c3451dead330af5c6",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/komodo/20260526/init_boot.img",
-      "sha1": "8b30d67e8358c6ba415d6f6f76db05c23747e246",
-      "sha256": "b518289b714d1b73b8a20106b613688c27180cbb6e62ec912e334a79307b08e0",
+      "filepath": "/full/komodo/20260602/init_boot.img",
+      "sha1": "1e4eec46fb1d45ef6dbcb6714e0ff51e9d9be329",
+      "sha256": "bafca9c13f1ce3a03dc1900e907cfa2ab994f5a630dd4aa77f6aa89edeb4e13b",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/komodo/20260526/super_empty.img",
+      "filepath": "/full/komodo/20260602/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/komodo/20260526/vbmeta.img",
-      "sha1": "c83569afda629de59231459927b68f71568001e0",
-      "sha256": "ca436c9539edf59a5d5a14441ac934f1b3c5603e00d8831b735bae4445b2f236",
+      "filepath": "/full/komodo/20260602/vbmeta.img",
+      "sha1": "8f7bc329cdebcdadad781795b19c7b339494aa41",
+      "sha256": "1901d7e6249ae02b6dc29ffbd12448e528b70d2597f36364398f45cd069ae2a6",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/komodo/20260526/vendor_boot.img",
-      "sha1": "35a4b6f29c02c7562ca8afdfc8bb08437d1b8413",
-      "sha256": "5a4ede040000c8e4cb0b8b63e8cf63a4b690ff6b74df90713bcd6716180b5f55",
+      "filepath": "/full/komodo/20260602/vendor_boot.img",
+      "sha1": "8b6d271ccdd93d11334dc9ee4ef74d69091b4bf1",
+      "sha256": "d7b8854a7c49c7edd55c3056234078faac7e3a530187a87457f113175a8df55a",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/komodo/20260526/vendor_kernel_boot.img",
-      "sha1": "edc0698bdc90d58314de52177b1c17a3e70ee153",
-      "sha256": "ed280cfe2ffdcc4f202b4f6c25ef7c0ade901e869ecd3c5f4ec6b6158eb346b0",
+      "filepath": "/full/komodo/20260602/vendor_kernel_boot.img",
+      "sha1": "977a97d2ed552df2b59f8679fe9c0468c83bb719",
+      "sha256": "8843edb77c68cb573608fec874d92300d942200c5cc1ae4436217f18d00e460d",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260526/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260602/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4784:151920,payload.bin:4784:1589471163,payload_properties.txt:1589476005:156,apex_info.pb:2024:1632,care_map.pb:3703:1034,metadata:69:671,metadata.pb:808:1168                        ",
   "type": "nightly",
   "version": "23.2"
 }
