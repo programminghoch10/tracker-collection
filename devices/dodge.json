@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779764538,
+  "date": "2026-06-02",
+  "datetime": 1780382908,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779764538,
-      "filename": "lineage-23.2-20260526-nightly-dodge-signed.zip",
-      "filepath": "/full/dodge/20260526/lineage-23.2-20260526-nightly-dodge-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780382908,
+      "filename": "lineage-23.2-20260602-nightly-dodge-signed.zip",
+      "filepath": "/full/dodge/20260602/lineage-23.2-20260602-nightly-dodge-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "5edeb4a0ca3703f298f1bd37f01ae57db39b8a82",
-      "sha256": "ccd50daba6c42a1866dc22160d41b52854b10cba7ef9763b9c016a1c01e8cab5",
-      "size": 3099182951,
+      "ota_property_files": "payload_metadata.bin:5196:215823,payload.bin:5196:3103055974,payload_properties.txt:3103061228:156,apex_info.pb:2411:1369,care_map.pb:3827:1322,metadata:69:709,metadata.pb:846:1517                        ",
+      "sha1": "740edcf9de1b7b557e83998954c66e4e2baea170",
+      "sha256": "49b8b210ba4e8d348c005f616aa35e9b10ad861a91b7804c88f0332f0dbb5e15",
+      "size": 3103064375,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/lineage-23.2-20260526-nightly-dodge-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/lineage-23.2-20260602-nightly-dodge-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/dodge/20260526/boot.img",
-      "sha1": "1b1ae918a1987c3f6ecc96bf7389f9f1cc99ff65",
-      "sha256": "01bcd9c6295f852be3b1815ccf15d32d2c418c72cf411713cdcd442cb1af53de",
+      "filepath": "/full/dodge/20260602/boot.img",
+      "sha1": "3a9aef16f83d3c241cd2a2c9769826383faaba2d",
+      "sha256": "65740999e74a758e6717b464528791fde543faf320994e72c7b91f4913f42f0c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/dodge/20260526/dtbo.img",
-      "sha1": "6c7836fe7dd0266b5a70d70cb6c81ba1b20aa8a2",
-      "sha256": "9b818f8b610f75c4d675805a4d037976b753862beb97ec0304659792f0821e2d",
+      "filepath": "/full/dodge/20260602/dtbo.img",
+      "sha1": "84402ec7270cacfdd0d014c4c442c7bdf485ac29",
+      "sha256": "2df0968a4f705ff8cfea9965fafb9306b55f11ffb6018e89a1475008ef8ba93b",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/dodge/20260526/init_boot.img",
-      "sha1": "f9bbbe42e527f800fef5a63e5718b0a4bef9739f",
-      "sha256": "f19909a184841c280f8d49dfc6b9de8b2b3f4ea372dc2d7a910ae13a3fbf38e3",
+      "filepath": "/full/dodge/20260602/init_boot.img",
+      "sha1": "5ef70bfc5ffd835acc83ca4aa4815148f4183b01",
+      "sha256": "47d3e10d8ed2a9dcd922d1db3799c5b52bb2476c0cbf2d8b4380a6ee8329cda8",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/dodge/20260526/recovery.img",
-      "sha1": "603adf1ee175f578aec5c5685da43f00346049bc",
-      "sha256": "1134c05a0e014dc667b6d5d3f4fb1560504577889476a1046ece45cd18194ba1",
+      "filepath": "/full/dodge/20260602/recovery.img",
+      "sha1": "5b6295ef77fc69ae917715f4ebc41e57483a7c88",
+      "sha256": "c3d5b3f5d9630cd085a7b3e934817865b0ec9928ce23acefa7e0eed61ba67c10",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/dodge/20260526/super_empty.img",
+      "filepath": "/full/dodge/20260602/super_empty.img",
       "sha1": "16ae3a5d647a825a3666955fd7463e300ae12747",
       "sha256": "f4c40de64d3a1bfb62a46fe8d12a1ee107801cca51a7037d6a058d4379b3d6cf",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/dodge/20260526/vbmeta.img",
-      "sha1": "3183b03c6003185d02e00db1e498c0e2824ccc95",
-      "sha256": "88cb3b3f5896c199b34dcad5950c7766d249eb197c9342ff72c6a5c7fc3312df",
+      "filepath": "/full/dodge/20260602/vbmeta.img",
+      "sha1": "e2509745cee36e0672d1ef77743cc16382d418f5",
+      "sha256": "58e3fc9a58c34e822db7cf9d9cc61e4e2dcf6a8b87bd1dc05269f932ca89f6de",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/dodge/20260526/vendor_boot.img",
-      "sha1": "297146dac12177a2226d5f9e878fc7d5678b892f",
-      "sha256": "9396ea9c98d697b7be8d2d0f0ae14c3dc66aeda82846a72ddbb280f7affc5319",
+      "filepath": "/full/dodge/20260602/vendor_boot.img",
+      "sha1": "f34b22f548dc248d371efacf363c6f28f74b2ef0",
+      "sha256": "f2317077ad94cf26f35ea09b9f72434aa93aa5ffcd878d953946e9ad4fa52da3",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260526/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260602/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5196:215823,payload.bin:5196:3103055974,payload_properties.txt:3103061228:156,apex_info.pb:2411:1369,care_map.pb:3827:1322,metadata:69:709,metadata.pb:846:1517                        ",
   "type": "nightly",
   "version": "23.2"
 }
