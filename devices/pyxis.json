@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779808893,
+  "date": "2026-06-02",
+  "datetime": 1780396766,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779808893,
-      "filename": "lineage-22.2-20260526-nightly-pyxis-signed.zip",
-      "filepath": "/full/pyxis/20260526/lineage-22.2-20260526-nightly-pyxis-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780396766,
+      "filename": "lineage-22.2-20260602-nightly-pyxis-signed.zip",
+      "filepath": "/full/pyxis/20260602/lineage-22.2-20260602-nightly-pyxis-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "9b9e23a12c7986d415a3810e6d73f597c355c3d0",
-      "sha256": "1c907d8bbd8f31aa12b10f00a0e7dc4970e479a3828bf08d6316735bd654261b",
-      "size": 1318434114,
+      "ota_property_files": "metadata:69:329,metadata.pb:466:209                 ",
+      "sha1": "57be2b599e3a318d500ae67e2e26425f5ff089aa",
+      "sha256": "0bdd034bd6d1d0614d33e64624cf81ba201b2435286df673471ab746d1eaefb5",
+      "size": 1318263289,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260526/lineage-22.2-20260526-nightly-pyxis-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260602/lineage-22.2-20260602-nightly-pyxis-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/pyxis/20260526/boot.img",
-      "sha1": "6d7519f344a0570463a5ebb5df5d3e253a0b664c",
-      "sha256": "463ec8589717ee18209211f75b8b9065533ebdc55fd41d127c8bf58522c94852",
+      "filepath": "/full/pyxis/20260602/boot.img",
+      "sha1": "2a575090a994b50d86e0728efddb5f201bbf448f",
+      "sha256": "444e7f6f938945885c51d79b27f02f85d8bb1a06e3c8f956b09ff1169a212c59",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/pyxis/20260526/dtbo.img",
-      "sha1": "40cfb118b4319c9857a12368c53fb20714861c62",
-      "sha256": "52940c3e31511cc8d1607d5822d0618b9890358f84573e47bb72436f2e311537",
+      "filepath": "/full/pyxis/20260602/dtbo.img",
+      "sha1": "b4b627487be9fc14c31620d6a45a0b00b7e30ca9",
+      "sha256": "79d492244e1bfd2356f77ae317f78995887e0e55fb0b3c641e59471c27747c8f",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260602/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/pyxis/20260526/recovery.img",
-      "sha1": "4683e5aae3eab888099e1e13619ea0cfa8562d13",
-      "sha256": "04b7d78e65172f5d7592f6cf704ce41cba270e1e6c461ee5de070dc3421d4080",
+      "filepath": "/full/pyxis/20260602/recovery.img",
+      "sha1": "b8db171bef0b1b5d42d7797a3cecde0956695783",
+      "sha256": "9927ad33dd21a99554f9c08dfaaf2370e8eba6660e1c89e157a088155fcb3208",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260526/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260602/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/pyxis/20260526/super_empty.img",
+      "filepath": "/full/pyxis/20260602/super_empty.img",
       "sha1": "c3fa809c333fb2b9ce98d2ee2e2525490d39e839",
       "sha256": "bacc830739789f2d169a8eda7e67b129cab5d8680c4f47cd43c427a6f0fdc678",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/pyxis/20260526/vbmeta.img",
-      "sha1": "117494985469aa2949d92973f72ab8744bf8a0ea",
-      "sha256": "31c7abbf728e32693df837c5fdb0d0157c98250820460765e50e3c0fbccc5005",
+      "filepath": "/full/pyxis/20260602/vbmeta.img",
+      "sha1": "4bbb335479fd5ff5c7f170d29a340441fcba6295",
+      "sha256": "bd54ee4061926dbbd7b3a0066eed50d65c6840345bcf4de9fa1b2c82b415af51",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/pyxis/20260602/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:329,metadata.pb:466:209                 ",
   "type": "nightly",
   "version": "22.2"
 }
