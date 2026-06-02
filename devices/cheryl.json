@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779784376,
+  "date": "2026-06-02",
+  "datetime": 1780405151,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779784376,
-      "filename": "lineage-22.2-20260526-nightly-cheryl-signed.zip",
-      "filepath": "/full/cheryl/20260526/lineage-22.2-20260526-nightly-cheryl-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780405151,
+      "filename": "lineage-22.2-20260602-nightly-cheryl-signed.zip",
+      "filepath": "/full/cheryl/20260602/lineage-22.2-20260602-nightly-cheryl-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "355212aaa2ca141ac41b24ce8fa5d499053c586f",
-      "sha256": "2b8c31f6ee36f2d4715e4280280bb11b8e837b1425727490f6748d34d3c0861c",
-      "size": 900227748,
+      "ota_property_files": "payload_metadata.bin:2792:136495,payload.bin:2792:900201012,payload_properties.txt:900203862:155,apex_info.pb:1588:1157,metadata:69:609,metadata.pb:746:794                  ",
+      "sha1": "0da05770989ade282c335012b90ad87aa66ae005",
+      "sha256": "3af7ec11c943dccde3087983c814fc138b72f08a19aaad470c51a6b8b932dba5",
+      "size": 900206949,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260526/lineage-22.2-20260526-nightly-cheryl-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260602/lineage-22.2-20260602-nightly-cheryl-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cheryl/20260526/boot.img",
-      "sha1": "68877ee7bc18624c8a54c8cb2375e51d9393283b",
-      "sha256": "b5d3095e531e016de236070238d60c87a5510fedba921b44e3623bd62b841d47",
+      "filepath": "/full/cheryl/20260602/boot.img",
+      "sha1": "bbb2a9d8897674971d8d02430cb19059051e8334",
+      "sha256": "4c9b349f22d03ef482f264a13ba433dceb0def90d6e887fac56998a2cb0b1ec6",
       "size": 30572544,
-      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260602/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:2792:136495,payload.bin:2792:900201012,payload_properties.txt:900203862:155,apex_info.pb:1588:1157,metadata:69:609,metadata.pb:746:794                  ",
   "type": "nightly",
   "version": "22.2"
 }
