@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779764074,
+  "date": "2026-06-02",
+  "datetime": 1780378652,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779764074,
-      "filename": "lineage-23.2-20260526-nightly-giuliac-signed.zip",
-      "filepath": "/full/giuliac/20260526/lineage-23.2-20260526-nightly-giuliac-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780378652,
+      "filename": "lineage-23.2-20260602-nightly-giuliac-signed.zip",
+      "filepath": "/full/giuliac/20260602/lineage-23.2-20260602-nightly-giuliac-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "d40fbbdb9688b8c0543b9ef9c888380fa463a0d6",
-      "sha256": "106d580d636be8792f3c8e25b3aabe5d2e41fbe5d41bdf47e431306507a1d633",
-      "size": 2861167193,
+      "ota_property_files": "payload_metadata.bin:5025:214123,payload.bin:5025:2861583847,payload_properties.txt:2861588930:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
+      "sha1": "b577bf60a224c3090266524b0bdc31bd92dadf85",
+      "sha256": "2f0159e0b85acfb81ff1ad5510c2317c14d57518a047f7c7a5be37ede02fb5be",
+      "size": 2861592077,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/lineage-23.2-20260526-nightly-giuliac-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/lineage-23.2-20260602-nightly-giuliac-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/giuliac/20260526/boot.img",
-      "sha1": "45b7ab967a5b0c40ac4f8f6962e6401bbb9f3761",
-      "sha256": "440737ec4e3dd54638e2f9cdde13362e81b1a09ef1ed0ebb999bf51fcae18659",
+      "filepath": "/full/giuliac/20260602/boot.img",
+      "sha1": "3e12c95ac563af4b40d1917d8209ac84455d8f69",
+      "sha256": "5d54ebe61118d865f26c2132f66017a64bff8d61e8842fb0bd72a0495cbebecd",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/giuliac/20260526/dtbo.img",
-      "sha1": "a47e5454d929b32b60564c7cf1292c399067876b",
-      "sha256": "9ce332cc360819b0a374056543bac20760af0950a74a14182ab8155402f6bb99",
+      "filepath": "/full/giuliac/20260602/dtbo.img",
+      "sha1": "2d136016db4f80e9d73f84a3d81a704b61bbd52c",
+      "sha256": "591025b45daa7921a9444f8885f3f9db04faf1ef6a63e350efb1975e1eaf2799",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/giuliac/20260526/init_boot.img",
-      "sha1": "1f39a5bfb349fc354a6c12b1ec6c76807f50f14b",
-      "sha256": "9f8f364e3c958a68949a11f3250c58dba7e8bc6aadd3428753e2e7aaef828ec7",
+      "filepath": "/full/giuliac/20260602/init_boot.img",
+      "sha1": "8ae7e459cc8420d4c005a0b82b3f50feeda68aec",
+      "sha256": "73f8f428ec315d020e5369910adcd7eeb5ea418f31697be5363f24a31f254ff7",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/giuliac/20260526/recovery.img",
-      "sha1": "ee5846f68f49672d8cd4c87dd1dfe2f2c718fbc1",
-      "sha256": "913fd21b48f6c49592e77ea2816b753634b9b17a97520f5610ca0179bdbf4bc2",
+      "filepath": "/full/giuliac/20260602/recovery.img",
+      "sha1": "d375db03c85ee8b60985b4a483a2ae4f9c275163",
+      "sha256": "6cc46ad747291204b1520ba3e68eeec37e76700036c1f2a5f73bc4ed1b390416",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/giuliac/20260526/super_empty.img",
+      "filepath": "/full/giuliac/20260602/super_empty.img",
       "sha1": "c7c75cdde1da20a65a0544a614d5bf1949e60269",
       "sha256": "895c9e0f40528c1592d297da694e527dd2190a3ce9bb965a27a409b3de134c0e",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/giuliac/20260526/vbmeta.img",
-      "sha1": "28349491bcf856f6951826470649f3d143f80c43",
-      "sha256": "bb0c4ca1be45aac6c91520df28b9cdf3bfe81066d4a564b6092458fdb2914a6e",
+      "filepath": "/full/giuliac/20260602/vbmeta.img",
+      "sha1": "fa1fca47e2fb07496cd6c7e63f0ad02dcb09b201",
+      "sha256": "b5aa517554c618ca04ccc95f803979dacb4593eed6df127d601d6ddb7d7729a6",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/giuliac/20260526/vendor_boot.img",
-      "sha1": "29828c0f89e0a42d063789c34c0cc9db77f43182",
-      "sha256": "7fbe110d12cbb5970108d2de82b501d661f648f8eda3e3235a4fafd0c0f60cae",
+      "filepath": "/full/giuliac/20260602/vendor_boot.img",
+      "sha1": "3f81cee1e680e7a02e4c138e2688ccfd31e72df0",
+      "sha256": "0dc30f8fb5807a0f7e99ab6a72fda93abe95501264331091497591a826caf214",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260526/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260602/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5025:214123,payload.bin:5025:2861583847,payload_properties.txt:2861588930:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
   "type": "nightly",
   "version": "23.2"
 }
