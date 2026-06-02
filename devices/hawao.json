@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779753772,
+  "date": "2026-06-02",
+  "datetime": 1780358612,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779753772,
-      "filename": "lineage-23.2-20260526-nightly-hawao-signed.zip",
-      "filepath": "/full/hawao/20260526/lineage-23.2-20260526-nightly-hawao-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780358612,
+      "filename": "lineage-23.2-20260602-nightly-hawao-signed.zip",
+      "filepath": "/full/hawao/20260602/lineage-23.2-20260602-nightly-hawao-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "500aa0f2b71f4a168d48c3a630b126b69ff25716",
-      "sha256": "b1c3aeb0586cbe954897ac1a7c5e48aed4cc7c3f2a2920072cacfa120bd1e9e7",
-      "size": 1097159229,
+      "ota_property_files": "payload_metadata.bin:4137:123843,payload.bin:4137:1097230415,payload_properties.txt:1097234610:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
+      "sha1": "d63a5a7a63ee0009ce6f46b73b25e0c996cc1e56",
+      "sha256": "13859882e5fc23e98f694c942243f30300985c8dccdcf14ae47c610c6bb37678",
+      "size": 1097237757,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/hawao/20260526/lineage-23.2-20260526-nightly-hawao-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/hawao/20260602/lineage-23.2-20260602-nightly-hawao-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/hawao/20260526/boot.img",
-      "sha1": "a515069c7bfeaaab72e562c36ab62fcb63b3b50b",
-      "sha256": "d1ffd5f97bb5c97bc2653749f1b450c851bb0aea7382958c19b92af4b4e37ecd",
+      "filepath": "/full/hawao/20260602/boot.img",
+      "sha1": "4393ad3e996ee029701170fe9abf1e7ccffe48f3",
+      "sha256": "8f7a4aba267613d65910e0b7342b1f725cc5fd21cbb41d6e526e7d0e27994102",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hawao/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/hawao/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/hawao/20260526/dtbo.img",
-      "sha1": "4b86818dda0ac4b3dbb565986539c1428410750d",
-      "sha256": "448cd1111377f6ad6ab0ea59a1fda91a51e7b8fe5fd64a8ffae18fd5e17301ea",
+      "filepath": "/full/hawao/20260602/dtbo.img",
+      "sha1": "36d8fe772499bf0707141f520888166510c54724",
+      "sha256": "3b6f3283fe129d958c09258a1312a16ef791a3e420e473e0c10473c0f0bc5d57",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/hawao/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/hawao/20260602/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/hawao/20260526/super_empty.img",
+      "filepath": "/full/hawao/20260602/super_empty.img",
       "sha1": "da8fc41736746e722c512866f7e028ae0b647fdf",
       "sha256": "0af59ad1e465cfd9338b7046fbd313e12a5d0203cfe81cbac6a9fc37858d595a",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/hawao/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/hawao/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/hawao/20260526/vbmeta.img",
-      "sha1": "b7607283c18a3c07d0ce52812abefb9bca0dbebb",
-      "sha256": "fcd58da2fead1c882e17d8fb9be324b3b90e5b0c0ac2e3cb16d2478fc84ce02b",
+      "filepath": "/full/hawao/20260602/vbmeta.img",
+      "sha1": "178e4e64dba4b3ad35ef99e34eb0b997b2f668f7",
+      "sha256": "d0396769b5a8f3852deb42d4bf75bad50c7142dda98eb5af227b9d28515db7e1",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/hawao/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/hawao/20260602/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/hawao/20260526/vendor_boot.img",
-      "sha1": "4d290b6977f1f8406d8b9758a8e41cba716e576c",
-      "sha256": "adc9e632ea35632084bdbd45c17a5e648f0c44867950e80deecd84b8b03b35db",
+      "filepath": "/full/hawao/20260602/vendor_boot.img",
+      "sha1": "b11e94f2d561ea4dc61a7d73e1c8c7bd801aaffe",
+      "sha256": "4c0f87a9364c3ac440022f1d7814bdc7d3f9f81db3850e65ecfb5df989f4d950",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hawao/20260526/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/hawao/20260602/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4137:123843,payload.bin:4137:1097230415,payload_properties.txt:1097234610:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
   "type": "nightly",
   "version": "23.2"
 }
