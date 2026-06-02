@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779753803,
+  "date": "2026-06-02",
+  "datetime": 1780358524,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779753803,
-      "filename": "lineage-23.2-20260526-nightly-instantnoodle-signed.zip",
-      "filepath": "/full/instantnoodle/20260526/lineage-23.2-20260526-nightly-instantnoodle-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780358524,
+      "filename": "lineage-23.2-20260602-nightly-instantnoodle-signed.zip",
+      "filepath": "/full/instantnoodle/20260602/lineage-23.2-20260602-nightly-instantnoodle-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "8cb85d63f70e94eabc5b842ac090002ea74935eb",
-      "sha256": "f0c31726a0707235a6e9c513871e910c4cbc27171e0b73e3cf7e2afffa23af2d",
-      "size": 1418290481,
+      "ota_property_files": "payload_metadata.bin:4402:148059,payload.bin:4402:1418345442,payload_properties.txt:1418349902:156,apex_info.pb:2057:1279,care_map.pb:3383:972,metadata:69:690,metadata.pb:827:1182                        ",
+      "sha1": "040b13eda0e90cf0e9e9ddac4f8d9524e1cdf575",
+      "sha256": "209aa1b2386a73b99b90d4b06576e48e3a4695fe7fbecd30c37b2048a48d6f59",
+      "size": 1418353049,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260526/lineage-23.2-20260526-nightly-instantnoodle-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260602/lineage-23.2-20260602-nightly-instantnoodle-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/instantnoodle/20260526/boot.img",
-      "sha1": "1fe27719d6ccf7ee8f781fc60ac655e5566bb38f",
-      "sha256": "3a8d8c76f199d775e78528f85ca43676a705cba0db8c3172ffe00209131efd48",
+      "filepath": "/full/instantnoodle/20260602/boot.img",
+      "sha1": "54c04e23ac34e76bf10d322e0405e29741cb35d2",
+      "sha256": "f6a89a87583494f3d8b0ba50cfe1417ff49376746b70757f60c3ed69d55596d9",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/instantnoodle/20260526/dtbo.img",
-      "sha1": "0a5677a3944f28c566e3500746a3df0877c7b2e4",
-      "sha256": "3626d532858f8df38313ced5a87e3f63d31f0074cd600c1e67ce976f5f1c7d72",
+      "filepath": "/full/instantnoodle/20260602/dtbo.img",
+      "sha1": "acb2f7357e47a2eea49cb7e9481abd40d329fbe8",
+      "sha256": "f0310a8c2eb6d0f9154aef1a315233f15a18cc2bacef031fbfff1a95d83eb8ee",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260602/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/instantnoodle/20260526/recovery.img",
-      "sha1": "e044c8ad871aed5a72c86489da49484bfcd6a600",
-      "sha256": "7bd51dbe89b8bfffce6e63d26ccd0316df5c59158a94c64cff7cbffd17e84d8d",
+      "filepath": "/full/instantnoodle/20260602/recovery.img",
+      "sha1": "8f381f67c64d81b1262cdb00812fbd080e36c6d2",
+      "sha256": "b62d429acef0de8a06677ccd69e1ac59a8bd38fb8999cbd638145a504a713aa1",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260526/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260602/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/instantnoodle/20260526/super_empty.img",
+      "filepath": "/full/instantnoodle/20260602/super_empty.img",
       "sha1": "5c46196f84f276a32ab226f91278f584a05d0dcb",
       "sha256": "ab447fce7e5743bcba1e0de4a4a831eda72bf4bb416aa1360436201a8811858f",
       "size": 4952,
-      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/instantnoodle/20260526/vbmeta.img",
-      "sha1": "da5a7e63e0a584fe0935fea649ee995b838ef64e",
-      "sha256": "8562465eca342d8447aca9dc9fd66de3885640bd1d543cb77b0c2da25ea86bd3",
+      "filepath": "/full/instantnoodle/20260602/vbmeta.img",
+      "sha1": "ae2caf292d3e01c5ab50544bb9fe4f3987f36b26",
+      "sha256": "e01ded3ad7899748fd791d12fe9520c642eaee376151ab7c39658d9e89dbc090",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20260602/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4402:148059,payload.bin:4402:1418345442,payload_properties.txt:1418349902:156,apex_info.pb:2057:1279,care_map.pb:3383:972,metadata:69:690,metadata.pb:827:1182                        ",
   "type": "nightly",
   "version": "23.2"
 }
