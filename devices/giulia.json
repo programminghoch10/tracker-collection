@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779753791,
+  "date": "2026-06-02",
+  "datetime": 1780388985,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779753791,
-      "filename": "lineage-23.2-20260526-nightly-giulia-signed.zip",
-      "filepath": "/full/giulia/20260526/lineage-23.2-20260526-nightly-giulia-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780388985,
+      "filename": "lineage-23.2-20260602-nightly-giulia-signed.zip",
+      "filepath": "/full/giulia/20260602/lineage-23.2-20260602-nightly-giulia-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "77f5a9865e7fd64032da433b725d5e23768c2acb",
-      "sha256": "55e233273b22cc52fb476c7d1e8cd73678420ce8f2b719cb53dd3bf52011c550",
-      "size": 2833174670,
+      "ota_property_files": "payload_metadata.bin:5188:213550,payload.bin:5188:2833428292,payload_properties.txt:2833433538:156,apex_info.pb:2393:1370,care_map.pb:3810:1331,metadata:69:701,metadata.pb:838:1507                        ",
+      "sha1": "4c8c7285b4fe32b3df2799aab5f852f9c9b04086",
+      "sha256": "515e573831bbfeb45dcaaa092f435ee8ccb3b9afd0054a844024072c85884507",
+      "size": 2833436685,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/lineage-23.2-20260526-nightly-giulia-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/lineage-23.2-20260602-nightly-giulia-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/giulia/20260526/boot.img",
-      "sha1": "e6f1695a532213798d8e2f42eb23185ca19d16ae",
-      "sha256": "f885686269faecf9fc41094b408532e4e8cb9cc7cc1d5e9a609ea9964d589dd3",
+      "filepath": "/full/giulia/20260602/boot.img",
+      "sha1": "48b1f1f0c10c9bafa76a0a91dac5decebce614be",
+      "sha256": "864c52ab93be83a6029f2abad3bda82ba4baf126cc320381197a9b9dd5f7b6b2",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/giulia/20260526/dtbo.img",
-      "sha1": "821845199f6628d0929acef4927e64203e8eb9ba",
-      "sha256": "e9e0c55dcd66aa12759d3fd55320897d5ec232c1103d80494eb3d8d7ca53cd56",
+      "filepath": "/full/giulia/20260602/dtbo.img",
+      "sha1": "a6bb880ca7964dc40fff6beaf5658bd0ec0a7840",
+      "sha256": "60dfddbe4916c9552c6692f3e198fb336d6b78de7f66ecd6b967652f537b0758",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/giulia/20260526/init_boot.img",
-      "sha1": "bb9baf01619fc6c744d906aa75add6ae8d7fc9ad",
-      "sha256": "d1d35ac81b8b181148a382c2416443d9a8246f48d75c49c40647e5888ae98322",
+      "filepath": "/full/giulia/20260602/init_boot.img",
+      "sha1": "5438bcca986da9cfca572f90aa55a5a32d34800b",
+      "sha256": "d87e75736d47cf5033e219c9614375dc3453b7a9a6dc79d0a46e9474d5057049",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/giulia/20260526/recovery.img",
-      "sha1": "a2b90ba41674588cb519c4b4b72f809e71144236",
-      "sha256": "460f6a5f14735d1f36c4437171def7465c51e187d81f56c32a7fefff5cc75ed3",
+      "filepath": "/full/giulia/20260602/recovery.img",
+      "sha1": "993c44295536bbe9f3e839ad633f9588680baa1c",
+      "sha256": "75f7be2233a7c947dbac7f78c8c8c5d92789796854d81997f44001807adc38cb",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/giulia/20260526/super_empty.img",
+      "filepath": "/full/giulia/20260602/super_empty.img",
       "sha1": "8273998b92013531858848c61d6bac7d3e5cd284",
       "sha256": "498a487638047b800e660fb10d5c1d5bb8e978ab676d710a2e0890e8120e0eb4",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/giulia/20260526/vbmeta.img",
-      "sha1": "935d83b3cf77cecb971676baf86cfbb9ae13fcd0",
-      "sha256": "c756fd7765aae50e0a88edb4add2b4c1f6af5ccda445b2470c34788c67ee15df",
+      "filepath": "/full/giulia/20260602/vbmeta.img",
+      "sha1": "8973ba24b22c3d2c2211567d8bb3eeabf96c1f9e",
+      "sha256": "be84c8613b50da51649b362fc5cacbcf6e40d98e0c5dadaf6509ae9260dc2b12",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/giulia/20260526/vendor_boot.img",
-      "sha1": "10d067a9b0526ae81f512bae844b7e3ea36cc06a",
-      "sha256": "77752ab8b0d2156df933dd421b7bf3b3b8e6dbd5d87aa4dcb1b519934886e002",
+      "filepath": "/full/giulia/20260602/vendor_boot.img",
+      "sha1": "fe418f8a22c055de28ee1cb3a576f386391e0003",
+      "sha256": "16cd32041afe7937f9678f9067bf12a3073a16b916397b9129b4da58b6b0eb11",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/giulia/20260526/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giulia/20260602/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:5188:213550,payload.bin:5188:2833428292,payload_properties.txt:2833433538:156,apex_info.pb:2393:1370,care_map.pb:3810:1331,metadata:69:701,metadata.pb:838:1507                        ",
   "type": "nightly",
   "version": "23.2"
 }
