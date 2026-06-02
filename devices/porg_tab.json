@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779809340,
+  "date": "2026-06-02",
+  "datetime": 1780370441,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779809340,
-      "filename": "lineage-22.2-20260526-nightly-porg_tab-signed.zip",
-      "filepath": "/full/porg_tab/20260526/lineage-22.2-20260526-nightly-porg_tab-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780370441,
+      "filename": "lineage-22.2-20260602-nightly-porg_tab-signed.zip",
+      "filepath": "/full/porg_tab/20260602/lineage-22.2-20260602-nightly-porg_tab-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "a2559a6d7d2e7185dbf946debe7963534ca73a8a",
-      "sha256": "dab3773b85d3550e3bf86525631096702aa356213ed4e7f95ad516f7006c0919",
-      "size": 1001689603,
+      "ota_property_files": "metadata:69:329,metadata.pb:466:208                 ",
+      "sha1": "8f4efc4ea09c97a0ff13d1b3a9c515dc192cfe6b",
+      "sha256": "2ea5000a5e702506d8e62411df55524d7f0cd01045218914d7909d12c4263c3a",
+      "size": 1001562998,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260526/lineage-22.2-20260526-nightly-porg_tab-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260602/lineage-22.2-20260602-nightly-porg_tab-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/porg_tab/20260526/boot.img",
-      "sha1": "5c0329719d61f532bac18ccb2b643effa1612491",
-      "sha256": "fcff7745b82787a539d1e491ec514928c4da65393c0ab2f715c00dbd15d09b91",
+      "filepath": "/full/porg_tab/20260602/boot.img",
+      "sha1": "0ea748a511e6a612cff233992cdeecd026c3a009",
+      "sha256": "cf5da3761cf462c53b5df8aff5af42a6d0c8a4b71efabbef359fed3a446bb69e",
       "size": 13998080,
-      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260602/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/porg_tab/20260526/recovery.img",
-      "sha1": "e5a2e47caabef72906a32bf01700b2dced0a6a87",
-      "sha256": "3253d1d1fb04b8e303a0ecc699c2ca8e3bb7265d32e11ac12373ff3f4b97fe5f",
-      "size": 20746240,
-      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260526/recovery.img"
+      "filepath": "/full/porg_tab/20260602/recovery.img",
+      "sha1": "1033ba7aad2b5d0a90aed65b9d9134038c6909d5",
+      "sha256": "88baecb3fa6df28ddda44f93db904685a7d067919952efed9446fde4772080a6",
+      "size": 20744192,
+      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260602/recovery.img"
     },
     {
       "filename": "p3450_flash_package.txz",
-      "filepath": "/full/porg_tab/20260526/p3450_flash_package.txz",
-      "sha1": "676b8701aa865a4f466ef0689556fff973fef7f8",
-      "sha256": "b575bbb3f0676d54cf208cd253e2723018490a651c1f066eebdfd65a3c571d54",
-      "size": 22685624,
-      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260526/p3450_flash_package.txz"
+      "filepath": "/full/porg_tab/20260602/p3450_flash_package.txz",
+      "sha1": "949c6e153929035f3bf73e622d76af16eedb242f",
+      "sha256": "779782e8876dd7a9b4c164b0d342d3a57a3dec641b243e340cea5cd1b3810caf",
+      "size": 22685720,
+      "url": "https://mirrorbits.lineageos.org/full/porg_tab/20260602/p3450_flash_package.txz"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:329,metadata.pb:466:208                 ",
   "type": "nightly",
   "version": "22.2"
 }
