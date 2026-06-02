@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779754021,
+  "date": "2026-06-02",
+  "datetime": 1780374857,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779754021,
-      "filename": "lineage-23.2-20260526-nightly-cheetah-signed.zip",
-      "filepath": "/full/cheetah/20260526/lineage-23.2-20260526-nightly-cheetah-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780374857,
+      "filename": "lineage-23.2-20260602-nightly-cheetah-signed.zip",
+      "filepath": "/full/cheetah/20260602/lineage-23.2-20260602-nightly-cheetah-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "98e96f1893b2fe18d3d8a1b4df57b0164bab2bfe",
-      "sha256": "85901709dfeb76e9bb52f2897ac5259ba290932e7ca967197a5a761cd2dbafa9",
-      "size": 1433344029,
+      "ota_property_files": "payload_metadata.bin:4807:142634,payload.bin:4807:1433255066,payload_properties.txt:1433259931:156,apex_info.pb:2048:1602,care_map.pb:3697:1063,metadata:69:674,metadata.pb:811:1189                        ",
+      "sha1": "7998ddf92286d8dc32243b6d16dab8e754016394",
+      "sha256": "d07acd69be2fcdb7bf05c80cb4b44aa33ec16cc5b1497768db09bac4b0c9ff05",
+      "size": 1433263078,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/lineage-23.2-20260526-nightly-cheetah-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/lineage-23.2-20260602-nightly-cheetah-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cheetah/20260526/boot.img",
-      "sha1": "abb3c7a138f95b7e55097bf453633cdc2d4d3629",
-      "sha256": "1f7a0c2d096d2108e310a7fe1b5ea774b35ed833af14dc4bbba502cb5bbd303c",
+      "filepath": "/full/cheetah/20260602/boot.img",
+      "sha1": "b97521137e0e4e84f8da5cc0e3e8a155d06e46ec",
+      "sha256": "d91cb3e6fe6253f793a7c8dbc3fc8e07380d7a9dfc0cbe68235c94a4efee9a9a",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/cheetah/20260526/dtbo.img",
-      "sha1": "33ffc6470367db897741451d75fdb6376fa6c6be",
-      "sha256": "9bc0de720dc0b12f6e44ddaae42a22edaeae4592b80fa3a4c9c59fd7b1bd61c3",
+      "filepath": "/full/cheetah/20260602/dtbo.img",
+      "sha1": "225e15f6fbb52fcdc2b9efc4ce5c453a8b6aedc0",
+      "sha256": "ff6572d06e5629bc36868818a3189d0a03020f38857b80f6fa411a90490bd3a9",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/cheetah/20260526/init_boot.img",
-      "sha1": "9cbb0b6f8a9100e260157ff17768b3e5815bc792",
-      "sha256": "b634ead4dd736445b68b677fa069c75946ac29144441a11bfe0cb457010525e0",
+      "filepath": "/full/cheetah/20260602/init_boot.img",
+      "sha1": "10bbdc4552955d9221895d6b4660281e8414c0ba",
+      "sha256": "e052ae04e473dd9d362911f44c6166325a37753201aa9badea97fcffc64a510a",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/cheetah/20260526/super_empty.img",
+      "filepath": "/full/cheetah/20260602/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/cheetah/20260526/vbmeta.img",
-      "sha1": "90aa415fcf63b1c453c812e85eed1315c0539499",
-      "sha256": "af93ac91b49dd31dc50f55c4ba10c1a4dac8a0711f016dca0ba00edd38d9ea80",
+      "filepath": "/full/cheetah/20260602/vbmeta.img",
+      "sha1": "41d97e5181bae003db3e2b8110efbc273dd641cf",
+      "sha256": "b521dced6fa5f55e38ba3f045cc4b0330534f5c34bc9e950368219c263423a8f",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/cheetah/20260526/vendor_boot.img",
-      "sha1": "43c985cdfaaf72624151d65d4f8bd3fb4fff5309",
-      "sha256": "78ac1a438dff5d4b7783d7a3a4529adcc23523d5c42250462d85eb7cf47817c6",
+      "filepath": "/full/cheetah/20260602/vendor_boot.img",
+      "sha1": "5bfdac3e2b03e1e2c70cff848679c0283d2b812f",
+      "sha256": "247a417766198b9e59ba2d0686ea964f5e109f0de290242aff3fab79a5a3d51f",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/cheetah/20260526/vendor_kernel_boot.img",
-      "sha1": "a0a14ceae089046ba72966384402467de935a64e",
-      "sha256": "b36b98e1c33cf10c2130777d14a247ee0b248365a846ee04c6e4907fc59f3168",
+      "filepath": "/full/cheetah/20260602/vendor_kernel_boot.img",
+      "sha1": "4b2e5953b58cf18ce9c3b73d15d791a3cfee87a7",
+      "sha256": "082abd6c3d4e772d847c12438bf60c2b5495c704894244c645be6a8ebaa07225",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260526/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20260602/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4807:142634,payload.bin:4807:1433255066,payload_properties.txt:1433259931:156,apex_info.pb:2048:1602,care_map.pb:3697:1063,metadata:69:674,metadata.pb:811:1189                        ",
   "type": "nightly",
   "version": "23.2"
 }
