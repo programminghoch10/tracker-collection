@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779770278,
+  "date": "2026-06-02",
+  "datetime": 1780388092,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779770278,
-      "filename": "lineage-22.2-20260526-nightly-crosshatch-signed.zip",
-      "filepath": "/full/crosshatch/20260526/lineage-22.2-20260526-nightly-crosshatch-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780388092,
+      "filename": "lineage-22.2-20260602-nightly-crosshatch-signed.zip",
+      "filepath": "/full/crosshatch/20260602/lineage-22.2-20260602-nightly-crosshatch-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "c39f2a3bc1a740cf0269a735c90e40733ec92f98",
-      "sha256": "c5e7a17d990c3c1526f3fa93c37bc07e93aa418e4ab6e1168c11c76558d92266",
-      "size": 1093913276,
+      "ota_property_files": "payload_metadata.bin:4062:113667,payload.bin:4062:1093876538,payload_properties.txt:1093880658:156,apex_info.pb:2008:1157,care_map.pb:3212:803,metadata:69:683,metadata.pb:820:1140                        ",
+      "sha1": "000f4c6caf2ed3cba8f570653866e2919c786ddd",
+      "sha256": "e3217044ba5de71f4e78b1fe45d810dd5d0c7be3a3bc337294add6615d81f7ac",
+      "size": 1093883809,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260526/lineage-22.2-20260526-nightly-crosshatch-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260602/lineage-22.2-20260602-nightly-crosshatch-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/crosshatch/20260526/boot.img",
-      "sha1": "45e87ff03424edc1bf0d3a78f5dd92c979fec99f",
-      "sha256": "a31baca38ab0e9d4624466885d230024745076cab3d3fefb1439f9409e8a8cca",
+      "filepath": "/full/crosshatch/20260602/boot.img",
+      "sha1": "17384fdca16f2343de0586ec8856f815111303c2",
+      "sha256": "d5d1c1bf9dc1ea97a3d1954eeabafad363f18a5936c338bde059929e8998c4cf",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/crosshatch/20260526/dtbo.img",
-      "sha1": "6d3e086a74bdc1afbbea676d3505e7c98cfcc98c",
-      "sha256": "3fd9f667ae87f7ab42f148b0fa979886fc0e29e4511cee429c1bbfcc248be21b",
+      "filepath": "/full/crosshatch/20260602/dtbo.img",
+      "sha1": "33551b0751433898478ca64f7fbcf21a033772ce",
+      "sha256": "18507ab2d6897cd8077956a7d5a27f59cc48b39038336ce375b358fd4a86f1bf",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260602/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/crosshatch/20260526/super_empty.img",
+      "filepath": "/full/crosshatch/20260602/super_empty.img",
       "sha1": "937e8c88b3a4daa09b88e0dfba8798dd3e4351bf",
       "sha256": "91e88fad448ba9cff9ba752a750b2151c3778f5b2252bf066014973b73a6ff88",
       "size": 4720,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/crosshatch/20260526/vbmeta.img",
-      "sha1": "1b15523e64312766b4e4c7f514e5ef8ce945f112",
-      "sha256": "723540f3231109f71c7f213b9797c05e223fef669380d9239594f793abbae136",
+      "filepath": "/full/crosshatch/20260602/vbmeta.img",
+      "sha1": "38dd1f7028ec618723872577fe56c0f0899e840b",
+      "sha256": "f80efb0353b003b379a963c44d4c80c539f3493a8a6cf7c180857cfc11fc9df1",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260602/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:4062:113667,payload.bin:4062:1093876538,payload_properties.txt:1093880658:156,apex_info.pb:2008:1157,care_map.pb:3212:803,metadata:69:683,metadata.pb:820:1140                        ",
   "type": "nightly",
   "version": "22.2"
 }
