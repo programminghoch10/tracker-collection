@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779800603,
+  "date": "2026-06-02",
+  "datetime": 1780393272,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779800603,
-      "filename": "lineage-22.2-20260526-nightly-akatsuki-signed.zip",
-      "filepath": "/full/akatsuki/20260526/lineage-22.2-20260526-nightly-akatsuki-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780393272,
+      "filename": "lineage-22.2-20260602-nightly-akatsuki-signed.zip",
+      "filepath": "/full/akatsuki/20260602/lineage-22.2-20260602-nightly-akatsuki-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "0307acc10cff18fa8d6f8c2b5b6ca20644efbbb8",
-      "sha256": "5480e9045f7173ec903caf682e01063e17ba272368eb45a5a363374ea4540db0",
-      "size": 1004905273,
+      "ota_property_files": "payload_metadata.bin:3573:144681,payload.bin:3573:1004883843,payload_properties.txt:1004887474:156,apex_info.pb:1765:1157,care_map.pb:2969:557,metadata:69:680,metadata.pb:817:900                         ",
+      "sha1": "21501de1bec3699bb920093fe6b897c2e5c2e875",
+      "sha256": "0556753580fbac17638b077c3cb865407c231370c98fafbd4a5f80962cb3f070",
+      "size": 1004890625,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260526/lineage-22.2-20260526-nightly-akatsuki-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260602/lineage-22.2-20260602-nightly-akatsuki-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/akatsuki/20260526/boot.img",
-      "sha1": "5c01adccca6403db7142ac68a08b6378f0a53186",
-      "sha256": "4fb4b10f7ffc6d1105cae0e4cbe34e322bd9dc39b0ecb55fe392e77147094f54",
+      "filepath": "/full/akatsuki/20260602/boot.img",
+      "sha1": "961f8c7f8e2df0ad2ecdabc2f6f9c18dd2b21d51",
+      "sha256": "53593c5252e42c9643e7f56214226dcf842ed7f8e6144e0bb3450fbc4fd8bd31",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/akatsuki/20260526/dtbo.img",
-      "sha1": "c9b028ea946b91dfc0f865c45543a832e38e973d",
-      "sha256": "509eec08c5a04e3150a3c4d39b711ad4923c722734af8d8703749caa19436d22",
+      "filepath": "/full/akatsuki/20260602/dtbo.img",
+      "sha1": "d7174ac1b1dfe4f94f117fb438e13101be1cbaed",
+      "sha256": "43517b3a48ebef8afd6e2f937e612a1c7732627e2703e52d6c622b6a7dfb634c",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260602/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/akatsuki/20260526/vbmeta.img",
-      "sha1": "e062e208d33af46ad2b68b79cef8764548bfabe7",
-      "sha256": "63704a3b755e73d7e9c2a8675c5143f293263a20d1e420f8b4a62ace52bca61c",
+      "filepath": "/full/akatsuki/20260602/vbmeta.img",
+      "sha1": "644ed8a62eadb2db6fb339354d5c23a983fe1355",
+      "sha256": "2eb25b0611566098693e036e7120e6d748a7525a691e4bb52086e4e2308d2d14",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260602/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:3573:144681,payload.bin:3573:1004883843,payload_properties.txt:1004887474:156,apex_info.pb:1765:1157,care_map.pb:2969:557,metadata:69:680,metadata.pb:817:900                         ",
   "type": "nightly",
   "version": "22.2"
 }
