@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779783403,
+  "date": "2026-06-02",
+  "datetime": 1780388658,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779783403,
-      "filename": "lineage-23.2-20260526-nightly-tegu-signed.zip",
-      "filepath": "/full/tegu/20260526/lineage-23.2-20260526-nightly-tegu-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780388658,
+      "filename": "lineage-23.2-20260602-nightly-tegu-signed.zip",
+      "filepath": "/full/tegu/20260602/lineage-23.2-20260602-nightly-tegu-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "f8f48aeebe93321b858df35a129586d63e60e3f1",
-      "sha256": "5e1a0449a53fe61f1e21e8ac38a80ef4e2d346f2ac49f0ad9a3fbeca5f22b996",
-      "size": 1391230462,
+      "ota_property_files": "payload_metadata.bin:4712:138173,payload.bin:4712:1391560567,payload_properties.txt:1391565337:156,apex_info.pb:1976:1632,care_map.pb:3655:1010,metadata:69:665,metadata.pb:802:1126                        ",
+      "sha1": "29be235115d34e97dac83b787b49701f7dc08f9d",
+      "sha256": "c890db3d633c1797c2d45fe99a85323718b6b6c77cde2dfdc1766848b5bf3317",
+      "size": 1391568484,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/lineage-23.2-20260526-nightly-tegu-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/lineage-23.2-20260602-nightly-tegu-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tegu/20260526/boot.img",
-      "sha1": "7da2d5924108bc6c7fc494e437cea3203b5e3f65",
-      "sha256": "05ee52d18a12eb7f4fa3fd8beae144d3db432a4e8c8c370b57b45017a4070fca",
+      "filepath": "/full/tegu/20260602/boot.img",
+      "sha1": "029b9bc7c9aeca634d4a5f82f5c49e86c9975639",
+      "sha256": "6f5887d6a576371f170ff953c030ce3e9ed9a31f3e8dcc52337ad8ee2da76681",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tegu/20260526/dtbo.img",
-      "sha1": "60fe699bae25054083b9f5251ffdae6f2e7fa098",
-      "sha256": "76cd0e9cd7c6f7c3cca2c9daa2e1f75fd5a914f630a911baa842842cf7b907f2",
+      "filepath": "/full/tegu/20260602/dtbo.img",
+      "sha1": "10d4e7d9f591848ca04a8492b1cc59c8cfe89f53",
+      "sha256": "c4017149b84ab6b276eb155f419c877a0011034f8a88e3bd462ae9dba0bdc11b",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/tegu/20260526/init_boot.img",
-      "sha1": "01f68a9a2fbdc5811703c80dd69a9e17b84ba628",
-      "sha256": "fd15e21b55d2376ba41ff867cf92edc970a295ba39a4d88e98b0e6556a806102",
+      "filepath": "/full/tegu/20260602/init_boot.img",
+      "sha1": "514b9c3be4beeb86ecc467c9ff2a8079378620f1",
+      "sha256": "761f3760bf052a42048f9f6706170e74faacbd5efb3fada83555f997d75ddbb0",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tegu/20260526/super_empty.img",
+      "filepath": "/full/tegu/20260602/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tegu/20260526/vbmeta.img",
-      "sha1": "c7110a2c1baa2aa5da5bb5357f7d2b35ea80d919",
-      "sha256": "eec8e76b5c35637ec30d6d9961564b62847fd3b64116cb8595ba792eb0760aa8",
+      "filepath": "/full/tegu/20260602/vbmeta.img",
+      "sha1": "12cb430ed3a5b1bfd59f1d9035d100afe8977572",
+      "sha256": "b903b05ee46ccdc9edc020623b8346845c65ebb90264f45bd3d30cb100b16e8f",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/tegu/20260526/vendor_boot.img",
-      "sha1": "1c6dfe1a281327ab2ecda4d3968ce04a0e8913ad",
-      "sha256": "95fbd6185f4a0313c4f3604feceea937ac3d0cb6eafdb06aee49a46d2958fa78",
+      "filepath": "/full/tegu/20260602/vendor_boot.img",
+      "sha1": "2404de1af9689d2e6cad3d229492000341f91c84",
+      "sha256": "1ba6d5d6c52dd801431a0e45de883390d683e23a2cee05d362fee0f7b71f6ee9",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/tegu/20260526/vendor_kernel_boot.img",
-      "sha1": "92c4ba41fc93d7f75332dace7101615a96e31c44",
-      "sha256": "2db6a49819b24d333b37ff28ad79ab57aafe7319b2901386b18d9d6c7e67acd0",
+      "filepath": "/full/tegu/20260602/vendor_kernel_boot.img",
+      "sha1": "7dc85c1621f71bd47dc46914a386dd9ee4e5e39a",
+      "sha256": "c8ed09fa3aba39093f798b9c64476dfed8a489e4077a7a62ebfeea24e50d1b05",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tegu/20260526/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20260602/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4712:138173,payload.bin:4712:1391560567,payload_properties.txt:1391565337:156,apex_info.pb:1976:1632,care_map.pb:3655:1010,metadata:69:665,metadata.pb:802:1126                        ",
   "type": "nightly",
   "version": "23.2"
 }
