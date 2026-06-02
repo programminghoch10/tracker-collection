@@ -1,47 +1,49 @@
 {
-  "date": "2026-05-26",
-  "datetime": 1779777679,
+  "date": "2026-06-02",
+  "datetime": 1780374989,
   "files": [
     {
-      "date": "2026-05-26",
-      "datetime": 1779777679,
-      "filename": "lineage-23.2-20260526-nightly-Mi8937-signed.zip",
-      "filepath": "/full/Mi8937/20260526/lineage-23.2-20260526-nightly-Mi8937-signed.zip",
+      "date": "2026-06-02",
+      "datetime": 1780374989,
+      "filename": "lineage-23.2-20260602-nightly-Mi8937-signed.zip",
+      "filepath": "/full/Mi8937/20260602/lineage-23.2-20260602-nightly-Mi8937-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "816883350181d120fc861793e48a2ad53180de23",
-      "sha256": "854b6e5606855b293a1a1ce0c73d67a12cfd2ec17adfc904d16db77cfad8b36e",
-      "size": 1104246619,
+      "ota_property_files": "metadata:69:335,metadata.pb:472:233                 ",
+      "sha1": "4f539e44945a7f3768e9bd14e84a59b40dc50d8c",
+      "sha256": "f847fb4ed6e74722f2a455efa10ddad448e3fe2b96b960cd2eb58c005a755894",
+      "size": 1104172810,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260526/lineage-23.2-20260526-nightly-Mi8937-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260602/lineage-23.2-20260602-nightly-Mi8937-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/Mi8937/20260526/boot.img",
-      "sha1": "7faa712d96480b5edf884c5538710a856051cc88",
-      "sha256": "ed24965f96932dd15fd17ade177c1f63ae2f1965273af11d38e78c020fd6bf6d",
+      "filepath": "/full/Mi8937/20260602/boot.img",
+      "sha1": "db589627caba689697ee0a56b9b35d0006812479",
+      "sha256": "5a02e1372798b88f16ffa6b7264faed2289d27347d395ff591aa48fb8c062ba1",
       "size": 21516288,
-      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260526/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260602/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/Mi8937/20260526/recovery.img",
-      "sha1": "71ced55d18d6c062f9842b4af42636be26df603a",
-      "sha256": "3b7722d078af8ab1a67875a6a096733012c7be8e6b17739abfe8e31e00360685",
+      "filepath": "/full/Mi8937/20260602/recovery.img",
+      "sha1": "a81e73e30443dd4d0907bb95ee87f50651686b16",
+      "sha256": "e034b1b8b1f4c72df364c886f8f6a4b2ff4afdbc2b697bba1aa246255a2e7823",
       "size": 33398784,
-      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260526/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260602/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/Mi8937/20260526/super_empty.img",
+      "filepath": "/full/Mi8937/20260602/super_empty.img",
       "sha1": "d0024df536cd7411ea52abd37652c7ca23c30c8f",
       "sha256": "576241eb2eefcf0c27be2755267ff517698eec1f3e5c07391bdb334a9a3052a3",
       "size": 4708,
-      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260526/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20260602/super_empty.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "metadata:69:335,metadata.pb:472:233                 ",
   "type": "nightly",
   "version": "23.2"
 }
