@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-27",
-  "datetime": 1779880502,
+  "date": "2026-06-03",
+  "datetime": 1780444911,
   "files": [
     {
-      "date": "2026-05-27",
-      "datetime": 1779880502,
-      "filename": "lineage-23.2-20260527-nightly-berlna-signed.zip",
-      "filepath": "/full/berlna/20260527/lineage-23.2-20260527-nightly-berlna-signed.zip",
+      "date": "2026-06-03",
+      "datetime": 1780444911,
+      "filename": "lineage-23.2-20260603-nightly-berlna-signed.zip",
+      "filepath": "/full/berlna/20260603/lineage-23.2-20260603-nightly-berlna-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "56352cc0be34fde1f847a8c8feefbc503fef9ed1",
-      "sha256": "81b13c1c9d2d8e6649381e8a6bbf6c7e9f53d2fba2335dc8b5089e35b4582a15",
-      "size": 1321953479,
+      "ota_property_files": "payload_metadata.bin:4252:153181,payload.bin:4252:1322215765,payload_properties.txt:1322220075:156,apex_info.pb:2021:1279,care_map.pb:3347:858,metadata:69:685,metadata.pb:822:1151                        ",
+      "sha1": "89fa146ae32c961fe8c9448085eabfb3384e3a53",
+      "sha256": "12a0614c43a14874af047467123307bf30a7482ed635ab4e3b4f76b5f4ec8e06",
+      "size": 1322223222,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20260527/lineage-23.2-20260527-nightly-berlna-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20260603/lineage-23.2-20260603-nightly-berlna-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/berlna/20260527/boot.img",
-      "sha1": "9f3896e00b1621c9bb78b419e670eee9ed658b42",
-      "sha256": "e2f832badbb3ddc26db2051484031822d228b41a7ab477d572ebf175b8a25a64",
+      "filepath": "/full/berlna/20260603/boot.img",
+      "sha1": "c94c6b99a405072c1d27b95640a4ed942886a40e",
+      "sha256": "ca7fc5298a6b3f8d2e13624659e8dd9dafe38a73160a3820d2e8bf6b37089c59",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20260527/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20260603/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/berlna/20260527/dtbo.img",
-      "sha1": "0fc5bd8a41411f14abc0dd3be83391c173e9ca0a",
-      "sha256": "78a2d06309bd22a0301e22f974616e7cd9b948ac4d297ec2afaab47a2a657aba",
+      "filepath": "/full/berlna/20260603/dtbo.img",
+      "sha1": "7775fe28110829d38bfb32a8089758c54f16b0c8",
+      "sha256": "8db348368a6442b14e63ec5bfb3e6a3ede4348705a807b2d5cee2a3b7462cd1b",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20260527/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20260603/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/berlna/20260527/super_empty.img",
+      "filepath": "/full/berlna/20260603/super_empty.img",
       "sha1": "a38f863aaf994456b216401f4b21bb2ea609f165",
       "sha256": "f829333d957571cb418097aad2aeb1e81eadaeac6524747281b5b515f9025aad",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20260527/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20260603/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/berlna/20260527/vbmeta.img",
-      "sha1": "95bcd168438221332ac70b0a62c27daf08b4edc8",
-      "sha256": "34be18c95d4128c054c91a99dd4921aead5a078ed2c7d712aa1dc21a392f0f15",
+      "filepath": "/full/berlna/20260603/vbmeta.img",
+      "sha1": "341f2f411ef4fd25e6db1e99a64d367934236a66",
+      "sha256": "da8e39e0ff11daf92881f4d0427176db7a8fdf890cb3f9a923799f6e2450bd05",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20260527/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20260603/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/berlna/20260527/vendor_boot.img",
-      "sha1": "a88df8dc63283bc5c309ca1fd45440c9c6ee8dc4",
-      "sha256": "20a6881bc2c320b5a76e0d45162a618b9363e0bd65ae661a8d4b302188c231ad",
+      "filepath": "/full/berlna/20260603/vendor_boot.img",
+      "sha1": "633fdca6a0dd1ac4a1609511e95a3940fa5c3118",
+      "sha256": "1862ea9979d19e8de7f92d4a09a617cf561a86ea72a53b9f5c349dcfe068cf87",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/berlna/20260527/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20260603/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4252:153181,payload.bin:4252:1322215765,payload_properties.txt:1322220075:156,apex_info.pb:2021:1279,care_map.pb:3347:858,metadata:69:685,metadata.pb:822:1151                        ",
   "type": "nightly",
   "version": "23.2"
 }
