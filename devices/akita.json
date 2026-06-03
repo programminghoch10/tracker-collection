@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-27",
-  "datetime": 1779868958,
+  "date": "2026-06-03",
+  "datetime": 1780458419,
   "files": [
     {
-      "date": "2026-05-27",
-      "datetime": 1779868958,
-      "filename": "lineage-23.2-20260527-nightly-akita-signed.zip",
-      "filepath": "/full/akita/20260527/lineage-23.2-20260527-nightly-akita-signed.zip",
+      "date": "2026-06-03",
+      "datetime": 1780458419,
+      "filename": "lineage-23.2-20260603-nightly-akita-signed.zip",
+      "filepath": "/full/akita/20260603/lineage-23.2-20260603-nightly-akita-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "64cd4a07b9e7f0b681274d9f651536deda3ee0f0",
-      "sha256": "6df483b05497dcc782859a72dcf86a3f338417952ce686026241c372f445a83c",
-      "size": 1367971156,
+      "ota_property_files": "payload_metadata.bin:4748:137542,payload.bin:4748:1368284408,payload_properties.txt:1368289214:156,apex_info.pb:2000:1632,care_map.pb:3679:1022,metadata:69:668,metadata.pb:805:1147                        ",
+      "sha1": "5e637b03bc4d01e021e82b9b37058291329c554a",
+      "sha256": "644409b34af7043f5df6d3b6d254a682cd2847490e03327067794fe6699601e0",
+      "size": 1368292361,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/lineage-23.2-20260527-nightly-akita-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/lineage-23.2-20260603-nightly-akita-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/akita/20260527/boot.img",
-      "sha1": "d4033285c9e5d692ed188edd76f5e8ca4c0cd6a2",
-      "sha256": "e75859b4a956da801b920bb31eb9f877999ad6a4942137441a74c5d20d3e9ad0",
+      "filepath": "/full/akita/20260603/boot.img",
+      "sha1": "e0bfd55db22b77b29565a4201bf1150d67ebf111",
+      "sha256": "54a564c76047408297e262b798b4f1c66cf3a9728c9d778eb5adc86c02508047",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/akita/20260527/dtbo.img",
-      "sha1": "919c56bc2897fb841fa86cf0c4eb0580b93ff474",
-      "sha256": "034e855c5e9b9effa5554de907cec7b24e0865429bd74bac155dc92256a71fd2",
+      "filepath": "/full/akita/20260603/dtbo.img",
+      "sha1": "dbd303b31a1a44e75cb8067c08a201d151b3d49d",
+      "sha256": "469e0faabb00e0908755997293d4aeee1c8d1b6d46ab42af38352fbe59cece83",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/akita/20260527/init_boot.img",
-      "sha1": "8565a691a72f0ba9216575d163880c12a8b5a69a",
-      "sha256": "6c70ad14a7bd8046306086236858be229d2052a50a3caa60683fd0d06c40ceca",
+      "filepath": "/full/akita/20260603/init_boot.img",
+      "sha1": "59e2a322a2bed8745be6acf214d66d13c855d00f",
+      "sha256": "31de97d604584340865174c5392ee3889205f290aa92cdb6035cee74dd01d35b",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/akita/20260527/super_empty.img",
+      "filepath": "/full/akita/20260603/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/akita/20260527/vbmeta.img",
-      "sha1": "ff279dfefd87b869d0e47e3bbf4fa1cb621d96cb",
-      "sha256": "d61e9bfcbec063d746a6625f184a757f7e4b68b3b814b7c9e980546600944f73",
+      "filepath": "/full/akita/20260603/vbmeta.img",
+      "sha1": "916a3d82a1d966db7f63951daea6f37c1d5c7b17",
+      "sha256": "77b952caef14c8490bcf75e4440fe77d7a9560ac80cdc4bd25ea78aa05da6518",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/akita/20260527/vendor_boot.img",
-      "sha1": "ab9e7df7546039b7b02598aaf3874be58306b267",
-      "sha256": "995c83acd2335cc204eda5e0c1313b10e17105149b70ec867a6a18983242ae85",
+      "filepath": "/full/akita/20260603/vendor_boot.img",
+      "sha1": "8706a39d0acff479c26888b37de6c5dd1c9a6f95",
+      "sha256": "69d332a8681298310e3ad7a17066378b77a472e6f7d68f442e9ab359a824452b",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/akita/20260527/vendor_kernel_boot.img",
-      "sha1": "9b2600177a1a070c1a0f0d4350d5cffdf752a587",
-      "sha256": "7411d5f98d7b631ffbe47e776917d4598c85fd19e48d820d67268dd5695b6c5d",
+      "filepath": "/full/akita/20260603/vendor_kernel_boot.img",
+      "sha1": "d9fe77e0b2b448bd665fdc096eb13cef88e71fb9",
+      "sha256": "d79cf24f36c03ed9ad2af97f8e55447b4d9e68590e4b64e676e90ef489a8e6f3",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20260527/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20260603/vendor_kernel_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4748:137542,payload.bin:4748:1368284408,payload_properties.txt:1368289214:156,apex_info.pb:2000:1632,care_map.pb:3679:1022,metadata:69:668,metadata.pb:805:1147                        ",
   "type": "nightly",
   "version": "23.2"
 }
