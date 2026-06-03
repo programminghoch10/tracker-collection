@@ -1,55 +1,57 @@
 {
-  "date": "2026-05-27",
-  "datetime": 1779884461,
+  "date": "2026-06-03",
+  "datetime": 1780487876,
   "files": [
     {
-      "date": "2026-05-27",
-      "datetime": 1779884461,
-      "filename": "lineage-22.2-20260527-nightly-gtowifi-signed.zip",
-      "filepath": "/full/gtowifi/20260527/lineage-22.2-20260527-nightly-gtowifi-signed.zip",
+      "date": "2026-06-03",
+      "datetime": 1780487876,
+      "filename": "lineage-22.2-20260603-nightly-gtowifi-signed.zip",
+      "filepath": "/full/gtowifi/20260603/lineage-22.2-20260603-nightly-gtowifi-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "a6b8a1294fe651587f6721da42994c2aeb9b8e9f",
-      "sha256": "f6de344b4d22915bfe6815b28f90c5b607413986e8bf5e045317b342347217e0",
-      "size": 1029733355,
+      "ota_property_files": "metadata:69:329,metadata.pb:466:211                 ",
+      "sha1": "f1e512018dbfb744000328148487304498aa82f0",
+      "sha256": "aeda9b97c2d56c3f00ba10af8f7dc1b90eb1071094af6ed50d670877b611535c",
+      "size": 1029492440,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260527/lineage-22.2-20260527-nightly-gtowifi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260603/lineage-22.2-20260603-nightly-gtowifi-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/gtowifi/20260527/boot.img",
-      "sha1": "678c30179314c6ac84d1e28163e548100fcaeae8",
-      "sha256": "28f400a4520c0f604743be1a3a30cfe35b8cd11cf8e81d0e4b27f766b594501d",
+      "filepath": "/full/gtowifi/20260603/boot.img",
+      "sha1": "f008c58ce70c987f1689260ceae3e349271f881c",
+      "sha256": "0e344910c16c190d9066c724b7e23bc0921e4906b164897f513233ccae9e8c71",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260527/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260603/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/gtowifi/20260527/dtbo.img",
-      "sha1": "89b067fceb4e978571936e963ce9aa47937e2216",
-      "sha256": "09e93bbe3b7656080cd010b08c089ddf46f8078ae0fb7835aa5ba08b0a3405e8",
+      "filepath": "/full/gtowifi/20260603/dtbo.img",
+      "sha1": "3d40bda065444585607faba32a34a9d32689d987",
+      "sha256": "ecf69db40cdbd940f84e215495d34434e8eaa96aa1c3b4a415bf6ba3a3543f40",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260527/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260603/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/gtowifi/20260527/recovery.img",
-      "sha1": "97810eef31339d95024bd1ad06bf25f11d256e88",
-      "sha256": "2c1ff7917cce0e990d3a4eb116cbb1df5be961379c4431c358cc0a9e93f083db",
+      "filepath": "/full/gtowifi/20260603/recovery.img",
+      "sha1": "b7dbda7826b7f2141c927862a1e4f64311c17138",
+      "sha256": "4f7bc1b23c6a4666c66c13cd32fb1742b7fe62adb862c9d7c2a9b2cba8152f17",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260527/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260603/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/gtowifi/20260527/vbmeta.img",
-      "sha1": "0d5ab09688db5ca7e6bc379ec7cfeecf635e33e7",
-      "sha256": "6ec622e8d5ab532cbfce5080416acdeeecaf590de309c7f685d7e2ddfa6f8652",
+      "filepath": "/full/gtowifi/20260603/vbmeta.img",
+      "sha1": "431aa1393efd9846c51251acd36b771af28bd2b8",
+      "sha256": "0c83d3709c4748f34731370e26b9e2b216c3580364e7c46f46fc9d6fde7be4bb",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260527/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/gtowifi/20260603/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:329,metadata.pb:466:211                 ",
   "type": "nightly",
   "version": "22.2"
 }
