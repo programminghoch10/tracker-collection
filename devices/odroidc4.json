@@ -1,79 +1,81 @@
 {
-  "date": "2026-05-27",
-  "datetime": 1779877474,
+  "date": "2026-06-03",
+  "datetime": 1780465201,
   "files": [
     {
-      "date": "2026-05-27",
-      "datetime": 1779877474,
-      "filename": "lineage-22.2-20260527-nightly-odroidc4-signed.zip",
-      "filepath": "/full/odroidc4/20260527/lineage-22.2-20260527-nightly-odroidc4-signed.zip",
+      "date": "2026-06-03",
+      "datetime": 1780465201,
+      "filename": "lineage-22.2-20260603-nightly-odroidc4-signed.zip",
+      "filepath": "/full/odroidc4/20260603/lineage-22.2-20260603-nightly-odroidc4-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "5a363e6e49e92b37ec4d338c5f3d34dbfa11d38e",
-      "sha256": "9f361d417aa8bdc32f51c6982c02e6fd02ff57a959903403634ae3a202f33eab",
-      "size": 553257946,
+      "ota_property_files": "metadata:69:315,metadata.pb:452:198                 ",
+      "sha1": "9ca79118df832bb5753ad34d0f9fa76123ee84b8",
+      "sha256": "a69cd0eece32c473e0b2fc4a2ddcd37a2d9c4f8b36b1275da2bc17024c691ef2",
+      "size": 553173417,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/lineage-22.2-20260527-nightly-odroidc4-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/lineage-22.2-20260603-nightly-odroidc4-signed.zip"
     },
     {
       "filename": "aml_install_package.img",
-      "filepath": "/full/odroidc4/20260527/aml_install_package.img",
-      "sha1": "19550ed9f9366e4626ec0d35d1e82b5673cf55cb",
-      "sha256": "5cc55809e6501f92c21e0a7c9b3ebafd64299f8906ad104cd2b0051b1bf261a6",
+      "filepath": "/full/odroidc4/20260603/aml_install_package.img",
+      "sha1": "0b91d92651cbb9f9faefeaa1e26967daa02af159",
+      "sha256": "26d2a931b5cf9053ba007e9db381e4322cefb8688d4dc150d5ef0e0942303c3d",
       "size": 46388816,
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/aml_install_package.img"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/aml_install_package.img"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/odroidc4/20260527/boot.img",
-      "sha1": "4d9908695cac011cd10e438e529714fa2e39f137",
-      "sha256": "4f7abe3c8f203c26de1245959db0a9bbbbff053748e4e8d22329389f7d55347f",
+      "filepath": "/full/odroidc4/20260603/boot.img",
+      "sha1": "2d1ee51a51018fb9c84653026db73a3f476f6850",
+      "sha256": "fd06bbbb10105a8279c37ed8ed57251e90d5b96f5339cb8fd3dddb6a71fec1ab",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/boot.img"
     },
     {
       "filename": "dtb.img",
-      "filepath": "/full/odroidc4/20260527/dtb.img",
+      "filepath": "/full/odroidc4/20260603/dtb.img",
       "sha1": "d60245bc5415d8b3fdd4dee4c1b9ac1011ab338a",
       "sha256": "abe1c5de7d3a3f074bf7388b54d0731329311b205dfe7c8101b62b8a096a2a7b",
       "size": 94319,
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/dtb.img"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/dtb.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/odroidc4/20260527/dtbo.img",
-      "sha1": "a0f2ffddefa21f961fe37819f2b49b7d9217baa0",
-      "sha256": "da311d2a4eb41c4345074a4d12d1d3ab260c520d1f305c20fb4c4fa3519645df",
+      "filepath": "/full/odroidc4/20260603/dtbo.img",
+      "sha1": "74d054d3252c70874c4826d651964ceb7ef4dc0b",
+      "sha256": "35e6a627253a835311813e477d5f1341c69767c2e0847705531c891f02b9ac38",
       "size": 2097152,
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/odroidc4/20260527/recovery.img",
-      "sha1": "c13a2fbe788b966bc013eeed5f344c452d7df79d",
-      "sha256": "6ade1f25795f4d73f5ae6445d14855d901dead85ff5d564ebb4d49220847ceb6",
+      "filepath": "/full/odroidc4/20260603/recovery.img",
+      "sha1": "c4f1fc0f751ed2300c193e5e218e53d809e39d26",
+      "sha256": "2280ed1f7b94c0bcd1f29108e34d48b0cc1e09fd36e4771d2dbf922e2f66cf9c",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/odroidc4/20260527/super_empty.img",
+      "filepath": "/full/odroidc4/20260603/super_empty.img",
       "sha1": "c9ddb88691ec877569ccd145481df7f101a50f0b",
       "sha256": "10b7e10ab1bf800273d72fc6d5eee2fd85516d78d30a25f67f861e1bfc4056a6",
       "size": 4696,
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/odroidc4/20260527/vbmeta.img",
-      "sha1": "2f2d2e9d28b01dc44abf2f54ddf3ffdbed55fdda",
-      "sha256": "aac40b5712c32a6b7e8a552c7a9c72cb48bf21752867ac8f2d6c21a8cc9d81ef",
+      "filepath": "/full/odroidc4/20260603/vbmeta.img",
+      "sha1": "ed385ce775853d59289ba93e86a8c7f7bae012b0",
+      "sha256": "987e82d462be03ee2cccec624d3666e5bd5743492356a99f96151715fffcbaeb",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260527/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/odroidc4/20260603/vbmeta.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:315,metadata.pb:452:198                 ",
   "type": "nightly",
   "version": "22.2"
 }
