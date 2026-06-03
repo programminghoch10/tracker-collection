@@ -1,31 +1,33 @@
 {
-  "date": "2026-05-27",
-  "datetime": 1779858517,
+  "date": "2026-06-03",
+  "datetime": 1780496368,
   "files": [
     {
-      "date": "2026-05-27",
-      "datetime": 1779858517,
-      "filename": "lineage-22.2-20260527-nightly-beckham-signed.zip",
-      "filepath": "/full/beckham/20260527/lineage-22.2-20260527-nightly-beckham-signed.zip",
+      "date": "2026-06-03",
+      "datetime": 1780496368,
+      "filename": "lineage-22.2-20260603-nightly-beckham-signed.zip",
+      "filepath": "/full/beckham/20260603/lineage-22.2-20260603-nightly-beckham-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "ed5058c5ba74902bc682724e0c0b65b33f361f4f",
-      "sha256": "d967a01349a5af0e18c3aaa5a4affd38921b8fef4db5ff76dac0f9232b266bbf",
-      "size": 971112972,
+      "ota_property_files": "payload_metadata.bin:2813:112981,payload.bin:2813:971103300,payload_properties.txt:971106171:155,apex_info.pb:1609:1157,metadata:69:613,metadata.pb:750:811                  ",
+      "sha1": "734fc019c5dc4d30461b451bb7f0547e09bd7bcb",
+      "sha256": "d2cc3babf06fd2540283b071836d0b3c658461e3b53ea738b1fcdec761e9df40",
+      "size": 971109258,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/beckham/20260527/lineage-22.2-20260527-nightly-beckham-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/beckham/20260603/lineage-22.2-20260603-nightly-beckham-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/beckham/20260527/boot.img",
-      "sha1": "2f1d1021569a3906f10a02d9a5439159fd4e50a5",
-      "sha256": "3f07c411e178eb9e370c8104a1c3fadd7d0795d3adefa90f6edfad040b1c6dca",
+      "filepath": "/full/beckham/20260603/boot.img",
+      "sha1": "f664d681cded322a990a4b6ad6351f15e5bdf7b6",
+      "sha256": "4d02f1c1cfcac5989a13198d41aeb5f7971b8bf480de99bc08b8d915d81084b8",
       "size": 32399360,
-      "url": "https://mirrorbits.lineageos.org/full/beckham/20260527/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/beckham/20260603/boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "payload_metadata.bin:2813:112981,payload.bin:2813:971103300,payload_properties.txt:971106171:155,apex_info.pb:1609:1157,metadata:69:613,metadata.pb:750:811                  ",
   "type": "nightly",
   "version": "22.2"
 }
