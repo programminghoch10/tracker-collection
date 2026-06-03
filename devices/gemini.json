@@ -1,39 +1,41 @@
 {
-  "date": "2026-05-27",
-  "datetime": 1779876863,
+  "date": "2026-06-03",
+  "datetime": 1780476782,
   "files": [
     {
-      "date": "2026-05-27",
-      "datetime": 1779876863,
-      "filename": "lineage-22.2-20260527-nightly-gemini-signed.zip",
-      "filepath": "/full/gemini/20260527/lineage-22.2-20260527-nightly-gemini-signed.zip",
+      "date": "2026-06-03",
+      "datetime": 1780476782,
+      "filename": "lineage-22.2-20260603-nightly-gemini-signed.zip",
+      "filepath": "/full/gemini/20260603/lineage-22.2-20260603-nightly-gemini-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 35,
-      "sha1": "5c0de9afed41216363c67808b4f4888e79d754fc",
-      "sha256": "ccd1688d2388c81c28cace9347d248bf18bd821f4086b08bc07ee93720140f0a",
-      "size": 992240368,
+      "ota_property_files": "metadata:69:330,metadata.pb:467:211                 ",
+      "sha1": "b773b868c32f4d14702b0c1f1474531315d0c5d1",
+      "sha256": "fd2447e16281335b4602767816454b93be2108634a559a06390ae341a86881c6",
+      "size": 991925114,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/gemini/20260527/lineage-22.2-20260527-nightly-gemini-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/gemini/20260603/lineage-22.2-20260603-nightly-gemini-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/gemini/20260527/boot.img",
-      "sha1": "58a11f3dcef1b6e7f7934011db1559aaf38a1f87",
-      "sha256": "16c42c6bf599a9baaa50b682197a80bf4e543bd9bfe276b48875ca8337104893",
+      "filepath": "/full/gemini/20260603/boot.img",
+      "sha1": "6b8f758ba7853b9929cf9f9cbc785f602a27b3f9",
+      "sha256": "52674829566659ae4f955f950a1b6902057fea43ebc704d7dacd3ee818191091",
       "size": 17969152,
-      "url": "https://mirrorbits.lineageos.org/full/gemini/20260527/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/gemini/20260603/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/gemini/20260527/recovery.img",
-      "sha1": "406d0dac34c9108d610bcb180c0915750e9f6f75",
-      "sha256": "b743149eb997ee41d0620617998440a1a4550b4be7a6f5a7ffddfe491aecc84d",
-      "size": 25096192,
-      "url": "https://mirrorbits.lineageos.org/full/gemini/20260527/recovery.img"
+      "filepath": "/full/gemini/20260603/recovery.img",
+      "sha1": "3c6119dee089a2a1e781db03dac3593cb265acfc",
+      "sha256": "9fa8353a0eef47e54144b2c20f657301949d5b30e8435c95cc1396fca74bbc51",
+      "size": 25092096,
+      "url": "https://mirrorbits.lineageos.org/full/gemini/20260603/recovery.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:330,metadata.pb:467:211                 ",
   "type": "nightly",
   "version": "22.2"
 }
