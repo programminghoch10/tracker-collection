@@ -1,71 +1,73 @@
 {
-  "date": "2026-05-28",
-  "datetime": 1779926530,
+  "date": "2026-06-04",
+  "datetime": 1780557445,
   "files": [
     {
-      "date": "2026-05-28",
-      "datetime": 1779926530,
-      "filename": "lineage-23.2-20260528-nightly-cupid-signed.zip",
-      "filepath": "/full/cupid/20260528/lineage-23.2-20260528-nightly-cupid-signed.zip",
+      "date": "2026-06-04",
+      "datetime": 1780557445,
+      "filename": "lineage-23.2-20260604-nightly-cupid-signed.zip",
+      "filepath": "/full/cupid/20260604/lineage-23.2-20260604-nightly-cupid-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "147608e6399b9de5cb140be3f64ecb07414844a8",
-      "sha256": "f1b5e6a1d952fd300f14d0eaba43d092d5c1fc42985c60acda0b9e54dcb6df52",
-      "size": 1754085924,
+      "ota_property_files": "payload_metadata.bin:4687:172016,payload.bin:4687:1754384105,payload_properties.txt:1754388850:156,apex_info.pb:2227:1279,care_map.pb:3553:1087,metadata:69:684,metadata.pb:821:1358                        ",
+      "sha1": "7e20c18c179dcf2234f7e5a53a27efbede7bea11",
+      "sha256": "7b7151c02db3ef6333af72d97eca8eec35d0bee8a8364580882c8e4fc20c8caa",
+      "size": 1754391997,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cupid/20260528/lineage-23.2-20260528-nightly-cupid-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20260604/lineage-23.2-20260604-nightly-cupid-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cupid/20260528/boot.img",
-      "sha1": "826be673071dae44b62e60f9224b52a62033eb7f",
-      "sha256": "69397aa5d7d29803277c6b2dd1a8fe49fe1ef474399cfb5a2e941b38f47b4109",
+      "filepath": "/full/cupid/20260604/boot.img",
+      "sha1": "0ac88b305aa7b56de89173d6630bd20eae115f50",
+      "sha256": "171586c2be6511443dd957cfe9aaf574db203466f11ad69a0de7090610dea923",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/cupid/20260528/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20260604/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/cupid/20260528/dtbo.img",
-      "sha1": "bcba366ed5355a1ec44fcc56073754ecdfda6332",
-      "sha256": "29354206f0366937cc4d66c7ca3d8aa223afdf2c345f8ad5322f009e98610770",
+      "filepath": "/full/cupid/20260604/dtbo.img",
+      "sha1": "24907c830e76f170502c504b618cf3ef0967c9cf",
+      "sha256": "df502ed140e866d69c890cc794be4ee97752632cd3dd84987b80910e7d44c8c6",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/cupid/20260528/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20260604/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/cupid/20260528/recovery.img",
-      "sha1": "d84944e0c5c39cafe1075d8453ad3c79125fb07d",
-      "sha256": "5319b925c3bc1f73a83abec12d7cf798683d5dafb29426d93053adbd013f9f08",
+      "filepath": "/full/cupid/20260604/recovery.img",
+      "sha1": "1f2c6d4ee1e4baf314fbda7c31f4a3c654d5182e",
+      "sha256": "106994221b78efe8ea23900c111c64ad9c91a26564a3959582252abec9a05dda",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/cupid/20260528/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20260604/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/cupid/20260528/super_empty.img",
+      "filepath": "/full/cupid/20260604/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/cupid/20260528/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20260604/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/cupid/20260528/vbmeta.img",
-      "sha1": "eb430cd86f01bc07593258de3819f00e1b4fd938",
-      "sha256": "f9c1ecc3e0a6c034523660a2ec7dd8127684e4eaabd4a6340b5afe95670dd6ae",
+      "filepath": "/full/cupid/20260604/vbmeta.img",
+      "sha1": "c47646281cac55eb36015b7d3089ab341d4c634e",
+      "sha256": "59013a25b09f8fdfac344e246d8e2e4a9f0c2f626a9c04cca0806a5a13cda26c",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/cupid/20260528/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20260604/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/cupid/20260528/vendor_boot.img",
-      "sha1": "276deeae4a8f536848eab924b4da001e5cbe8bdd",
-      "sha256": "1f839e2b3f286c692424dff68344928c47c14fa432e86751a815ed60b50b82c4",
+      "filepath": "/full/cupid/20260604/vendor_boot.img",
+      "sha1": "f833d3d6599f9a0ac0c1dd93d7bafdcdf9270b3e",
+      "sha256": "4f7626bdae04177472a093846c48d86c3e01793383c3cf61056327ffac94adf9",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/cupid/20260528/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20260604/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4687:172016,payload.bin:4687:1754384105,payload_properties.txt:1754388850:156,apex_info.pb:2227:1279,care_map.pb:3553:1087,metadata:69:684,metadata.pb:821:1358                        ",
   "type": "nightly",
   "version": "23.2"
 }
