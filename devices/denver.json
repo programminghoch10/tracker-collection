@@ -1,63 +1,65 @@
 {
-  "date": "2026-05-28",
-  "datetime": 1779937360,
+  "date": "2026-06-04",
+  "datetime": 1780531316,
   "files": [
     {
-      "date": "2026-05-28",
-      "datetime": 1779937360,
-      "filename": "lineage-23.2-20260528-nightly-denver-signed.zip",
-      "filepath": "/full/denver/20260528/lineage-23.2-20260528-nightly-denver-signed.zip",
+      "date": "2026-06-04",
+      "datetime": 1780531316,
+      "filename": "lineage-23.2-20260604-nightly-denver-signed.zip",
+      "filepath": "/full/denver/20260604/lineage-23.2-20260604-nightly-denver-signed.zip",
       "os_patch_level": "2026-05-01",
       "os_sdk_level": 36,
-      "sha1": "4fc9d282bffbf7221b8ee792cf65b5a06bcd9e90",
-      "sha256": "6f354edef06a8e35465da7db0f7d93330193713e7784c3eb69081ea9d5cbb041",
-      "size": 1130882885,
+      "ota_property_files": "payload_metadata.bin:4223:131649,payload.bin:4223:1131007384,payload_properties.txt:1131011665:156,apex_info.pb:2021:1279,care_map.pb:3347:829,metadata:69:685,metadata.pb:822:1151                        ",
+      "sha1": "b2702e9d01b8dcc63508ce20f99959ad3bbf639d",
+      "sha256": "3c803fb391a91325f93529fbbec7b302f01c21efd38bccad7d46d9090f2cad46",
+      "size": 1131014812,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/denver/20260528/lineage-23.2-20260528-nightly-denver-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20260604/lineage-23.2-20260604-nightly-denver-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/denver/20260528/boot.img",
-      "sha1": "3d4f1a483e73fa31a962727d15dd36b71b2935d3",
-      "sha256": "a8351aff897c6f221cee600807844103939098a11cc33faaf0f815f77d2376f4",
+      "filepath": "/full/denver/20260604/boot.img",
+      "sha1": "1e422b11a8ba779dbbe7abf9a29eebc4f7cc61bd",
+      "sha256": "7ef5a25b53285bae3831bbcecad81a2967d007f15608e550e7c690beceb575f5",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20260528/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20260604/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/denver/20260528/dtbo.img",
-      "sha1": "bd0bf766eec5eda626e65a297261d86de5a76b7d",
-      "sha256": "b69ca117a4ced400640104c25e77a400a2e97d6b274ade4760a3a9be325329b7",
+      "filepath": "/full/denver/20260604/dtbo.img",
+      "sha1": "f71008576e64387d5b60274a75099e181b567a46",
+      "sha256": "4721311da6918810cf86585e95d22d502ae0936db1e19987416623f2cc3259d3",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20260528/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20260604/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/denver/20260528/super_empty.img",
+      "filepath": "/full/denver/20260604/super_empty.img",
       "sha1": "a002ed8cddb90025c295debafcde687d4f0a325b",
       "sha256": "2deaed6997e33f7d739cdcb494444868beee8bb1d49002c35d752be671021629",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20260528/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20260604/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/denver/20260528/vbmeta.img",
-      "sha1": "c6982b1b0c39b691f2ba9cc01c5e8ee121e9c623",
-      "sha256": "c6d9a185e11366608739546cba4d13905931630aab6067769a822fbca4a8df02",
+      "filepath": "/full/denver/20260604/vbmeta.img",
+      "sha1": "712f08c55914de5b5106793cef0b7740d4c465b0",
+      "sha256": "cfee4883da472998ab109b8ee3b43ddfed61b0a67a0d5217a3a496b7f7ee5eac",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20260528/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20260604/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/denver/20260528/vendor_boot.img",
-      "sha1": "540aad38f55b09310a87fc7f05b4922172c70af3",
-      "sha256": "1f6c0ac439dccf2a48c2452d3292fcb44c5597650c6e3f34da4e67d474092962",
+      "filepath": "/full/denver/20260604/vendor_boot.img",
+      "sha1": "4c5187399034f2205c15299430f6a03dfd7df201",
+      "sha256": "26a4d24ccc1e557c0f9a53f54c781d58185a2f97ee41f054cdb168471649d81b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20260528/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20260604/vendor_boot.img"
     }
   ],
   "os_patch_level": "2026-05-01",
   "os_sdk_level": 36,
+  "ota_property_files": "payload_metadata.bin:4223:131649,payload.bin:4223:1131007384,payload_properties.txt:1131011665:156,apex_info.pb:2021:1279,care_map.pb:3347:829,metadata:69:685,metadata.pb:822:1151                        ",
   "type": "nightly",
   "version": "23.2"
 }
