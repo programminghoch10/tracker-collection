@@ -1,65 +1,65 @@
 {
-  "date": "2026-05-30",
-  "datetime": 1780116013,
+  "date": "2026-06-06",
+  "datetime": 1780762045,
   "files": [
     {
-      "date": "2026-05-30",
-      "datetime": 1780116013,
-      "filename": "lineage-23.2-20260530-nightly-rhode-signed.zip",
-      "filepath": "/full/rhode/20260530/lineage-23.2-20260530-nightly-rhode-signed.zip",
-      "os_patch_level": "2026-05-01",
+      "date": "2026-06-06",
+      "datetime": 1780762045,
+      "filename": "lineage-23.2-20260606-nightly-rhode-signed.zip",
+      "filepath": "/full/rhode/20260606/lineage-23.2-20260606-nightly-rhode-signed.zip",
+      "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4137:123329,payload.bin:4137:1086941264,payload_properties.txt:1086945459:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
-      "sha1": "51b9347970d16811a3d1980bd3a7370d70816b7f",
-      "sha256": "09c18ade3914f01f4414dad2f3789088ef298252190f90a814fbda915da37ab9",
-      "size": 1086948606,
+      "ota_property_files": "payload_metadata.bin:4137:123273,payload.bin:4137:1086627175,payload_properties.txt:1086631370:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
+      "sha1": "12d6aac0d2f893e13220a23a0db999216c2f4d92",
+      "sha256": "3b46aff5936652fd38d87b06058969418cebc80aa88f7156fa25c5827afde7d8",
+      "size": 1086634517,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260530/lineage-23.2-20260530-nightly-rhode-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260606/lineage-23.2-20260606-nightly-rhode-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rhode/20260530/boot.img",
-      "sha1": "8fbdf0873a4dec66a3afe596034c395002ea1a08",
-      "sha256": "04e9674b2f47da31606d8bbf089abcfb88cf3119a2e4fbfc5f5c65ee4b2ed09b",
+      "filepath": "/full/rhode/20260606/boot.img",
+      "sha1": "e202be3f178a25e7dbdf4114ccabc2b941075bf5",
+      "sha256": "ed4e1160aacea3133bdda25e3d171302bf40b309da114d4cdae5702c46c20452",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260530/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260606/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rhode/20260530/dtbo.img",
-      "sha1": "06c10618b202ccf1667669eeed5658c72d54f09b",
-      "sha256": "e3ec69880dd7fdd46fdf5fae27235535c05f905b1ce48a3aa51cb1511983a366",
+      "filepath": "/full/rhode/20260606/dtbo.img",
+      "sha1": "e4eb1f3d0cccb4503ab8c7f6c7a6ed2e363e0033",
+      "sha256": "db5293f79bbf6672f89e3290ff3cc5ce7dc24799a58ef2975e91c198ac0c1735",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260530/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260606/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rhode/20260530/super_empty.img",
+      "filepath": "/full/rhode/20260606/super_empty.img",
       "sha1": "da8fc41736746e722c512866f7e028ae0b647fdf",
       "sha256": "0af59ad1e465cfd9338b7046fbd313e12a5d0203cfe81cbac6a9fc37858d595a",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260530/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260606/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rhode/20260530/vbmeta.img",
-      "sha1": "1a84242af61ed91ebc88b273a99441b58f2f7e99",
-      "sha256": "a762590e434f196aba77add89698bd52ba318d78ddb8336b078290bd5a147de6",
+      "filepath": "/full/rhode/20260606/vbmeta.img",
+      "sha1": "6c6ca0300eaf6b4e33ffa26ccc5f72f4f842a8f9",
+      "sha256": "a5225a2b27091907dd62223824ad41543f60d40cdc646e83b182c134bc8c0214",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260530/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260606/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/rhode/20260530/vendor_boot.img",
-      "sha1": "c28dc41865b564fb4752f6d05079d1d73fb6ab61",
-      "sha256": "b340de59d2eb0be7a79892c68c106f8a46b0b869eb19ae1c2daf1f8029e25548",
+      "filepath": "/full/rhode/20260606/vendor_boot.img",
+      "sha1": "eb35000be49772c1ee0413925be8399d07e50a6d",
+      "sha256": "3f7c7d8189a13729c86d207f3cd7d465f3925f74b93b46c599644d7df9ef9a79",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20260530/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20260606/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-05-01",
+  "os_patch_level": "2026-06-01",
   "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4137:123329,payload.bin:4137:1086941264,payload_properties.txt:1086945459:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
+  "ota_property_files": "payload_metadata.bin:4137:123273,payload.bin:4137:1086627175,payload_properties.txt:1086631370:156,apex_info.pb:1964:1279,care_map.pb:3290:800,metadata:69:677,metadata.pb:814:1102                        ",
   "type": "nightly",
   "version": "23.2"
 }
