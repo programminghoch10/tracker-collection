@@ -1,49 +1,49 @@
 {
-  "date": "2026-06-01",
-  "datetime": 1780287031,
+  "date": "2026-06-08",
+  "datetime": 1780923022,
   "files": [
     {
-      "date": "2026-06-01",
-      "datetime": 1780287031,
-      "filename": "lineage-23.2-20260601-nightly-troika-signed.zip",
-      "filepath": "/full/troika/20260601/lineage-23.2-20260601-nightly-troika-signed.zip",
-      "os_patch_level": "2026-05-01",
+      "date": "2026-06-08",
+      "datetime": 1780923022,
+      "filename": "lineage-23.2-20260608-nightly-troika-signed.zip",
+      "filepath": "/full/troika/20260608/lineage-23.2-20260608-nightly-troika-signed.zip",
+      "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:3721:114123,payload.bin:3721:936657090,payload_properties.txt:936660869:155,apex_info.pb:1805:1279,care_map.pb:3131:543,metadata:69:688,metadata.pb:825:932                       ",
-      "sha1": "e9ee0a20bee29854e946b8ca3a7ae814b4331d82",
-      "sha256": "9a3c163dd19d163d379e276d01ab6e3fc6e50233cc92987d179b6bc5978fb738",
-      "size": 936664015,
+      "ota_property_files": "payload_metadata.bin:3721:114126,payload.bin:3721:936455413,payload_properties.txt:936459192:155,apex_info.pb:1805:1279,care_map.pb:3131:543,metadata:69:688,metadata.pb:825:932                       ",
+      "sha1": "9475f225fe6f4653e4aa1c74947d32ef2d80699f",
+      "sha256": "432c549f1a5b81ab4b71013c51a750dfb36f47d727c5084340033a0754f76d13",
+      "size": 936462338,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260601/lineage-23.2-20260601-nightly-troika-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260608/lineage-23.2-20260608-nightly-troika-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/troika/20260601/boot.img",
-      "sha1": "36c3c64482cb07ec6a4840b25c72bc64c7349427",
-      "sha256": "4255201fa70ba5f77a76647a8751f8c7ff3880cfabf38045aecb07430097d89c",
+      "filepath": "/full/troika/20260608/boot.img",
+      "sha1": "00a81e9b31c14076efd0087d7d317e667d7ebc84",
+      "sha256": "29b5c564ab105cb3225b2bffe889b0713abee64293150c9be2b2f5bd76c6fd46",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260601/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260608/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/troika/20260601/dtbo.img",
-      "sha1": "45eeb8f348beee0153c05f073f42e7ecd851c8ec",
-      "sha256": "f87c2342f9c7d8337bc9d67e561f55c1ed77070061458dc41d70c72a04c3371b",
+      "filepath": "/full/troika/20260608/dtbo.img",
+      "sha1": "7d66a97247f4e9bd65e29282295327c8c7ec530f",
+      "sha256": "7ca2e49e6e9b9db728c68afee5a0327ca19580d59b05ae24d0b496ef9127177c",
       "size": 1048576,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260601/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260608/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/troika/20260601/vbmeta.img",
-      "sha1": "1bb40f5e7668c6e03cdd1b6386d65dc81aa964ac",
-      "sha256": "8f712d99821a1c17762219964a979727c711b9f376cc9d281bac3951e289e056",
+      "filepath": "/full/troika/20260608/vbmeta.img",
+      "sha1": "1adfac3786c0232c0ffab30203f7e66f6c4b78a2",
+      "sha256": "ff442f57b6940afe592fcddbad80b17ba1c1b28afacda108e2f8c15254475f5b",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20260601/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20260608/vbmeta.img"
     }
   ],
-  "os_patch_level": "2026-05-01",
+  "os_patch_level": "2026-06-01",
   "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:3721:114123,payload.bin:3721:936657090,payload_properties.txt:936660869:155,apex_info.pb:1805:1279,care_map.pb:3131:543,metadata:69:688,metadata.pb:825:932                       ",
+  "ota_property_files": "payload_metadata.bin:3721:114126,payload.bin:3721:936455413,payload_properties.txt:936459192:155,apex_info.pb:1805:1279,care_map.pb:3131:543,metadata:69:688,metadata.pb:825:932                       ",
   "type": "nightly",
   "version": "23.2"
 }
