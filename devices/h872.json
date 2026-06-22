@@ -1,37 +1,41 @@
 {
-  "date": "2024-03-18",
-  "datetime": 1710720000,
+  "date": "2026-06-22",
+  "datetime": 1782112466,
   "files": [
     {
-      "date": "2024-03-18",
-      "datetime": 1710720000,
-      "filename": "lineage-21.0-20240318-nightly-h872-signed.zip",
-      "filepath": "/full/h872/20240318/lineage-21.0-20240318-nightly-h872-signed.zip",
-      "os_patch_level": "2024-02",
-      "sha1": "ad041c88d1ef5155bdcda666d29376c47a54535f",
-      "sha256": "d7d0ada6a6b2b3d79aa292c3d4c05bd87ad3f8966e23e5d87855c196cc7a11e2",
-      "size": 890234008,
+      "date": "2026-06-22",
+      "datetime": 1782112466,
+      "filename": "lineage-22.2-20260622-nightly-h872-signed.zip",
+      "filepath": "/full/h872/20260622/lineage-22.2-20260622-nightly-h872-signed.zip",
+      "os_patch_level": "2026-06-01",
+      "os_sdk_level": 35,
+      "ota_property_files": "metadata:69:336,metadata.pb:473:224                 ",
+      "sha1": "bd5f3084695398d530003b5b8bacfd1acc66f75e",
+      "sha256": "d64beb099f213749e9a8084003c99fc4c0a7a036329f400d215012449b982923",
+      "size": 1008759614,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/h872/20240318/lineage-21.0-20240318-nightly-h872-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/h872/20260622/lineage-22.2-20260622-nightly-h872-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/h872/20240318/boot.img",
-      "sha1": "7ae55de5acd270b9baf64fd3bda67acc674e84d4",
-      "sha256": "4ae5c34f6138519ad21e92800f60d4c561458a38d638b80ddd7da2567c9e48f4",
-      "size": 17305600,
-      "url": "https://mirrorbits.lineageos.org/full/h872/20240318/boot.img"
+      "filepath": "/full/h872/20260622/boot.img",
+      "sha1": "fef4820ea303a8b6cf36d2d30d0a9f56809916c3",
+      "sha256": "b042768e4765460b842be737d0b46e06b56fab122d540f0ea882a54cc8c82311",
+      "size": 18481152,
+      "url": "https://mirrorbits.lineageos.org/full/h872/20260622/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/h872/20240318/recovery.img",
-      "sha1": "7713367a4dfa9cec2999e5dc62df048a74a15d8e",
-      "sha256": "61de1437e5e93764c405bf5f9581093db554d75c7243ade1593d93fac0f63681",
-      "size": 23969792,
-      "url": "https://mirrorbits.lineageos.org/full/h872/20240318/recovery.img"
+      "filepath": "/full/h872/20260622/recovery.img",
+      "sha1": "e3f59277b28f4d58c8baa1b61577e61f35be636b",
+      "sha256": "c132276dd2d4ebd50046a9bdffdf1bde4f7c888f882ad178d1a1d48b89098865",
+      "size": 26021888,
+      "url": "https://mirrorbits.lineageos.org/full/h872/20260622/recovery.img"
     }
   ],
-  "os_patch_level": "2024-02",
+  "os_patch_level": "2026-06-01",
+  "os_sdk_level": 35,
+  "ota_property_files": "metadata:69:336,metadata.pb:473:224                 ",
   "type": "nightly",
-  "version": "21.0"
+  "version": "22.2"
 }
