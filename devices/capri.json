@@ -1,65 +1,62 @@
 {
-  "date": "2026-06-18",
-  "datetime": 1781777463,
+  "date": "2026-06-25",
+  "datetime": 1782358302,
   "files": [
     {
-      "date": "2026-06-18",
-      "datetime": 1781777463,
-      "filename": "lineage-23.2-20260618-nightly-capri-signed.zip",
-      "filepath": "/full/capri/20260618/lineage-23.2-20260618-nightly-capri-signed.zip",
+      "date": "2026-06-25",
+      "datetime": 1782358302,
+      "filename": "lineage-23.2-20260625-nightly-capri-signed.zip",
+      "filepath": "/full/capri/20260625/lineage-23.2-20260625-nightly-capri-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4092:144430,payload.bin:4092:1106916013,payload_properties.txt:1106920163:156,apex_info.pb:1936:1279,care_map.pb:3262:783,metadata:69:673,metadata.pb:810:1078                        ",
-      "sha1": "43354681b862bc81a381ee11d7f79ab4810dae4c",
-      "sha256": "74ceddb6de8edb5ff074238731d3e9d7ba44c7dbe4a8d8febadd3d2e2e8cd47b",
-      "size": 1106923310,
+      "ota_property_files": "payload_metadata.bin:4092:144259,payload.bin:4092:1105336188,payload_properties.txt:1105340338:156,apex_info.pb:1936:1279,care_map.pb:3262:783,metadata:69:673,metadata.pb:810:1078                        ",
+      "sha1": "2d07e33a40a57489e8a45df028bdb9d5fa175b32",
+      "sha256": "1a9bb1a0963cb3f240dee84eced5e4689453be36c1a549c8ba7854b0f2dadbc6",
+      "size": 1105343485,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/capri/20260618/lineage-23.2-20260618-nightly-capri-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20260625/lineage-23.2-20260625-nightly-capri-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/capri/20260618/boot.img",
-      "sha1": "a1d1802fe3070cc25823b2e7eee2e6a8be9a5345",
-      "sha256": "de10e1320564bbf66d5db682a2fd9d10fb9b44f86502748c0b8687dd76042f7d",
+      "filepath": "/full/capri/20260625/boot.img",
+      "sha1": "ad8aaf64ce10956fc1d05148f74580141cb10367",
+      "sha256": "97c1feba319970b34775d5dae4a06521ce3ccb63ea67986498b7654c0af4edcb",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20260618/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20260625/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/capri/20260618/dtbo.img",
-      "sha1": "3f10171593ad80754ff198923c65e25575af85bd",
-      "sha256": "e436da877a05c76b106a2589a130b476ff7a92668a5daee451976de6696bc4f2",
+      "filepath": "/full/capri/20260625/dtbo.img",
+      "sha1": "d6ce46d1bdf5177dc9acd3558abc277ffbc2c0a7",
+      "sha256": "e9d66bccf4a7d8a485a97719590c8ec5cd8e121c351e1f815674662e38875660",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20260618/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20260625/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/capri/20260618/super_empty.img",
+      "filepath": "/full/capri/20260625/super_empty.img",
       "sha1": "3b6a96721d52ee02c12524666f8cef0fdbe4ca8d",
       "sha256": "ca14b86653a5a188b402d2c97dcc1ed91558acfa2c48d21dbe3fce4d5dc023f0",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20260618/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20260625/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/capri/20260618/vbmeta.img",
-      "sha1": "e0f1d94f4f8d84d54d4f068ee688587eb0c67374",
-      "sha256": "8a53bb6f5975895b5d52922968ccccdb14d2e7332c2bdd828855f5c8ecbfef96",
+      "filepath": "/full/capri/20260625/vbmeta.img",
+      "sha1": "20e621ccb9ced9fdbb75f68b5adee6a9f4df52b4",
+      "sha256": "8f2128b2991b0864b0a2c5c5042108ae305d32f99bfc8f3f1cf780d636b4cd27",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20260618/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20260625/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/capri/20260618/vendor_boot.img",
-      "sha1": "bbc32ee2e1798a2033c63ecf6e233ac1c3112ff2",
-      "sha256": "ad5d62793e0823bff42dce697c3d0a7a58cbdf5a034f63c264f98a3d0711911a",
+      "filepath": "/full/capri/20260625/vendor_boot.img",
+      "sha1": "14d5b38798d4fb0c15ef829cd57877c809a130e5",
+      "sha256": "8c96a7e2ba5782f994173b54df8817e0e6cb563ea38d92004caa07c53b1d00b8",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20260618/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20260625/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4092:144430,payload.bin:4092:1106916013,payload_properties.txt:1106920163:156,apex_info.pb:1936:1279,care_map.pb:3262:783,metadata:69:673,metadata.pb:810:1078                        ",
   "type": "nightly",
   "version": "23.2"
 }
