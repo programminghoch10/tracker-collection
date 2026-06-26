@@ -1,81 +1,78 @@
 {
-  "date": "2026-06-19",
-  "datetime": 1781868560,
+  "date": "2026-06-26",
+  "datetime": 1782446202,
   "files": [
     {
-      "date": "2026-06-19",
-      "datetime": 1781868560,
-      "filename": "lineage-23.2-20260619-nightly-lexus-signed.zip",
-      "filepath": "/full/lexus/20260619/lineage-23.2-20260619-nightly-lexus-signed.zip",
+      "date": "2026-06-26",
+      "datetime": 1782446202,
+      "filename": "lineage-23.2-20260626-nightly-lexus-signed.zip",
+      "filepath": "/full/lexus/20260626/lineage-23.2-20260626-nightly-lexus-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5009:213028,payload.bin:5009:2896806142,payload_properties.txt:2896811209:156,apex_info.pb:2291:1370,care_map.pb:3708:1254,metadata:69:690,metadata.pb:827:1416                        ",
-      "sha1": "a8f61a8a11097b259458f5c55e9f5a7257d4f615",
-      "sha256": "6476ae52aaa773916db46b1d98962985bc1ea15c24d9ca8b7bbd353db7f3ed8b",
-      "size": 2896814356,
+      "ota_property_files": "payload_metadata.bin:5009:212919,payload.bin:5009:2897333042,payload_properties.txt:2897338109:156,apex_info.pb:2291:1370,care_map.pb:3708:1254,metadata:69:690,metadata.pb:827:1416                        ",
+      "sha1": "c1db75494f05aaf292492523f883564194d79c1a",
+      "sha256": "29652a0a981bce618bb6075578ea99b736fd30146669b796a2d67ac2a3d4d8f0",
+      "size": 2897341256,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/lineage-23.2-20260619-nightly-lexus-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/lineage-23.2-20260626-nightly-lexus-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lexus/20260619/boot.img",
-      "sha1": "16ea7408ea426f978c8f10676a89dfc6b30116fd",
-      "sha256": "fcf080c1b1acd86f399a31fa19f1952bea6f76e57262e26463e49aa51fa617bd",
+      "filepath": "/full/lexus/20260626/boot.img",
+      "sha1": "4efc6d618c621b62dd86152bced6754c91159835",
+      "sha256": "fde5c627b75fe40258ccfbcb395a01c1ccc0c43837101b95198784c1f5f54273",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lexus/20260619/dtbo.img",
-      "sha1": "dd68861646a9b688594385523a2178fb0a51b456",
-      "sha256": "efa3294b67c725b21be05486b54527b9af2b5b56bb712c575c3a25c0a100d0c4",
+      "filepath": "/full/lexus/20260626/dtbo.img",
+      "sha1": "48ed5e9dd52783160f81d2ffb1207220b6c19472",
+      "sha256": "c302e32614b4fa3bb8d9a7c8e32ac7ae742f4b45a0e979dc97eab6b460cc5906",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/lexus/20260619/init_boot.img",
-      "sha1": "33129ab62dec7aa8b9cd7489bf9030745866b3a2",
-      "sha256": "fbc930d4c418d5b8860ff51379d0b2266061347732e9ec0fa5fd12fa6f24fbd3",
+      "filepath": "/full/lexus/20260626/init_boot.img",
+      "sha1": "0da16e5612365a93cba97eec8a0c3a6359069867",
+      "sha256": "94d3e3947e199874f47c953d6a6c5b21aded10893d435237b3892fa9633d4db8",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/lexus/20260619/recovery.img",
-      "sha1": "6f0eb46289ba462244272ac1c5aaf0cce669dfd9",
-      "sha256": "a557c27f578b59924e10952d31b09f2904121784dbccf184b0f69cacf898d48e",
+      "filepath": "/full/lexus/20260626/recovery.img",
+      "sha1": "a4819e90bb04cbd2bb87ec60647b377464dec260",
+      "sha256": "ca0778d2410d631348b67fda325c4f0d9e6f9159ae795f03ea68ddb336fe08c5",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lexus/20260619/super_empty.img",
+      "filepath": "/full/lexus/20260626/super_empty.img",
       "sha1": "27974cd2688bba37a41d32745ae58738daf1c188",
       "sha256": "5e96e040266c9539b11678d6abd9638c8bc04c459fbbfe2e5022567df4eced6d",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lexus/20260619/vbmeta.img",
-      "sha1": "733793197064ecdba3a392bf1f11a926b19ce255",
-      "sha256": "1c4a323dad8f01cfaf814c0606957daea780f1bc0197611e3f2f0d3ba6f92454",
+      "filepath": "/full/lexus/20260626/vbmeta.img",
+      "sha1": "c5ee020c66fe90b913aee05e8ea34c402ce42a76",
+      "sha256": "148d206fb426e389eb26b7a8f4effc41033d93c3618b2c982940adfb5706f033",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lexus/20260619/vendor_boot.img",
-      "sha1": "4ad2fa97791615943dacf9d4490360745df2b8ab",
-      "sha256": "24a6c231a002bbedfc8c0da2664dee228b49a229394997c732a20ccd8f293c7b",
+      "filepath": "/full/lexus/20260626/vendor_boot.img",
+      "sha1": "ae0baf392a6a209944afb0b58baf55c59ffd3d17",
+      "sha256": "80ee7ea130dd4ee47adeb28c8cfbf0c7ce3a3f9b5c14ddb72ef27cd020e5ee05",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260619/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260626/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:5009:213028,payload.bin:5009:2896806142,payload_properties.txt:2896811209:156,apex_info.pb:2291:1370,care_map.pb:3708:1254,metadata:69:690,metadata.pb:827:1416                        ",
   "type": "nightly",
   "version": "23.2"
 }
