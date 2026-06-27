@@ -1,57 +1,54 @@
 {
-  "date": "2026-06-20",
-  "datetime": 1781968341,
+  "date": "2026-06-27",
+  "datetime": 1782530658,
   "files": [
     {
-      "date": "2026-06-20",
-      "datetime": 1781968341,
-      "filename": "lineage-23.2-20260620-nightly-renoir-signed.zip",
-      "filepath": "/full/renoir/20260620/lineage-23.2-20260620-nightly-renoir-signed.zip",
+      "date": "2026-06-27",
+      "datetime": 1782530658,
+      "filename": "lineage-23.2-20260627-nightly-renoir-signed.zip",
+      "filepath": "/full/renoir/20260627/lineage-23.2-20260627-nightly-renoir-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4642:159350,payload.bin:4642:1507508162,payload_properties.txt:1507512862:156,apex_info.pb:2143:1279,care_map.pb:3469:1126,metadata:69:687,metadata.pb:824:1271                        ",
-      "sha1": "9085a5ca42f12e49c2a6baa087b92d647c539b1e",
-      "sha256": "1e188de2fa6c057f6c241efc1516fa3d8f8e7c5917cd6c655d9464321af5ef24",
-      "size": 1507516009,
+      "ota_property_files": "payload_metadata.bin:4642:159179,payload.bin:4642:1505952606,payload_properties.txt:1505957306:156,apex_info.pb:2143:1279,care_map.pb:3469:1126,metadata:69:687,metadata.pb:824:1271                        ",
+      "sha1": "e59dedd1e55561b23d0d2ea89ae81c1a19a449e2",
+      "sha256": "7e158f1a2608a8921e9119ce51dee7c31044047b8f63d39232db30c4328f551f",
+      "size": 1505960453,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20260620/lineage-23.2-20260620-nightly-renoir-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20260627/lineage-23.2-20260627-nightly-renoir-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/renoir/20260620/boot.img",
-      "sha1": "699e3c841ec428da8366b5b116403524abcfcaec",
-      "sha256": "8aa8705f570bca8aaba3943c540e77e287e2150d36ffc4a602c46afe4df1f907",
+      "filepath": "/full/renoir/20260627/boot.img",
+      "sha1": "7506e8539e09bc6fc1600e595d92347abe3ce508",
+      "sha256": "f7e7759d0c92fbd483eb911535d58d3c8c5333f0e1042ab687213a50f8e4c7e1",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20260620/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20260627/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/renoir/20260620/dtbo.img",
-      "sha1": "3f391d8bfad8c68be36a503e21429236d394dd21",
-      "sha256": "0459a87ae8260cd373e571e24c61b36e4ef1cb46d58609d6518f621ab5b6ee31",
+      "filepath": "/full/renoir/20260627/dtbo.img",
+      "sha1": "532b509cf6584b49fdae6b723d6cfabc0b7fa466",
+      "sha256": "37e819bf652ec08b2998c8e7ac29cdf58ab7826a941c1b89f8e82b385576503c",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20260620/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20260627/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/renoir/20260620/vbmeta.img",
-      "sha1": "f03fa884dd34eeee9d47149dea64b0bf59fc7703",
-      "sha256": "67eba6afe2a477962cdd447fbb7ff7dae6f678ef469979ff82f6fa37c4cade8a",
+      "filepath": "/full/renoir/20260627/vbmeta.img",
+      "sha1": "460f63ece84394589babe04d9a870f5ffc451217",
+      "sha256": "34d9606ff228080a615044d111daa3e23290ee35bd3554f556441b0b9b45d6bd",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20260620/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20260627/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/renoir/20260620/vendor_boot.img",
-      "sha1": "ffdcd87bcf7db4802ee0af377101abe52b4eb8f5",
-      "sha256": "9668e730f6d0a1531d6b9ee479bc4dd61218fc3366c6c3af2dbe1208f7c42a63",
+      "filepath": "/full/renoir/20260627/vendor_boot.img",
+      "sha1": "cbeffdf876507cbe3258eb70f3ffba393d9358a1",
+      "sha256": "58580d0e241de203e946f06ebb681d1d84fa89b28f62e802cd05f37c3c09710e",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20260620/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20260627/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4642:159350,payload.bin:4642:1507508162,payload_properties.txt:1507512862:156,apex_info.pb:2143:1279,care_map.pb:3469:1126,metadata:69:687,metadata.pb:824:1271                        ",
   "type": "nightly",
   "version": "23.2"
 }
