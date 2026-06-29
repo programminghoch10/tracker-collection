@@ -1,65 +1,62 @@
 {
-  "date": "2026-06-22",
-  "datetime": 1782122148,
+  "date": "2026-06-29",
+  "datetime": 1782717590,
   "files": [
     {
-      "date": "2026-06-22",
-      "datetime": 1782122148,
-      "filename": "lineage-23.2-20260622-nightly-martini-signed.zip",
-      "filepath": "/full/martini/20260622/lineage-23.2-20260622-nightly-martini-signed.zip",
+      "date": "2026-06-29",
+      "datetime": 1782717590,
+      "filename": "lineage-23.2-20260629-nightly-martini-signed.zip",
+      "filepath": "/full/martini/20260629/lineage-23.2-20260629-nightly-martini-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4679:166957,payload.bin:4679:1717409765,payload_properties.txt:1717414502:156,apex_info.pb:2206:1279,care_map.pb:3532:1100,metadata:69:700,metadata.pb:837:1321                        ",
-      "sha1": "fb09274de35046700dc292db7e890b6330f2a390",
-      "sha256": "ffeadc1cce79d114bfe449c5868d45cd199abf22f23d60ff4fc23de4cb66af74",
-      "size": 1717417649,
+      "ota_property_files": "payload_metadata.bin:4677:166730,payload.bin:4677:1715900902,payload_properties.txt:1715905637:156,apex_info.pb:2204:1279,care_map.pb:3530:1100,metadata:69:700,metadata.pb:837:1319                        ",
+      "sha1": "f19cf57d2c9fadd43e797cac41b92b53c5bc019c",
+      "sha256": "9f55b8e6cfe502e22382fb4e50bdaf00e2762a9b58e043d0cfa26f60af879a50",
+      "size": 1715908784,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/martini/20260622/lineage-23.2-20260622-nightly-martini-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20260629/lineage-23.2-20260629-nightly-martini-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/martini/20260622/boot.img",
-      "sha1": "121c009c4ee70e4611cb164146abdac042f097c5",
-      "sha256": "eabb7c459edc6e106240c9bb02d76e90a4887817735f9a104cadc506b85f7f60",
+      "filepath": "/full/martini/20260629/boot.img",
+      "sha1": "27c3bd3b76f10e59c466bb76998d50466985ca5d",
+      "sha256": "c577fff1eda19a28c4a06897205caaa1f8f0799bc6b1d8a02ade7c59d9ed62b8",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20260622/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20260629/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/martini/20260622/dtbo.img",
-      "sha1": "5aa676a9042acc4ef8e6df7c522823d038545dae",
-      "sha256": "e418dd7401687c656d902cfd9bcdd77a9755fbc58b8dba9c1cea495577a2fbe0",
+      "filepath": "/full/martini/20260629/dtbo.img",
+      "sha1": "9b7ccd0661ac6c5b4f158d511c13e753078fa9d2",
+      "sha256": "6b6ba60784714367cd1600f1d586bb0458c2bf753dd50701552d2987eea6ee57",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20260622/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20260629/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/martini/20260622/super_empty.img",
+      "filepath": "/full/martini/20260629/super_empty.img",
       "sha1": "2a93a95de91b1138756d0a6945cc0d066338808d",
       "sha256": "2bc92a674e4b667f82350730d91e4a4e3a61fd6c56b8d312de19e190180058ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20260622/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20260629/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/martini/20260622/vbmeta.img",
-      "sha1": "bedd7d9916d9a41005e320d547d1256749682d6a",
-      "sha256": "cd0a48e2f0a1903b5cab3d8d33b6494582988363bd0f099f83109b95fe76c2e4",
+      "filepath": "/full/martini/20260629/vbmeta.img",
+      "sha1": "b2a75370d09a5c37fc465445d27d32c4ba168510",
+      "sha256": "2703fb1f9862967d1cbcac98b3c1ae13d9410820273920a947ad21cf067bc76e",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20260622/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20260629/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/martini/20260622/vendor_boot.img",
-      "sha1": "94a08682af53e2a9399662a5dc49a97bf90cc642",
-      "sha256": "e2d18c97f81fb5495ad40626918bffda60936f7b3843a65d0d007916ac84c296",
+      "filepath": "/full/martini/20260629/vendor_boot.img",
+      "sha1": "eba67c438d76cfe5d7933973d60832f47d9de826",
+      "sha256": "753eab80dbbdba3b37c226544c04f7159cc8be316a5a783b631afc628b59843a",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/martini/20260622/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/martini/20260629/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4679:166957,payload.bin:4679:1717409765,payload_properties.txt:1717414502:156,apex_info.pb:2206:1279,care_map.pb:3532:1100,metadata:69:700,metadata.pb:837:1321                        ",
   "type": "nightly",
   "version": "23.2"
 }
