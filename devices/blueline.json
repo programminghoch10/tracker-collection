@@ -1,57 +1,54 @@
 {
-  "date": "2026-06-22",
-  "datetime": 1782130989,
+  "date": "2026-06-29",
+  "datetime": 1782711903,
   "files": [
     {
-      "date": "2026-06-22",
-      "datetime": 1782130989,
-      "filename": "lineage-22.2-20260622-nightly-blueline-signed.zip",
-      "filepath": "/full/blueline/20260622/lineage-22.2-20260622-nightly-blueline-signed.zip",
+      "date": "2026-06-29",
+      "datetime": 1782711903,
+      "filename": "lineage-22.2-20260629-nightly-blueline-signed.zip",
+      "filepath": "/full/blueline/20260629/lineage-22.2-20260629-nightly-blueline-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:4004:113665,payload.bin:4004:1093450366,payload_properties.txt:1093454428:156,apex_info.pb:1966:1157,care_map.pb:3170:787,metadata:69:677,metadata.pb:814:1104                        ",
-      "sha1": "ab19c08104f98becdf094e9cc36b7f67192871eb",
-      "sha256": "cbf0afea3ac60d9e3b9f722848e1ec646725e2387b0fcf3c74a9531c0c6e7db7",
-      "size": 1093457579,
+      "ota_property_files": "payload_metadata.bin:4004:113665,payload.bin:4004:1093453944,payload_properties.txt:1093458006:156,apex_info.pb:1966:1157,care_map.pb:3170:787,metadata:69:677,metadata.pb:814:1104                        ",
+      "sha1": "28ca1fd71ead04ff01c66d90ee69c4f3bdb824f7",
+      "sha256": "3b0d7281ab1b94997b279df809238056a220e459fccff37cdb2ff25d98443d12",
+      "size": 1093461157,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260622/lineage-22.2-20260622-nightly-blueline-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260629/lineage-22.2-20260629-nightly-blueline-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/blueline/20260622/boot.img",
-      "sha1": "c80662b14c3ccda4d1d1f0f2c50d3a318b5438b9",
-      "sha256": "4b24f34ea431a5864df27261adfaef826b795838e602bcc6049a9fa568c85432",
+      "filepath": "/full/blueline/20260629/boot.img",
+      "sha1": "3cd0687a9cd01234d87a73dd3fd61dbdaa3825ad",
+      "sha256": "88f0544621382d1e3962a55b7a0db2bb0a2239f4515f0e5f6c1d3b55ac4ff529",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260622/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260629/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/blueline/20260622/dtbo.img",
-      "sha1": "f3e6d5c1a399bccf4470aaaab99f0d22f5663dba",
-      "sha256": "7cad474672c46b10f10dd59013532863b5a033d2796184765bfae3c6003202b7",
+      "filepath": "/full/blueline/20260629/dtbo.img",
+      "sha1": "791b3dafc9927029745d70e3b9b1a5a6f11e0ff1",
+      "sha256": "d5c6e5dd2e7607f73ee0e370c7b75f57e792b4f0bdb788079d7e0ac7f111c6f8",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260622/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260629/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/blueline/20260622/super_empty.img",
+      "filepath": "/full/blueline/20260629/super_empty.img",
       "sha1": "937e8c88b3a4daa09b88e0dfba8798dd3e4351bf",
       "sha256": "91e88fad448ba9cff9ba752a750b2151c3778f5b2252bf066014973b73a6ff88",
       "size": 4720,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260622/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260629/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/blueline/20260622/vbmeta.img",
-      "sha1": "cf00f53ce4d096b46cc80e489bdaf6b36f6e2dde",
-      "sha256": "1d462b5741e979642d3cfa4fcdf5c68486313582039b36d8b1e27409e279f59c",
+      "filepath": "/full/blueline/20260629/vbmeta.img",
+      "sha1": "634e917e34fcc69b66e9e614e6c9199c58cd2df2",
+      "sha256": "d9b064e62c0fc6c1cf8f2db0881bbaa624d3045c10d0cc1b88f97172676518c9",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260622/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260629/vbmeta.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 35,
-  "ota_property_files": "payload_metadata.bin:4004:113665,payload.bin:4004:1093450366,payload_properties.txt:1093454428:156,apex_info.pb:1966:1157,care_map.pb:3170:787,metadata:69:677,metadata.pb:814:1104                        ",
   "type": "nightly",
   "version": "22.2"
 }
