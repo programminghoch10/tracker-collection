@@ -1,81 +1,78 @@
 {
-  "date": "2026-06-22",
-  "datetime": 1782086555,
+  "date": "2026-06-29",
+  "datetime": 1782695886,
   "files": [
     {
-      "date": "2026-06-22",
-      "datetime": 1782086555,
-      "filename": "lineage-23.2-20260622-nightly-fuxi-signed.zip",
-      "filepath": "/full/fuxi/20260622/lineage-23.2-20260622-nightly-fuxi-signed.zip",
+      "date": "2026-06-29",
+      "datetime": 1782695886,
+      "filename": "lineage-23.2-20260629-nightly-fuxi-signed.zip",
+      "filepath": "/full/fuxi/20260629/lineage-23.2-20260629-nightly-fuxi-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4715:184365,payload.bin:4715:2175902799,payload_properties.txt:2175907572:156,apex_info.pb:2170:1279,care_map.pb:3496:1172,metadata:69:677,metadata.pb:814:1308                        ",
-      "sha1": "5960be750b37fb05725565a7849d5c8bdfbcac3f",
-      "sha256": "0ffdfba825e1d0055734a54c6f9204f69b867f5fd33a12bfef54b4c197d9c58b",
-      "size": 2175910719,
+      "ota_property_files": "payload_metadata.bin:4715:184192,payload.bin:4715:2174288062,payload_properties.txt:2174292835:156,apex_info.pb:2170:1279,care_map.pb:3496:1172,metadata:69:677,metadata.pb:814:1308                        ",
+      "sha1": "a30c192de5c6bce8bd12657e88ed42b87f5fa027",
+      "sha256": "6d99dcc872f2dd41fb86291cc621cfe93c0b661b6b598c15601b13d53e252361",
+      "size": 2174295982,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/lineage-23.2-20260622-nightly-fuxi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/lineage-23.2-20260629-nightly-fuxi-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/fuxi/20260622/boot.img",
-      "sha1": "cf4943dd40777390c9b152d0b0b91804ae0f8895",
-      "sha256": "f98da50d5dc3e569b5023a701c00641b92a7e13b20ab927518db030824b21e3f",
+      "filepath": "/full/fuxi/20260629/boot.img",
+      "sha1": "5ce62eec78bed87786974b8b15e0b049f8080d0f",
+      "sha256": "81484ade6da736cc1664fa0dc6abe045eecfeee9cc0fb08afd7c7fb3f0c3b257",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/fuxi/20260622/dtbo.img",
-      "sha1": "79b38d122dfa47febcc32a929bd2133fccbfe9a4",
-      "sha256": "5cdc6a54814d60a83e08c74beaa2aba82fee8d96a0626250617b2f2aff959b35",
+      "filepath": "/full/fuxi/20260629/dtbo.img",
+      "sha1": "57c034e8b006d9661b88bbd0e3b98df84c6c5d67",
+      "sha256": "a4f2abc1beca43c672a5348f44070a5b35a7204eba1f43a65b0c7053aa7c3865",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/fuxi/20260622/init_boot.img",
+      "filepath": "/full/fuxi/20260629/init_boot.img",
       "sha1": "7762340aff121f543fe1284d469c62bac7364c40",
       "sha256": "23cff4f9b763ed74217a88e94ed56bba9de05ca31a586ba923b9cb264dc3fd4a",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/fuxi/20260622/recovery.img",
-      "sha1": "4a45e354dce92aa6a6d2cc244c6dce66eda4d1dd",
-      "sha256": "145fe2049b528386884498e001d953b6a9d18342fb05d78487d293aa03d65ae4",
+      "filepath": "/full/fuxi/20260629/recovery.img",
+      "sha1": "ec8604fe2f53bb40d0c98990a866d7173afc4a14",
+      "sha256": "522c5acbbbd9cf75d808f2c1ca4636065f60706de593fb7eefdaeb9903e7122c",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/fuxi/20260622/super_empty.img",
+      "filepath": "/full/fuxi/20260629/super_empty.img",
       "sha1": "9ef449029f0a99ae9e621c6391a09b47329db2d7",
       "sha256": "e6843857f8ff612e1bd468f36e89607c80b792db606b4728a2d14b538c3df575",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/fuxi/20260622/vbmeta.img",
-      "sha1": "2eb1a738889b767728b1df4815f2dd836665f326",
-      "sha256": "cc3a31cd85a6de6eb485c6e96d55a59f1efe187f11e98ec37dd887b39c94f9b6",
+      "filepath": "/full/fuxi/20260629/vbmeta.img",
+      "sha1": "4094b7aaf2c05078c5af530a01b7f224d9240d21",
+      "sha256": "25e71f0ed114c6a1518b45b97349bbe0b53f1c8d805222fef3bff156340398d4",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/fuxi/20260622/vendor_boot.img",
-      "sha1": "00757c3c12998acde59cc355227dcd7902a5987a",
-      "sha256": "45584e4d98791fb6cff5bbb39d4b720e5d21887161f70cc56f4d70e4543f1f1d",
+      "filepath": "/full/fuxi/20260629/vendor_boot.img",
+      "sha1": "cd8d9a7b58ea316f952c2d3828d6b84522033a2d",
+      "sha256": "7e1976d3802dbd2f9efbcfd2209168220e9c277bca21f08f02f25a48257b4710",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260622/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20260629/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4715:184365,payload.bin:4715:2175902799,payload_properties.txt:2175907572:156,apex_info.pb:2170:1279,care_map.pb:3496:1172,metadata:69:677,metadata.pb:814:1308                        ",
   "type": "nightly",
   "version": "23.2"
 }
