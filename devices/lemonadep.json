@@ -1,65 +1,62 @@
 {
-  "date": "2026-06-22",
-  "datetime": 1782086562,
+  "date": "2026-06-29",
+  "datetime": 1782691311,
   "files": [
     {
-      "date": "2026-06-22",
-      "datetime": 1782086562,
-      "filename": "lineage-23.2-20260622-nightly-lemonadep-signed.zip",
-      "filepath": "/full/lemonadep/20260622/lineage-23.2-20260622-nightly-lemonadep-signed.zip",
+      "date": "2026-06-29",
+      "datetime": 1782691311,
+      "filename": "lineage-23.2-20260629-nightly-lemonadep-signed.zip",
+      "filepath": "/full/lemonadep/20260629/lineage-23.2-20260629-nightly-lemonadep-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4732:166493,payload.bin:4732:1701486542,payload_properties.txt:1701491332:156,apex_info.pb:2228:1279,care_map.pb:3554:1131,metadata:69:697,metadata.pb:834:1346                        ",
-      "sha1": "433ee53b746d5df191eac3353ec53d95fec83d3c",
-      "sha256": "27a7279023b430e01a0944fad94d583043348d3328332a0157db1cf33ae5c39f",
-      "size": 1701494479,
+      "ota_property_files": "payload_metadata.bin:4732:166265,payload.bin:4732:1699939021,payload_properties.txt:1699943811:156,apex_info.pb:2228:1279,care_map.pb:3554:1131,metadata:69:697,metadata.pb:834:1346                        ",
+      "sha1": "f866eb0db4e28bf9e04a797f6101ead7e3c12f7f",
+      "sha256": "e7637b624457120a4e4abafeca6c844abcd8ba4bdb239bf19cfd9b5a36b0e73e",
+      "size": 1699946958,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260622/lineage-23.2-20260622-nightly-lemonadep-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260629/lineage-23.2-20260629-nightly-lemonadep-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lemonadep/20260622/boot.img",
-      "sha1": "3ca91fde319936fb1ebd2a1f7fcefcefc7b057cb",
-      "sha256": "5ef7310e0bc433a20d3ef01ddbed1e3ad1fab205c1c26f3317246b02178d9576",
+      "filepath": "/full/lemonadep/20260629/boot.img",
+      "sha1": "f20546b8fd1a0e7b3fcb599d14ff1ffeac55a86e",
+      "sha256": "5800931153a7e3bc9eb5d8414e3526d43fbdde7bfa164511fb9f40e5f1558bf2",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260622/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260629/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lemonadep/20260622/dtbo.img",
-      "sha1": "568457a23a809af77bfcca700bbce5f90a0a8a82",
-      "sha256": "b0c1fe95e5c1cf06feb0aaf8943d7338af683cbb6aecfd3425f00ac541b0c17a",
+      "filepath": "/full/lemonadep/20260629/dtbo.img",
+      "sha1": "f8409331de8eeb9002949f32c60f6ce99a2b7c6b",
+      "sha256": "bf59a5c38af15f4bd5bf485266bceb14098265b1543ef41de26096380617337a",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260622/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260629/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lemonadep/20260622/super_empty.img",
+      "filepath": "/full/lemonadep/20260629/super_empty.img",
       "sha1": "2a93a95de91b1138756d0a6945cc0d066338808d",
       "sha256": "2bc92a674e4b667f82350730d91e4a4e3a61fd6c56b8d312de19e190180058ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260622/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260629/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lemonadep/20260622/vbmeta.img",
-      "sha1": "b505135d3f0c6b9e4f831ca3755310f9757d4233",
-      "sha256": "366c464ff7ef5ecaa2e4860bbb12ee8e11b392e9e0929570933e24ed2af7f19a",
+      "filepath": "/full/lemonadep/20260629/vbmeta.img",
+      "sha1": "0f32e180dd83e15c24bb3c3f1b8b30a07608eb9a",
+      "sha256": "f654a9ad7b2f6a8714c5da12593cbdcd64db29e514629efae2a0676b29cc0a78",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260622/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260629/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lemonadep/20260622/vendor_boot.img",
-      "sha1": "42f97a1374465b71883ef39d7ebf048af41a6049",
-      "sha256": "2d546ab30b83d0d69780e18afb4936aa6225118bd0b22f6d1bd112d3f0043d99",
+      "filepath": "/full/lemonadep/20260629/vendor_boot.img",
+      "sha1": "1fef165dfb0000e1d7c20a825c9ba944321da5da",
+      "sha256": "3d4d93330d4bc9718051478d7923b67fcae6cba3bc7eac6214bea28fd198963a",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260622/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260629/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4732:166493,payload.bin:4732:1701486542,payload_properties.txt:1701491332:156,apex_info.pb:2228:1279,care_map.pb:3554:1131,metadata:69:697,metadata.pb:834:1346                        ",
   "type": "nightly",
   "version": "23.2"
 }
