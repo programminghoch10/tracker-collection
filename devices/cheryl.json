@@ -1,33 +1,30 @@
 {
-  "date": "2026-06-23",
-  "datetime": 1782181811,
+  "date": "2026-06-30",
+  "datetime": 1782799096,
   "files": [
     {
-      "date": "2026-06-23",
-      "datetime": 1782181811,
-      "filename": "lineage-22.2-20260623-nightly-cheryl-signed.zip",
-      "filepath": "/full/cheryl/20260623/lineage-22.2-20260623-nightly-cheryl-signed.zip",
+      "date": "2026-06-30",
+      "datetime": 1782799096,
+      "filename": "lineage-22.2-20260630-nightly-cheryl-signed.zip",
+      "filepath": "/full/cheryl/20260630/lineage-22.2-20260630-nightly-cheryl-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:2792:136498,payload.bin:2792:900799428,payload_properties.txt:900802278:155,apex_info.pb:1588:1157,metadata:69:609,metadata.pb:746:794                  ",
-      "sha1": "41a403cc8fd32aea32c9d3ffb2ed23f2a26790fc",
-      "sha256": "4b873b66938ea0ee663533d03105a53da79f36924ffe9cb1600377f2b6351125",
-      "size": 900805365,
+      "ota_property_files": "payload_metadata.bin:2792:136498,payload.bin:2792:900799212,payload_properties.txt:900802062:155,apex_info.pb:1588:1157,metadata:69:609,metadata.pb:746:794                  ",
+      "sha1": "5a2e07d1a272d66d0cc377192d3334d2fbf4844c",
+      "sha256": "48dcf0ee683ed21885f66fcfde836d33cc6274f9310118dea15957c544ff0e7f",
+      "size": 900805149,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260623/lineage-22.2-20260623-nightly-cheryl-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260630/lineage-22.2-20260630-nightly-cheryl-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cheryl/20260623/boot.img",
-      "sha1": "c1d9bd5272d97a90e3355d2b9126fc5c57cb4819",
-      "sha256": "0ddd0014240aa59826cf9b860b09d68a8c342dd0e49a942e8d5ed68f968fb7e2",
+      "filepath": "/full/cheryl/20260630/boot.img",
+      "sha1": "e574d38ef75a58191b781e0ee38e20550f1e54ff",
+      "sha256": "0ce2246548a0dd51bc5198c30972702bb816351159e38015bb1b8beab685759e",
       "size": 30572544,
-      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260623/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260630/boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 35,
-  "ota_property_files": "payload_metadata.bin:2792:136498,payload.bin:2792:900799428,payload_properties.txt:900802278:155,apex_info.pb:1588:1157,metadata:69:609,metadata.pb:746:794                  ",
   "type": "nightly",
   "version": "22.2"
 }
