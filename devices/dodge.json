@@ -1,81 +1,78 @@
 {
-  "date": "2026-06-23",
-  "datetime": 1782193535,
+  "date": "2026-06-30",
+  "datetime": 1782784357,
   "files": [
     {
-      "date": "2026-06-23",
-      "datetime": 1782193535,
-      "filename": "lineage-23.2-20260623-nightly-dodge-signed.zip",
-      "filepath": "/full/dodge/20260623/lineage-23.2-20260623-nightly-dodge-signed.zip",
+      "date": "2026-06-30",
+      "datetime": 1782784357,
+      "filename": "lineage-23.2-20260630-nightly-dodge-signed.zip",
+      "filepath": "/full/dodge/20260630/lineage-23.2-20260630-nightly-dodge-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5196:215882,payload.bin:5196:3105626350,payload_properties.txt:3105631604:156,apex_info.pb:2411:1369,care_map.pb:3827:1322,metadata:69:709,metadata.pb:846:1517                        ",
-      "sha1": "53914544d78264ae58259b070405cd2b06e8852e",
-      "sha256": "376a56affb7e777294b4b9aeb24b9b79023a4f4006146cd2a3f00b0772ff96cd",
-      "size": 3105634751,
+      "ota_property_files": "payload_metadata.bin:5196:215711,payload.bin:5196:3104000951,payload_properties.txt:3104006205:156,apex_info.pb:2411:1369,care_map.pb:3827:1322,metadata:69:709,metadata.pb:846:1517                        ",
+      "sha1": "da7ebb9d7f557caa89a9584337632db505e7986d",
+      "sha256": "e98d3dc30ce710bef6907f927119115aaf2e062df6fc940302cff6ae7d20293b",
+      "size": 3104009352,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/lineage-23.2-20260623-nightly-dodge-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/lineage-23.2-20260630-nightly-dodge-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/dodge/20260623/boot.img",
-      "sha1": "8d0403fcaf14dc8331a8f969daff709f596c4eae",
-      "sha256": "9654e9db9be4f15ef60a47ca0dd03223431bb8a832fb3bea253c3194b18e6892",
+      "filepath": "/full/dodge/20260630/boot.img",
+      "sha1": "c44fdfa18c287e842a2c6e159180ede33d33df1d",
+      "sha256": "ce183717fcbf5ef0f2d8190c04f7a034df1cc6e10da01d25253e30d0bb65760b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/dodge/20260623/dtbo.img",
-      "sha1": "53e7c6a00efb8452718c1ce873107a3e10d937d1",
-      "sha256": "1dafb571feb32d065313d5242175801cc33bbd95002e7725c340cc1d6a6fe65e",
+      "filepath": "/full/dodge/20260630/dtbo.img",
+      "sha1": "bd79b8022c16203a61f4877ca7510a8244208c33",
+      "sha256": "cdb35007732b9e3979c6b0da8d3cd795086eaaa6f0c418fda6773c3aeb485464",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/dodge/20260623/init_boot.img",
-      "sha1": "01c4c89a027b0f4a60f2ed51f025dc670a29a7eb",
-      "sha256": "ef1c6032d871b398747d7f1e58d89cbb0c42a3111b267f7bbfb9d4121273bb69",
+      "filepath": "/full/dodge/20260630/init_boot.img",
+      "sha1": "1dcbd70b7781ebc0c07c103da3199944f6128a39",
+      "sha256": "36b878bb6b0859af51ecccfddfef72a1b506f98d8b34fe1131ccf5dfdac66811",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/dodge/20260623/recovery.img",
-      "sha1": "2cac3dfe22b24539d2511e7371e21d5f773daae3",
-      "sha256": "13ae54d7cd4c4dcd2d3f67e332cb2c2d3117ac7049dc94702095bc764c15c70e",
+      "filepath": "/full/dodge/20260630/recovery.img",
+      "sha1": "416f573987f06548011bac5a500e8856de26eee2",
+      "sha256": "d315d6a29f4dc15f3cf927a24a9dc12cbb2ce862c6d4dec446fe9ccfa8629acd",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/dodge/20260623/super_empty.img",
+      "filepath": "/full/dodge/20260630/super_empty.img",
       "sha1": "16ae3a5d647a825a3666955fd7463e300ae12747",
       "sha256": "f4c40de64d3a1bfb62a46fe8d12a1ee107801cca51a7037d6a058d4379b3d6cf",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/dodge/20260623/vbmeta.img",
-      "sha1": "ef8dd4cc43795bc4612a16d78b96192686216091",
-      "sha256": "f40ae889a59bd9be8c9a4c32fefb1eeb561228b4576dc791422cf32fa11bc3c5",
+      "filepath": "/full/dodge/20260630/vbmeta.img",
+      "sha1": "3e78c6e5f7c163307bcd123d2e685d699a899a70",
+      "sha256": "a050381d3d76f94f82ceb3aeb660dbb37803fc88d89a906e1434e9720e7fcc4d",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/dodge/20260623/vendor_boot.img",
-      "sha1": "e80f38addbe3086541c44ce4eaab4fbb7aa40871",
-      "sha256": "28494f83c3d625ef68bb3df87badf94bb08c0d1a87755cf5cb62bd3da26c49e9",
+      "filepath": "/full/dodge/20260630/vendor_boot.img",
+      "sha1": "c861932c7e965f93ed64dae66708784502fe1c0d",
+      "sha256": "df4ee3f7711212f2244510e74b55953e344da03c4eac78457fe7fdacf181e2b9",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20260623/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20260630/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:5196:215882,payload.bin:5196:3105626350,payload_properties.txt:3105631604:156,apex_info.pb:2411:1369,care_map.pb:3827:1322,metadata:69:709,metadata.pb:846:1517                        ",
   "type": "nightly",
   "version": "23.2"
 }
