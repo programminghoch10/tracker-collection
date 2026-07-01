@@ -1,57 +1,54 @@
 {
-  "date": "2026-06-24",
-  "datetime": 1782282677,
+  "date": "2026-07-01",
+  "datetime": 1782864145,
   "files": [
     {
-      "date": "2026-06-24",
-      "datetime": 1782282677,
-      "filename": "lineage-23.2-20260624-nightly-rosemary-signed.zip",
-      "filepath": "/full/rosemary/20260624/lineage-23.2-20260624-nightly-rosemary-signed.zip",
+      "date": "2026-07-01",
+      "datetime": 1782864145,
+      "filename": "lineage-23.2-20260701-nightly-rosemary-signed.zip",
+      "filepath": "/full/rosemary/20260701/lineage-23.2-20260701-nightly-rosemary-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4403:121157,payload.bin:4403:1132700564,payload_properties.txt:1132705025:156,apex_info.pb:2167:1310,care_map.pb:3524:832,metadata:69:725,metadata.pb:862:1257                        ",
-      "sha1": "70472b25db6df52a940c58a0a24f070c12b998a1",
-      "sha256": "841d2611c4f6e5d96c20671203b721c738c14e2fccf4afec17bd555843d76b3b",
-      "size": 1132708172,
+      "ota_property_files": "payload_metadata.bin:4403:121157,payload.bin:4403:1132700292,payload_properties.txt:1132704753:156,apex_info.pb:2167:1310,care_map.pb:3524:832,metadata:69:725,metadata.pb:862:1257                        ",
+      "sha1": "ebd2747f5ca41e51c891bc9eca2453c286ae0167",
+      "sha256": "e5e64d9e8efb28c2581aa474910c7495bce64ea6f971b8ab96aeaa78e96a3437",
+      "size": 1132707900,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260624/lineage-23.2-20260624-nightly-rosemary-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/lineage-23.2-20260701-nightly-rosemary-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rosemary/20260624/boot.img",
-      "sha1": "f5237fd00a7b8ede0788e916d41da18325c8741b",
-      "sha256": "9a9739b138c3c5af7177a44e7624257a5fa60bee1041a65e0a8f11a2aeb25fe5",
+      "filepath": "/full/rosemary/20260701/boot.img",
+      "sha1": "89b0ce5dac3d183d72796d10ba53ae87ccf9ff04",
+      "sha256": "235f1c0d89aebcec7bb4ab5145611dc93a917b4f987ac06b49106e113c8727bb",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260624/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rosemary/20260624/dtbo.img",
-      "sha1": "b90ff7caa59192b0cd8d8cd3a0dac158f2679627",
-      "sha256": "733e03c39b30f8278048c6831c6c94cd317fe3f83cc87db719bc0c56b3ed8fe0",
+      "filepath": "/full/rosemary/20260701/dtbo.img",
+      "sha1": "3d0588bc2d1708edbef49dc63c9f950dd51cd93d",
+      "sha256": "4c8d1627668a3b801b84855f2179190419747318821568a664c0789d57c73ff4",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260624/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rosemary/20260624/super_empty.img",
+      "filepath": "/full/rosemary/20260701/super_empty.img",
       "sha1": "369e646d43f5320497f8b275c3063500c4661269",
       "sha256": "4f2982d477b423e55ec812775a7f80befcd0baf1f434939b458442e50053d3a4",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260624/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rosemary/20260624/vbmeta.img",
-      "sha1": "9ee0d0e9d5f03884b228fee3f0ec17b139a3ef21",
-      "sha256": "c609aa5a0595c4464b8950059c25582787a1b2139f20290d30a2b3f01e3e1ec3",
+      "filepath": "/full/rosemary/20260701/vbmeta.img",
+      "sha1": "a3c013c45ee7357318722220f08394e4855e9cbd",
+      "sha256": "82255846d158e90e865832c1c90f705947a6311eba144cea663925c9763bacf6",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260624/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/vbmeta.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4403:121157,payload.bin:4403:1132700564,payload_properties.txt:1132705025:156,apex_info.pb:2167:1310,care_map.pb:3524:832,metadata:69:725,metadata.pb:862:1257                        ",
   "type": "nightly",
   "version": "23.2"
 }
