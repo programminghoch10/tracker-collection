@@ -1,49 +1,46 @@
 {
-  "date": "2026-06-24",
-  "datetime": 1782291878,
+  "date": "2026-07-01",
+  "datetime": 1782867802,
   "files": [
     {
-      "date": "2026-06-24",
-      "datetime": 1782291878,
-      "filename": "lineage-22.2-20260624-nightly-akershus-signed.zip",
-      "filepath": "/full/akershus/20260624/lineage-22.2-20260624-nightly-akershus-signed.zip",
+      "date": "2026-07-01",
+      "datetime": 1782867802,
+      "filename": "lineage-22.2-20260701-nightly-akershus-signed.zip",
+      "filepath": "/full/akershus/20260701/lineage-22.2-20260701-nightly-akershus-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3633:203181,payload.bin:3633:1025413445,payload_properties.txt:1025417136:156,apex_info.pb:1785:1157,care_map.pb:2989:597,metadata:69:684,metadata.pb:821:916                         ",
-      "sha1": "32eece640bcf96034ca5b5129cb69b1c7956d0d8",
-      "sha256": "b7b09175dd3b2cb8ed92e20b46e966bc90b1f6e677de9f0c8bdc04d0749ff72c",
-      "size": 1025420287,
+      "ota_property_files": "payload_metadata.bin:3633:203181,payload.bin:3633:1025412839,payload_properties.txt:1025416530:156,apex_info.pb:1785:1157,care_map.pb:2989:597,metadata:69:684,metadata.pb:821:916                         ",
+      "sha1": "3edeb383519ea494262f1ae1eb82d94f75e56ef1",
+      "sha256": "a8b3de5558e25c267881f7d67d9766f748113416ec34106557a6cba6034f9d76",
+      "size": 1025419681,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/akershus/20260624/lineage-22.2-20260624-nightly-akershus-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/akershus/20260701/lineage-22.2-20260701-nightly-akershus-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/akershus/20260624/boot.img",
-      "sha1": "f87fa808dea1bd3346103f58b938257134ca4bb8",
-      "sha256": "cf4351a360af9c742b03bbe3d72bb1a14963873be2edb4eeb896a56886033903",
+      "filepath": "/full/akershus/20260701/boot.img",
+      "sha1": "450a42aff1fdd0ff587b0f06a545c4acb305754d",
+      "sha256": "a285b857f92a8e7a40932ef1eced30ab8f7c889acdf76a94d42615d7f6fe133c",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akershus/20260624/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akershus/20260701/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/akershus/20260624/dtbo.img",
-      "sha1": "76d61ec5ec9e36c31231324b9d52cee346b4c4b8",
-      "sha256": "b3ace440165d575a6f5c582a26dc52f91b16eb7146f6f73660ccfb98f2fcab8a",
+      "filepath": "/full/akershus/20260701/dtbo.img",
+      "sha1": "a8b059549ad88d0cc6d29016d3ce0000965eb17f",
+      "sha256": "3723b21707720f35b979a80abebeab95434b61dd441a79d88ce61fbc494a21b5",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/akershus/20260624/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/akershus/20260701/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/akershus/20260624/vbmeta.img",
-      "sha1": "987654c4ced50522ec777d2ce60350fbd33a9269",
-      "sha256": "a25bb39562803dafc7cf322847322e94a06b571f7502b0911e02376cbc2ad266",
+      "filepath": "/full/akershus/20260701/vbmeta.img",
+      "sha1": "a0c0ff4eb0088f54dab4a5d40d4e459d813566cd",
+      "sha256": "1c66ae97f02cf16d8cd754e3acff1f7ff64911a05f54db0aa28621158ac481bf",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/akershus/20260624/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/akershus/20260701/vbmeta.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 35,
-  "ota_property_files": "payload_metadata.bin:3633:203181,payload.bin:3633:1025413445,payload_properties.txt:1025417136:156,apex_info.pb:1785:1157,care_map.pb:2989:597,metadata:69:684,metadata.pb:821:916                         ",
   "type": "nightly",
   "version": "22.2"
 }
