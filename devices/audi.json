@@ -1,81 +1,78 @@
 {
-  "date": "2026-06-24",
-  "datetime": 1782267898,
+  "date": "2026-07-01",
+  "datetime": 1782870397,
   "files": [
     {
-      "date": "2026-06-24",
-      "datetime": 1782267898,
-      "filename": "lineage-23.2-20260624-nightly-audi-signed.zip",
-      "filepath": "/full/audi/20260624/lineage-23.2-20260624-nightly-audi-signed.zip",
+      "date": "2026-07-01",
+      "datetime": 1782870397,
+      "filename": "lineage-23.2-20260701-nightly-audi-signed.zip",
+      "filepath": "/full/audi/20260701/lineage-23.2-20260701-nightly-audi-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5057:201349,payload.bin:5057:2571369550,payload_properties.txt:2571374665:156,apex_info.pb:2318:1370,care_map.pb:3735:1275,metadata:69:693,metadata.pb:830:1440                        ",
-      "sha1": "ab28b49dbdd849c6fa0e6fdcc2914b6ded8a0d74",
-      "sha256": "747f284e6ef9095b3dc211c0ee3eb93607eb451b2135c122610d90e466404178",
-      "size": 2571377812,
+      "ota_property_files": "payload_metadata.bin:5057:201349,payload.bin:5057:2571355837,payload_properties.txt:2571360952:156,apex_info.pb:2318:1370,care_map.pb:3735:1275,metadata:69:693,metadata.pb:830:1440                        ",
+      "sha1": "927b08c2d4ae2e189ed2eb4cd49fcda547d67171",
+      "sha256": "63dd794c3a2d8e6668d96713a6b8ecee9a8d175f601546d2112d3a05700d95d5",
+      "size": 2571364099,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/lineage-23.2-20260624-nightly-audi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/lineage-23.2-20260701-nightly-audi-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/audi/20260624/boot.img",
-      "sha1": "bad30c0551dcb20c9c4c33ec994b0d9392fa882e",
-      "sha256": "34e6930bf74b342b8d9ab3284e558e68a9255484afe7044e38274800fa327c85",
+      "filepath": "/full/audi/20260701/boot.img",
+      "sha1": "ff83433351ae8410f7dd8e1be1a45aa34d50f799",
+      "sha256": "ba7cb15ab6ff8d8c02710e1dae5b754632b96fe93204558db293994292227ef8",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/audi/20260624/dtbo.img",
-      "sha1": "414a9e8f17164bbca405ab4837a524efd88a5895",
-      "sha256": "e9c8d523362c888da33b0c7779155bfc4e918f3dc5d228a54ae339ff4863b0a8",
+      "filepath": "/full/audi/20260701/dtbo.img",
+      "sha1": "fc2c31efea3b11d10d02695e2bb01ba6bed921f6",
+      "sha256": "dea9f4d2e3efa454947a37d715beecd66f88d602f3b6c5c562fcb326f600df19",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/audi/20260624/init_boot.img",
-      "sha1": "c1cf01150c24f3a1262afd0a158c35f14b40d640",
-      "sha256": "e570d530d1d9e0b8dd8d2a909f8e910332685d84698db596b29abbf204d10030",
+      "filepath": "/full/audi/20260701/init_boot.img",
+      "sha1": "8d1cfc22fe896f859ddfa0501b887fc9180d1084",
+      "sha256": "097400e2ce08b124423926e08002dcafc64f31fad1407cf208636dada8b8458e",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/audi/20260624/recovery.img",
-      "sha1": "31976411c50cc65b4c46ecca4f508de2f8113e92",
-      "sha256": "20fdfd793fc15d5f4fa91a60a6c5f3442e38650be0351e8a0d6fbdbf7fd6be41",
+      "filepath": "/full/audi/20260701/recovery.img",
+      "sha1": "b64446a61bd4e8ec683498281112cad25e52a39f",
+      "sha256": "fada2182638c5f091bc39f787f65f3645d2ec2d2aa226ee1086d304e22fa41a5",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/audi/20260624/super_empty.img",
+      "filepath": "/full/audi/20260701/super_empty.img",
       "sha1": "47fea1b2b1f3abc1ba84b1f10095177d339bd169",
       "sha256": "90f336d9b8bc9217bd01f0d462f7e471455651b90072094bbc6e19c467cd2392",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/audi/20260624/vbmeta.img",
-      "sha1": "9dab5c78592c17ab3b75da419c0e9fbf469bb5fd",
-      "sha256": "ea7e0a6aa2f7eba2d8c92a43a234dde809d61ce682d6ecaaf1cb79a76727543e",
+      "filepath": "/full/audi/20260701/vbmeta.img",
+      "sha1": "1075a69c904b742a8e7de4627ec154fbb01ae203",
+      "sha256": "cc8c612b9cbb990269dd7cfb615e3b549e7c3e9e842ce1d9de14545580ffd6ac",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/audi/20260624/vendor_boot.img",
-      "sha1": "d40df3d8dfc42e02560a8d221a87fdf617174434",
-      "sha256": "74909e8f8dd9d2240331029195261f1a53b3d7fcfb9044ab03b8c753d1896fe3",
+      "filepath": "/full/audi/20260701/vendor_boot.img",
+      "sha1": "dfbf79d86a83a6f2a21ae4c23702cde9b92781c9",
+      "sha256": "4d9d61bfba46a958a0de699e75fa6208f3b4f76cea08f2c62d5e9684910b865e",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/audi/20260624/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/audi/20260701/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:5057:201349,payload.bin:5057:2571369550,payload_properties.txt:2571374665:156,apex_info.pb:2318:1370,care_map.pb:3735:1275,metadata:69:693,metadata.pb:830:1440                        ",
   "type": "nightly",
   "version": "23.2"
 }
