@@ -1,65 +1,62 @@
 {
-  "date": "2026-06-24",
-  "datetime": 1782288943,
+  "date": "2026-07-01",
+  "datetime": 1782864282,
   "files": [
     {
-      "date": "2026-06-24",
-      "datetime": 1782288943,
-      "filename": "lineage-23.2-20260624-nightly-gunnar-signed.zip",
-      "filepath": "/full/gunnar/20260624/lineage-23.2-20260624-nightly-gunnar-signed.zip",
+      "date": "2026-07-01",
+      "datetime": 1782864282,
+      "filename": "lineage-23.2-20260701-nightly-gunnar-signed.zip",
+      "filepath": "/full/gunnar/20260701/lineage-23.2-20260701-nightly-gunnar-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4620:157589,payload.bin:4620:1513592430,payload_properties.txt:1513597108:156,apex_info.pb:2153:1279,care_map.pb:3479:1094,metadata:69:688,metadata.pb:825:1280                        ",
-      "sha1": "20bdf2299f61fe7d7aff995a6c94533c6336a9af",
-      "sha256": "1e90ca7a178770aa091eb0071fa21691fc024981dfa6791d0bbe6409eede97ed",
-      "size": 1513600255,
+      "ota_property_files": "payload_metadata.bin:4620:157589,payload.bin:4620:1513598579,payload_properties.txt:1513603257:156,apex_info.pb:2153:1279,care_map.pb:3479:1094,metadata:69:688,metadata.pb:825:1280                        ",
+      "sha1": "ff8673317a43a7236b56151946725fa7968f8b0d",
+      "sha256": "f93bb2ad3e6d1aa6b93c2a8040d9690158611db590542f9241112ccd351a3596",
+      "size": 1513606404,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260624/lineage-23.2-20260624-nightly-gunnar-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260701/lineage-23.2-20260701-nightly-gunnar-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/gunnar/20260624/boot.img",
-      "sha1": "9d7912355038ffbbd5f2219d1469a52a3a654be0",
-      "sha256": "ce78e528b864ff646c9b22380e74c0ea859b44ff1d7d3cd653aeca4f065eb9b6",
+      "filepath": "/full/gunnar/20260701/boot.img",
+      "sha1": "d72d1cc4590f06c34d693ac935885a731fdbe928",
+      "sha256": "ec03a2463023f4f4fdfe7f931d4472028500527b49a761c91eca560987384c41",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260624/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260701/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/gunnar/20260624/dtbo.img",
-      "sha1": "6040463618f9c4c2028513445198db1aa6088b8d",
-      "sha256": "b301c22b30eab01ac9f393ac546efdddd110dc17ea051f86d0e0c92ead5201e3",
+      "filepath": "/full/gunnar/20260701/dtbo.img",
+      "sha1": "b29635cbc3e845bafdfe26167200579eb101e2cb",
+      "sha256": "15f00e06263136154198d607a349cb03e89f35bc97fab91d3fe244e6e56102cc",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260624/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260701/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/gunnar/20260624/super_empty.img",
+      "filepath": "/full/gunnar/20260701/super_empty.img",
       "sha1": "2a93a95de91b1138756d0a6945cc0d066338808d",
       "sha256": "2bc92a674e4b667f82350730d91e4a4e3a61fd6c56b8d312de19e190180058ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260624/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260701/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/gunnar/20260624/vbmeta.img",
-      "sha1": "17d7ff7b82413ddb5e71f4f80201d8247f32dd1a",
-      "sha256": "7c78bf13f1eea178e5c31354fe9132f8ff1996e9af24482bd3c6b4dc10e7f548",
+      "filepath": "/full/gunnar/20260701/vbmeta.img",
+      "sha1": "9e2c8dd5b3128abc9b88c9c9c77f6693910725d3",
+      "sha256": "d2c331b2772629076d6f873af86325716b6c97eb0286f1d8dd79e8d67222471d",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260624/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260701/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/gunnar/20260624/vendor_boot.img",
-      "sha1": "9671fde2412af54d8edae13dc835f6736df9323c",
-      "sha256": "ce612dd28d105cb79189febdb74de47716d240f8c01e1d528108cd2d09626d55",
+      "filepath": "/full/gunnar/20260701/vendor_boot.img",
+      "sha1": "c8df2c55300d79775740ed20971cb34f9ac5733c",
+      "sha256": "ef584c59b3467ef128ed0f73f4cec26810b3b51846090ebc039518fb92399a6c",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260624/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/gunnar/20260701/vendor_boot.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 36,
-  "ota_property_files": "payload_metadata.bin:4620:157589,payload.bin:4620:1513592430,payload_properties.txt:1513597108:156,apex_info.pb:2153:1279,care_map.pb:3479:1094,metadata:69:688,metadata.pb:825:1280                        ",
   "type": "nightly",
   "version": "23.2"
 }
