@@ -1,65 +1,62 @@
 {
-  "date": "2026-06-24",
-  "datetime": 1782295920,
+  "date": "2026-07-01",
+  "datetime": 1782881765,
   "files": [
     {
-      "date": "2026-06-24",
-      "datetime": 1782295920,
-      "filename": "lineage-22.2-20260624-nightly-caymanslm-signed.zip",
-      "filepath": "/full/caymanslm/20260624/lineage-22.2-20260624-nightly-caymanslm-signed.zip",
+      "date": "2026-07-01",
+      "datetime": 1782881765,
+      "filename": "lineage-22.2-20260701-nightly-caymanslm-signed.zip",
+      "filepath": "/full/caymanslm/20260701/lineage-22.2-20260701-nightly-caymanslm-signed.zip",
       "os_patch_level": "2026-06-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3647:129730,payload.bin:3647:996595610,payload_properties.txt:996599315:155,apex_info.pb:1753:1157,care_map.pb:2957:643,metadata:69:672,metadata.pb:809:896                       ",
-      "sha1": "1956051ef76ebe64519e91b9d4a0d841fe14de68",
-      "sha256": "7d7c680d7f861673b59dc23d0a91c8a87f25ad729c963d5c920f5464699ae3c6",
-      "size": 996602465,
+      "ota_property_files": "payload_metadata.bin:3647:129730,payload.bin:3647:996610329,payload_properties.txt:996614034:155,apex_info.pb:1753:1157,care_map.pb:2957:643,metadata:69:672,metadata.pb:809:896                       ",
+      "sha1": "0a0b4e9c1e1ebcd8f037d40d71e7faeba88ef44d",
+      "sha256": "b9516e9edbe778cc652dbf8d6bd029998e6aace0a2cd890d4d2257d7077c792c",
+      "size": 996617184,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260624/lineage-22.2-20260624-nightly-caymanslm-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260701/lineage-22.2-20260701-nightly-caymanslm-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/caymanslm/20260624/boot.img",
-      "sha1": "c3ab609152602e99115fa1f366c01bc68417522e",
-      "sha256": "51a2518ffc6edeb67a9064277849c4316e76edd711e4e36eace7fe07eeccde37",
+      "filepath": "/full/caymanslm/20260701/boot.img",
+      "sha1": "4f836a7edb58f4d6eae523baf483407befe396c5",
+      "sha256": "9c529913cd5dfb5d3435a9c1a439497dadfc950cb607fa4f959e6a87846373a2",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260624/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260701/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/caymanslm/20260624/dtbo.img",
-      "sha1": "858e6336260b3e859683c03de5921ce905bb072a",
-      "sha256": "c571bc280e584f3b69a5c6d48871a80f00282a2bff02c307e30b910a77234e6c",
+      "filepath": "/full/caymanslm/20260701/dtbo.img",
+      "sha1": "fed67ee632691db6910a156e08585a0527d14a42",
+      "sha256": "267cb58a8f66919c7819c9bc8ce1a4e253d9e5ee58e5d0f9885677674a896ab3",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260624/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260701/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/caymanslm/20260624/recovery.img",
-      "sha1": "40702f76ec04dd009edeb0ff43132da282f14bc9",
-      "sha256": "f96a1593273117693008d03e2882941dad04a78b3a859163672b4a73215a6c9a",
+      "filepath": "/full/caymanslm/20260701/recovery.img",
+      "sha1": "289669df4fa0ca7200c1e61d9fbd2a23385246ce",
+      "sha256": "edc215d6463374973e5821edbf49cd169e19f34d72ac2ca873cb0c61ba21c8a2",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260624/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260701/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/caymanslm/20260624/super_empty.img",
+      "filepath": "/full/caymanslm/20260701/super_empty.img",
       "sha1": "dbd9216ac5f6daa9967ed454a7256a9e7c42bffd",
       "sha256": "fec05d358539cda07671728b771ccf42aa8620b89641ef31516817c09dfb3349",
       "size": 4744,
-      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260624/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260701/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/caymanslm/20260624/vbmeta.img",
-      "sha1": "feb2f7f68d88e4045d04f0dd16ee3045206f6d40",
-      "sha256": "71fc2b0f5446ad18df7b6474422b88f933ede95cb974213b0d3039c597799fa0",
+      "filepath": "/full/caymanslm/20260701/vbmeta.img",
+      "sha1": "e1d261212ec6a1d9974235c4c97c2e2b9dcd8155",
+      "sha256": "73bd3da6887be1cd9a28489a7ead55a2ab6f338e44673a85cc04b20714a7bc81",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260624/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/caymanslm/20260701/vbmeta.img"
     }
   ],
-  "os_patch_level": "2026-06-01",
-  "os_sdk_level": 35,
-  "ota_property_files": "payload_metadata.bin:3647:129730,payload.bin:3647:996595610,payload_properties.txt:996599315:155,apex_info.pb:1753:1157,care_map.pb:2957:643,metadata:69:672,metadata.pb:809:896                       ",
   "type": "nightly",
   "version": "22.2"
 }
