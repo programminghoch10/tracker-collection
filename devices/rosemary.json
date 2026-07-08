@@ -1,52 +1,52 @@
 {
-  "date": "2026-07-01",
-  "datetime": 1782864145,
+  "date": "2026-07-08",
+  "datetime": 1783487324,
   "files": [
     {
-      "date": "2026-07-01",
-      "datetime": 1782864145,
-      "filename": "lineage-23.2-20260701-nightly-rosemary-signed.zip",
-      "filepath": "/full/rosemary/20260701/lineage-23.2-20260701-nightly-rosemary-signed.zip",
-      "os_patch_level": "2026-06-01",
+      "date": "2026-07-08",
+      "datetime": 1783487324,
+      "filename": "lineage-23.2-20260708-nightly-rosemary-signed.zip",
+      "filepath": "/full/rosemary/20260708/lineage-23.2-20260708-nightly-rosemary-signed.zip",
+      "os_patch_level": "2026-07-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4403:121157,payload.bin:4403:1132700292,payload_properties.txt:1132704753:156,apex_info.pb:2167:1310,care_map.pb:3524:832,metadata:69:725,metadata.pb:862:1257                        ",
-      "sha1": "ebd2747f5ca41e51c891bc9eca2453c286ae0167",
-      "sha256": "e5e64d9e8efb28c2581aa474910c7495bce64ea6f971b8ab96aeaa78e96a3437",
-      "size": 1132707900,
+      "ota_property_files": "payload_metadata.bin:4403:121214,payload.bin:4403:1133821350,payload_properties.txt:1133825811:156,apex_info.pb:2167:1310,care_map.pb:3524:832,metadata:69:725,metadata.pb:862:1257                        ",
+      "sha1": "0b377c685890aa2ff5a74f74a83bf112a142a50f",
+      "sha256": "af12790b80bcd12d02c22357c775ff0e55b0f0f27a49052f8dd65c93fb580e45",
+      "size": 1133828958,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/lineage-23.2-20260701-nightly-rosemary-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260708/lineage-23.2-20260708-nightly-rosemary-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rosemary/20260701/boot.img",
-      "sha1": "89b0ce5dac3d183d72796d10ba53ae87ccf9ff04",
-      "sha256": "235f1c0d89aebcec7bb4ab5145611dc93a917b4f987ac06b49106e113c8727bb",
+      "filepath": "/full/rosemary/20260708/boot.img",
+      "sha1": "f4b669299135ffaa6fb208f1cc671b82b48a6b9f",
+      "sha256": "efab1205c47bcba7898f4e5a3b69bdbdc6d27399d6a3f55cf66d63b99846d772",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260708/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rosemary/20260701/dtbo.img",
-      "sha1": "3d0588bc2d1708edbef49dc63c9f950dd51cd93d",
-      "sha256": "4c8d1627668a3b801b84855f2179190419747318821568a664c0789d57c73ff4",
+      "filepath": "/full/rosemary/20260708/dtbo.img",
+      "sha1": "80c8abe892cde9f00abe9e6805565383b50e62db",
+      "sha256": "3df761f93e46f8f5df1860a825db20341550bc9e560c7ccee81b4c9c92d0bf38",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260708/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rosemary/20260701/super_empty.img",
+      "filepath": "/full/rosemary/20260708/super_empty.img",
       "sha1": "369e646d43f5320497f8b275c3063500c4661269",
       "sha256": "4f2982d477b423e55ec812775a7f80befcd0baf1f434939b458442e50053d3a4",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260708/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rosemary/20260701/vbmeta.img",
-      "sha1": "a3c013c45ee7357318722220f08394e4855e9cbd",
-      "sha256": "82255846d158e90e865832c1c90f705947a6311eba144cea663925c9763bacf6",
+      "filepath": "/full/rosemary/20260708/vbmeta.img",
+      "sha1": "93306955332ba4aacedfc11f847e18a1d4dd0999",
+      "sha256": "a3ec1ba5f48b1918c158d5884e005d1e580c541e608eaa9792dba9075d38dcdb",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260701/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260708/vbmeta.img"
     }
   ],
   "type": "nightly",
