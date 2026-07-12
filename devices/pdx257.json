@@ -1,76 +1,76 @@
 {
-  "date": "2026-07-05",
-  "datetime": 1783220411,
+  "date": "2026-07-12",
+  "datetime": 1783821625,
   "files": [
     {
-      "date": "2026-07-05",
-      "datetime": 1783220411,
-      "filename": "lineage-23.2-20260705-nightly-pdx257-signed.zip",
-      "filepath": "/full/pdx257/20260705/lineage-23.2-20260705-nightly-pdx257-signed.zip",
-      "os_patch_level": "2026-06-01",
+      "date": "2026-07-12",
+      "datetime": 1783821625,
+      "filename": "lineage-23.2-20260712-nightly-pdx257-signed.zip",
+      "filepath": "/full/pdx257/20260712/lineage-23.2-20260712-nightly-pdx257-signed.zip",
+      "os_patch_level": "2026-07-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4957:140882,payload.bin:4957:1304827873,payload_properties.txt:1304832888:156,apex_info.pb:2252:1369,care_map.pb:3668:1242,metadata:69:686,metadata.pb:823:1381                        ",
-      "sha1": "ae1c1a993a6cbb570743f83c36aa504005fdc7ab",
-      "sha256": "5c5a6b1be3188506d3a830af8af6018b4937cec10b7616b4253f1c453cfbe27a",
-      "size": 1304836035,
+      "ota_property_files": "payload_metadata.bin:4957:140882,payload.bin:4957:1304839936,payload_properties.txt:1304844951:156,apex_info.pb:2252:1369,care_map.pb:3668:1242,metadata:69:686,metadata.pb:823:1381                        ",
+      "sha1": "83b95961102024ed71ca1f37f3c997fa66e9d2b7",
+      "sha256": "9df4d3f28f3a2e3e8a56b799abb59441d715bb4201f3d436eab6bf55e37fd078",
+      "size": 1304848098,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/lineage-23.2-20260705-nightly-pdx257-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/lineage-23.2-20260712-nightly-pdx257-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/pdx257/20260705/boot.img",
-      "sha1": "2f971d7625115c396068b9521b6112940d7c779e",
-      "sha256": "17ff9bacd3f58b5c0e011695fee2ca22e58512b74aefe63e4ccc4f92e040eb66",
+      "filepath": "/full/pdx257/20260712/boot.img",
+      "sha1": "9c6570b82408f8775a4f5aa5d0773b0f32425e05",
+      "sha256": "7f29defe22b3a9cdba3d563ece787b9fe5e1a8d18fd6208bc72e5b5bbf445e2f",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/pdx257/20260705/dtbo.img",
-      "sha1": "d28b6798a758a9ef9847cb8af03f8148feeb2699",
-      "sha256": "490bc2c1962c947fe720a0520b27d71b4fc554e38f29ead880063ad7c344e369",
+      "filepath": "/full/pdx257/20260712/dtbo.img",
+      "sha1": "f7b067cc3745cb5b719bde50314489c7d57e6e67",
+      "sha256": "c0e0a4eb1165a64a4a6f76ab449ac5462a23602fd1973e9999a3e25c1037427d",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/pdx257/20260705/init_boot.img",
-      "sha1": "b27c1dea2a494ac9e88da0727bd19f8e4746ef7a",
-      "sha256": "fd39d5700a9bf794b7499b7a3cb6c153c1b569720e8a9defef522c1142820606",
+      "filepath": "/full/pdx257/20260712/init_boot.img",
+      "sha1": "cfba99e69f5099f85a147d5b7e59ae6cb2e8666c",
+      "sha256": "a5f1c7e0e10d5980b175c0a8b960f4c088dedb0e2eca71519101ef9034a29a0b",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/pdx257/20260705/recovery.img",
-      "sha1": "8b15c59ed6c0e999a47c2a98a745c07a4b1a7a51",
-      "sha256": "11a50065522454f17f5591a68ae82ea04a1b87f0f1b6584ed215720300f2c8d6",
+      "filepath": "/full/pdx257/20260712/recovery.img",
+      "sha1": "b4a1a819f1bd9d7c2f0f28f2cc9723e991014e5f",
+      "sha256": "ff3cad25244c3d42561fb7774bbde3fb142a41ef9f47a044f56e94d56f6b5c43",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/pdx257/20260705/super_empty.img",
+      "filepath": "/full/pdx257/20260712/super_empty.img",
       "sha1": "f8c088f6e241caa49c14ce62588da47c35c2fbe7",
       "sha256": "c2650238b1bc9fd2c2039b6b67a4a94e0a4728898c417528ba9587f922c60e44",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/pdx257/20260705/vbmeta.img",
-      "sha1": "2c0a1b81e5b568404b93aec62b90b92b52c35913",
-      "sha256": "addbfb7cef3b9a64ed716f2885fa409d3a83a77c1d55a5a0670e7a80fb58d6d8",
+      "filepath": "/full/pdx257/20260712/vbmeta.img",
+      "sha1": "528eb9e78c025f1db3d2efb01c1cfeebe6ec6375",
+      "sha256": "6bc4a76374beef8c29ad73009495bf5da75b375fdacae8995b414a8440fe3bd7",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/pdx257/20260705/vendor_boot.img",
-      "sha1": "c5550e1700cea6c513e4cb19271b96c4f6f8034c",
-      "sha256": "fdeac55a556e0689fdbaa2ca11fc84e74fff70ca87a622260341e382066647c3",
+      "filepath": "/full/pdx257/20260712/vendor_boot.img",
+      "sha1": "7fa7aecdce090e7929fc58a42cd0a64a4405d5f6",
+      "sha256": "b6932192c25347af6cd910d239f8cb8b3d3d3f8a8bccb47872d51d63d55d4de4",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260705/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx257/20260712/vendor_boot.img"
     }
   ],
   "type": "nightly",
