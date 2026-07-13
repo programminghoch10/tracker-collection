@@ -1,60 +1,60 @@
 {
-  "date": "2026-07-06",
-  "datetime": 1783301015,
+  "date": "2026-07-13",
+  "datetime": 1783907136,
   "files": [
     {
-      "date": "2026-07-06",
-      "datetime": 1783301015,
-      "filename": "lineage-23.2-20260706-nightly-lemonadep-signed.zip",
-      "filepath": "/full/lemonadep/20260706/lineage-23.2-20260706-nightly-lemonadep-signed.zip",
-      "os_patch_level": "2026-06-01",
+      "date": "2026-07-13",
+      "datetime": 1783907136,
+      "filename": "lineage-23.2-20260713-nightly-lemonadep-signed.zip",
+      "filepath": "/full/lemonadep/20260713/lineage-23.2-20260713-nightly-lemonadep-signed.zip",
+      "os_patch_level": "2026-07-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4732:166322,payload.bin:4732:1700907299,payload_properties.txt:1700912089:156,apex_info.pb:2228:1279,care_map.pb:3554:1131,metadata:69:697,metadata.pb:834:1346                        ",
-      "sha1": "27fc0bbcc54ac04f66fbe26166cd66be3cafb09c",
-      "sha256": "2b604d48ae1d9a85816a7369b23bbf0c2c02241bc035bac107705d045c7ce3e1",
-      "size": 1700915236,
+      "ota_property_files": "payload_metadata.bin:4732:166322,payload.bin:4732:1700949827,payload_properties.txt:1700954617:156,apex_info.pb:2228:1279,care_map.pb:3554:1131,metadata:69:697,metadata.pb:834:1346                        ",
+      "sha1": "2bdcd8d11fd817a0cbe0ed89d2dc02a7e2ce9bcb",
+      "sha256": "f22aca15c97482277c08f665542426f9ef95d9a7e88506ad9289133ffc805dce",
+      "size": 1700957764,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260706/lineage-23.2-20260706-nightly-lemonadep-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260713/lineage-23.2-20260713-nightly-lemonadep-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lemonadep/20260706/boot.img",
-      "sha1": "8315102888d44664124432728b98f86d25ac9e3e",
-      "sha256": "c2659f59796fe09f741d5533298928713de6f4390937caf53b4632a9b21a6219",
+      "filepath": "/full/lemonadep/20260713/boot.img",
+      "sha1": "8a1fd6e830c6d9a15463f19ce29972d2999b8fa3",
+      "sha256": "6106cf0c427ba717f08053784bbbcd74ae8622cfcd8966a1b3e7ea27792dc197",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260706/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260713/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lemonadep/20260706/dtbo.img",
-      "sha1": "60370a1b4d9d69afd0ba6fc4188dbd3089087c1d",
-      "sha256": "f9dd3a181acf5fd84a3ea8f457b607f263eb6e20007aa83688313bc83f6c1ac9",
+      "filepath": "/full/lemonadep/20260713/dtbo.img",
+      "sha1": "52b71cf7332ecdeaae5db2905ab6536ee2791627",
+      "sha256": "f451f738aaa90bcbf071fc891e851926707d34e8fa0e7ddf56d2bed61650a39d",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260706/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260713/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lemonadep/20260706/super_empty.img",
+      "filepath": "/full/lemonadep/20260713/super_empty.img",
       "sha1": "2a93a95de91b1138756d0a6945cc0d066338808d",
       "sha256": "2bc92a674e4b667f82350730d91e4a4e3a61fd6c56b8d312de19e190180058ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260706/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260713/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lemonadep/20260706/vbmeta.img",
-      "sha1": "95623eb8d7e38eaff8680f8fc1ab818023ab5a0f",
-      "sha256": "549e9f909387bfc94d054812dd3b3573b1d3805d50ae7e384ef3132e626626d3",
+      "filepath": "/full/lemonadep/20260713/vbmeta.img",
+      "sha1": "665897a8ea534ea5dc52bea44600793c2dbcf27a",
+      "sha256": "b167d8f8ca511b15e8aaa7489fa286e6857d13c8feede6a03fc0ae45038cca76",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260706/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260713/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lemonadep/20260706/vendor_boot.img",
-      "sha1": "d5a5c78500895ea3c955b294480496a4ad41f84c",
-      "sha256": "640676670aca5633ddf0ce53ebf05f88b133b670bced66debd05b3d1d1de7ecf",
+      "filepath": "/full/lemonadep/20260713/vendor_boot.img",
+      "sha1": "6adf3328d8144c67a6753b5ad033b9c260538723",
+      "sha256": "b3cb8da47ee6faa5d04e300aa1a0b2756cfee3ad7a2ffc6fe1846d050a614e8b",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260706/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20260713/vendor_boot.img"
     }
   ],
   "type": "nightly",
