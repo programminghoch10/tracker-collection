@@ -1,36 +1,44 @@
 {
   "date": "2026-07-22",
-  "datetime": 1784678530,
+  "datetime": 1784747879,
   "files": [
     {
       "date": "2026-07-22",
-      "datetime": 1784678530,
+      "datetime": 1784747879,
       "filename": "lineage-23.2-20260722-nightly-rosemary-signed.zip",
       "filepath": "/full/rosemary/20260722/lineage-23.2-20260722-nightly-rosemary-signed.zip",
       "os_patch_level": "2026-07-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4403:121214,payload.bin:4403:1133844658,payload_properties.txt:1133849119:156,apex_info.pb:2167:1310,care_map.pb:3524:832,metadata:69:725,metadata.pb:862:1257                        ",
-      "sha1": "448656267d0fec549b03011ebf8739d69e888af0",
-      "sha256": "f99a00192ab1a2ca115d20d414a96c8e7be55621bd5a449675b2cd92e075fdba",
-      "size": 1133852266,
+      "ota_property_files": "payload_metadata.bin:4403:121214,payload.bin:4403:1133838499,payload_properties.txt:1133842960:156,apex_info.pb:2167:1310,care_map.pb:3524:832,metadata:69:725,metadata.pb:862:1257                        ",
+      "sha1": "9c0c4b4f94f7bf3c4dee1c358be87d6ba948fbd4",
+      "sha256": "5138ad658e97e61091bc86e7a5b7d8a7bb6e16e1cf3a860aa5ee9875460a5ad9",
+      "size": 1133846107,
       "type": "nightly",
       "url": "https://mirrorbits.lineageos.org/full/rosemary/20260722/lineage-23.2-20260722-nightly-rosemary-signed.zip"
     },
     {
       "filename": "boot.img",
       "filepath": "/full/rosemary/20260722/boot.img",
-      "sha1": "b065486be09bd4006c12923a180aaa5ab00066e9",
-      "sha256": "57f5863d694a3cea5872df5817ab84e5ea299bd460a35aa53fd16607f8698f17",
+      "sha1": "d690ff69894f218cfb6be732f5dda1f71d6699e5",
+      "sha256": "875947e40dd39bd218bba935e6a7f0b03fb8a9f5e63d184dde76d286e6e11b0d",
       "size": 67108864,
       "url": "https://mirrorbits.lineageos.org/full/rosemary/20260722/boot.img"
     },
     {
       "filename": "dtbo.img",
       "filepath": "/full/rosemary/20260722/dtbo.img",
-      "sha1": "c274ca19a2e53f6657bd13af99364c9779ee3308",
-      "sha256": "443faeaf01de1f5c5810622a2c9120536cc37822be38cefe8de74f0ac9a1cf72",
+      "sha1": "270f77d30c6a15c1db09a99d49fe683e3640f28b",
+      "sha256": "337531613814029aee96672b4beae11b27dbc143255d35c828a5dc03b6b05508",
       "size": 8388608,
       "url": "https://mirrorbits.lineageos.org/full/rosemary/20260722/dtbo.img"
+    },
+    {
+      "filename": "lk.img",
+      "filepath": "/full/rosemary/20260722/lk.img",
+      "sha1": "d84ff34f2fee46d5d5f84637466547ecf4f8834f",
+      "sha256": "638282c9e873d24061c9019ce68666b1b4f0afccf1bc417a90a64b4a10702d66",
+      "size": 1855488,
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20260722/lk.img"
     },
     {
       "filename": "super_empty.img",
@@ -43,8 +51,8 @@
     {
       "filename": "vbmeta.img",
       "filepath": "/full/rosemary/20260722/vbmeta.img",
-      "sha1": "8ef501821b372deb11430ab9b3acd2e66e9ec80f",
-      "sha256": "a22545e1526f4f70828b47db0ee23fb3228953ab99e193105687447568cb59e7",
+      "sha1": "d0a488e9460b4719da65891f7693f1f11a8dc500",
+      "sha256": "b77cc490d4915075894216a3c8d9dc88b8896733256a87321f902cd6e1a49f96",
       "size": 4096,
       "url": "https://mirrorbits.lineageos.org/full/rosemary/20260722/vbmeta.img"
     }
