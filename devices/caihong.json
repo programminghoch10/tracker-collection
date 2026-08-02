@@ -1,76 +1,76 @@
 {
-  "date": "2026-07-26",
-  "datetime": 1785042742,
+  "date": "2026-08-02",
+  "datetime": 1785644895,
   "files": [
     {
-      "date": "2026-07-26",
-      "datetime": 1785042742,
-      "filename": "lineage-23.2-20260726-nightly-caihong-signed.zip",
-      "filepath": "/full/caihong/20260726/lineage-23.2-20260726-nightly-caihong-signed.zip",
+      "date": "2026-08-02",
+      "datetime": 1785644895,
+      "filename": "lineage-23.2-20260802-nightly-caihong-signed.zip",
+      "filepath": "/full/caihong/20260802/lineage-23.2-20260802-nightly-caihong-signed.zip",
       "os_patch_level": "2026-07-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5159:178704,payload.bin:5159:2021330219,payload_properties.txt:2021335436:156,apex_info.pb:2420:1328,care_map.pb:3795:1317,metadata:69:710,metadata.pb:847:1525                        ",
-      "sha1": "809b3fb4a80f7320e00f0a80916c1d100f0626b5",
-      "sha256": "db0ed72e4f0537717b6dd21afcf99512eb2ddd8a98fbac2e28e94dd760755f3d",
-      "size": 2021338583,
+      "ota_property_files": "payload_metadata.bin:5159:178821,payload.bin:5159:2023296582,payload_properties.txt:2023301799:156,apex_info.pb:2420:1328,care_map.pb:3795:1317,metadata:69:710,metadata.pb:847:1525                        ",
+      "sha1": "f6dba16b6e113192a2726652f464f19276b840a8",
+      "sha256": "e716aa77b700abed25958e66a7cdc6d35ee066f3136005126d487b3e9db49d63",
+      "size": 2023304946,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/lineage-23.2-20260726-nightly-caihong-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/lineage-23.2-20260802-nightly-caihong-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/caihong/20260726/boot.img",
-      "sha1": "6943f08995a149a5acbd013680d6702ef17c1efa",
-      "sha256": "e69fcc20fa5e5c9a6d809ceb87f36d8afee0a04626704864cb8f26e085c7f983",
+      "filepath": "/full/caihong/20260802/boot.img",
+      "sha1": "92db9a22574ba1577dd0080f3dc431801a30a68a",
+      "sha256": "9757db4249c0afbb0e265f984e6a2de927e01cd43862ef65cf779e2600ec18a9",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/caihong/20260726/dtbo.img",
-      "sha1": "8d6b62e3b348fc83ad2d59e2b81393f687d97def",
-      "sha256": "550a98ee05005714a83c72f49f697c3794bdbe2d763a4ebc0367a97f2109fa65",
+      "filepath": "/full/caihong/20260802/dtbo.img",
+      "sha1": "a2428ca2ed5ef5e52b4faf2c5f4ce1f468fc84d4",
+      "sha256": "cc0c44f9f147d0b48e87ceb9d4737dbc6dd3f0d4531c9716483f8c0662bcbfe9",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/caihong/20260726/init_boot.img",
-      "sha1": "b2c80a305281a72d7467dc58485cc873d07e0391",
-      "sha256": "f5ac73e9f507312ef8043dff5e807eb4672d24872d9a997bd992ff1d4d9be24f",
+      "filepath": "/full/caihong/20260802/init_boot.img",
+      "sha1": "affa3fd5f6e1ed4ffb63ef7b504182e2a25a7e6e",
+      "sha256": "60d98868f68388fd4b273c522fde2fd6969ff4cd55a4585f11c5d81ddbbbaf77",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/caihong/20260726/recovery.img",
-      "sha1": "613cf81d736a9e68ccddc78e18fb6d97b13a1bfc",
-      "sha256": "bc40633c9ba8dc938ce8bd99e21c1cfa36ede5e46042faa993e446d0b9f07459",
+      "filepath": "/full/caihong/20260802/recovery.img",
+      "sha1": "f921682fbc291ea985156a80df6d26564a85cb85",
+      "sha256": "e566a3223f305e3039f7fc2a4c60e9c3f5d30564b69965fc4301778e983bab16",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/caihong/20260726/super_empty.img",
+      "filepath": "/full/caihong/20260802/super_empty.img",
       "sha1": "54ea9dfe41c685d320eb9286ad838afded7feabb",
       "sha256": "ec03e8b68bd343bb47ae856af55cd76c7daf5b6d5be563cd5464bb1d3091725c",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/caihong/20260726/vbmeta.img",
-      "sha1": "3dce3c03fe9829d478e708b3c43c936370929265",
-      "sha256": "6245541f4593ffa6f42e4532ce63970dca6fec3bd671c26c1a150c9c81be7796",
+      "filepath": "/full/caihong/20260802/vbmeta.img",
+      "sha1": "3aca4424450cd730b963207dfad283da65bb377c",
+      "sha256": "1a26a1e43a1db71e894363fa227ed5b62eb9448ae8f1331a15d8686e4b4640ab",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/caihong/20260726/vendor_boot.img",
-      "sha1": "36f830fb6681e76b0d8b51e75a9804a1424213dc",
-      "sha256": "b85460024bb4254c8af8b20fd671b6495d5bce42f19b81bdadb3e0316634341b",
+      "filepath": "/full/caihong/20260802/vendor_boot.img",
+      "sha1": "7d0ca9daa1b36d457a4d30900e888ec35e2455cb",
+      "sha256": "740a42e2db0a458065b54f8b007dbc1b3d1c68b538278ed224003b94be363155",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260726/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/vendor_boot.img"
     }
   ],
   "type": "nightly",
