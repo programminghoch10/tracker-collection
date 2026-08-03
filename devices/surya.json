@@ -1,52 +1,60 @@
 {
-  "date": "2026-07-27",
-  "datetime": 1785138637,
+  "date": "2026-08-03",
+  "datetime": 1785728403,
   "files": [
     {
-      "date": "2026-07-27",
-      "datetime": 1785138637,
-      "filename": "lineage-22.2-20260727-nightly-surya-signed.zip",
-      "filepath": "/full/surya/20260727/lineage-22.2-20260727-nightly-surya-signed.zip",
+      "date": "2026-08-03",
+      "datetime": 1785728403,
+      "filename": "lineage-22.2-20260803-nightly-surya-signed.zip",
+      "filepath": "/full/surya/20260803/lineage-22.2-20260803-nightly-surya-signed.zip",
       "os_patch_level": "2026-07-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:333,metadata.pb:470:219                 ",
-      "sha1": "c26b69852407ad56ff14da3f88e0a7dc8a2dcd72",
-      "sha256": "264c6b53538f4440ab8bd7a1fe22b25b5e75f8401f68c4e77fa3f29d46ababd3",
-      "size": 1403749682,
+      "sha1": "efe5a0c92a6c947eebf25a63c57a9f306d0824fc",
+      "sha256": "ec044310e8e4ee5b36ff2fa175fc2c926580146d17cb4c3a015a95ae9115021a",
+      "size": 1404998776,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260727/lineage-22.2-20260727-nightly-surya-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260803/lineage-22.2-20260803-nightly-surya-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/surya/20260727/boot.img",
-      "sha1": "0e9fd7f5a2a4613275887e14384b6e00806524c1",
-      "sha256": "9a2d3feef6e91e90c5b29fed0922295739928ef33336c04d4eae6b46b7e4ee6f",
+      "filepath": "/full/surya/20260803/boot.img",
+      "sha1": "31c1fbe3335b328c2357d79f258a80eecc021dcd",
+      "sha256": "1b4ac2407a95b3d6c77054392294b4530a72ff3cfb361a4af439e436090ffe0c",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260727/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260803/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/surya/20260727/dtbo.img",
-      "sha1": "54abe014b7f359159f3958fa7684360399648b6a",
-      "sha256": "35d824bb0dbc3399be88fe60fc1602f62c4c1a2089f432dc649abdfbe43b7dc5",
+      "filepath": "/full/surya/20260803/dtbo.img",
+      "sha1": "64e64b5e3423ada4449676b91228e2abc441330e",
+      "sha256": "35a1eda4adc20d947500a431bdde89d3aa285156b0a0f7431ff7b43f07166e9e",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260727/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260803/dtbo.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/surya/20260803/recovery.img",
+      "sha1": "417de36a7ea106e28f4e4a370d33eb17b0440d60",
+      "sha256": "c3f44230bdd9074e294ed27119310cdeb518637192c9848ef2e7156d8333118d",
+      "size": 134217728,
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260803/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/surya/20260727/super_empty.img",
+      "filepath": "/full/surya/20260803/super_empty.img",
       "sha1": "d5448da4d5a43d010a268d0d14e40b50b0772bfa",
       "sha256": "1acfeb9584b9769d4947c28f349b66f866a3099b6c2803b9c78f282662457344",
       "size": 4592,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260727/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260803/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/surya/20260727/vbmeta.img",
-      "sha1": "c8a690364b9d9f7e0954d1b15fbeb863f8e73b4a",
-      "sha256": "72fd91fab454ed8b31181c8a4cd96c4eab14d1672f338403550ab82bc3fb0f7a",
+      "filepath": "/full/surya/20260803/vbmeta.img",
+      "sha1": "7d5885064ccdf5a5ba6f70de33d2c6027bbeff14",
+      "sha256": "dee04d425213c1dc19f8c2f27a4175c32baf26f3f3ae2c5d50d8a29a679c1b9e",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/surya/20260727/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/surya/20260803/vbmeta.img"
     }
   ],
   "type": "nightly",
