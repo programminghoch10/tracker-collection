@@ -1,60 +1,60 @@
 {
-  "date": "2026-07-29",
-  "datetime": 1785315572,
+  "date": "2026-08-05",
+  "datetime": 1785888133,
   "files": [
     {
-      "date": "2026-07-29",
-      "datetime": 1785315572,
-      "filename": "lineage-23.2-20260729-nightly-alioth-signed.zip",
-      "filepath": "/full/alioth/20260729/lineage-23.2-20260729-nightly-alioth-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-05",
+      "datetime": 1785888133,
+      "filename": "lineage-23.2-20260805-nightly-alioth-signed.zip",
+      "filepath": "/full/alioth/20260805/lineage-23.2-20260805-nightly-alioth-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4362:123325,payload.bin:4362:1403113592,payload_properties.txt:1403118012:156,apex_info.pb:2040:1279,care_map.pb:3366:949,metadata:69:693,metadata.pb:830:1162                        ",
-      "sha1": "76ce72b7d07830815e00f43fed9832da4ce0b773",
-      "sha256": "b8f28261f11ec85598723c38c8cfd803439a57ac73a292a82ae864c8dec729db",
-      "size": 1403121159,
+      "ota_property_files": "payload_metadata.bin:4362:123439,payload.bin:4362:1404954087,payload_properties.txt:1404958507:156,apex_info.pb:2040:1279,care_map.pb:3366:949,metadata:69:693,metadata.pb:830:1162                        ",
+      "sha1": "b2b8350696c181d8d5a3b10f5755e6d36232671b",
+      "sha256": "9ab5fcfbccb84678377fd8a0b4fc24a0d65da6171fc4f8a29b9aa7be3ab498e4",
+      "size": 1404961654,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260729/lineage-23.2-20260729-nightly-alioth-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260805/lineage-23.2-20260805-nightly-alioth-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/alioth/20260729/boot.img",
-      "sha1": "e6a4aba2901654897beb01aad2b1cfe0f548b294",
-      "sha256": "49ab99aa968d8d0d05c07d3a08c3a20b33d244faa76422ee2f1244c5060c627c",
+      "filepath": "/full/alioth/20260805/boot.img",
+      "sha1": "b16f6eb147f8312956c21cd13e3e86e4b03bf777",
+      "sha256": "da781ee363f0d33d41aea4b308d3d8df5645ec59e1f680ba19ad493f8abfd148",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260729/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260805/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/alioth/20260729/dtbo.img",
-      "sha1": "9f85cce834fe7aeecf6af4c8b3499fc12a03eb83",
-      "sha256": "47bde61ead343890cd80414cc2d840e0a73ff34a57e9785ff372e5fa9e209722",
+      "filepath": "/full/alioth/20260805/dtbo.img",
+      "sha1": "61a79f0cde91caef6fc3c13830de711a715f2b4c",
+      "sha256": "1dc6b60b6e538d4349a612977697b817867036f4fa2e349c56adf48b9bc4d274",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260729/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260805/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/alioth/20260729/super_empty.img",
+      "filepath": "/full/alioth/20260805/super_empty.img",
       "sha1": "b384556968bfd19b4794ea68ad14758569b6ffcd",
       "sha256": "cb02654264619dcd33d4c092ac2ac531f5f5675218770efcad8e68601725c612",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260729/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260805/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/alioth/20260729/vbmeta.img",
-      "sha1": "376261b8e14d499f1b8087026372d495d94c72f3",
-      "sha256": "3e444bf023efd663743c0b2a9521f1190651f914af7e86e4ca5a5b4289686576",
+      "filepath": "/full/alioth/20260805/vbmeta.img",
+      "sha1": "389bea8636df637ef106ec08162468d264c5d780",
+      "sha256": "625eab0966ce3f6c12e2866c93acfd7377eb1cc61f8d8928427666c6f8819194",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260729/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260805/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/alioth/20260729/vendor_boot.img",
-      "sha1": "6d3bf2e86b79735eff95369991c8ed0c50d89a6c",
-      "sha256": "c9ee1ec9166833a739bacd3c94d2ec23b3235dccf602a97820b403e8e1f6d07f",
+      "filepath": "/full/alioth/20260805/vendor_boot.img",
+      "sha1": "aa82dd1386b6e23510c1d2fdbb650239d95f359e",
+      "sha256": "21856a5581ed160cef3acc0a9f61c55289b4eea45dc489c829602e4c9ce4da81",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/alioth/20260729/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/alioth/20260805/vendor_boot.img"
     }
   ],
   "type": "nightly",
