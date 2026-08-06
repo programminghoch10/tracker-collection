@@ -1,68 +1,68 @@
 {
-  "date": "2026-07-30",
-  "datetime": 1785374568,
+  "date": "2026-08-06",
+  "datetime": 1785985129,
   "files": [
     {
-      "date": "2026-07-30",
-      "datetime": 1785374568,
-      "filename": "lineage-23.2-20260730-nightly-lamu-signed.zip",
-      "filepath": "/full/lamu/20260730/lineage-23.2-20260730-nightly-lamu-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-06",
+      "datetime": 1785985129,
+      "filename": "lineage-23.2-20260806-nightly-lamu-signed.zip",
+      "filepath": "/full/lamu/20260806/lineage-23.2-20260806-nightly-lamu-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4795:106162,payload.bin:4795:999735831,payload_properties.txt:999740684:155,apex_info.pb:2150:1345,care_map.pb:3542:1206,metadata:69:658,metadata.pb:795:1307                      ",
-      "sha1": "2b102cff37689b2a99b7afa8621ec179787c3fe4",
-      "sha256": "f89965c3d05dc1d38baf52514eecfd050448c49fd7568963df60550bc6a786ae",
-      "size": 999743830,
+      "ota_property_files": "payload_metadata.bin:4811:106275,payload.bin:4811:1001812077,payload_properties.txt:1001816946:156,apex_info.pb:2166:1345,care_map.pb:3558:1206,metadata:69:666,metadata.pb:803:1315                        ",
+      "sha1": "cee26bc4cb034d5c58aa4a8706b0de845aae1ce4",
+      "sha256": "613cec1e98bdd94fe844be51f9c0f9798bf9d2f1d8940897debe4e027de3e0a9",
+      "size": 1001820093,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lamu/20260730/lineage-23.2-20260730-nightly-lamu-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lamu/20260806/lineage-23.2-20260806-nightly-lamu-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lamu/20260730/boot.img",
-      "sha1": "e48b0409a529d1690ded72e4255d933888ab7baf",
-      "sha256": "38b2722dc3a9f4dd54554ed62fbcd3634fbd0a7294780a91ae8609278c3530da",
+      "filepath": "/full/lamu/20260806/boot.img",
+      "sha1": "c0ee1f5774e203911c5dbefd18af6fb6593970de",
+      "sha256": "5e18e76a273d3b42a6c63648fd5e8fbb02f39586c4b8d73da940a6ec77f5b7e6",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lamu/20260730/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lamu/20260806/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lamu/20260730/dtbo.img",
-      "sha1": "d5a806f6666f81c3288cab598158d732c164e6e8",
-      "sha256": "cbadc713077b891c13b9428f533391decfb7c134f27e81318dadcd8e76764c6a",
+      "filepath": "/full/lamu/20260806/dtbo.img",
+      "sha1": "2fde05fcaccebeb0a1ebd9123299e210a153a88e",
+      "sha256": "0dc914841afbf5b54b8922cf7625c5b10d962a27d8b4852eb05169d2d68e0013",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/lamu/20260730/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lamu/20260806/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/lamu/20260730/init_boot.img",
-      "sha1": "1f64f02e8440f5171812870049c2a9ae62c65eb0",
-      "sha256": "9fb50e1ec119d024c7b23030e23c3e143337b8546098eb5c6c7a0bc16832d6b1",
+      "filepath": "/full/lamu/20260806/init_boot.img",
+      "sha1": "e6410d1b05c89566b8b6fd8dc891b137cb93556a",
+      "sha256": "57435e7673c6b2174752a7a3831823930ffb512e3feac4dc6748355ba24058d9",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/lamu/20260730/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lamu/20260806/init_boot.img"
     },
     {
       "filename": "lk.img",
-      "filepath": "/full/lamu/20260730/lk.img",
-      "sha1": "391189af5515ab3340111ce7d0c4cf2567de1dcc",
-      "sha256": "39c3fdc3a08c8d7ba1ac6b9ad591d97aa84b062bbc67d52d5d778f119469ca5e",
-      "size": 1848936,
-      "url": "https://mirrorbits.lineageos.org/full/lamu/20260730/lk.img"
+      "filepath": "/full/lamu/20260806/lk.img",
+      "sha1": "acfd7c8e08fe37dcc61756199e5992c4a6b505ef",
+      "sha256": "9eaaf322551d6ba3e2ca3ac0043a9b26ff1d9028ddc9be8904e1db8d98187780",
+      "size": 1849040,
+      "url": "https://mirrorbits.lineageos.org/full/lamu/20260806/lk.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lamu/20260730/vbmeta.img",
-      "sha1": "20ec5326c08864cace9f110696939d8629434b8e",
-      "sha256": "6575a53df6804a65e417803b91f2a5b6dc3bc09e4587071abaa8f7b692954f9c",
+      "filepath": "/full/lamu/20260806/vbmeta.img",
+      "sha1": "52c90b9c7c7add5d1d9a4927124eb6f4cd12adf6",
+      "sha256": "bd6586dd0893b43c62f3e6c96cc8b00e2ff826c318eec67e502214912b395717",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/lamu/20260730/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lamu/20260806/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lamu/20260730/vendor_boot.img",
-      "sha1": "5bfc67e3d4f3cddb37ca7ee5c8dfb428d2cd76c7",
-      "sha256": "0810813e1c00da662d6abc8a663ccce58e95214cbd58ab7c8a9365f519783220",
+      "filepath": "/full/lamu/20260806/vendor_boot.img",
+      "sha1": "23bbf895f0f6974b0769cd1a8dca082b2826d029",
+      "sha256": "30542b3461e2387eef81ab3e5b9847e348c2eb61dd4869d12d0f5b321e1a716f",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lamu/20260730/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lamu/20260806/vendor_boot.img"
     }
   ],
   "type": "nightly",
