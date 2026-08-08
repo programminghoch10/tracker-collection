@@ -1,60 +1,60 @@
 {
-  "date": "2026-08-01",
-  "datetime": 1785550898,
+  "date": "2026-08-08",
+  "datetime": 1786155652,
   "files": [
     {
-      "date": "2026-08-01",
-      "datetime": 1785550898,
-      "filename": "lineage-22.2-20260801-nightly-axolotl-signed.zip",
-      "filepath": "/full/axolotl/20260801/lineage-22.2-20260801-nightly-axolotl-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-08",
+      "datetime": 1786155652,
+      "filename": "lineage-22.2-20260808-nightly-axolotl-signed.zip",
+      "filepath": "/full/axolotl/20260808/lineage-22.2-20260808-nightly-axolotl-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:4221:116176,payload.bin:4221:1042088828,payload_properties.txt:1042093107:156,apex_info.pb:2028:1157,care_map.pb:3232:942,metadata:69:686,metadata.pb:823:1157                        ",
-      "sha1": "34cd39ab8b77283049039351f5fe30e6ef12f33f",
-      "sha256": "424e767ff65219370696d6d51d1733c0d792276eacb834c309876e6233aead55",
-      "size": 1042096258,
+      "ota_property_files": "payload_metadata.bin:4221:116176,payload.bin:4221:1042084381,payload_properties.txt:1042088660:156,apex_info.pb:2028:1157,care_map.pb:3232:942,metadata:69:686,metadata.pb:823:1157                        ",
+      "sha1": "7470056f484ba5564b195d980a6483f061ff9074",
+      "sha256": "c3bc7c5a00ed4c7db533e7356417e5d9fa69d3a019411f9e299ba9db1774aadb",
+      "size": 1042091811,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260801/lineage-22.2-20260801-nightly-axolotl-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260808/lineage-22.2-20260808-nightly-axolotl-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/axolotl/20260801/boot.img",
-      "sha1": "cb1c4c960b6b2a1d9f9521983e729975f0804a9a",
-      "sha256": "f45d7bcd512f78038882a5e6af30c79eb746d3e8769d9bfa5abafc3a94e3b2a1",
+      "filepath": "/full/axolotl/20260808/boot.img",
+      "sha1": "60eeca989d085d69f507eaa4e48d87796dbacb8d",
+      "sha256": "8c721a81e93fa62ff6eb3b6f6b94679cc87d54807763b7b846c77c66a7f570a7",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260801/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260808/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/axolotl/20260801/dtbo.img",
-      "sha1": "2f3eba240091f4708d99c9894c6d42362a624863",
-      "sha256": "c2757860a3da788eb4ad978133c3a9e20ea4c0d7e5237afafb3b0540ee27d9e8",
+      "filepath": "/full/axolotl/20260808/dtbo.img",
+      "sha1": "49b9c6d781ddb52a69f9d1cad6e56beeb21a946b",
+      "sha256": "4f6150ed1a6856fddbfa9215d3508ebd03948929eb54f56b4e033f6e4686b55b",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260801/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260808/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/axolotl/20260801/recovery.img",
-      "sha1": "f68047c101e1d19c4d91ba32192e334e9836e0e4",
-      "sha256": "ee8742f8e31f52881a83a4d0eda839a57812fd9b0825571496a932d1d8bea399",
+      "filepath": "/full/axolotl/20260808/recovery.img",
+      "sha1": "3fb910bf47db387467359ca7d475c0b9d88fa816",
+      "sha256": "ea2ca7b627eb40d6b378308a82a21457760e5da14de397ff2e7cd9ee1d576672",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260801/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260808/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/axolotl/20260801/super_empty.img",
+      "filepath": "/full/axolotl/20260808/super_empty.img",
       "sha1": "dda2f9c25d313a3aaf8144526ad64d070f52d628",
       "sha256": "cd639e4d48db44b324f7e5ed396ea02381ac0bb65fdb453e7df4c35bf1610d61",
       "size": 4952,
-      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260801/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260808/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/axolotl/20260801/vbmeta.img",
-      "sha1": "301b2859d47243a3ecfe0019b87c0f8945f1e4ee",
-      "sha256": "9cbe9ae1816dd8d71ac4527be39bfd9573841ca87dc4486cd14f9011b9e3979a",
+      "filepath": "/full/axolotl/20260808/vbmeta.img",
+      "sha1": "b93d4988d17c29a4089abdf2f849d7a800d97c2d",
+      "sha256": "e8a6a868c2d1490e3fe7becd27f2a931e0b882077ab8f10219aa43dd92225090",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260801/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/axolotl/20260808/vbmeta.img"
     }
   ],
   "type": "nightly",
