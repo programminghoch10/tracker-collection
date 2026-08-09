@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785644895,
+  "date": "2026-08-09",
+  "datetime": 1786250046,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785644895,
-      "filename": "lineage-23.2-20260802-nightly-caihong-signed.zip",
-      "filepath": "/full/caihong/20260802/lineage-23.2-20260802-nightly-caihong-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786250046,
+      "filename": "lineage-23.2-20260809-nightly-caihong-signed.zip",
+      "filepath": "/full/caihong/20260809/lineage-23.2-20260809-nightly-caihong-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5159:178821,payload.bin:5159:2023296582,payload_properties.txt:2023301799:156,apex_info.pb:2420:1328,care_map.pb:3795:1317,metadata:69:710,metadata.pb:847:1525                        ",
-      "sha1": "f6dba16b6e113192a2726652f464f19276b840a8",
-      "sha256": "e716aa77b700abed25958e66a7cdc6d35ee066f3136005126d487b3e9db49d63",
-      "size": 2023304946,
+      "ota_property_files": "payload_metadata.bin:5159:178821,payload.bin:5159:2023320242,payload_properties.txt:2023325459:156,apex_info.pb:2420:1328,care_map.pb:3795:1317,metadata:69:710,metadata.pb:847:1525                        ",
+      "sha1": "a64de3ede4a388eeb76b2180de9dcd97404dafe8",
+      "sha256": "9c61db142891f42395982af003cf764f0156f27fe2a0272d9e1862d969f2415b",
+      "size": 2023328606,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/lineage-23.2-20260802-nightly-caihong-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/lineage-23.2-20260809-nightly-caihong-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/caihong/20260802/boot.img",
-      "sha1": "92db9a22574ba1577dd0080f3dc431801a30a68a",
-      "sha256": "9757db4249c0afbb0e265f984e6a2de927e01cd43862ef65cf779e2600ec18a9",
+      "filepath": "/full/caihong/20260809/boot.img",
+      "sha1": "77fb262b8ef2427fa389260edbd6b6d75db53a90",
+      "sha256": "21e5632e588d93b8a69279899fe89eaa8da5e8e38ffdb817db15f86525c960c2",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/caihong/20260802/dtbo.img",
-      "sha1": "a2428ca2ed5ef5e52b4faf2c5f4ce1f468fc84d4",
-      "sha256": "cc0c44f9f147d0b48e87ceb9d4737dbc6dd3f0d4531c9716483f8c0662bcbfe9",
+      "filepath": "/full/caihong/20260809/dtbo.img",
+      "sha1": "ea3574f316c031cde3f82345295647623ff22c54",
+      "sha256": "73d5c9fc6cdf35137c3cb7e7a74af5816f319a70770bfbd65ad4504f382dda0c",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/caihong/20260802/init_boot.img",
-      "sha1": "affa3fd5f6e1ed4ffb63ef7b504182e2a25a7e6e",
-      "sha256": "60d98868f68388fd4b273c522fde2fd6969ff4cd55a4585f11c5d81ddbbbaf77",
+      "filepath": "/full/caihong/20260809/init_boot.img",
+      "sha1": "9eaf669fadf1cd0055a181f53c0223ef48f10fbc",
+      "sha256": "9701cb12ce4bb11e482db0a1f538554e2827ff687b6809975e67ccc568f80919",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/caihong/20260802/recovery.img",
-      "sha1": "f921682fbc291ea985156a80df6d26564a85cb85",
-      "sha256": "e566a3223f305e3039f7fc2a4c60e9c3f5d30564b69965fc4301778e983bab16",
+      "filepath": "/full/caihong/20260809/recovery.img",
+      "sha1": "fe732d6b7778816bac704ef1e476a1d95cb9e7e0",
+      "sha256": "7005b71f0292a88bf102926b02543dfa1ccbebdf356ace1efb3edcdd8655a54c",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/caihong/20260802/super_empty.img",
+      "filepath": "/full/caihong/20260809/super_empty.img",
       "sha1": "54ea9dfe41c685d320eb9286ad838afded7feabb",
       "sha256": "ec03e8b68bd343bb47ae856af55cd76c7daf5b6d5be563cd5464bb1d3091725c",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/caihong/20260802/vbmeta.img",
-      "sha1": "3aca4424450cd730b963207dfad283da65bb377c",
-      "sha256": "1a26a1e43a1db71e894363fa227ed5b62eb9448ae8f1331a15d8686e4b4640ab",
+      "filepath": "/full/caihong/20260809/vbmeta.img",
+      "sha1": "7b786da246065022cf7472a8480cca9c5d271ce0",
+      "sha256": "ddaa522cba95dc87dcdd568072daf2e2db0340713eda0662dada86b565f34c7c",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/caihong/20260802/vendor_boot.img",
-      "sha1": "7d0ca9daa1b36d457a4d30900e888ec35e2455cb",
-      "sha256": "740a42e2db0a458065b54f8b007dbc1b3d1c68b538278ed224003b94be363155",
+      "filepath": "/full/caihong/20260809/vendor_boot.img",
+      "sha1": "d6f883a7a939bb0e2aa9f9b12b8745bb07713cf5",
+      "sha256": "0006bdbc3970b5e045c2da898d4d8843097c0622739114c4716a21dde66df736",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/caihong/20260802/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/caihong/20260809/build-manifest.xml",
+      "sha1": "749d5e5244d6c5a0c89248ddee391bed40302468",
+      "sha256": "4f96e705b94dbde0db43dab667266be3453c5c4904c2fdaec4e243c521ee1af8",
+      "size": 286478,
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
