@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785628924,
+  "date": "2026-08-09",
+  "datetime": 1786245678,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785628924,
-      "filename": "lineage-23.2-20260802-nightly-guacamoleb-signed.zip",
-      "filepath": "/full/guacamoleb/20260802/lineage-23.2-20260802-nightly-guacamoleb-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786245678,
+      "filename": "lineage-23.2-20260809-nightly-guacamoleb-signed.zip",
+      "filepath": "/full/guacamoleb/20260809/lineage-23.2-20260809-nightly-guacamoleb-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:3739:139247,payload.bin:3739:1144846055,payload_properties.txt:1144849852:156,apex_info.pb:1775:1279,care_map.pb:3101:591,metadata:69:682,metadata.pb:819:908                         ",
-      "sha1": "9e80196a9bd0a8562c333c26cf353764bbfa459b",
-      "sha256": "87920f6626029fd290c8b12f56e8c815577b97b812e0d5090a4e142b35cb62b4",
-      "size": 1144852999,
+      "ota_property_files": "payload_metadata.bin:3739:139247,payload.bin:3739:1144808960,payload_properties.txt:1144812757:156,apex_info.pb:1775:1279,care_map.pb:3101:591,metadata:69:682,metadata.pb:819:908                         ",
+      "sha1": "1113ad0f72f15e48fdc5d34c38f078e1be72c2a2",
+      "sha256": "afa98677aa2fea44adb7679e5a585872e9c6d57d46b7eda67d7968d104edcb4f",
+      "size": 1144815904,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260802/lineage-23.2-20260802-nightly-guacamoleb-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260809/lineage-23.2-20260809-nightly-guacamoleb-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/guacamoleb/20260802/boot.img",
-      "sha1": "ed82e017cd33828e73747ecbdd3018b4921e3504",
-      "sha256": "e76026955e01a13a57da53acd020f66bb2db3416225649b83c692e2b7bda815d",
+      "filepath": "/full/guacamoleb/20260809/boot.img",
+      "sha1": "0a7000ec5db1685d890f4049cdfd6ab4d3e05937",
+      "sha256": "f01e36e0e74161cf9fac4102fff3f5f898f74a389247397aa0c6bca79c9bfd4e",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260809/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/guacamoleb/20260802/dtbo.img",
-      "sha1": "14624de24f6abde46ab73f7485732b5343060771",
-      "sha256": "5423bc262a64b19f09755c72e8fa33ab3b6bafcb512e7ede27af87e07452afcc",
+      "filepath": "/full/guacamoleb/20260809/dtbo.img",
+      "sha1": "2e65ccf067c622efb1ae11d6a7ac1a71cf25524c",
+      "sha256": "35c81d03d1bee8c4978b629e3ca3f42a53a75d0e1ae24181e1511d98f1f6fc2e",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260802/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260809/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/guacamoleb/20260802/vbmeta.img",
-      "sha1": "343bd2866f1deb926453757931cc38ba9f076c5b",
-      "sha256": "6899f493ccbe4b54ad5853e83b786e2089274008fdbe285fc2ab5cf7e76ffeff",
+      "filepath": "/full/guacamoleb/20260809/vbmeta.img",
+      "sha1": "8fd61bc0f2c64b66e884249fe1f5be299b7a290a",
+      "sha256": "29a5fd6e98394419e9f8a1a1a0314d0fa369e01914ec0552009ab3157bd09897",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260802/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260809/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/guacamoleb/20260809/build-manifest.xml",
+      "sha1": "8f6e02c1c55806ab0b9a192a69141a08d1b44825",
+      "sha256": "ec438d72a3981f6abab89b3c4a272c7b139465bf31e67ede184c7cb7a951d3fb",
+      "size": 285960,
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
