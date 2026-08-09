@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785639799,
+  "date": "2026-08-09",
+  "datetime": 1786252444,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785639799,
-      "filename": "lineage-23.2-20260802-nightly-earth-signed.zip",
-      "filepath": "/full/earth/20260802/lineage-23.2-20260802-nightly-earth-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786252444,
+      "filename": "lineage-23.2-20260809-nightly-earth-signed.zip",
+      "filepath": "/full/earth/20260809/lineage-23.2-20260809-nightly-earth-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4233:105739,payload.bin:4233:1054750522,payload_properties.txt:1054754813:156,apex_info.pb:2006:1310,care_map.pb:3363:823,metadata:69:683,metadata.pb:820:1138                        ",
-      "sha1": "dc6bd4792a6908f441b9948c5cddc7328d7f20bb",
-      "sha256": "6d73348b81681c5f088df9bd7754e5cea65c3b7c4e3308d9e79c36ca473a5169",
-      "size": 1054757960,
+      "ota_property_files": "payload_metadata.bin:4219:105736,payload.bin:4219:1054860353,payload_properties.txt:1054864630:156,apex_info.pb:2006:1310,care_map.pb:3363:809,metadata:69:683,metadata.pb:820:1138                        ",
+      "sha1": "cded0775e2e9cf7c81d32c995b8f8f1d3aa056a7",
+      "sha256": "16d73d97b1e8e259baf03a4ba82979275abf68b671c64ce9d571633cd6c06d5a",
+      "size": 1054867777,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260802/lineage-23.2-20260802-nightly-earth-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260809/lineage-23.2-20260809-nightly-earth-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/earth/20260802/boot.img",
-      "sha1": "daa3c88426fbdce635b4027deed5063750ac68b4",
-      "sha256": "3a78d9d8aabeee62bef514651cf2a8b7813d4c58d40c960a36371164d92c6950",
+      "filepath": "/full/earth/20260809/boot.img",
+      "sha1": "667fadb1471888c312687c4ee3094756a6a348cf",
+      "sha256": "4e241aa98f2cbca02267cfa8ba7dc761ac113a7f3ef916b823efa6b2c37649ad",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260809/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/earth/20260802/dtbo.img",
-      "sha1": "3852a6d3eaa5532d2fd15339f6c6fdac9ae1dcdc",
-      "sha256": "cac15315c72528cc7ef97434be6d6b54557f56e3b463518329f30b33aee24a9f",
+      "filepath": "/full/earth/20260809/dtbo.img",
+      "sha1": "e5e1a7fb7980ac9934e00da111e5ae12029cb603",
+      "sha256": "07340372eaf37397998e0534c4076a3b7a563bc0b1a3e5a36ef622d994e3479f",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260802/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260809/dtbo.img"
     },
     {
       "filename": "lk.img",
-      "filepath": "/full/earth/20260802/lk.img",
+      "filepath": "/full/earth/20260809/lk.img",
       "sha1": "f257e37997f82c97cc85b245d25cd572bf3f21e7",
       "sha256": "568042d633a381a0cee137dd89f0a172fbbb1c7c970dd60ebc04088ac79ea89c",
       "size": 1641568,
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260802/lk.img"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260809/lk.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/earth/20260802/vbmeta.img",
-      "sha1": "e52e1b1ea8f78e09850910f4a9187a57220fa8e2",
-      "sha256": "5b9a4f21a014c9db3250de391de93dba09e75904ae6389846e4387b555be572f",
+      "filepath": "/full/earth/20260809/vbmeta.img",
+      "sha1": "c32066f9d16f54f2de78e21ec172b7f877b0c929",
+      "sha256": "3b5ceac66773a6a8292a100ede46cd6fa149e37effc0ab6f4ed18a7d678bb29f",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/earth/20260802/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260809/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/earth/20260809/build-manifest.xml",
+      "sha1": "55c3adb3e024f432f6730b255b12289fb6307cd9",
+      "sha256": "d9d6a81622e98d752aeb00022cd525d1510d58a6b1b6522fd6bc8467cabcdc58",
+      "size": 286182,
+      "url": "https://mirrorbits.lineageos.org/full/earth/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
