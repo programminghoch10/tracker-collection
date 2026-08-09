@@ -1,68 +1,76 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785632558,
+  "date": "2026-08-09",
+  "datetime": 1786233827,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785632558,
-      "filename": "lineage-23.2-20260802-nightly-mondrian-signed.zip",
-      "filepath": "/full/mondrian/20260802/lineage-23.2-20260802-nightly-mondrian-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786233827,
+      "filename": "lineage-23.2-20260809-nightly-mondrian-signed.zip",
+      "filepath": "/full/mondrian/20260809/lineage-23.2-20260809-nightly-mondrian-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4777:185363,payload.bin:4777:1878498892,payload_properties.txt:1878503727:156,apex_info.pb:2293:1279,care_map.pb:3619:1111,metadata:69:691,metadata.pb:828:1417                        ",
-      "sha1": "078146c432b91e0ce6427cf5b8cb3de4778adcdc",
-      "sha256": "88645a3341379a0cfd57bcb245a561a151cb788470748cd28c57b0f1dd51200b",
-      "size": 1878506874,
+      "ota_property_files": "payload_metadata.bin:4777:185363,payload.bin:4777:1878624163,payload_properties.txt:1878628998:156,apex_info.pb:2293:1279,care_map.pb:3619:1111,metadata:69:691,metadata.pb:828:1417                        ",
+      "sha1": "f8d473364967c3805ff5cbce96bf752f92745056",
+      "sha256": "fb588ebf3fc71d5316dbd825a5c9cdb8f4c15882b8662e15ab44e46038a1ecef",
+      "size": 1878632145,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260802/lineage-23.2-20260802-nightly-mondrian-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/lineage-23.2-20260809-nightly-mondrian-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/mondrian/20260802/boot.img",
-      "sha1": "acf4d32d322873c663ee52e2189a723d04b31ffe",
-      "sha256": "667629c0fd2acfd358497c97e58bd3bcf337de7cb7affee6f4fa61ad8b1b6959",
+      "filepath": "/full/mondrian/20260809/boot.img",
+      "sha1": "54d4494ee3c3be9bb451d5e03fda5791d445b958",
+      "sha256": "b91d8616e7c9c7606af2d5de77c0cc4a2b382f849e929fc3a7cae56e934b5dc4",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/mondrian/20260802/dtbo.img",
-      "sha1": "00cd68620e8dceb1550ee40e53c64afb59ead975",
-      "sha256": "822cbba61b309b3a94701081b7486a0fbb2d222c3a04fbce2fb3671828f55794",
+      "filepath": "/full/mondrian/20260809/dtbo.img",
+      "sha1": "8d538ff354b810a495fffd5297fad2341027d5aa",
+      "sha256": "07153952f424ff3446414d3162d376e8d05f17e556e48c4da43bc02adc428a71",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260802/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/mondrian/20260802/recovery.img",
-      "sha1": "f0a1a5fa9b3b36045cfcf0a54faa1eb1ec29af53",
-      "sha256": "b8658eb4a8d6bb2f5c9f358dc8d80e6c18537b4906b7cd4537ab249709d416b3",
+      "filepath": "/full/mondrian/20260809/recovery.img",
+      "sha1": "cb7b2d1264fd8c55bf3606b1d2c7047c45749607",
+      "sha256": "b86f5fe68e3de6c57724bd6e15c6423e584ab202397bb85afb5eef723365b310",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260802/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/mondrian/20260802/super_empty.img",
+      "filepath": "/full/mondrian/20260809/super_empty.img",
       "sha1": "26a3bb85fb968f2464dda48b1ada4b31ce591bff",
       "sha256": "65b580a751bab05f7b69d3859a6a88dac3426a7f91ad1209924c5ec92a5706d3",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260802/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/mondrian/20260802/vbmeta.img",
-      "sha1": "08ebf73fa23e396885250ab4095cd26b5e90c45b",
-      "sha256": "90f22e9a2af70bddaaf7036bf3a6091ff6faf38a11c16a33ad49f695541178ed",
+      "filepath": "/full/mondrian/20260809/vbmeta.img",
+      "sha1": "83cf73e80ce52bc9f3ddb6bc14d9445774ae3503",
+      "sha256": "b91c3b14a6504bce58bb7eddf3165896f8e5d72a07c9a8ad1e28aec4b90f6612",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260802/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/mondrian/20260802/vendor_boot.img",
-      "sha1": "dbda108fee58756b17c0ecf49df56d6f0701355c",
-      "sha256": "1605f052cdb0449975e4b549f689b474df10ca1b528381efb7f0c5ed9e0be736",
+      "filepath": "/full/mondrian/20260809/vendor_boot.img",
+      "sha1": "69c43da1c7c102f76df226227e895c986dcdac3d",
+      "sha256": "9a5e206d33c3dd02370281482b4fe57e7694714de579ca9c851dce1e9eb33934",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260802/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/mondrian/20260809/build-manifest.xml",
+      "sha1": "92441246f8d5a4282238178e5e8e8f5532f8adb0",
+      "sha256": "273c6bfbdee730727d0219f83c3721e6037f1611e8c8a9853f07229c04dbd3e1",
+      "size": 286472,
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
