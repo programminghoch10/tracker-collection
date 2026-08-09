@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785656937,
+  "date": "2026-08-09",
+  "datetime": 1786254727,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785656937,
-      "filename": "lineage-22.2-20260802-nightly-perseus-signed.zip",
-      "filepath": "/full/perseus/20260802/lineage-22.2-20260802-nightly-perseus-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786254727,
+      "filename": "lineage-22.2-20260809-nightly-perseus-signed.zip",
+      "filepath": "/full/perseus/20260809/lineage-22.2-20260809-nightly-perseus-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:331,metadata.pb:468:213                 ",
-      "sha1": "a1420e3dfd245739e97d022090f094c76cb052c5",
-      "sha256": "c8f67da6e09b127ce4ce47b16622ab10ee524114a0aece2c89984b0a5732cd72",
-      "size": 1218760205,
+      "sha1": "2780716e2637e70f2f4e984573969471de4e5112",
+      "sha256": "bc3eb7e92007270279651463e4ec71b13021cf0e36fe301e45ec97600e261bc8",
+      "size": 1218772292,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/perseus/20260802/lineage-22.2-20260802-nightly-perseus-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/perseus/20260809/lineage-22.2-20260809-nightly-perseus-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/perseus/20260802/boot.img",
-      "sha1": "dea69c70efcd1599b35951355771d3917916e8fe",
-      "sha256": "d95414f91b75679775cd131f5dbc240044492a77c420b347beae6d61d08d07f3",
+      "filepath": "/full/perseus/20260809/boot.img",
+      "sha1": "dd412e0013d8f0bf6c751c734d1f6fcb89ee2232",
+      "sha256": "55afb86e7977df62456e73e72f7f472e8fbfc620d76d01b0f33273f7f0c9a29b",
       "size": 67092480,
-      "url": "https://mirrorbits.lineageos.org/full/perseus/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/perseus/20260809/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/perseus/20260802/dtbo.img",
-      "sha1": "c638daba721c2b7260261b981851abe2ac4fe2ee",
-      "sha256": "0438a169db502974c4668e98155ee5f9e2804326224de234e9fd809cfef2ea08",
+      "filepath": "/full/perseus/20260809/dtbo.img",
+      "sha1": "3b380d29151a1590d373b7a8f7877585c88253cf",
+      "sha256": "e1edc0916fe33c40c9a6739f1e8ccc29ff67028b168841564a916f6cbca96fa9",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/perseus/20260802/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/perseus/20260809/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/perseus/20260802/recovery.img",
-      "sha1": "9f70334c6a43d6a066e99f7de98e0ddae41c2170",
-      "sha256": "fbe92aa22bd83a506c4d569b4aa86aedf5b471d8e7525b3f1cc35caceb7676be",
+      "filepath": "/full/perseus/20260809/recovery.img",
+      "sha1": "ee2a453643f864ec494345b3ddcb68a24c7c9869",
+      "sha256": "b67513e373c10d95e9421fbc3013aea42fe91bf12de970b8527844462f7ab681",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/perseus/20260802/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/perseus/20260809/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/perseus/20260802/super_empty.img",
+      "filepath": "/full/perseus/20260809/super_empty.img",
       "sha1": "c76b2f296410f677a3c89f0461e977276826353b",
       "sha256": "54c1d570e0fc41cb97cb62340c36ee89c17a0966d758633a4ec3a29e97d2bf14",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/perseus/20260802/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/perseus/20260809/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/perseus/20260802/vbmeta.img",
-      "sha1": "e5db335867458d7b707819c3c74c0bf79fb038c5",
-      "sha256": "4d8ab8075673e3e1d459b8e5085b3866a907e3b4d7ffec8a5fec2a6936dc9841",
+      "filepath": "/full/perseus/20260809/vbmeta.img",
+      "sha1": "e023d28b83a6e3baf4b2e3a9af7afd6661629cff",
+      "sha256": "bf0b18f625ec06639797bd6fd530105f629f3de57cafd042b7084589d5011228",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/perseus/20260802/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/perseus/20260809/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/perseus/20260809/build-manifest.xml",
+      "sha1": "ebbe61a52271e25bb690979a810d4f8631d1b9ad",
+      "sha256": "4dc3f418a9f7c2b9764c8ce47441701328c86bf3d8a6da39bb67fde9fce79b24",
+      "size": 284334,
+      "url": "https://mirrorbits.lineageos.org/full/perseus/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
