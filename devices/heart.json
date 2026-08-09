@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785637426,
+  "date": "2026-08-09",
+  "datetime": 1786246866,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785637426,
-      "filename": "lineage-23.2-20260802-nightly-heart-signed.zip",
-      "filepath": "/full/heart/20260802/lineage-23.2-20260802-nightly-heart-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786246866,
+      "filename": "lineage-23.2-20260809-nightly-heart-signed.zip",
+      "filepath": "/full/heart/20260809/lineage-23.2-20260809-nightly-heart-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
       "ota_property_files": "metadata:69:323,metadata.pb:460:203                 ",
-      "sha1": "0f13f07c8b2da6e5009be00e9ae2949db24d920b",
-      "sha256": "fc3fb2685f0cb5403c5ff5f54bc125a81bc28cb36c1a974fc805d1252c1450d0",
-      "size": 1173228050,
+      "sha1": "8644a52c5664b6358ed4bc111da4163be9f19407",
+      "sha256": "4ad5847a5aa09a0f6aa1301182d57841174022482036ce1915274fa7f6795c8f",
+      "size": 1173202987,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/heart/20260802/lineage-23.2-20260802-nightly-heart-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20260809/lineage-23.2-20260809-nightly-heart-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/heart/20260802/boot.img",
-      "sha1": "b58c6422838d095df89515d9b76fe97501e4b31c",
-      "sha256": "4dfa2cd1e89e71b3a8aa505861c6e3e9739baab50e98b5907c0eca4d37f596e0",
+      "filepath": "/full/heart/20260809/boot.img",
+      "sha1": "0f3828623e39abbed672a006e28829a0f9cad273",
+      "sha256": "620578f4695402f2e1167949ac8ba84aa1ae088e897987c3dca18dbdf61baf63",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20260809/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/heart/20260802/dtbo.img",
-      "sha1": "832740f04e32430f624e294a376a7f458a0d854b",
-      "sha256": "25a93da49c28f3ac98cbbe46952b367edc32d5d5ed6a608b8ff0d99ae7d454e1",
+      "filepath": "/full/heart/20260809/dtbo.img",
+      "sha1": "95d06f2513bb575d5976db81850a9ddd3c01f8d1",
+      "sha256": "957515b92082012f350a3c6be37b328843fb5779e023c82612dc8549e6ec2249",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20260802/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20260809/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/heart/20260802/recovery.img",
-      "sha1": "c5aed540ac98b0ec70ca154a3592fd0fd131b80b",
-      "sha256": "9b116a483f9eb238360181af742d16177a92aa4b5f96d8b1f5b6ad9127ae41aa",
+      "filepath": "/full/heart/20260809/recovery.img",
+      "sha1": "79de37259d9ee35f538f74122e950761cc41b734",
+      "sha256": "8c9b9c1d889a7d83e40b3769fcea23f10cee1d568bf86a1816ce9a6b3221dcf1",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20260802/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20260809/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/heart/20260802/super_empty.img",
+      "filepath": "/full/heart/20260809/super_empty.img",
       "sha1": "33a1c89a927a21003a296412704eb7568561fad5",
       "sha256": "1e5e2ae2028fae23b8d433c9b29d309465af2a1df051feae2cf499b1e07fc2fc",
       "size": 4708,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20260802/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20260809/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/heart/20260802/vbmeta.img",
-      "sha1": "9268fc64a12c5953888aff5bbb1376d561cbf76d",
-      "sha256": "bdde17c51bdf7ee30e52e82285d32e769fa953ed187f95a7c927c1613dcc6ef6",
+      "filepath": "/full/heart/20260809/vbmeta.img",
+      "sha1": "50ee7e5cb2d8151473504b8f5daf5dc2a5fddb02",
+      "sha256": "a3355b78c52dbdd5ffd54c7013daa3f5d2a10b06880d5e4c5f99d6af5195a72f",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/heart/20260802/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/heart/20260809/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/heart/20260809/build-manifest.xml",
+      "sha1": "996b237ce5ca61e27ef7c91257f1cbd4fde65c1e",
+      "sha256": "130f8b079668a01bd3216b94e84c19ec38780dfa4d653c8c46bd56195840dfa8",
+      "size": 285716,
+      "url": "https://mirrorbits.lineageos.org/full/heart/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
