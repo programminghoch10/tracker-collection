@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785643176,
+  "date": "2026-08-09",
+  "datetime": 1786233718,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785643176,
-      "filename": "lineage-23.2-20260802-nightly-miami-signed.zip",
-      "filepath": "/full/miami/20260802/lineage-23.2-20260802-nightly-miami-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786233718,
+      "filename": "lineage-23.2-20260809-nightly-miami-signed.zip",
+      "filepath": "/full/miami/20260809/lineage-23.2-20260809-nightly-miami-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4160:133481,payload.bin:4160:1177063254,payload_properties.txt:1177067472:156,apex_info.pb:1978:1279,care_map.pb:3304:809,metadata:69:679,metadata.pb:816:1114                        ",
-      "sha1": "010cb385549d514ade99bd0592f9824bd3bd1324",
-      "sha256": "87d17245ff8b9c8bffdfc7f03e4fc3bf6bd13247f44a1d810e27e2ad99c3b1e0",
-      "size": 1177070619,
+      "ota_property_files": "payload_metadata.bin:4160:133481,payload.bin:4160:1177032017,payload_properties.txt:1177036235:156,apex_info.pb:1978:1279,care_map.pb:3304:809,metadata:69:679,metadata.pb:816:1114                        ",
+      "sha1": "f028cbb5b7621e30503eb264eb7d8eab5f67ad89",
+      "sha256": "bfb85e808422235ceb3827eec6c14ddc07e59c22c8edae99d4e1a310c12ac9c8",
+      "size": 1177039382,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260802/lineage-23.2-20260802-nightly-miami-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260809/lineage-23.2-20260809-nightly-miami-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/miami/20260802/boot.img",
-      "sha1": "3550a2647b7b4630cb4fea7fd425d5f45e8fc75c",
-      "sha256": "d63bd5ff8213803a72d3f89dabb71d1ce4e0a8086f52b90ca1221aca86db0a1a",
+      "filepath": "/full/miami/20260809/boot.img",
+      "sha1": "a21fc0f267abc425cd84c2bf7946d513ac946dda",
+      "sha256": "7a66e288bc68810fe1cec7b901d74c7b37b80e872cb962065e6645f73c6b9300",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260809/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/miami/20260802/dtbo.img",
-      "sha1": "5ed03dc1bfdb0bcdac0a79c0546cd8cedcbdcbc4",
-      "sha256": "9dd6e1ef5718038e6f2f6511fee6d8846d1525a0b8e18f281bd78496c74a4fd4",
+      "filepath": "/full/miami/20260809/dtbo.img",
+      "sha1": "3e58e044e9020b3375506246c4fea5be8c08e31d",
+      "sha256": "76d2bd8ce459014f4467de1d91d6584c0cbe2d1ca578d240596f934e1d1ab4b4",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260802/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260809/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/miami/20260802/super_empty.img",
+      "filepath": "/full/miami/20260809/super_empty.img",
       "sha1": "42c82b4cf345724eb94013ba0218a6f9d83dbb38",
       "sha256": "edf5be1e849763d3c8e9ec0e69fd6b85e7bd02b43d01ee8f5430cf852482676f",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260802/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260809/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/miami/20260802/vbmeta.img",
-      "sha1": "90e58bd6c205a77bf42487696136d66caf7b7f19",
-      "sha256": "24139897ceca7f6a53b67957a117807025d46156454cbfb905f7f72b3fedb710",
+      "filepath": "/full/miami/20260809/vbmeta.img",
+      "sha1": "ea5c7b8a53c12abe403ba02c0047baa6dabe364f",
+      "sha256": "62686db1e75b2f273f997b156de3f4e0d3cd4c6f8f40a38392ceeea99fb8bdac",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260802/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260809/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/miami/20260802/vendor_boot.img",
-      "sha1": "8beae2613d372592e857e9afdd1878feb6d2b85b",
-      "sha256": "8c5da0d4ce29fd6f7445de601a199a94186fa2a4c0bb36c005f3c18bfaae5eaf",
+      "filepath": "/full/miami/20260809/vendor_boot.img",
+      "sha1": "653918c0858a62566f7e641c398f3173759fcf35",
+      "sha256": "3e5a8038d9d8d45562a6bfe293ecc617dd1b192995785812369ba4e02fffd69e",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/miami/20260802/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260809/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/miami/20260809/build-manifest.xml",
+      "sha1": "78d1560482c0add5c6b44934d4385f001bba2079",
+      "sha256": "6c25bdd5d7b02857b1e2134f9cd9bf327447992b14f56d0c59bb59ea1cf17d7c",
+      "size": 285962,
+      "url": "https://mirrorbits.lineageos.org/full/miami/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
