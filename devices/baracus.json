@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-02",
-  "datetime": 1785641343,
+  "date": "2026-08-09",
+  "datetime": 1786243421,
   "files": [
     {
-      "date": "2026-08-02",
-      "datetime": 1785641343,
-      "filename": "lineage-22.2-20260802-nightly-baracus-signed.zip",
-      "filepath": "/full/baracus/20260802/lineage-22.2-20260802-nightly-baracus-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-09",
+      "datetime": 1786243421,
+      "filename": "lineage-22.2-20260809-nightly-baracus-signed.zip",
+      "filepath": "/full/baracus/20260809/lineage-22.2-20260809-nightly-baracus-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:332,metadata.pb:469:214                 ",
-      "sha1": "3d4e81af4fe21e51016e4a1148be0793b6eb8777",
-      "sha256": "a85a07bd3eccac342e6291b2aaf10443f93f5fedc00662c19f622f7787ffd72f",
-      "size": 767877979,
+      "sha1": "b974a17b535244a3e545276a6acb4fbb7e49dfcb",
+      "sha256": "8819e7cf1ef8caa5b0a821712333ae2bc0a8960a8f50c6673be491a03313bb42",
+      "size": 767902177,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/baracus/20260802/lineage-22.2-20260802-nightly-baracus-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/baracus/20260809/lineage-22.2-20260809-nightly-baracus-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/baracus/20260802/boot.img",
-      "sha1": "e7eda3ea26d2fdbad139df3ec14fba40bd3ef09c",
-      "sha256": "ea8f729e86e811fca5209dbe3f9cf669e49b298ba77fe1c96743470cec84e7ad",
+      "filepath": "/full/baracus/20260809/boot.img",
+      "sha1": "795331299a68f32682959caa8bd4927de25551a5",
+      "sha256": "c26e27d56894145bc3115f1bb787233a44b5dc1554d17c872524a21369804471",
       "size": 14759936,
-      "url": "https://mirrorbits.lineageos.org/full/baracus/20260802/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/baracus/20260809/boot.img"
     },
     {
       "filename": "dtb.img",
-      "filepath": "/full/baracus/20260802/dtb.img",
-      "sha1": "77cd1c74ee979d989bec1a0bcd72e5fd8c9b8591",
-      "sha256": "2bbab1370699e349678896a8222848c16e3f555bd44330d996e27ba29f86c9f8",
+      "filepath": "/full/baracus/20260809/dtb.img",
+      "sha1": "6b778cf492eb676f18be2c141ac859c4a0cf003a",
+      "sha256": "d46a7e0774a4faa7ba339487f96f20164a68ed419e119bb7c8e75ea77a5be6d5",
       "size": 514507,
-      "url": "https://mirrorbits.lineageos.org/full/baracus/20260802/dtb.img"
+      "url": "https://mirrorbits.lineageos.org/full/baracus/20260809/dtb.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/baracus/20260802/recovery.img",
-      "sha1": "1746132dc993e401c1ef6f23c5d4ed8b9669a6c5",
-      "sha256": "cf471d2e22a44830a864a9538ea1a1af56b13fe1bc102b710046922dc4dbf1ee",
-      "size": 22675456,
-      "url": "https://mirrorbits.lineageos.org/full/baracus/20260802/recovery.img"
+      "filepath": "/full/baracus/20260809/recovery.img",
+      "sha1": "aacd94afa413bd62b6a4fab16eb38f1c0dc5cd26",
+      "sha256": "5e4a1881ef28f420e7298cea8d635d7d3231f9738ee99cf8e0f9ef593e3ef8cd",
+      "size": 22677504,
+      "url": "https://mirrorbits.lineageos.org/full/baracus/20260809/recovery.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/baracus/20260809/build-manifest.xml",
+      "sha1": "4a10079242c7e89c5228ce9efbd9183d4f900dee",
+      "sha256": "55300ae0a1bed90677721f771c472b2093fb7c497222af1f470e6e112405e0c2",
+      "size": 291012,
+      "url": "https://mirrorbits.lineageos.org/full/baracus/20260809/build-manifest.xml"
     }
   ],
   "type": "nightly",
