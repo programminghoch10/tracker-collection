@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-03",
-  "datetime": 1785741502,
+  "date": "2026-08-10",
+  "datetime": 1786341744,
   "files": [
     {
-      "date": "2026-08-03",
-      "datetime": 1785741502,
-      "filename": "lineage-23.2-20260803-nightly-tokay-signed.zip",
-      "filepath": "/full/tokay/20260803/lineage-23.2-20260803-nightly-tokay-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-10",
+      "datetime": 1786341744,
+      "filename": "lineage-23.2-20260810-nightly-tokay-signed.zip",
+      "filepath": "/full/tokay/20260810/lineage-23.2-20260810-nightly-tokay-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4748:151521,payload.bin:4748:1584149402,payload_properties.txt:1584154208:156,apex_info.pb:2000:1632,care_map.pb:3679:1022,metadata:69:668,metadata.pb:805:1147                        ",
-      "sha1": "404be12741b01bae84674ea8b383f8e4a9759c0a",
-      "sha256": "2177381edeae4f55a22d5f2d412a65dd2d5fdcf146fa863a1f03bcccbb166971",
-      "size": 1584157355,
+      "ota_property_files": "payload_metadata.bin:4748:151521,payload.bin:4748:1584118442,payload_properties.txt:1584123248:156,apex_info.pb:2000:1632,care_map.pb:3679:1022,metadata:69:668,metadata.pb:805:1147                        ",
+      "sha1": "48691c16c85811a8bb5f453ca6b39262d05acefe",
+      "sha256": "3ff1c85b0706ebf56e5e903c54250519db98331ae3ea580fbfdd2c33069f7792",
+      "size": 1584126395,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/lineage-23.2-20260803-nightly-tokay-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/lineage-23.2-20260810-nightly-tokay-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tokay/20260803/boot.img",
-      "sha1": "e05996abdc304851e8904011597c4d4f735d5fa9",
-      "sha256": "d18b3e240db18b6c2f5b8d8fab76fc023aff9f4afbec80b67c8cdcc4904c45db",
+      "filepath": "/full/tokay/20260810/boot.img",
+      "sha1": "9781a7e46ea73559150ccc055552ad78d04c2d44",
+      "sha256": "e23e6c3c6f71832d5cb554bde94aa3e5e776c57a7b6217d7421167208565d99f",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tokay/20260803/dtbo.img",
-      "sha1": "1095afde3e661ab402d83c09ed03f7e5080c3797",
-      "sha256": "722107b36a065c552cf0589b56ef06a87c0183cb72c426399c0be5f681d6b4a5",
+      "filepath": "/full/tokay/20260810/dtbo.img",
+      "sha1": "c0b9c37e4cd76244f93b1c5ee367097997e5384e",
+      "sha256": "17d11872a6516a8194fea24e3fbbcf97a610795916762bcd2f1c7ca76e2b45da",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/tokay/20260803/init_boot.img",
-      "sha1": "eb930347439d5eadc511d503c022f28d01e2fb25",
-      "sha256": "76ac6b9bb96debfd0b175ec427691a41f9718aa82241b03a307aea8235a4d824",
+      "filepath": "/full/tokay/20260810/init_boot.img",
+      "sha1": "02485d82cdb8b3ce48d153347d200c5ffc46026d",
+      "sha256": "6c90243b5e8dc338f8548c7d1df3421cd4409568d58f800cbaf1a0f7df1cd93f",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tokay/20260803/super_empty.img",
+      "filepath": "/full/tokay/20260810/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tokay/20260803/vbmeta.img",
-      "sha1": "47f4213018bc123f10b5ff6ad6ac8bc6de7eea73",
-      "sha256": "3a25b0499dceb648b76195de1c520e91cf8f93e4f66066761c30d48d5608c4f4",
+      "filepath": "/full/tokay/20260810/vbmeta.img",
+      "sha1": "326a8bb955b7f29f0a508c0b637f176e2c26c71e",
+      "sha256": "c8c0d8a3d22cdae7b5c9c0cb220905fc60f4ea66297170e9d448bfb152835f4b",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/tokay/20260803/vendor_boot.img",
-      "sha1": "14d222e9f533effbe66612a626b47809cd817593",
-      "sha256": "b8fd9e0c5b6a122fef4cb19649ddd362d68a37c0fab9564777e1bddfc15b11f1",
+      "filepath": "/full/tokay/20260810/vendor_boot.img",
+      "sha1": "2c81047bb83c60fa3d773d58b1140782cbc8169d",
+      "sha256": "852ac527be6ad77d03d7d22214ee2a5183093d062f971e5f3b7aca612b2d1465",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/tokay/20260803/vendor_kernel_boot.img",
-      "sha1": "92a5fe5fae7508878f335be73d866360711206e9",
-      "sha256": "1e67edcb6d26ec29a38e9a0f09647b0821c6fdeb0da0994cbdf2926eb564c417",
+      "filepath": "/full/tokay/20260810/vendor_kernel_boot.img",
+      "sha1": "4c38605630138aabc2c999472a9d744f4bb26aa4",
+      "sha256": "d145c2ca96ccfa9b930ce1bcfb75622e1e2e4a92c1dafa2f40f7262cb3ff020b",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tokay/20260803/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/vendor_kernel_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/tokay/20260810/build-manifest.xml",
+      "sha1": "1c2b7f6f0082fd794c9e0d2f89fb6c5d179618f3",
+      "sha256": "fffb2d6732fcbc93d6298e09a3d99a616705ee4785d7d21ce9d34e3ad39fa5e9",
+      "size": 286210,
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20260810/build-manifest.xml"
     }
   ],
   "type": "nightly",
