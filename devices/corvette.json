@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-03",
-  "datetime": 1785727575,
+  "date": "2026-08-10",
+  "datetime": 1786345015,
   "files": [
     {
-      "date": "2026-08-03",
-      "datetime": 1785727575,
-      "filename": "lineage-23.2-20260803-nightly-corvette-signed.zip",
-      "filepath": "/full/corvette/20260803/lineage-23.2-20260803-nightly-corvette-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-10",
+      "datetime": 1786345015,
+      "filename": "lineage-23.2-20260810-nightly-corvette-signed.zip",
+      "filepath": "/full/corvette/20260810/lineage-23.2-20260810-nightly-corvette-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5025:221417,payload.bin:5025:3075810353,payload_properties.txt:3075815436:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
-      "sha1": "9cd89dd34ed97a6d2830e437e5dd334715db0c95",
-      "sha256": "f7c12a2ed23142827969f0a8558879ebff7714d737e9b3fb6539b809d93bc02a",
-      "size": 3075818583,
+      "ota_property_files": "payload_metadata.bin:5025:221417,payload.bin:5025:3075804059,payload_properties.txt:3075809142:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
+      "sha1": "1b83b4886ee4c45033a35daaa1819218b9401ff5",
+      "sha256": "4cdf884535273753bd031154214647ff1997c6951958c3a15bb0b593ad1ae3b9",
+      "size": 3075812289,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/lineage-23.2-20260803-nightly-corvette-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/lineage-23.2-20260810-nightly-corvette-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/corvette/20260803/boot.img",
-      "sha1": "a14923ab6f706464a55ac2c7204dcb0fc2396937",
-      "sha256": "844e1d9072dc1833604b0f28f9a9f9aed24b0b5383866f16343889c75c7245aa",
+      "filepath": "/full/corvette/20260810/boot.img",
+      "sha1": "c5332d947a92c64df6588f3bdff6a95e1bcc9c45",
+      "sha256": "9ef95d608ad89290ea6f27dbaf0a98b3e24c42f40e8d70ba71ca4bc422328bb4",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/corvette/20260803/dtbo.img",
-      "sha1": "f01a24f141da82c57301ca3d51024bdcb3e170b3",
-      "sha256": "79d414e8182bcae441bd9616cff8096864592c950e80279ed18a507ef7f6ee1d",
+      "filepath": "/full/corvette/20260810/dtbo.img",
+      "sha1": "26a6664ceb1139e053120d16c4eb8798ccfc08a5",
+      "sha256": "7b2a1b69551ca7aeecbf4fd3bc171729d0ec0e463857798c0013f7198ba1c0fe",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/corvette/20260803/init_boot.img",
-      "sha1": "21ef4975359dd471e8dbb2fed2d8ab62e0e3d27c",
-      "sha256": "7fac2dc1620b967d70deae7e6bf01c78ca9abe7a9d2d985b6209fb724b223ad8",
+      "filepath": "/full/corvette/20260810/init_boot.img",
+      "sha1": "ade7ae6ed39c2dd5fde83fb6659433081d478d18",
+      "sha256": "7a8a0925505b670c67ee1011224e6a1a048bd4892e865645cb50731b54188d72",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/corvette/20260803/recovery.img",
-      "sha1": "26784a15f024fb55999466479e18247cfac0de5c",
-      "sha256": "d372e0f038b004b90f0c2409c7d120d7e41af29f497c79b2c7df097ba8772217",
+      "filepath": "/full/corvette/20260810/recovery.img",
+      "sha1": "81c59dd3c8a651716aafa720dce2e6497eae67e2",
+      "sha256": "a748624f5b39029fd70590173bd42a6314135fa3544e1be14fc10b69ada6d88c",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/corvette/20260803/super_empty.img",
+      "filepath": "/full/corvette/20260810/super_empty.img",
       "sha1": "547ff4ea96448708881973471999209714ed7824",
       "sha256": "9ee6b4a2ea937c6e5f098019fdf4d991f1c7d7a2c7fe17f458b102f759afec65",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/corvette/20260803/vbmeta.img",
-      "sha1": "ad1c10013710b2f613d95eadb7acb8e3b41c73ed",
-      "sha256": "a708b30f66722ecc0881abc7e9966cb393b4d8c0007cebeb9ad66709446e5b7e",
+      "filepath": "/full/corvette/20260810/vbmeta.img",
+      "sha1": "f0e05f136dbfe54cc0d553b856116148214dc1b2",
+      "sha256": "5dd90f5c3d347a1156ceaa5518dcfd0a8a475eb528328ce5ecbca5f9dab50bdb",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/corvette/20260803/vendor_boot.img",
-      "sha1": "8cb396a31e9e2f0275a4965c9cb787568454dd0d",
-      "sha256": "ec6a7a7c11bc8ab1bc8ceefbaa15da927bbe686f371ef3bbace1d4cbb51e920d",
+      "filepath": "/full/corvette/20260810/vendor_boot.img",
+      "sha1": "85dfc94ad70a05a053441ecb6640ae175118f775",
+      "sha256": "643fedec563a61f553f047886e79993c4ccba806bc64cf1e329e4cb25c7000bc",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/corvette/20260803/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/corvette/20260810/build-manifest.xml",
+      "sha1": "d7a548e0b0ac4e61272a5e4cc84ffd07c2e15c17",
+      "sha256": "7ea3caa364d243e51a53601d10117f4c426d6f706e7b18cb4272c9e9fc8b8705",
+      "size": 286480,
+      "url": "https://mirrorbits.lineageos.org/full/corvette/20260810/build-manifest.xml"
     }
   ],
   "type": "nightly",
