@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-03",
-  "datetime": 1785732517,
+  "date": "2026-08-10",
+  "datetime": 1786337194,
   "files": [
     {
-      "date": "2026-08-03",
-      "datetime": 1785732517,
-      "filename": "lineage-23.2-20260803-nightly-tucana-signed.zip",
-      "filepath": "/full/tucana/20260803/lineage-23.2-20260803-nightly-tucana-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-10",
+      "datetime": 1786337194,
+      "filename": "lineage-23.2-20260810-nightly-tucana-signed.zip",
+      "filepath": "/full/tucana/20260810/lineage-23.2-20260810-nightly-tucana-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
       "ota_property_files": "metadata:69:328,metadata.pb:465:209                 ",
-      "sha1": "7c119a878ea560b768d93b2963bc99391c1562c0",
-      "sha256": "a25d0e106f20f6b3cca3311322fb757fa9fe0fe1a6892ee6cedb5dee302e9713",
-      "size": 1559411177,
+      "sha1": "5e9da864dc57494450de9c0a4c878284af2566e1",
+      "sha256": "091370e2b608facae63dadab433b6193f6c6944eb72c22cc95297a6726a8fb98",
+      "size": 1555607012,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260803/lineage-23.2-20260803-nightly-tucana-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260810/lineage-23.2-20260810-nightly-tucana-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tucana/20260803/boot.img",
-      "sha1": "1bcbeb73b6f91741e4193269d02f8a55a8a25d4a",
-      "sha256": "f7a92e76d76463f3e215d653cb3327b1356ae1cb042c03b9be2ec383345185e1",
+      "filepath": "/full/tucana/20260810/boot.img",
+      "sha1": "c14baf5ede90f439a53dec2fb834758953ce1b6f",
+      "sha256": "25abaf83e0323b0af4013f3a92d0e196d49c10157b66755d49b59254f547825d",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260803/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260810/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tucana/20260803/dtbo.img",
-      "sha1": "724cb363672784bd2cc348efbbf1e6c5d69da0d8",
-      "sha256": "4a390a19ccd08e4f87259604606a1a14b4e6ab40b0e0833d8ba25b45e54bc303",
+      "filepath": "/full/tucana/20260810/dtbo.img",
+      "sha1": "95793cbc3e402d9cfd23675e1a858c7be3a2a292",
+      "sha256": "c9c426bfe3d24411e0b74267d42d487acb3946555cb684b1503adecf31e1d498",
       "size": 33554432,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260803/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260810/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/tucana/20260803/recovery.img",
-      "sha1": "c47645e745bf2af5146fad74fdb6a69852c0997a",
-      "sha256": "71e1e84d1293da5b4ed1bb979239c172a692cc8e5eff0634398b23784760ff0d",
+      "filepath": "/full/tucana/20260810/recovery.img",
+      "sha1": "1cde5a80e2b2b0e666ce748f95f22cd7ed389dcf",
+      "sha256": "35f808da5d4fc67cac626a9e268568289b05a5773032aa7e8a1fdba0fa913a81",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260803/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260810/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tucana/20260803/super_empty.img",
+      "filepath": "/full/tucana/20260810/super_empty.img",
       "sha1": "77364d82d6451e04307492e4e242194761d2eb0d",
       "sha256": "a559e06b5c3ebe80f572652d7a1c687ed42c68212a183e4888ee49f9797ced17",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260803/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260810/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tucana/20260803/vbmeta.img",
-      "sha1": "ba06cfe11440c9f6153c76329b8cb6d953d12cf2",
-      "sha256": "be1916306a1c85f2784996c5c1008f39eea056dc64e11aa59737bfd5d6240289",
+      "filepath": "/full/tucana/20260810/vbmeta.img",
+      "sha1": "8c716867b75b7e736a7e1e3033a7fd7be1d94591",
+      "sha256": "82037314f6b12acfa80ea2fdf19c6799ce32984125b1fd5fa2674b2cf1ec3d14",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tucana/20260803/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260810/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/tucana/20260810/build-manifest.xml",
+      "sha1": "0f6e60624c3c04a6aab9214461e9b6d9539e80a5",
+      "sha256": "2e64358933f32458aa13e68e81f782de89a1cddce584eea153af2f9b9319b6bc",
+      "size": 285948,
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20260810/build-manifest.xml"
     }
   ],
   "type": "nightly",
