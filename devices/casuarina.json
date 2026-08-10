@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-03",
-  "datetime": 1785724579,
+  "date": "2026-08-10",
+  "datetime": 1786341083,
   "files": [
     {
-      "date": "2026-08-03",
-      "datetime": 1785724579,
-      "filename": "lineage-22.2-20260803-nightly-casuarina-signed.zip",
-      "filepath": "/full/casuarina/20260803/lineage-22.2-20260803-nightly-casuarina-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-10",
+      "datetime": 1786341083,
+      "filename": "lineage-22.2-20260810-nightly-casuarina-signed.zip",
+      "filepath": "/full/casuarina/20260810/lineage-22.2-20260810-nightly-casuarina-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:347,metadata.pb:484:232                 ",
-      "sha1": "eba2d68213827341d0e69457ca5eb414637923c8",
-      "sha256": "8f477d34c945c3d8be550ae8a2d196cdb467c6f17cc3d65a3bb52e6961ffddf2",
-      "size": 1130929941,
+      "sha1": "f6c029366babbadd207ce18e55991b852a519b2a",
+      "sha256": "a6e24b5a523106d2b5e640321d1b1c979ad2689e79ed4c0da1ccf72b5a25062d",
+      "size": 1130959384,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260803/lineage-22.2-20260803-nightly-casuarina-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260810/lineage-22.2-20260810-nightly-casuarina-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/casuarina/20260803/boot.img",
-      "sha1": "de9d96fa2373176b540501b29c68eca68318502d",
-      "sha256": "74a46582733682b0a7c6e55b818e6a0acbe1326acfd0cb0782cceb404554fc55",
+      "filepath": "/full/casuarina/20260810/boot.img",
+      "sha1": "06337a2aef8da458b7994ff6eaa56abf5ec947f4",
+      "sha256": "e33ecb17895287ab4c4029769b543e7380330028a30aceebcee61fdd60bed783",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260803/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260810/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/casuarina/20260803/dtbo.img",
-      "sha1": "d36d187c5d00e391e77e1dcfef082c923ba5734f",
-      "sha256": "2ff37c3a4a40c44474902ff08bbf1d2237720a4798f434a2e4dd530fe4522c83",
+      "filepath": "/full/casuarina/20260810/dtbo.img",
+      "sha1": "52c5a3dfd6640bcafceb0ae8a027b8e26ed19379",
+      "sha256": "fa72eece95230ce95e0bee213d0908a6828e6a3ac6a9a91cac5bfaabd23e5932",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260803/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260810/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/casuarina/20260803/recovery.img",
-      "sha1": "03c8eaca982fbbb3fdb9c2e7795e05042f2ed1ec",
-      "sha256": "3f70df4259afadd3cbcd2c4ef6d3f8dbb4ae6d097609022a114cabcf40d70ba6",
+      "filepath": "/full/casuarina/20260810/recovery.img",
+      "sha1": "90ba5ee35ad93f1bddbba7ae0e281984c38ab3f2",
+      "sha256": "54d0a840de5aeb68e05d8c786654027a1d5e9618a4ea2c2e2bf8b76c46ea624b",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260803/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260810/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/casuarina/20260803/vbmeta.img",
-      "sha1": "036b002485a097a4a3c8834f11aa63c4c6d58378",
-      "sha256": "cfe9da29b358d203c719428cb3b41e8b0b9f5bc928e867ee114827ab2e77d385",
+      "filepath": "/full/casuarina/20260810/vbmeta.img",
+      "sha1": "84cdc39eee000ca6bb1c3a2b04e19eb056873e63",
+      "sha256": "2e204bf3b87f3936a27574e79258fcf04bc8d729dd450c36e76ecf2c45a54ca9",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260803/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260810/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/casuarina/20260810/build-manifest.xml",
+      "sha1": "e20ed68227386b5a8c6a1fac23242d305ae20f06",
+      "sha256": "c7fe9bc2dea1f225b9d6afe37f127f8077e8afc23c37044481db1afc00bf6888",
+      "size": 283856,
+      "url": "https://mirrorbits.lineageos.org/full/casuarina/20260810/build-manifest.xml"
     }
   ],
   "type": "nightly",
