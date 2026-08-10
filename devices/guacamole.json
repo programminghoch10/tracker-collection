@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-03",
-  "datetime": 1785719732,
+  "date": "2026-08-10",
+  "datetime": 1786337519,
   "files": [
     {
-      "date": "2026-08-03",
-      "datetime": 1785719732,
-      "filename": "lineage-23.2-20260803-nightly-guacamole-signed.zip",
-      "filepath": "/full/guacamole/20260803/lineage-23.2-20260803-nightly-guacamole-signed.zip",
-      "os_patch_level": "2026-07-01",
+      "date": "2026-08-10",
+      "datetime": 1786337519,
+      "filename": "lineage-23.2-20260810-nightly-guacamole-signed.zip",
+      "filepath": "/full/guacamole/20260810/lineage-23.2-20260810-nightly-guacamole-signed.zip",
+      "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:3799:139487,payload.bin:3799:1156458811,payload_properties.txt:1156462668:156,apex_info.pb:1823:1279,care_map.pb:3149:603,metadata:69:691,metadata.pb:828:947                         ",
-      "sha1": "dad92f39f02f624b34368459bae82093630719d2",
-      "sha256": "1f4e5e294efe714c3f288ce64def540e2f9b920e42071dca33577d63968beaef",
-      "size": 1156465815,
+      "ota_property_files": "payload_metadata.bin:3799:139487,payload.bin:3799:1156458816,payload_properties.txt:1156462673:156,apex_info.pb:1823:1279,care_map.pb:3149:603,metadata:69:691,metadata.pb:828:947                         ",
+      "sha1": "f6cce0826db7db512b4c403a0b7bbba81accefc6",
+      "sha256": "da7b27dd7913b496c810df8e88ebfdb5cb4aa80c5ff017ce10c04fe728bcb738",
+      "size": 1156465820,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260803/lineage-23.2-20260803-nightly-guacamole-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260810/lineage-23.2-20260810-nightly-guacamole-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/guacamole/20260803/boot.img",
-      "sha1": "6bbe1b61d4f257be821f2f7954399417d7895bc1",
-      "sha256": "d490ac54840fb844bcbd7638f9e17581f62127347d82e2f5c7a49901b6aa1921",
+      "filepath": "/full/guacamole/20260810/boot.img",
+      "sha1": "2005b305a37fcec2790554313bfb424bfe6ba88a",
+      "sha256": "5d73d9f08a30ae848beac2a61c2c8e7b2347777c796ddaf5a79253ec4dac5ed6",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260803/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260810/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/guacamole/20260803/dtbo.img",
-      "sha1": "b895a8ea68f064fc8eedd8c4bde6ac90a5d3e460",
-      "sha256": "c54402b6de3fcf87917cf6d2de72830ef1d39bd6ceafbf7bc212ceda8b5bdf46",
+      "filepath": "/full/guacamole/20260810/dtbo.img",
+      "sha1": "bbea55c9eda3cfb06f73e288ef899f8d92d748ab",
+      "sha256": "94792566c10b2db6aa9c4fed590c097786cea825d409576994590245a1ba60f5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260803/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260810/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/guacamole/20260803/vbmeta.img",
-      "sha1": "7877577db59eb25751351048ad84544cbe59bef2",
-      "sha256": "fcc60bc82e040f503d8c287b8d655fd424eaa8299e8e4349863186e907c07994",
+      "filepath": "/full/guacamole/20260810/vbmeta.img",
+      "sha1": "a3eb7cb0dc18914fb928d34f54ec97d647231c9c",
+      "sha256": "7cd6119d044ae58bbdf538a41c40a35162a150e785c90e01ef3202d6e8504281",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260803/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260810/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/guacamole/20260810/build-manifest.xml",
+      "sha1": "b773919b4f3080927ce506b37b3edd5cfe38520d",
+      "sha256": "b8499b063b5d5f233bf473e64dffd0033512fcf8047497c9ef224e181bbc9b28",
+      "size": 285958,
+      "url": "https://mirrorbits.lineageos.org/full/guacamole/20260810/build-manifest.xml"
     }
   ],
   "type": "nightly",
