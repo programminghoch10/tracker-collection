@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785813171,
+  "date": "2026-08-11",
+  "datetime": 1786410213,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785813171,
-      "filename": "lineage-22.2-20260804-nightly-cheryl-signed.zip",
-      "filepath": "/full/cheryl/20260804/lineage-22.2-20260804-nightly-cheryl-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786410213,
+      "filename": "lineage-22.2-20260811-nightly-cheryl-signed.zip",
+      "filepath": "/full/cheryl/20260811/lineage-22.2-20260811-nightly-cheryl-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:2792:136502,payload.bin:2792:903761608,payload_properties.txt:903764458:155,apex_info.pb:1588:1157,metadata:69:609,metadata.pb:746:794                  ",
-      "sha1": "cb24ba8fa04a7cc6aa32f7dc53e063be0128ae2c",
-      "sha256": "17a62ba0f51bf0a2610518861ba5c223a9e34d0a9bb0359f4e12b8fabcdd55b7",
-      "size": 903767545,
+      "ota_property_files": "payload_metadata.bin:2792:136502,payload.bin:2792:903763356,payload_properties.txt:903766206:155,apex_info.pb:1588:1157,metadata:69:609,metadata.pb:746:794                  ",
+      "sha1": "a78cc0f36df734c26b4bf64f6b79b5ba04a3b0fb",
+      "sha256": "09d6ccf665a43f5e66d2565e3124468360f2a4a27e9e32a39a9b6353dca5026d",
+      "size": 903769293,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260804/lineage-22.2-20260804-nightly-cheryl-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260811/lineage-22.2-20260811-nightly-cheryl-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/cheryl/20260804/boot.img",
-      "sha1": "a3160fc050dec91c935e6f47f91f86be26987ec4",
-      "sha256": "81a941abc5e37d42eed3f9b75a2219abde746c9a3f488b665ba7ad2d1b67e602",
+      "filepath": "/full/cheryl/20260811/boot.img",
+      "sha1": "211065dd29c2725d48eb9f71f090820dc758665d",
+      "sha256": "0b3716ab4d06953e3ff83523584525d955e1e5c76a59dd760e325df7b206dda2",
       "size": 30572544,
-      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260811/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/cheryl/20260811/build-manifest.xml",
+      "sha1": "57d1069107a0ee26c57da24c9fbe452dfaa39cc0",
+      "sha256": "9aff46de7ba7b2d617218e5da3f10ea30d639023cc054647c65b69a44d63c2a5",
+      "size": 283846,
+      "url": "https://mirrorbits.lineageos.org/full/cheryl/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
