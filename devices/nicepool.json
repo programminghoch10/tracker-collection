@@ -1,68 +1,76 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785835203,
+  "date": "2026-08-11",
+  "datetime": 1786419712,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785835203,
-      "filename": "lineage-22.2-20260804-nightly-nicepool-signed.zip",
-      "filepath": "/full/nicepool/20260804/lineage-22.2-20260804-nightly-nicepool-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786419712,
+      "filename": "lineage-22.2-20260811-nightly-nicepool-signed.zip",
+      "filepath": "/full/nicepool/20260811/lineage-22.2-20260811-nightly-nicepool-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:322,metadata.pb:459:205                 ",
-      "sha1": "e16a72d1a4176850113d1b808d6890773a1ba9c3",
-      "sha256": "fe50af082e1692d804d32116c8bd5fcd109a449f3d06ec458fdc55cd5d528846",
-      "size": 568381082,
+      "sha1": "5b00366d548307955d6bef761ea717b1f623610d",
+      "sha256": "3c7f049b37d579f7fa08360b08583e507ae279ec79ccfa70d0659c105c070181",
+      "size": 568374978,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260804/lineage-22.2-20260804-nightly-nicepool-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/lineage-22.2-20260811-nightly-nicepool-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/nicepool/20260804/boot.img",
-      "sha1": "88188330ad2d448a2f4f032c3f65a4add91fe7ab",
-      "sha256": "6415857e0dce2a229e30d1a54629b3c438b8208ecd7706098d76ff6ba6ff1fdf",
+      "filepath": "/full/nicepool/20260811/boot.img",
+      "sha1": "fe6df919b495796f843381396470d3a4cc8e117f",
+      "sha256": "145040cb25735bb648be40311213d5f0b7f7b3a4f9effad60d2c7031790a99de",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/boot.img"
     },
     {
       "filename": "dtb.img",
-      "filepath": "/full/nicepool/20260804/dtb.img",
+      "filepath": "/full/nicepool/20260811/dtb.img",
       "sha1": "46e95d437a0c60dd6120010ef55d20f694c4e424",
       "sha256": "e0f39b5d2b30f679460c843a13a85ecf10a83613962e6b5c02bed9d5e943d995",
       "size": 83013,
-      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260804/dtb.img"
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/dtb.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/nicepool/20260804/dtbo.img",
-      "sha1": "0b9e23c6e02ed5f126d8c014a3dc3f1083741689",
-      "sha256": "accadde1bc0cd171ae3ad64a1e25e7b8dbf9b065e899f69d7948480e33556cf5",
+      "filepath": "/full/nicepool/20260811/dtbo.img",
+      "sha1": "df191204b9ce8b51dc6f834467caeadb41926842",
+      "sha256": "a623bede843b4b961bdd5aab9e19389cf360b96a7c4ea9635bdaca6a59c67f34",
       "size": 2097152,
-      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260804/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/nicepool/20260804/recovery.img",
-      "sha1": "02ea1686862545544d22dd0c7189bc9f3c154bbb",
-      "sha256": "5e8d3021bc6ca5739587bb09eb01023ccee19e53643a7026f98d3a441b067335",
+      "filepath": "/full/nicepool/20260811/recovery.img",
+      "sha1": "26c1bdacf485e2733c1317d3f7eadcbb811c6128",
+      "sha256": "cab0e1e1e21022983f653b14205040f760337d92f0bb613f6198e52c257ed78b",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260804/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/nicepool/20260804/super_empty.img",
+      "filepath": "/full/nicepool/20260811/super_empty.img",
       "sha1": "5bc3c9ff211b423def7839e835f6519d8b974eb8",
       "sha256": "e569e2f9f9ec3db98573b05ab4dd72e77fdde92edee60778a9db4ccd6dd36035",
       "size": 4696,
-      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260804/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/nicepool/20260804/vbmeta.img",
-      "sha1": "8aefc3b827dc31a80088d47d8ea1aefe65d5fb78",
-      "sha256": "f53d3d30de30f7aaca0714fc822128aa962fedc34452d218d19c6a74383d1d35",
+      "filepath": "/full/nicepool/20260811/vbmeta.img",
+      "sha1": "8e8e1deb47efd2c1c962b414e437a163b17aa1e9",
+      "sha256": "dd0f14bba55cc9bbdaa992531acf5bf5837762dae683ea4909fac7d4a1688969",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260804/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/nicepool/20260811/build-manifest.xml",
+      "sha1": "b8443c98dbb7308842b2018161a83225b453bd83",
+      "sha256": "38f913cd9e1013d12b23a7ee6cd5c9605663ac8f33b8e4f19aa86d172d0d6c30",
+      "size": 286506,
+      "url": "https://mirrorbits.lineageos.org/full/nicepool/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
