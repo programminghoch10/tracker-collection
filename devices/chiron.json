@@ -1,36 +1,44 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785823301,
+  "date": "2026-08-11",
+  "datetime": 1786415423,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785823301,
-      "filename": "lineage-22.2-20260804-nightly-chiron-signed.zip",
-      "filepath": "/full/chiron/20260804/lineage-22.2-20260804-nightly-chiron-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786415423,
+      "filename": "lineage-22.2-20260811-nightly-chiron-signed.zip",
+      "filepath": "/full/chiron/20260811/lineage-22.2-20260811-nightly-chiron-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:330,metadata.pb:467:211                 ",
-      "sha1": "046dde14b67cc8e273d5308cbc5d96562d2e5b53",
-      "sha256": "1116e591a89968e8c5e229fe2b5d4f84874bccb0773f80d6e6c190022b025190",
-      "size": 1043029102,
+      "sha1": "97d182eb4c821e02d01beb074575eb735a78305e",
+      "sha256": "5a4acf0d999e233dec9a2405652586bacaea15804185744fb5804ff9c0eafc2e",
+      "size": 1043163877,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/chiron/20260804/lineage-22.2-20260804-nightly-chiron-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/chiron/20260811/lineage-22.2-20260811-nightly-chiron-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/chiron/20260804/boot.img",
-      "sha1": "661f7cc5a1b592371ccb60d08b333dae72bb345e",
-      "sha256": "e41a945c096412ab83dcb467019fb3ae834e66339cf3a82d0bd410c78995fd40",
+      "filepath": "/full/chiron/20260811/boot.img",
+      "sha1": "2e32368ce611d7397bf76ad0cb60d4354abb46a4",
+      "sha256": "f896d2510e99bd83e662d45d50980afb4654fdc6004ba1a5cfafc3c0c317c17f",
       "size": 16400384,
-      "url": "https://mirrorbits.lineageos.org/full/chiron/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/chiron/20260811/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/chiron/20260804/recovery.img",
-      "sha1": "db4f47ea8d8d9c7345cbcd2b638da8e3b52ead9c",
-      "sha256": "8caceb1b9857156911c29e65d379e4a6b2ba543a094d6509b2d92cb3598ed378",
+      "filepath": "/full/chiron/20260811/recovery.img",
+      "sha1": "8fa99f81a395d76fa4d7e4cfc01c24a03cc2adfb",
+      "sha256": "71f38f6b880d23773c6f645f5e98e57447d5e5b1986167d3bd80b1f2e441d6d9",
       "size": 28241920,
-      "url": "https://mirrorbits.lineageos.org/full/chiron/20260804/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/chiron/20260811/recovery.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/chiron/20260811/build-manifest.xml",
+      "sha1": "f28da0778e15202d92e3e5e179d715f81510d7d5",
+      "sha256": "24918371ecdc07e2776244caf80451dfa911c069969a21ac250e3e2952e044ca",
+      "size": 284336,
+      "url": "https://mirrorbits.lineageos.org/full/chiron/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
