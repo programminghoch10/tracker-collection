@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785826950,
+  "date": "2026-08-11",
+  "datetime": 1786414919,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785826950,
-      "filename": "lineage-23.2-20260804-nightly-giuliac-signed.zip",
-      "filepath": "/full/giuliac/20260804/lineage-23.2-20260804-nightly-giuliac-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786414919,
+      "filename": "lineage-23.2-20260811-nightly-giuliac-signed.zip",
+      "filepath": "/full/giuliac/20260811/lineage-23.2-20260811-nightly-giuliac-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5025:214181,payload.bin:5025:2865650690,payload_properties.txt:2865655773:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
-      "sha1": "b74695ccb1afde5f06e1502cf03941726f716bfc",
-      "sha256": "69cbdea060a735092c26e482eaba33d73a1a919ba47058c75e3c0095b2a7b604",
-      "size": 2865658920,
+      "ota_property_files": "payload_metadata.bin:5025:214181,payload.bin:5025:2865632546,payload_properties.txt:2865637629:156,apex_info.pb:2300:1370,care_map.pb:3717:1261,metadata:69:691,metadata.pb:828:1424                        ",
+      "sha1": "815c264b2b7bec1f24e6829eca87d5fc75133425",
+      "sha256": "8c97bf8548c6cc7347a0e1ae4b4e8e6c55badfba995d25a3acf3d479f6be61d4",
+      "size": 2865640776,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/lineage-23.2-20260804-nightly-giuliac-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/lineage-23.2-20260811-nightly-giuliac-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/giuliac/20260804/boot.img",
-      "sha1": "4f7cc447ea3f5b3eb904f862c8b32e189fac8130",
-      "sha256": "16a27651ec87c4d4c4b36c5228c68bd3b904c09a0eafa29bb4d1dad6191a2cf2",
+      "filepath": "/full/giuliac/20260811/boot.img",
+      "sha1": "9c9cac897e95a09e7d6d47c56dfc6416168eaaaf",
+      "sha256": "4c52c287d66e0a610f268683be845500b90219322e0dd86236f62241007554ec",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/giuliac/20260804/dtbo.img",
-      "sha1": "b2c6d017731e13e7e7c9e2043b72099b0b8b045d",
-      "sha256": "d26e335eb67bef5d0002ab45fb4451c587e8140e6b4b1420602a188a1c96292a",
+      "filepath": "/full/giuliac/20260811/dtbo.img",
+      "sha1": "2f8d6e4ce0b850280316dd9f9c2e70c7de6fdf84",
+      "sha256": "4afe1c8addf966a1648b031a2ecbd90968a1670dd65184c035c37e1efd338acb",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/giuliac/20260804/init_boot.img",
-      "sha1": "6784e28dc467b3d8abbfefda39cdebb5912cdece",
-      "sha256": "64e479df2c27ee6118b4ab30452be2cf67adb35a6f4a6cdb858fcfe007ab5b44",
+      "filepath": "/full/giuliac/20260811/init_boot.img",
+      "sha1": "d65a5e9b3f2e8d7b6a8a7159c5bd9de2820181bb",
+      "sha256": "22df8afdaaa479aea7b7a7d1d6421dca5df789f7e83c9cc400562be8551a19e6",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/giuliac/20260804/recovery.img",
-      "sha1": "00b9dac2ca73d5cb907438c4b9ae6db853ccbdac",
-      "sha256": "b4ec72bd907783878f2aa336cdecc9a5c2b64e83f4694f5e402a9c4c5ddf4e90",
+      "filepath": "/full/giuliac/20260811/recovery.img",
+      "sha1": "7872ca8ac01e500ff61b18cdc87d8fabc94f7b39",
+      "sha256": "7c0c9e67143b290ffc151674ec090e6ef3a57b73b28e343f98efa8353021ff55",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/giuliac/20260804/super_empty.img",
+      "filepath": "/full/giuliac/20260811/super_empty.img",
       "sha1": "c7c75cdde1da20a65a0544a614d5bf1949e60269",
       "sha256": "895c9e0f40528c1592d297da694e527dd2190a3ce9bb965a27a409b3de134c0e",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/giuliac/20260804/vbmeta.img",
-      "sha1": "66877535f70b3683a46259984ead40bdd3b4e916",
-      "sha256": "490f56f8e1c0bc36f6094fbd9f9365f3342d629fa0b1cee7bb9647ebe0c8719e",
+      "filepath": "/full/giuliac/20260811/vbmeta.img",
+      "sha1": "b51212bf179b2b342dd7f69accdbdf6f98446fbd",
+      "sha256": "1f52eb12ca8f000f790eb5127ae84a9e2a12354069a0f8d5f9529a887b650745",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/giuliac/20260804/vendor_boot.img",
-      "sha1": "f71ab0f243d5902d64b7ac9dcaec287ef4872926",
-      "sha256": "a59bba9eaeb45bf839f984c5d2851375c328760d7069925e074cae3ee1f2cb90",
+      "filepath": "/full/giuliac/20260811/vendor_boot.img",
+      "sha1": "b9d25082a10f6aa34344fca79f98a9f892f2d6cf",
+      "sha256": "fe055e62c8015be53962d5217ae9e9f89db6445e8f1aa815b46c18e04361a8fe",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260804/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/giuliac/20260811/build-manifest.xml",
+      "sha1": "bd765a831fb835df4c17591418ce32544942c58f",
+      "sha256": "af15038b4b4e95efb701ea652917f9e397faee9dfb21b43b9bb3e4e47e39d6b5",
+      "size": 286478,
+      "url": "https://mirrorbits.lineageos.org/full/giuliac/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
