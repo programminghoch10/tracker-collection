@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785820302,
+  "date": "2026-08-11",
+  "datetime": 1786414546,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785820302,
-      "filename": "lineage-22.2-20260804-nightly-ursa-signed.zip",
-      "filepath": "/full/ursa/20260804/lineage-22.2-20260804-nightly-ursa-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786414546,
+      "filename": "lineage-22.2-20260811-nightly-ursa-signed.zip",
+      "filepath": "/full/ursa/20260811/lineage-22.2-20260811-nightly-ursa-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:324,metadata.pb:461:203                 ",
-      "sha1": "f7d648a084c27a10568e90b33a590783139f7be9",
-      "sha256": "a39e75bdfe224c2924d2872ebf23204596546d38b63d5d4497c9dffc45f08e87",
-      "size": 1255278567,
+      "sha1": "2f784234c53a66533681b4551b34394361a16343",
+      "sha256": "5396f9f34fc03eb75dd6846c4a7952ac94c0a3fa50f1eb47c98ec82f6031dbd3",
+      "size": 1255309740,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20260804/lineage-22.2-20260804-nightly-ursa-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20260811/lineage-22.2-20260811-nightly-ursa-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/ursa/20260804/boot.img",
-      "sha1": "d1be9de77fd7c5fd790627da573aac9baabc1469",
-      "sha256": "6260e916abfdcdbad0692c08a0712310be2c7038a0e2bdc6069a5bc0bbd4cc61",
+      "filepath": "/full/ursa/20260811/boot.img",
+      "sha1": "d272a97a0f6549f4a6d40227a12a502b8a96fa63",
+      "sha256": "bbd8ba83693b8f8b05d4c1185a78f11102dba83233d31b62193e50424a2f02df",
       "size": 67092480,
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20260811/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/ursa/20260804/recovery.img",
-      "sha1": "b988b850124fc17607192b49dc7c2057914ecfdc",
-      "sha256": "5643b1495c8a6e13e4efa3aaa2da35dd0e3823374b5128aac2a367a33c8f8346",
+      "filepath": "/full/ursa/20260811/recovery.img",
+      "sha1": "696079d1979e3b5c5a99f5455d8efcf860893b2f",
+      "sha256": "299c92b8f875caefc8591ae42ef6bd8e27d4d8a556b46826343513f78ecc36a1",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20260804/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20260811/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/ursa/20260804/super_empty.img",
+      "filepath": "/full/ursa/20260811/super_empty.img",
       "sha1": "2f6004ffda0c8a9c7b1f0623c56c415a5490882c",
       "sha256": "867393735f60491ceec7b607023b4483caea09d74c52e3eb7e52f531397cfa3e",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20260804/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20260811/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/ursa/20260804/vbmeta.img",
-      "sha1": "78e6c54c0aa2d6fcfaa18a6e729cd363aa0f58cc",
-      "sha256": "62c406c348a583aa5d83eb8222e1fc1a7d07882f2c83142713f4f26a0d3a81f5",
+      "filepath": "/full/ursa/20260811/vbmeta.img",
+      "sha1": "70b1e19b3e0bf06461be96b3009cd5cd6c14a048",
+      "sha256": "60a2b5b3ea9b7fc2d2edd8f15b2aa9d0c3308c539c9813906a05f02666f6a04d",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/ursa/20260804/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20260811/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/ursa/20260811/build-manifest.xml",
+      "sha1": "3b5da80bac6cbf287f070531f31b0c3034d84c37",
+      "sha256": "9808f8e9a7fe425d4f8b883393e47f2b3df7520205210d6f93b41a40ef16b8ae",
+      "size": 284328,
+      "url": "https://mirrorbits.lineageos.org/full/ursa/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
