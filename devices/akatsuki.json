@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785828625,
+  "date": "2026-08-11",
+  "datetime": 1786430344,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785828625,
-      "filename": "lineage-22.2-20260804-nightly-akatsuki-signed.zip",
-      "filepath": "/full/akatsuki/20260804/lineage-22.2-20260804-nightly-akatsuki-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786430344,
+      "filename": "lineage-22.2-20260811-nightly-akatsuki-signed.zip",
+      "filepath": "/full/akatsuki/20260811/lineage-22.2-20260811-nightly-akatsuki-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3573:144688,payload.bin:3573:1008318302,payload_properties.txt:1008321933:156,apex_info.pb:1765:1157,care_map.pb:2969:557,metadata:69:680,metadata.pb:817:900                         ",
-      "sha1": "80953404f2a8dd0c64c0609f49683c9b949b6355",
-      "sha256": "7f5d17851049104714957914d955c8c60c0d0362b6a343fafa103bc3b39d9ba3",
-      "size": 1008325084,
+      "ota_property_files": "payload_metadata.bin:3573:144688,payload.bin:3573:1008336676,payload_properties.txt:1008340307:156,apex_info.pb:1765:1157,care_map.pb:2969:557,metadata:69:680,metadata.pb:817:900                         ",
+      "sha1": "54384a4b2870417cfbd1701fab15af65fa6b7bf1",
+      "sha256": "40f507562208b03be357bab1a52fddbf70795709338c2ea5f805c7ea9bdcda0e",
+      "size": 1008343458,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260804/lineage-22.2-20260804-nightly-akatsuki-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260811/lineage-22.2-20260811-nightly-akatsuki-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/akatsuki/20260804/boot.img",
-      "sha1": "af2e69899ab1cedece46ddb1f333597987c43530",
-      "sha256": "e6d4ff06aa67c48b7129cead39d8639056891722c267a870a73399a78577b083",
+      "filepath": "/full/akatsuki/20260811/boot.img",
+      "sha1": "82505b2a4daead9bfafeee30ea23d0550b5e9059",
+      "sha256": "46190057c3ff15b60a4124acc38ee324a16217108129c928fc011076675c0448",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260811/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/akatsuki/20260804/dtbo.img",
-      "sha1": "69de9d6fbe8c49b09fe34e46d22d9fe6424aaa62",
-      "sha256": "713a25b187b20bc89c007103919abe0aa91885f07d236e5246ec4971b38ea6ee",
+      "filepath": "/full/akatsuki/20260811/dtbo.img",
+      "sha1": "4f9a8c68972c61aad799646e02b7ec16325f5d69",
+      "sha256": "2d1551861ce84fbc9a71580de4a2cf5c51d27e546fbbef5d63ea7ed248302b7c",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260804/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260811/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/akatsuki/20260804/vbmeta.img",
-      "sha1": "778c4f2c91d07d1680e32df718b1fe7bc883ae1e",
-      "sha256": "bcc68d56eefd22dc5e9fdeb000f67097ff7bb4fe91b28714040c69b956298b83",
+      "filepath": "/full/akatsuki/20260811/vbmeta.img",
+      "sha1": "36e90c4cba168597865049fcf1b640f37514c902",
+      "sha256": "a0b294179856bfdda8a30452b12db28f91afd5a38bd80348ce7db0fd4405b0a8",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260804/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260811/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/akatsuki/20260811/build-manifest.xml",
+      "sha1": "cc29858f5ddc24393b7e01490f06e3508a117847",
+      "sha256": "ebf95c19c913686203a1fa4568830041ac1480e22719686d3a466e7a3bfe081f",
+      "size": 284352,
+      "url": "https://mirrorbits.lineageos.org/full/akatsuki/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
