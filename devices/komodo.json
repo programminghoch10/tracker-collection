@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785830266,
+  "date": "2026-08-11",
+  "datetime": 1786431745,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785830266,
-      "filename": "lineage-23.2-20260804-nightly-komodo-signed.zip",
-      "filepath": "/full/komodo/20260804/lineage-23.2-20260804-nightly-komodo-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786431745,
+      "filename": "lineage-23.2-20260811-nightly-komodo-signed.zip",
+      "filepath": "/full/komodo/20260811/lineage-23.2-20260811-nightly-komodo-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4784:151976,payload.bin:4784:1593433526,payload_properties.txt:1593438368:156,apex_info.pb:2024:1632,care_map.pb:3703:1034,metadata:69:671,metadata.pb:808:1168                        ",
-      "sha1": "e79b58444e058e2bbcba099834ae3c308de628ee",
-      "sha256": "a503b3de1ec01f6bea57a32ead117ac367bd594ae90b3059ed1241ff0150d623",
-      "size": 1593441515,
+      "ota_property_files": "payload_metadata.bin:4784:151976,payload.bin:4784:1593448051,payload_properties.txt:1593452893:156,apex_info.pb:2024:1632,care_map.pb:3703:1034,metadata:69:671,metadata.pb:808:1168                        ",
+      "sha1": "5693552b4baeb787b25cb2bb73e560101e0fc262",
+      "sha256": "1720c910de52f80cf087e33500dfd5b3d3365753287e1304b528b6506197a869",
+      "size": 1593456040,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/lineage-23.2-20260804-nightly-komodo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/lineage-23.2-20260811-nightly-komodo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/komodo/20260804/boot.img",
-      "sha1": "34ebae58f08d58c9abc19b46b205f1a37f111a6b",
-      "sha256": "3e8f916c84c5aaa0503733d2f2e9a248afeae4bbbedc93daa6675b8a6cb3bac3",
+      "filepath": "/full/komodo/20260811/boot.img",
+      "sha1": "0f230c008a5deeabde23ef8a2bbe315f45180eb6",
+      "sha256": "037aeec05be6d6b2379b1e5227e3678ac752afff0a31e73ec57a6d420945ccbb",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/komodo/20260804/dtbo.img",
-      "sha1": "b1ac9df83fc1644aee96bd1a35e155e3029b862e",
-      "sha256": "18a6f6a9e63b241a48b05c0ea6bcfb5f1674894e7a3605bc28cb266c7e88a11d",
+      "filepath": "/full/komodo/20260811/dtbo.img",
+      "sha1": "7a078834ed2516f55f179153bbe20757185e609b",
+      "sha256": "ff18259bc900fa447bbe74a6509be0e40233dc88c5c2e11289ede59438e9650d",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/komodo/20260804/init_boot.img",
-      "sha1": "97d81736df655ba5bcdc4ecac1d3781037f8256e",
-      "sha256": "f9d2b5fb4e302dc599f8ad18785db35ca7d66982182019b7c2b78ddf4ce57a8f",
+      "filepath": "/full/komodo/20260811/init_boot.img",
+      "sha1": "7737f42cb319b56ed7ddb5e75f4933360c2a60ec",
+      "sha256": "748010c2664e12f529794563b143dbfae34358bb7825348ac09288f1d6e51a7b",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/komodo/20260804/super_empty.img",
+      "filepath": "/full/komodo/20260811/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/komodo/20260804/vbmeta.img",
-      "sha1": "1bdd804526bdee070385da8d348affb3e2402051",
-      "sha256": "b2f7b1e0c90f11c49d25653151800a1cf0747dd121cebb14776e524269bb0cdb",
+      "filepath": "/full/komodo/20260811/vbmeta.img",
+      "sha1": "050d45c0f0418980dbf45621b182b6b67b4e3400",
+      "sha256": "ba2c61f006e996de6134a96660d5fdb180bbe7e0c02e5fbadff7529d451df7ff",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/komodo/20260804/vendor_boot.img",
-      "sha1": "70edbd1ae46857bfe24bd4e7291c6943ba36dd1a",
-      "sha256": "d9731bf3cb32d4625fc9f7a07a09d9d78bd428b6f369edb648a85f1c1501d78d",
+      "filepath": "/full/komodo/20260811/vendor_boot.img",
+      "sha1": "27455524344666add4d4787aafd105ce60b6caf0",
+      "sha256": "6a3ce1169c766978d0bf9b789e3bb57a3295551cfd696067fee6a8caaf299815",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/komodo/20260804/vendor_kernel_boot.img",
-      "sha1": "819b3562943fd7078921cddfd7796b29c9ab65fb",
-      "sha256": "9a0e61280b85729ca17fbc342813900c575768f987c9a3529adb92cd757d2969",
+      "filepath": "/full/komodo/20260811/vendor_kernel_boot.img",
+      "sha1": "5b3dff529ae13f5c84fb01e6504bc2c23489e01e",
+      "sha256": "ec34a35b2bd08de322da098538c3b9897504758093fb9ed7c21d1935334333d2",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/komodo/20260804/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/vendor_kernel_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/komodo/20260811/build-manifest.xml",
+      "sha1": "42b46d8ecc7309724d61a593068015eeb3047453",
+      "sha256": "5b74bf3c8e7ea3b9b4232d8c03d71ba2b6d3d31da67a68fc0d34fb7593175cbf",
+      "size": 286212,
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
