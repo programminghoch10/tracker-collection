@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-04",
-  "datetime": 1785823793,
+  "date": "2026-08-11",
+  "datetime": 1786411507,
   "files": [
     {
-      "date": "2026-08-04",
-      "datetime": 1785823793,
-      "filename": "lineage-22.2-20260804-nightly-fajita-signed.zip",
-      "filepath": "/full/fajita/20260804/lineage-22.2-20260804-nightly-fajita-signed.zip",
+      "date": "2026-08-11",
+      "datetime": 1786411507,
+      "filename": "lineage-22.2-20260811-nightly-fajita-signed.zip",
+      "filepath": "/full/fajita/20260811/lineage-22.2-20260811-nightly-fajita-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3581:119050,payload.bin:3581:1078765226,payload_properties.txt:1078768865:156,apex_info.pb:1771:1157,care_map.pb:2975:559,metadata:69:681,metadata.pb:818:905                         ",
-      "sha1": "7e8d832abaef05e8170beb0a10ce1ffb46c49948",
-      "sha256": "0843f725cf9282d7fa269e0028cd863b461a40c1ae46ce42dcee6a5ea7c27dba",
-      "size": 1078772016,
+      "ota_property_files": "payload_metadata.bin:3581:119050,payload.bin:3581:1078766643,payload_properties.txt:1078770282:156,apex_info.pb:1771:1157,care_map.pb:2975:559,metadata:69:681,metadata.pb:818:905                         ",
+      "sha1": "c09fac3604df5d8ec1de16d2ab98c0b2c5d9b043",
+      "sha256": "f5c858a3dd1def9d9f80b104b614713135f960a3183eec67bbf7253261f861c9",
+      "size": 1078773433,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260804/lineage-22.2-20260804-nightly-fajita-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260811/lineage-22.2-20260811-nightly-fajita-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/fajita/20260804/boot.img",
-      "sha1": "436b7b6a81f48adb3c04a660f9bc81bac974bd74",
-      "sha256": "8ded03fd6ecb8fe14976b9de2bbb935e396d35e528257cd476ef35eb77920d6e",
+      "filepath": "/full/fajita/20260811/boot.img",
+      "sha1": "7bba1dbefa4cfcfd0e273efc614332914388129e",
+      "sha256": "2481f3c44f72446dbadc2fca897df4f771f1bbb142d86304f952c5f83c118aa8",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260804/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260811/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/fajita/20260804/dtbo.img",
-      "sha1": "965a30a4a1d330a51830376147d654a13597df6e",
-      "sha256": "537564ddb0e2dda61dba190c8bfae6fd9596a49d1d7cc73a84921bbf1bd2b3bd",
+      "filepath": "/full/fajita/20260811/dtbo.img",
+      "sha1": "7862d35165cb8718a618fa67de4e349e8143696b",
+      "sha256": "bc2598f5013d8d16e5fd24ecda140f95b1f71a2756e9b0f9959da2fbc3ecbc95",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260804/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260811/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/fajita/20260804/vbmeta.img",
-      "sha1": "e21751f088ce7a68482469443ee3de0f4e3c7f63",
-      "sha256": "df399ffbca1000a644a1eab20d9345c4f31a4ea5ab8a7d4d2c3178b6624a4304",
+      "filepath": "/full/fajita/20260811/vbmeta.img",
+      "sha1": "96d91acdcef7d48578e26aaf9532b678db5dba73",
+      "sha256": "d7111aab482de08d04f5325287685294dbae18240f05aeb49ec9ba5c4ce26a15",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/fajita/20260804/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260811/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/fajita/20260811/build-manifest.xml",
+      "sha1": "a6771c52ec8bd7b7c38830e69d315215a74da7da",
+      "sha256": "f42557396b500044dfcb667cd1c5a5e837b6c79cd91b434adf75380621a00fc3",
+      "size": 284340,
+      "url": "https://mirrorbits.lineageos.org/full/fajita/20260811/build-manifest.xml"
     }
   ],
   "type": "nightly",
