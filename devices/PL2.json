@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785890692,
+  "date": "2026-08-12",
+  "datetime": 1786497325,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785890692,
-      "filename": "lineage-22.2-20260805-nightly-PL2-signed.zip",
-      "filepath": "/full/PL2/20260805/lineage-22.2-20260805-nightly-PL2-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786497325,
+      "filename": "lineage-22.2-20260812-nightly-PL2-signed.zip",
+      "filepath": "/full/PL2/20260812/lineage-22.2-20260812-nightly-PL2-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:2878:124455,payload.bin:2878:932423680,payload_properties.txt:932426616:155,apex_info.pb:1674:1157,metadata:69:634,metadata.pb:771:855                  ",
-      "sha1": "2444d8d46d526abbe1018e00fb66d34b605f905f",
-      "sha256": "5d411b3f7e2f8ba2c964e2dc9a8f695a3099f9f6d1848909e5deac14c047b6a1",
-      "size": 932429703,
+      "ota_property_files": "payload_metadata.bin:2878:124455,payload.bin:2878:932417772,payload_properties.txt:932420708:155,apex_info.pb:1674:1157,metadata:69:634,metadata.pb:771:855                  ",
+      "sha1": "af18008631c769732ebc9539213b8e73acae9456",
+      "sha256": "ff68b8d563baa826e08263c4e2a336916b092fef29af22241d74758b0cc5a0c7",
+      "size": 932423795,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/PL2/20260805/lineage-22.2-20260805-nightly-PL2-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/PL2/20260812/lineage-22.2-20260812-nightly-PL2-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/PL2/20260805/boot.img",
-      "sha1": "65170a29d705cc4c0987f822b14c09b69ea640b1",
-      "sha256": "6e852674ba51473599743d5d688d8efc8a208db11fb48e4c785eb86640597901",
+      "filepath": "/full/PL2/20260812/boot.img",
+      "sha1": "e757f998f65f20a9a3f73fdc24501a756f43fdb6",
+      "sha256": "126c3479320b86324d325adab81f1e6e028c6ca50b3f6e4f61fe945e68af8691",
       "size": 31232000,
-      "url": "https://mirrorbits.lineageos.org/full/PL2/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/PL2/20260812/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/PL2/20260812/build-manifest.xml",
+      "sha1": "0a3ded40874ab6bf9806a9d7581a3612650d4123",
+      "sha256": "095532fc47f9b7a73251741fd998927924cd85703a92b5d93a986850f75035ca",
+      "size": 284090,
+      "url": "https://mirrorbits.lineageos.org/full/PL2/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
