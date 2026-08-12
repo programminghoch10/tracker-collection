@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785906130,
+  "date": "2026-08-12",
+  "datetime": 1786518643,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785906130,
-      "filename": "lineage-23.2-20260805-nightly-violet-signed.zip",
-      "filepath": "/full/violet/20260805/lineage-23.2-20260805-nightly-violet-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786518643,
+      "filename": "lineage-23.2-20260812-nightly-violet-signed.zip",
+      "filepath": "/full/violet/20260812/lineage-23.2-20260812-nightly-violet-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
       "ota_property_files": "metadata:69:328,metadata.pb:465:209                 ",
-      "sha1": "2eecee9c683b1ee0019485fbf14a0739a204de5b",
-      "sha256": "d05e16c3f8ec1fb8a839ba8e0254e14e8f05e9588a93b9efaa9dbd401c641d89",
-      "size": 1303405854,
+      "sha1": "7f74f5745a083ec637bb82e6c93f0f4b881b2d1b",
+      "sha256": "2ec4598954c66dc932c30405d94bb315a7ad28f3c27580676def18d0d82cb235",
+      "size": 1303252205,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/violet/20260805/lineage-23.2-20260805-nightly-violet-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20260812/lineage-23.2-20260812-nightly-violet-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/violet/20260805/boot.img",
-      "sha1": "5895fa4bce283132d8b40f17ebcea9dec3ca2743",
-      "sha256": "0dcd08a7af8b7b27bd95a194637260ed36edd6e452966f24d78f8a5a6ee87830",
+      "filepath": "/full/violet/20260812/boot.img",
+      "sha1": "a7aab2dd6212780a929e0a7eee918c872b73d692",
+      "sha256": "3115da2ac8b1899eb656d870a8fcc53e4a8382a2eefe8ae1a3e1c60e036dd1aa",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20260812/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/violet/20260805/dtbo.img",
-      "sha1": "94aca8cdb8a9402f0ad87d98efdc23f164568bda",
-      "sha256": "e05ecd142c99a28b88f51e117897fc72b18f82c84278f6b513ac7a3394eb26fa",
+      "filepath": "/full/violet/20260812/dtbo.img",
+      "sha1": "3ad58b6ac6bc883b6ee898f71e819952cd8ffbda",
+      "sha256": "137d6b2588f95226a97c1aeb1172de9f99cffdc816bf3ac9e67988b44d323294",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20260805/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20260812/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/violet/20260805/recovery.img",
-      "sha1": "639c78a8f321e3317e87bfce71e712b73fa76a50",
-      "sha256": "1b3aeee8d541267bfd57843fb86bd257dfa25bb73921604ff3a7181b7d7415df",
+      "filepath": "/full/violet/20260812/recovery.img",
+      "sha1": "47ab2076f090182d4b02e8649cb3ed02ffdfd0b5",
+      "sha256": "8cbcfc59ae8d8bcfba7b3a8ceabfceb437d06fe5ad21e0a78cae6cab6edd02c2",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20260805/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20260812/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/violet/20260805/super_empty.img",
+      "filepath": "/full/violet/20260812/super_empty.img",
       "sha1": "82e22fbd1b38d4e81cf5dee7bb39f5385fb57925",
       "sha256": "d9fdb36cf8d0bea380e1d8a4b23200ea45d4a4f1314b54647c1626ebdd4af6a4",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20260805/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20260812/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/violet/20260805/vbmeta.img",
-      "sha1": "ab5a544ee690c796ec22e05a61e5c73f993f03c9",
-      "sha256": "735626d0dfc2cdd5856e54cbf4da856e1797de431e6e9ea83170422871a5fc9c",
+      "filepath": "/full/violet/20260812/vbmeta.img",
+      "sha1": "9d5237f2929338c6fd660163909f3788a35f72e9",
+      "sha256": "a4f40cb682e6aedd66cf5f34d1f32ab823bbffee65e97c566ec7db2451cb3f47",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/violet/20260805/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/violet/20260812/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/violet/20260812/build-manifest.xml",
+      "sha1": "885827b8ae4e44f4faf3cf38fc02308fda460551",
+      "sha256": "861a8cbf7010d263427f56b2a84d61a1ef283a613e0d058279c06575df12cc24",
+      "size": 285948,
+      "url": "https://mirrorbits.lineageos.org/full/violet/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
