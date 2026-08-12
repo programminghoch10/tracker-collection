@@ -1,68 +1,76 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785894798,
+  "date": "2026-08-12",
+  "datetime": 1786500277,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785894798,
-      "filename": "lineage-23.2-20260805-nightly-garnet-signed.zip",
-      "filepath": "/full/garnet/20260805/lineage-23.2-20260805-nightly-garnet-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786500277,
+      "filename": "lineage-23.2-20260812-nightly-garnet-signed.zip",
+      "filepath": "/full/garnet/20260812/lineage-23.2-20260812-nightly-garnet-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4643:136848,payload.bin:4643:1619088880,payload_properties.txt:1619093581:156,apex_info.pb:2159:1279,care_map.pb:3485:1111,metadata:69:689,metadata.pb:826:1285                        ",
-      "sha1": "11e36d4e41fef7602bbf57959071e5ab3ab0dc2a",
-      "sha256": "0d4b0ae7678016edc32f861d9e3c506518cc0e137e89b58f7602e57058a8037b",
-      "size": 1619096728,
+      "ota_property_files": "payload_metadata.bin:4643:136849,payload.bin:4643:1619171193,payload_properties.txt:1619175894:156,apex_info.pb:2159:1279,care_map.pb:3485:1111,metadata:69:689,metadata.pb:826:1285                        ",
+      "sha1": "1cd9ae3d80c3f187259cf0085f422c7c5221760b",
+      "sha256": "02f0849abe7f6af0fec8faeda6584c0b7ece33bf4a3e2095f817cc0ea1486a05",
+      "size": 1619179041,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260805/lineage-23.2-20260805-nightly-garnet-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/lineage-23.2-20260812-nightly-garnet-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/garnet/20260805/boot.img",
-      "sha1": "35339ab05edd1545e6a2181ab758f562a47e7f38",
-      "sha256": "4e8e7f4bf1a30e7108951f755132efc6d6830f41d34f1fc9c56652f17c890544",
+      "filepath": "/full/garnet/20260812/boot.img",
+      "sha1": "50425c994d10004b31a9419bb3c537e4c1796392",
+      "sha256": "5bb795da64a1617f0d0713f5a0d79f1ec8aa1a9746a6ccd46a0b1a43773603e1",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/garnet/20260805/dtbo.img",
-      "sha1": "823ed1008c31a613112df501a847e040e226d72a",
-      "sha256": "18eaf000c248b7bc1609a7c737164e25b6f4f62d66b6d6181f6fbea16497e50c",
+      "filepath": "/full/garnet/20260812/dtbo.img",
+      "sha1": "b3e2eaf1087e4a4070c6da1174e5d39f5176cf1c",
+      "sha256": "78eff2a55fdabcb60fb99b04d8927af988ae9425a019b26c2559f4acec94cc09",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260805/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/garnet/20260805/recovery.img",
-      "sha1": "bb6fcbce363e98a128fdc8c8714133238ba0e569",
-      "sha256": "426efe89a42e2772ac4ce82ebe5b2f53f02dfc4e59bd836565f67f2a5054a6c8",
+      "filepath": "/full/garnet/20260812/recovery.img",
+      "sha1": "9af90a9a6a9b3520ca21ab0bc73a86749b8fca57",
+      "sha256": "565afff8613ca0919bf23415a40f332458b4a63c81bc9073908222f2f5c56713",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260805/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/garnet/20260805/super_empty.img",
+      "filepath": "/full/garnet/20260812/super_empty.img",
       "sha1": "a898e8440578de5187016891d2db0aef88cd07b0",
       "sha256": "9df53e398531e77a5ca2709f312696b93fc9e6da98f60e4345128c92f59c96ac",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260805/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/garnet/20260805/vbmeta.img",
-      "sha1": "0761dbf4e7bb69148f423f8730b49178e7b09ef8",
-      "sha256": "e179a9e14718634eefd55e4df93d5dff15acd6054a4abee691fd325af0383a2f",
+      "filepath": "/full/garnet/20260812/vbmeta.img",
+      "sha1": "17f3654517bf0fc4c703524d1e33bd41cf13bae6",
+      "sha256": "1f710519bd2916740b15c88d8e3cf2d6545341d03699702c5c8da24dc53d50cc",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260805/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/garnet/20260805/vendor_boot.img",
-      "sha1": "d4b4f2e833f816c8c4e3ab246e148b726927a129",
-      "sha256": "fd7470e8ad385a18b5ecb4cd2a29e54f26ba9789fc75501411e21d834cd61caa",
+      "filepath": "/full/garnet/20260812/vendor_boot.img",
+      "sha1": "591415382417d8698a217f01cadcf6c1af6017f8",
+      "sha256": "9990e256496683f404ffbaba7140afbc567bb24db5cdc0836f94651dcae2a26f",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20260805/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/garnet/20260812/build-manifest.xml",
+      "sha1": "c1c0a323985348ab7d3d0104a759c638a42e09f5",
+      "sha256": "02acf2efe41b13ef3a8ab41ad7119a7b6f334f2b6a106dd43bb47ec06c865148",
+      "size": 286214,
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
