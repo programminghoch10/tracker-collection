@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785912048,
+  "date": "2026-08-12",
+  "datetime": 1786520798,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785912048,
-      "filename": "lineage-22.2-20260805-nightly-nash-signed.zip",
-      "filepath": "/full/nash/20260805/lineage-22.2-20260805-nightly-nash-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786520798,
+      "filename": "lineage-22.2-20260812-nightly-nash-signed.zip",
+      "filepath": "/full/nash/20260812/lineage-22.2-20260812-nightly-nash-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:2770:156409,payload.bin:2770:902043825,payload_properties.txt:902046653:155,apex_info.pb:1566:1157,metadata:69:605,metadata.pb:742:776                  ",
-      "sha1": "7558b18aa047c1396649da5c116b171970c757de",
-      "sha256": "e8c54940bec6b7f7112ec565bc917e5361cf6204ec29afe0c03d03dd67f60e22",
-      "size": 902049740,
+      "ota_property_files": "payload_metadata.bin:2770:156409,payload.bin:2770:902035045,payload_properties.txt:902037873:155,apex_info.pb:1566:1157,metadata:69:605,metadata.pb:742:776                  ",
+      "sha1": "4c9649a6c61dbaeb5b0f639d55057db9dbd58c0c",
+      "sha256": "6df2a483f354a6cefcbc506c15475f66258b35a2b6e9cdb5f18418aade03785a",
+      "size": 902040960,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/nash/20260805/lineage-22.2-20260805-nightly-nash-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/nash/20260812/lineage-22.2-20260812-nightly-nash-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/nash/20260805/boot.img",
-      "sha1": "c95ab052753b56b9ffdf7bd886936c41bda5a00a",
-      "sha256": "c828cc432996a10e2ed984f9485c36926f37dea4402097772301ee3cc4d7b06e",
+      "filepath": "/full/nash/20260812/boot.img",
+      "sha1": "460e3a473670156e16fb45444bda9f4a06e889f5",
+      "sha256": "59d25d3e7af383dd0ec7e86e40aedb152dee46034d7a73446c8c54747d1eddf1",
       "size": 33021952,
-      "url": "https://mirrorbits.lineageos.org/full/nash/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/nash/20260812/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/nash/20260812/build-manifest.xml",
+      "sha1": "8659698473e249025754fbfd5d457b2e635520df",
+      "sha256": "303c2558c9e8e24e402d8120f35629c5402e5a38447887f6cddf3d89d8c57858",
+      "size": 284574,
+      "url": "https://mirrorbits.lineageos.org/full/nash/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
