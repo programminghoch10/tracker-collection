@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785908082,
+  "date": "2026-08-12",
+  "datetime": 1786497399,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785908082,
-      "filename": "lineage-23.2-20260805-nightly-Spacewar-signed.zip",
-      "filepath": "/full/Spacewar/20260805/lineage-23.2-20260805-nightly-Spacewar-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786497399,
+      "filename": "lineage-23.2-20260812-nightly-Spacewar-signed.zip",
+      "filepath": "/full/Spacewar/20260812/lineage-23.2-20260812-nightly-Spacewar-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4505:124357,payload.bin:4505:1321183065,payload_properties.txt:1321187628:156,apex_info.pb:2089:1279,care_map.pb:3415:1043,metadata:69:680,metadata.pb:817:1224                        ",
-      "sha1": "404fcc7132977ee4d2bb4a0c7f1ec4900bd55496",
-      "sha256": "2f46134b662c32d3f7b6bb11639ca20054ae07bd90884d560201ed938906f53b",
-      "size": 1321190775,
+      "ota_property_files": "payload_metadata.bin:4505:124357,payload.bin:4505:1321188411,payload_properties.txt:1321192974:156,apex_info.pb:2089:1279,care_map.pb:3415:1043,metadata:69:680,metadata.pb:817:1224                        ",
+      "sha1": "f215bf16daf1987675c03eae36b539f9cd83fce9",
+      "sha256": "d44353548d293ca371d5a6913cb98ed3a72ee8d2c39ee598b17fca35f52f77e8",
+      "size": 1321196121,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260805/lineage-23.2-20260805-nightly-Spacewar-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260812/lineage-23.2-20260812-nightly-Spacewar-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/Spacewar/20260805/boot.img",
-      "sha1": "9b6f5fa4d4f606a56e821d4bca7f966b42934748",
-      "sha256": "e9c6b355f9831856951a0bc594874e45e49a10bb97a54dc20ef7d80f1d541c22",
+      "filepath": "/full/Spacewar/20260812/boot.img",
+      "sha1": "336607bdcfb60bfa7cdbb06599ad83a6b48bc661",
+      "sha256": "d03f5bb62fa49c7005b63bb713364240fec95b98bb5dfcb9b09d0fed1f1515d4",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260812/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/Spacewar/20260805/dtbo.img",
-      "sha1": "4aad9151c7241721ca4c2e294a66172d696a2a34",
-      "sha256": "19cb01a9714afd3e4b300593bcd79f9a3922f5285837787992f1749d2f513f9d",
+      "filepath": "/full/Spacewar/20260812/dtbo.img",
+      "sha1": "f0451f54171a544a69bb780395c95fcffde0b1e5",
+      "sha256": "9b02b17c97edd8c179ef38bcf715d5c471b775d3f8b927fd8601c2af9cedf053",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260805/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260812/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/Spacewar/20260805/super_empty.img",
+      "filepath": "/full/Spacewar/20260812/super_empty.img",
       "sha1": "3e61e948cb835fab33827a65114a11fd6f24f789",
       "sha256": "25bb9897eb877f0db36c4aa94e6393e64c9181959c81c51389e45e12f482a622",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260805/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260812/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/Spacewar/20260805/vbmeta.img",
-      "sha1": "96a0b8370222cc0dd3711ffbc47b59b72afba08e",
-      "sha256": "802d70942a6f269c2d0b2eb2af0941430538d5592df481d7e79fd577b3894e71",
+      "filepath": "/full/Spacewar/20260812/vbmeta.img",
+      "sha1": "8b0575ad674a85e9905e7bd322e0e21fa9f3891b",
+      "sha256": "b34d7278dd07f3b94aa61d5a986e89f2e216c72759176b21488e56f9ce7dca94",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260805/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260812/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/Spacewar/20260805/vendor_boot.img",
-      "sha1": "0c178a42a3435381d65020512b9101ae4d497fe8",
-      "sha256": "c5a686fa1c1411f0160f7d773d220a97f376b2820b1d917c1f757de1548ac064",
+      "filepath": "/full/Spacewar/20260812/vendor_boot.img",
+      "sha1": "b6b2bbf66ad94612c5fc31f4c622c19e13159d10",
+      "sha256": "481079eb268437b0e6154e2ef19c79dd0ed490f29d0e347765220f5c0237be45",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260805/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260812/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/Spacewar/20260812/build-manifest.xml",
+      "sha1": "8b35be24a566d7ec54070ef120fed64715d2faf7",
+      "sha256": "0ee1cf713fb95f2f0c69644d72f4af31fbd3437317b00f9b2411234900800595",
+      "size": 285704,
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
