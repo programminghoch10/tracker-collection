@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785903764,
+  "date": "2026-08-12",
+  "datetime": 1786518829,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785903764,
-      "filename": "lineage-23.2-20260805-nightly-ginkgo-signed.zip",
-      "filepath": "/full/ginkgo/20260805/lineage-23.2-20260805-nightly-ginkgo-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786518829,
+      "filename": "lineage-23.2-20260812-nightly-ginkgo-signed.zip",
+      "filepath": "/full/ginkgo/20260812/lineage-23.2-20260812-nightly-ginkgo-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
       "ota_property_files": "metadata:69:340,metadata.pb:477:229                 ",
-      "sha1": "54595da21502992fe11a7b60ce04e4c60133b8c0",
-      "sha256": "c157dd6827b64a8d2409efe41684c897ed57e3107f1e096e95a37295584cf8cd",
-      "size": 1250091347,
+      "sha1": "608c7f189d62656c283d3c7c1d4dd546d8d06a4c",
+      "sha256": "0f015a3f72cb89d1daa3e26cf94f1abc9a4069a4dbd61e1199e91e99c64c0bad",
+      "size": 1250174642,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260805/lineage-23.2-20260805-nightly-ginkgo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260812/lineage-23.2-20260812-nightly-ginkgo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/ginkgo/20260805/boot.img",
-      "sha1": "eb0759418d2bf2759c44212ce23f77f498f17de5",
-      "sha256": "7efd1f111d61668c070dc298b6f2108e7e5ea353d403dd693e460afe4589880c",
+      "filepath": "/full/ginkgo/20260812/boot.img",
+      "sha1": "052edaf7ff8f685797f8bfffbef5f56931a7c111",
+      "sha256": "a512883787d4a7278b53fb398d68196aabb7ffa9f4fb704cdca95294df717df0",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260812/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/ginkgo/20260805/dtbo.img",
+      "filepath": "/full/ginkgo/20260812/dtbo.img",
       "sha1": "50f35ea61c2d9dbb156d91be5cab667f2ccfe32c",
       "sha256": "204fbc2ae49ec1f517da99138ca225a762091f6d5708738146d49582c8f298ea",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260805/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260812/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/ginkgo/20260805/recovery.img",
-      "sha1": "78187ed0320e08f151e16713de9fd45ec36c04b2",
-      "sha256": "23b2138a9fa9e847a11039791ca10e93ad09747f316cc3a4ccdedd3a9f71c016",
+      "filepath": "/full/ginkgo/20260812/recovery.img",
+      "sha1": "45d47d23cb1ea30aaf9f6360a65b40556525ae59",
+      "sha256": "91b7fc7635746fbaf561e54c535dafb919e7ae2ef2eccd5502e332331f9fd1c7",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260805/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260812/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/ginkgo/20260805/vbmeta.img",
-      "sha1": "0f1008ea1be1eac9eb2ce2265445e2471ed314bc",
-      "sha256": "fd9742d85ea7aae3b3a309be1c8cf6cb7bc8ae1c1e148079323a4948f3b34794",
+      "filepath": "/full/ginkgo/20260812/vbmeta.img",
+      "sha1": "f3101070c73dec25837c1ca079f7142467fd6698",
+      "sha256": "4d760a5d95a77cdcc9c823de2f270e9ce692b8870b6e22f7a2d752459ca93592",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260805/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260812/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/ginkgo/20260812/build-manifest.xml",
+      "sha1": "f85551e341f745d145dddee3946bedcfbc8fa1df",
+      "sha256": "0a97e75f0839fbd5d45f98593b27d3587fd175320fc4bbed21b13f7aa318bbe4",
+      "size": 285948,
+      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
