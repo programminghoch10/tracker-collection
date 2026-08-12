@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785888898,
+  "date": "2026-08-12",
+  "datetime": 1786499928,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785888898,
-      "filename": "lineage-23.2-20260805-nightly-tangorpro-signed.zip",
-      "filepath": "/full/tangorpro/20260805/lineage-23.2-20260805-nightly-tangorpro-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786499928,
+      "filename": "lineage-23.2-20260812-nightly-tangorpro-signed.zip",
+      "filepath": "/full/tangorpro/20260812/lineage-23.2-20260812-nightly-tangorpro-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4790:139225,payload.bin:4790:1372370899,payload_properties.txt:1372375747:156,apex_info.pb:2096:1514,care_map.pb:3657:1086,metadata:69:680,metadata.pb:817:1231                        ",
-      "sha1": "72b6c4081eee3c3d554d79a3b94c66f88eb3761e",
-      "sha256": "21bd428dc62b9021ae8bc446f0d71ca86baa407bc6853bea6f764e534f380024",
-      "size": 1372378894,
+      "ota_property_files": "payload_metadata.bin:4790:139225,payload.bin:4790:1372370775,payload_properties.txt:1372375623:156,apex_info.pb:2096:1514,care_map.pb:3657:1086,metadata:69:680,metadata.pb:817:1231                        ",
+      "sha1": "925e885c9185f28dd4369d8ba594e8b2e1bc9e31",
+      "sha256": "5dab2d9001b23a1057b5ed75d21d03daea327bc7de5d50c5d80ac9d59ee2f0c7",
+      "size": 1372378770,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/lineage-23.2-20260805-nightly-tangorpro-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/lineage-23.2-20260812-nightly-tangorpro-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tangorpro/20260805/boot.img",
-      "sha1": "f5e41c12e2165e7d271f37190e82b258be063814",
-      "sha256": "32dfbebe7166ca989b567991ef28f1caaf96ad4cd5589795136eb5ad7aa6ea7b",
+      "filepath": "/full/tangorpro/20260812/boot.img",
+      "sha1": "257a29c2179e2c639edd7403fed0397c27ba0291",
+      "sha256": "03d60598e75d5c5692d251c31496b0e77c85c12e3281fd83c747296387d108ae",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tangorpro/20260805/dtbo.img",
-      "sha1": "d6f9fd35df28e8b1d780bb342ea7f631ae25ad47",
-      "sha256": "ab3163be824737e0fbf3cbf4a79f0f93bb50e1bb4e99aaf3178a08188a1c5b22",
+      "filepath": "/full/tangorpro/20260812/dtbo.img",
+      "sha1": "ca7a36ed7cbd421a86aad0e0dbee827f18fcd12e",
+      "sha256": "4a67871f0e3d325064980b71691a75c714f56857a72a1c15a2aefacd0eb64e8f",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/tangorpro/20260805/init_boot.img",
-      "sha1": "9d30ca95ce8e3319afc228b9afc9bc3435a5e677",
-      "sha256": "d94122b6a273add2048e8054c70e43dc56962131be659f4b2b14a2dba0ab4b89",
+      "filepath": "/full/tangorpro/20260812/init_boot.img",
+      "sha1": "21ad7b09e8e333e6075ad9d736b03447b2b333be",
+      "sha256": "dfb77ce1fbf5afc394c547822c31d57f6bcfb9d88e050cb3b29d072b634e69af",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tangorpro/20260805/super_empty.img",
+      "filepath": "/full/tangorpro/20260812/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tangorpro/20260805/vbmeta.img",
-      "sha1": "3fc02d2adc00a518b2a686359b2dd49895a0aed4",
-      "sha256": "a63a70d99dca07e3536fb19afa3a0ba55fee3ad8d3db0cfa7b8becd2892d7dfa",
+      "filepath": "/full/tangorpro/20260812/vbmeta.img",
+      "sha1": "8529bc96b427fc88bf04b30a5ce41a08e75cdfe3",
+      "sha256": "5fd00178fc2f3e78834e6580a6979b5b72560b1377f1f8e5f9145708bb9c8b81",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/tangorpro/20260805/vendor_boot.img",
-      "sha1": "a18a7c706cbe59e524a02ed9b563bd1f2559292e",
-      "sha256": "1ee20531c7cdf9ab902ca02d3af542a8fab88b3705087ead5abeeaae6f7cfb9b",
+      "filepath": "/full/tangorpro/20260812/vendor_boot.img",
+      "sha1": "233390fd85dc97d6ab481e2d43dc4256273a7b9b",
+      "sha256": "bbed104521e9b90e51d1a17e81a78ee77cf0cbd0d7bafeca3e00c43797e81ba5",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/tangorpro/20260805/vendor_kernel_boot.img",
-      "sha1": "5e1bf37f182910fac46d990b01dc55a09705f85c",
-      "sha256": "b5ed20b9337f71e534c7c903f779ac3e90ffea7dff420e802ffeba480c995689",
+      "filepath": "/full/tangorpro/20260812/vendor_kernel_boot.img",
+      "sha1": "28c7757d9048cb9d5374cef2fd312eae1ef88cdf",
+      "sha256": "dd742ce7e414b47553ca59e3d34977a431f694d4b62cbde00c69286ceb2e7899",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260805/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/vendor_kernel_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/tangorpro/20260812/build-manifest.xml",
+      "sha1": "570138f9b2e282ecf082de9fd64e27c2ca3650fe",
+      "sha256": "e41e42a5fc0fb549521b4cee3fe72d1a56b446b7a2f6cdcb3ad7f476e6db4d57",
+      "size": 285976,
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
