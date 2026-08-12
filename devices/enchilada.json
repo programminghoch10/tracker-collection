@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-05",
-  "datetime": 1785897151,
+  "date": "2026-08-12",
+  "datetime": 1786501870,
   "files": [
     {
-      "date": "2026-08-05",
-      "datetime": 1785897151,
-      "filename": "lineage-22.2-20260805-nightly-enchilada-signed.zip",
-      "filepath": "/full/enchilada/20260805/lineage-22.2-20260805-nightly-enchilada-signed.zip",
+      "date": "2026-08-12",
+      "datetime": 1786501870,
+      "filename": "lineage-22.2-20260812-nightly-enchilada-signed.zip",
+      "filepath": "/full/enchilada/20260812/lineage-22.2-20260812-nightly-enchilada-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3561:119047,payload.bin:3561:1077159640,payload_properties.txt:1077163259:156,apex_info.pb:1755:1157,care_map.pb:2959:555,metadata:69:678,metadata.pb:815:892                         ",
-      "sha1": "4dacbc9310e6b4daa916f59cd05b1af9fce59377",
-      "sha256": "2d05d7577ac66812cf78c8b7c316cc7de6d8ef5c5b16a45e30dd89d121a8a4e3",
-      "size": 1077166410,
+      "ota_property_files": "payload_metadata.bin:3561:119047,payload.bin:3561:1077156946,payload_properties.txt:1077160565:156,apex_info.pb:1755:1157,care_map.pb:2959:555,metadata:69:678,metadata.pb:815:892                         ",
+      "sha1": "03ca00bae191621550327ea3e95f837ad84be113",
+      "sha256": "56b20e593c318b975067d09247d5d4b0ae2f6bbc4cc3ee9c9af2a269e315313b",
+      "size": 1077163716,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260805/lineage-22.2-20260805-nightly-enchilada-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260812/lineage-22.2-20260812-nightly-enchilada-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/enchilada/20260805/boot.img",
-      "sha1": "b57ec310a2d997733a7662db0d9988f7d670aa46",
-      "sha256": "ac851cd665fcc176fe1e38030fb59b198c8ac24e06a1455d4444a906341c8c6c",
+      "filepath": "/full/enchilada/20260812/boot.img",
+      "sha1": "47c7fde77c06016353d33d90334f8a197c26167c",
+      "sha256": "63d000af42835466d4bc0396e9a30fa9958f8396bbc8f2b8d8511159a249c887",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260805/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260812/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/enchilada/20260805/dtbo.img",
-      "sha1": "b492a12a98dcc80df00c5bdb23a64f634b96dc7d",
-      "sha256": "ddb1476ba8d2acfbd22647b67df38589a0cd333a7ce6f9650afac6be07646ab1",
+      "filepath": "/full/enchilada/20260812/dtbo.img",
+      "sha1": "4bfb39eaedb770df370b7bb5b0fc2499a70357b0",
+      "sha256": "ccaeb8d5eeb005001c73b7dda0b1a96493f8c5964bb5c51b2dcce9a6a62437c8",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260805/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260812/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/enchilada/20260805/vbmeta.img",
-      "sha1": "63bde3b752da4e4311c26eeefac0c252af0751e1",
-      "sha256": "ab1c311f843e19596d521cc5faba1e251f22d5ee3d24bfd92376be9cfd977e92",
+      "filepath": "/full/enchilada/20260812/vbmeta.img",
+      "sha1": "a507fbcabc7717d6b4118c43b235acf4a133fd12",
+      "sha256": "3b6a430fb61a05ea0598e4a6b3c0718850983e65fb2984630dc6486f99df1664",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260805/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260812/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/enchilada/20260812/build-manifest.xml",
+      "sha1": "6db4fc3d39510f3c53340899d71109c59090832d",
+      "sha256": "97e031305614892fc07b4297102a2918d4ecbacbdc313fc9ef469c8c08c702f6",
+      "size": 284346,
+      "url": "https://mirrorbits.lineageos.org/full/enchilada/20260812/build-manifest.xml"
     }
   ],
   "type": "nightly",
