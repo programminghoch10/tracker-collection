@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-06",
-  "datetime": 1785977570,
+  "date": "2026-08-13",
+  "datetime": 1786603928,
   "files": [
     {
-      "date": "2026-08-06",
-      "datetime": 1785977570,
-      "filename": "lineage-23.2-20260806-nightly-pioneer-signed.zip",
-      "filepath": "/full/pioneer/20260806/lineage-23.2-20260806-nightly-pioneer-signed.zip",
+      "date": "2026-08-13",
+      "datetime": 1786603928,
+      "filename": "lineage-23.2-20260813-nightly-pioneer-signed.zip",
+      "filepath": "/full/pioneer/20260813/lineage-23.2-20260813-nightly-pioneer-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:2905:107857,payload.bin:2905:917765873,payload_properties.txt:917768836:155,apex_info.pb:1579:1279,metadata:69:607,metadata.pb:744:787                  ",
-      "sha1": "30a7325ec2479df5c8a15d10cfb0f91e29b651a4",
-      "sha256": "9b4d7385acc712a8e85ec6a629297818ab911dd99dcf869e0c2281dd9719b7e3",
-      "size": 917771919,
+      "ota_property_files": "payload_metadata.bin:2905:107857,payload.bin:2905:917785824,payload_properties.txt:917788787:155,apex_info.pb:1579:1279,metadata:69:607,metadata.pb:744:787                  ",
+      "sha1": "a6b79ee80ebc5e9c5ab5c735bc457877e6b7e77a",
+      "sha256": "89aebdde0f4e33f92e1aa223c86f0ef6e5f7c503c8c7b2d607e1f86f4f465b9e",
+      "size": 917791870,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260806/lineage-23.2-20260806-nightly-pioneer-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260813/lineage-23.2-20260813-nightly-pioneer-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/pioneer/20260806/boot.img",
-      "sha1": "a5218455b8e65650f234398ff521a6c98eef6db2",
-      "sha256": "497a345eb48b7e679359c78b9afa758dd06aed738822c0f51f586ae44ec86e7e",
-      "size": 36229120,
-      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260806/boot.img"
+      "filepath": "/full/pioneer/20260813/boot.img",
+      "sha1": "997e5c31e9d85d313209579ee054ebf0ed6862fd",
+      "sha256": "3508abb419856c765c6ddfc767a24dcfa3c245c924a7ed79cf1afd12292f5cb9",
+      "size": 36233216,
+      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260813/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/pioneer/20260813/build-manifest.xml",
+      "sha1": "10dc1491c6eab279b4be0d22014344c40f9c1e59",
+      "sha256": "eb543239377a30154fa47a822003b9e821edacba659c0450c0295fe024e72165",
+      "size": 286690,
+      "url": "https://mirrorbits.lineageos.org/full/pioneer/20260813/build-manifest.xml"
     }
   ],
   "type": "nightly",
