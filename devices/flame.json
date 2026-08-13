@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-06",
-  "datetime": 1785983487,
+  "date": "2026-08-13",
+  "datetime": 1786591512,
   "files": [
     {
-      "date": "2026-08-06",
-      "datetime": 1785983487,
-      "filename": "lineage-23.2-20260806-nightly-flame-signed.zip",
-      "filepath": "/full/flame/20260806/lineage-23.2-20260806-nightly-flame-signed.zip",
+      "date": "2026-08-13",
+      "datetime": 1786591512,
+      "filename": "lineage-23.2-20260813-nightly-flame-signed.zip",
+      "filepath": "/full/flame/20260813/lineage-23.2-20260813-nightly-flame-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4148:130740,payload.bin:4148:1327147844,payload_properties.txt:1327152050:156,apex_info.pb:1903:1386,care_map.pb:3336:765,metadata:69:668,metadata.pb:805:1050                        ",
-      "sha1": "774833e378d27f1ef274668a670844066db58681",
-      "sha256": "844b271977f754e1271f37497048ef88b4f523f62f093d07ca01f6f7c50e6630",
-      "size": 1327155197,
+      "ota_property_files": "payload_metadata.bin:4148:130740,payload.bin:4148:1327132413,payload_properties.txt:1327136619:156,apex_info.pb:1903:1386,care_map.pb:3336:765,metadata:69:668,metadata.pb:805:1050                        ",
+      "sha1": "624a6fe829c1f5209d40131c5b11ac883a6c113f",
+      "sha256": "1f8013b051c2ae189e19ab4cdcf8271a53848ad7b8f87242510af59f156c3320",
+      "size": 1327139766,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/flame/20260806/lineage-23.2-20260806-nightly-flame-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/flame/20260813/lineage-23.2-20260813-nightly-flame-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/flame/20260806/boot.img",
-      "sha1": "b71121ae914a4eaf7affd9642fa1468fd00caf0d",
-      "sha256": "a8d28b44bfcfd9f64b20358599f83369aa429e2ad1b31261e18bd69650cdca5e",
+      "filepath": "/full/flame/20260813/boot.img",
+      "sha1": "9df7453f5b42a1533b594c7df7a115af25f2b9f5",
+      "sha256": "e264ef65fcf557156d0d8f0cec8a921123068df689a59b95c72956a246daa1b9",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/flame/20260806/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/flame/20260813/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/flame/20260806/dtbo.img",
-      "sha1": "b8f40f3352ca7aa1515888ca35992bc568f7ca89",
-      "sha256": "cddf7299d6c583d50542422a853e11da61906f0cbfd9e430713004b6a179823c",
+      "filepath": "/full/flame/20260813/dtbo.img",
+      "sha1": "d163b0bcb03b6836b73b34f42c199e655cac9c1b",
+      "sha256": "dccf361302636908ed2df2a36a129c95f163779f75a19fac7879f1b8c97ee68a",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/flame/20260806/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/flame/20260813/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/flame/20260806/super_empty.img",
+      "filepath": "/full/flame/20260813/super_empty.img",
       "sha1": "394e4849a848ac2bfe6e60b7c76035019f364bc4",
       "sha256": "12802f79aaeec9cd4a060ad35e394977b90f4dd94208876b16bc6ebf160d6f29",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/flame/20260806/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/flame/20260813/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/flame/20260806/vbmeta.img",
-      "sha1": "16edcfaa81367833f92309842908de22911d4e7c",
-      "sha256": "ea28d7373fda2fa18d14b635e78c78fc9aa00c2c4a1d0eb8eb781c6a240bbb19",
+      "filepath": "/full/flame/20260813/vbmeta.img",
+      "sha1": "a74f992666b58735769bb3af5230bc5f57673528",
+      "sha256": "8ce282860564f849e3f108de73e95f5377c016180070d6318a89964ec59f9cd6",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/flame/20260806/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/flame/20260813/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/flame/20260813/build-manifest.xml",
+      "sha1": "989da73b47f64a077247b10db81a0dcbca9674a5",
+      "sha256": "ade9d2a697b9f1aa6533d4e5b04e9227b78769d6d40a04b5f2632a7da5316c80",
+      "size": 285958,
+      "url": "https://mirrorbits.lineageos.org/full/flame/20260813/build-manifest.xml"
     }
   ],
   "type": "nightly",
