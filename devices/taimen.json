@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-06",
-  "datetime": 1786002361,
+  "date": "2026-08-13",
+  "datetime": 1786610969,
   "files": [
     {
-      "date": "2026-08-06",
-      "datetime": 1786002361,
-      "filename": "lineage-22.2-20260806-nightly-taimen-signed.zip",
-      "filepath": "/full/taimen/20260806/lineage-22.2-20260806-nightly-taimen-signed.zip",
+      "date": "2026-08-13",
+      "datetime": 1786610969,
+      "filename": "lineage-22.2-20260813-nightly-taimen-signed.zip",
+      "filepath": "/full/taimen/20260813/lineage-22.2-20260813-nightly-taimen-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3347:89435,payload.bin:3347:972271141,payload_properties.txt:972274546:154,apex_info.pb:1700:1191,care_map.pb:2938:362,metadata:69:662,metadata.pb:799:853                       ",
-      "sha1": "3aee5b4f947ab4e9b0e271e035c37f9cdfa9dc13",
-      "sha256": "ce723c31dfd9cd5b2808278b169694fcb1c3a51e2a178aaeb19590d13ffd3d77",
-      "size": 972277695,
+      "ota_property_files": "payload_metadata.bin:3347:89435,payload.bin:3347:972290896,payload_properties.txt:972294301:154,apex_info.pb:1700:1191,care_map.pb:2938:362,metadata:69:662,metadata.pb:799:853                       ",
+      "sha1": "f809f4e34bd6a107d7aa338cd549a7f44aa6e9c4",
+      "sha256": "62d04f0b70ff3ab4c7905a51b7df93f1523ac1ca82e75f11522677533b9c7388",
+      "size": 972297450,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260806/lineage-22.2-20260806-nightly-taimen-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260813/lineage-22.2-20260813-nightly-taimen-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/taimen/20260806/boot.img",
-      "sha1": "4423fbbc30c6562ebc08fd882e9ea55406da4d56",
-      "sha256": "6cec75fe96ba5e4c6b47fc2ec6fda6d813a1d9de2dd4a13f2b02e16e9ae12efe",
+      "filepath": "/full/taimen/20260813/boot.img",
+      "sha1": "3250d30fa045caadc4698bdc1f320a843e917ec1",
+      "sha256": "1692769284ba73105c093ef784db0d190b43e3128bf8466da568a26bf1bbb102",
       "size": 41943040,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260806/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260813/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/taimen/20260806/dtbo.img",
-      "sha1": "45d8136559189b719555689fc788f375f1dbb6b4",
-      "sha256": "610539706d0785704d1d1c004600d24cae7482dac7b0e6343c1ce992a162458e",
+      "filepath": "/full/taimen/20260813/dtbo.img",
+      "sha1": "3ea5ec58f787e58ee9531123bbca0f46cad06ce0",
+      "sha256": "b7d20222908ebf6590406f9d0614a4be63a5894709cb02878b801595e8481408",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260806/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260813/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/taimen/20260806/vbmeta.img",
-      "sha1": "b2a1b935ce195c5ac0338f0d2a4a4207171d0ae4",
-      "sha256": "190889112444313658b1389ee5949460cd24603e37df8bb2e45e89ea6e67f532",
+      "filepath": "/full/taimen/20260813/vbmeta.img",
+      "sha1": "807610325648b7718f160659f87bbaa76e2b19be",
+      "sha256": "095673346e6829ec66e00f6d79b2754a655d6b45c0ab5e590222cee996934188",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/taimen/20260806/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260813/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/taimen/20260813/build-manifest.xml",
+      "sha1": "780dff3f54ffd5798c1f328fa1d819cfd192c1d4",
+      "sha256": "bb71b27700a6da2bd645f70d095e11811b55121f8ed61a308e5166f73cfb860d",
+      "size": 284584,
+      "url": "https://mirrorbits.lineageos.org/full/taimen/20260813/build-manifest.xml"
     }
   ],
   "type": "nightly",
