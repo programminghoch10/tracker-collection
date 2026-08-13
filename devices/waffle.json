@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-06",
-  "datetime": 1785993032,
+  "date": "2026-08-13",
+  "datetime": 1786584351,
   "files": [
     {
-      "date": "2026-08-06",
-      "datetime": 1785993032,
-      "filename": "lineage-23.2-20260806-nightly-waffle-signed.zip",
-      "filepath": "/full/waffle/20260806/lineage-23.2-20260806-nightly-waffle-signed.zip",
+      "date": "2026-08-13",
+      "datetime": 1786584351,
+      "filename": "lineage-23.2-20260813-nightly-waffle-signed.zip",
+      "filepath": "/full/waffle/20260813/lineage-23.2-20260813-nightly-waffle-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5183:210719,payload.bin:5183:2739718143,payload_properties.txt:2739723384:156,apex_info.pb:2402:1370,care_map.pb:3819:1317,metadata:69:708,metadata.pb:845:1509                        ",
-      "sha1": "92376c0453a6ad1a3301db7b8a6e37ed4a932e1f",
-      "sha256": "045af52d9ead2ef192e287e0d1e7af976422fbdf4e32eed659187e25f3f65419",
-      "size": 2739726531,
+      "ota_property_files": "payload_metadata.bin:5183:210719,payload.bin:5183:2739641252,payload_properties.txt:2739646493:156,apex_info.pb:2402:1370,care_map.pb:3819:1317,metadata:69:708,metadata.pb:845:1509                        ",
+      "sha1": "840a99eeba729f1bfa8a34dd41f25f8dde95f1d1",
+      "sha256": "a9cbb155cc46b5cd8c15ff5d7cc75e1a2cb555ddcc1e825ef6987f5d1be752f4",
+      "size": 2739649640,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/lineage-23.2-20260806-nightly-waffle-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/lineage-23.2-20260813-nightly-waffle-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/waffle/20260806/boot.img",
-      "sha1": "dc32242e93075f7b0aae9e63022b7946b9212cf3",
-      "sha256": "f164f861e90312126ff97bf71f53f28a0db5bad26510e8cb3ba120ac43e99ac1",
+      "filepath": "/full/waffle/20260813/boot.img",
+      "sha1": "f16ec8a11df05c86ad4c87d2ebee908568c18c06",
+      "sha256": "651300eaf9ea0714c1bc2dd83b14bef456c2bc7a1fb76c4dee385ab152e66da5",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/waffle/20260806/dtbo.img",
-      "sha1": "018c8dbc82b754076acba7b45ec5b49e3d7ff013",
-      "sha256": "cf9a0f1f876573952539c71763d5cc669451ff5fa25e585f644cbec0b4d78afd",
+      "filepath": "/full/waffle/20260813/dtbo.img",
+      "sha1": "5354263ae6c220e8d1759fe62664e8502bbdf32c",
+      "sha256": "5b3ae8c0c1ac073b5b1014d65eacace976de3c246a0dbdb1ff659ae85a666258",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/waffle/20260806/init_boot.img",
-      "sha1": "4407eec616e512d37a0f35f43a4da1aac40d05ed",
-      "sha256": "2fe044b3d6a7d0bf077f79f8a07de5717252e84fc8ee4753a0d60d2dfa935ea0",
+      "filepath": "/full/waffle/20260813/init_boot.img",
+      "sha1": "7afca925f84295d698f6b341edbdbc13567c887c",
+      "sha256": "1c72ce053fb5648f1cc3f074fa72e40e603eb3f1bc2c218cde43df669be4c137",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/waffle/20260806/recovery.img",
-      "sha1": "d65cd6daf83dcfa2d40e4f002af85b6ed55cc629",
-      "sha256": "5237cf758d6de8e3aff79cd5b21d937ddd1fc7cc36bbe1ae15120355c9f2dba7",
+      "filepath": "/full/waffle/20260813/recovery.img",
+      "sha1": "b0a71975270cd4039e9b34cfec2f61b8a57d8d09",
+      "sha256": "39653ecde7b579a14e9ae13a359b3879275356a631afadf40045468508fad7c4",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/waffle/20260806/super_empty.img",
+      "filepath": "/full/waffle/20260813/super_empty.img",
       "sha1": "5cb8157f5693477a06516d5c3ce759c2fe0a6dcf",
       "sha256": "8b7edad224569e9cca48df7bf0c491e8e45727671d18e9a71a57d195fd3b0831",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/waffle/20260806/vbmeta.img",
-      "sha1": "8eae9f180e16451a3894ffaeae1111068ed10ce6",
-      "sha256": "d40637dae0255f5063c73360b02a98d53c0181c07a58a313ed466926b3926431",
+      "filepath": "/full/waffle/20260813/vbmeta.img",
+      "sha1": "937f0a7ed0baf7d1226de15cdcd52f0e1381ab40",
+      "sha256": "b3c3fbd797db0c06303d7a68f8c415402063471a3cf9a473632813bf4aa3725e",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/waffle/20260806/vendor_boot.img",
-      "sha1": "64362ad37b1c6e2f785f7f2d4a4eb9b8b77538f0",
-      "sha256": "7cca7f1b0ad5220de30833533fd9034b4ee997e660e958b0bd033851fb6b6605",
+      "filepath": "/full/waffle/20260813/vendor_boot.img",
+      "sha1": "fa5f15d041354a215cf6b964577f9bdfa7eac7b8",
+      "sha256": "4538bbb399265070c2eb20c8043e69460995b3931c51c16c1681b14e455434d4",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/waffle/20260806/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/waffle/20260813/build-manifest.xml",
+      "sha1": "6f729c2d1e3543aba1a9af29618e01ef927ce38e",
+      "sha256": "8bed09326ded1144c6c8801216cbc7c394b7436c7f822e662bad205b35f2ea8c",
+      "size": 286476,
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20260813/build-manifest.xml"
     }
   ],
   "type": "nightly",
