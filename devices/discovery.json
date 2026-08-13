@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-06",
-  "datetime": 1785986944,
+  "date": "2026-08-13",
+  "datetime": 1786585819,
   "files": [
     {
-      "date": "2026-08-06",
-      "datetime": 1785986944,
-      "filename": "lineage-23.2-20260806-nightly-discovery-signed.zip",
-      "filepath": "/full/discovery/20260806/lineage-23.2-20260806-nightly-discovery-signed.zip",
+      "date": "2026-08-13",
+      "datetime": 1786585819,
+      "filename": "lineage-23.2-20260813-nightly-discovery-signed.zip",
+      "filepath": "/full/discovery/20260813/lineage-23.2-20260813-nightly-discovery-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:2917:107859,payload.bin:2917:918271932,payload_properties.txt:918274907:155,apex_info.pb:1591:1279,metadata:69:609,metadata.pb:746:797                  ",
-      "sha1": "8bf286c5c5ca443768efb89653a298322add7979",
-      "sha256": "fdc41139e1425c9131b29514d1d4bea6e2c3ecbcb638ee3deb8578466d7b54c8",
-      "size": 918277990,
+      "ota_property_files": "payload_metadata.bin:2917:107859,payload.bin:2917:918286617,payload_properties.txt:918289592:155,apex_info.pb:1591:1279,metadata:69:609,metadata.pb:746:797                  ",
+      "sha1": "b52053ab0bbb3296d35ac3b6ea4dc9f3620d0ab4",
+      "sha256": "4f3cbc58c91fe0bb73b3ad671cea8dd746e7cacd46f1daa3ed45f1f9bcf8701c",
+      "size": 918292675,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/discovery/20260806/lineage-23.2-20260806-nightly-discovery-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/discovery/20260813/lineage-23.2-20260813-nightly-discovery-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/discovery/20260806/boot.img",
-      "sha1": "5b13f8ea01bbea357a596dc0f08ee733ccd16d5b",
-      "sha256": "f3817922a67b25515b3f20e50b84f9341c3922776f907adcc4bfca4b20f0a595",
+      "filepath": "/full/discovery/20260813/boot.img",
+      "sha1": "4a266c933bb1da9d1e2b7668c97acb52aa056e53",
+      "sha256": "c9e7359e36f147855c98949d4b2646c69143a03e46580a91ac66644797dcb499",
       "size": 36233216,
-      "url": "https://mirrorbits.lineageos.org/full/discovery/20260806/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/discovery/20260813/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/discovery/20260813/build-manifest.xml",
+      "sha1": "a50527edc0f8f8c3b2cd395c030dd13d2cc453ee",
+      "sha256": "0f809be9374cc9e266aa0e1dc054a14e93e638971e9f6269aa4b973c8939cffa",
+      "size": 286694,
+      "url": "https://mirrorbits.lineageos.org/full/discovery/20260813/build-manifest.xml"
     }
   ],
   "type": "nightly",
