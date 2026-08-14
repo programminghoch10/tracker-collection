@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786081737,
+  "date": "2026-08-14",
+  "datetime": 1786673905,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786081737,
-      "filename": "lineage-22.2-20260807-nightly-aura-signed.zip",
-      "filepath": "/full/aura/20260807/lineage-22.2-20260807-nightly-aura-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786673905,
+      "filename": "lineage-22.2-20260814-nightly-aura-signed.zip",
+      "filepath": "/full/aura/20260814/lineage-22.2-20260814-nightly-aura-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3495:138330,payload.bin:3495:1045076330,payload_properties.txt:1045079883:156,apex_info.pb:1701:1157,care_map.pb:2905:543,metadata:69:668,metadata.pb:805:848                         ",
-      "sha1": "8d02e9d6bef72f3d88e53d1d30bb823bbcc54d8c",
-      "sha256": "7d81e2a0c4aeb350ca02f51206f04ceb304a53f5780481544680ccc836b63929",
-      "size": 1045083034,
+      "ota_property_files": "payload_metadata.bin:3495:138330,payload.bin:3495:1045072714,payload_properties.txt:1045076267:156,apex_info.pb:1701:1157,care_map.pb:2905:543,metadata:69:668,metadata.pb:805:848                         ",
+      "sha1": "fffc6e1a0bde1a5a246dc03371b8a51a28eb383e",
+      "sha256": "d5a804047a510ef06f2ab74ed90d95509898609a8c8e6b962a4cab8a8f6ddebf",
+      "size": 1045079418,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/aura/20260807/lineage-22.2-20260807-nightly-aura-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/aura/20260814/lineage-22.2-20260814-nightly-aura-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/aura/20260807/boot.img",
-      "sha1": "3ecede66c969e9c4bc3bf954562abbd57412acdb",
-      "sha256": "b77b4e05d800235636207698910da6c361dadde6084f6c0a835cab59ed5e0897",
+      "filepath": "/full/aura/20260814/boot.img",
+      "sha1": "e8e1bb9ba626172cac91254067349d3ca9d30e2d",
+      "sha256": "7ba310e39fa16c1e8c776f26f7ded1cfd3dc070270146a4e7d3f8adc11fdc121",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/aura/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/aura/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/aura/20260807/dtbo.img",
-      "sha1": "e43d8259c4f88303297861af6e12f03e4ff28750",
-      "sha256": "b1534add81a368f0572bfe1ea4f77d299330c01a0c54f93f140b4791f6c41a65",
+      "filepath": "/full/aura/20260814/dtbo.img",
+      "sha1": "7ad369437783b872a86e18f23b4380836f55f7dd",
+      "sha256": "923a3f8a8692900dffa31a2faee44d543455e2082a4c28c6f1dc9f4056ca7556",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/aura/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/aura/20260814/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/aura/20260807/vbmeta.img",
-      "sha1": "8389ebd782951a057fbc95c49836709e80aa837a",
-      "sha256": "5c482ee6058863367b142e2fc4ed063ad42ac5e3bd8d7b19b90a80e3c6824e6e",
+      "filepath": "/full/aura/20260814/vbmeta.img",
+      "sha1": "50be7d74ebfc4fc841805352f62d1d91616fed11",
+      "sha256": "e78d0a36fa4eb42592256197dbe73b1bbc73befbdeda1766e95694dc46c45afe",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/aura/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/aura/20260814/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/aura/20260814/build-manifest.xml",
+      "sha1": "a1884a45ae9a370b0aa4841813b466e28e93ef46",
+      "sha256": "c31cc61c738963f2ba7a89a371b16b04f48777141f9d34ea29654f0a1da8e261",
+      "size": 283840,
+      "url": "https://mirrorbits.lineageos.org/full/aura/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
