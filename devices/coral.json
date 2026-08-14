@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786091028,
+  "date": "2026-08-14",
+  "datetime": 1786690842,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786091028,
-      "filename": "lineage-23.2-20260807-nightly-coral-signed.zip",
-      "filepath": "/full/coral/20260807/lineage-23.2-20260807-nightly-coral-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786690842,
+      "filename": "lineage-23.2-20260814-nightly-coral-signed.zip",
+      "filepath": "/full/coral/20260814/lineage-23.2-20260814-nightly-coral-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4148:130793,payload.bin:4148:1328397581,payload_properties.txt:1328401787:156,apex_info.pb:1903:1386,care_map.pb:3336:765,metadata:69:668,metadata.pb:805:1050                        ",
-      "sha1": "27be4e50ce376df567f15248f04b6d2efd0b7e76",
-      "sha256": "be6aa77a34b049fe73ffc7f901a44d50cfdc5c7980c7dba772986526a995e775",
-      "size": 1328404934,
+      "ota_property_files": "payload_metadata.bin:4148:130793,payload.bin:4148:1328390788,payload_properties.txt:1328394994:156,apex_info.pb:1903:1386,care_map.pb:3336:765,metadata:69:668,metadata.pb:805:1050                        ",
+      "sha1": "9306e1f3a992143b6d0bb42f7c08f9e2c38e1b05",
+      "sha256": "11cbf20c8fef7542295f134f1d749a14cab5d6068fa97c321c5245bd3b9f27cf",
+      "size": 1328398141,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260807/lineage-23.2-20260807-nightly-coral-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260814/lineage-23.2-20260814-nightly-coral-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/coral/20260807/boot.img",
-      "sha1": "088095b47fa539771aa95652e905e360f13b711b",
-      "sha256": "42d4c598b439d907b3841bf7a06de661501ba32a6bda41e6ddc733cad0d41339",
+      "filepath": "/full/coral/20260814/boot.img",
+      "sha1": "815f983d5c0f915eae84a5fe78e05e36d9a6a812",
+      "sha256": "07ded5c72f7161db95c4669a34a1e2b8a7516a80cd7cde5582492cc0c44bb2c7",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/coral/20260807/dtbo.img",
-      "sha1": "75f293c64184ce2565f77c401635c0dcc649ef60",
-      "sha256": "3c3aa3ec50bc369cee853e4033d42f2806528450652a1632bfa3761d3338afcc",
+      "filepath": "/full/coral/20260814/dtbo.img",
+      "sha1": "1d860fc8b0944042d222b3a01b4c0cc6b74a2777",
+      "sha256": "a4bb3ab02de0bd0ee0aeb1235f654bebe86beaa76ca0ad0871e6d6b53c5ea500",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260814/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/coral/20260807/super_empty.img",
+      "filepath": "/full/coral/20260814/super_empty.img",
       "sha1": "394e4849a848ac2bfe6e60b7c76035019f364bc4",
       "sha256": "12802f79aaeec9cd4a060ad35e394977b90f4dd94208876b16bc6ebf160d6f29",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/coral/20260807/vbmeta.img",
-      "sha1": "7ab312419de843b5842b034aff08ba1d46268892",
-      "sha256": "b3336bfa57776f418df68b23a29f53cd44924b01c41c90fe401bd92095371c29",
+      "filepath": "/full/coral/20260814/vbmeta.img",
+      "sha1": "b03b5d62761da9b02e160a934d3e79599be4c68f",
+      "sha256": "caa046493e9658c5d1ab927f989ce1977d1fe654f32d1d1677b3bb262d680489",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/coral/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260814/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/coral/20260814/build-manifest.xml",
+      "sha1": "48e8959fc5774640bd6cb5c0cbc35f77ed88473b",
+      "sha256": "5b2fc1c0a413f189e1c9370dd310c84d254f9240ed8e6b7d8a25b842690a0ad2",
+      "size": 285720,
+      "url": "https://mirrorbits.lineageos.org/full/coral/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
