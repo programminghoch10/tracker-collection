@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786103757,
+  "date": "2026-08-14",
+  "datetime": 1786678209,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786103757,
-      "filename": "lineage-23.2-20260807-nightly-peridot-signed.zip",
-      "filepath": "/full/peridot/20260807/lineage-23.2-20260807-nightly-peridot-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786678209,
+      "filename": "lineage-23.2-20260814-nightly-peridot-signed.zip",
+      "filepath": "/full/peridot/20260814/lineage-23.2-20260814-nightly-peridot-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5031:198919,payload.bin:5031:2468791584,payload_properties.txt:2468796673:156,apex_info.pb:2299:1370,care_map.pb:3716:1268,metadata:69:691,metadata.pb:828:1423                        ",
-      "sha1": "9b12814c3367fb83a540e3def8714136cad1671b",
-      "sha256": "8f41ac49db0d7093497bbabd041a48f5348b352cf665365f9fefcce9987cc22a",
-      "size": 2468799820,
+      "ota_property_files": "payload_metadata.bin:5031:198919,payload.bin:5031:2468789880,payload_properties.txt:2468794969:156,apex_info.pb:2299:1370,care_map.pb:3716:1268,metadata:69:691,metadata.pb:828:1423                        ",
+      "sha1": "8ca181725aadbff505be36503f793130ff12040c",
+      "sha256": "f419d2f18d22224d16343a1436f9e996fabecb9cf27604e5e1fd99abccbedf9d",
+      "size": 2468798116,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/lineage-23.2-20260807-nightly-peridot-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/lineage-23.2-20260814-nightly-peridot-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/peridot/20260807/boot.img",
-      "sha1": "bf206018659d00964277cf392d1c6877f704236a",
-      "sha256": "26afede38c3c756e34738cc54c9660ab34a1e57853e45182228d392c9372a41f",
+      "filepath": "/full/peridot/20260814/boot.img",
+      "sha1": "4aa13cc2f6e0e767aba47d7352616c5441c46829",
+      "sha256": "911a187c72228da2c2dc54f99a6779c031fa65cf438da7a51ac74e17345192df",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/peridot/20260807/dtbo.img",
-      "sha1": "290fbde508ac66401ef616c8b522c6b7649f97f8",
-      "sha256": "3ba5408edcac8d306a43c84d9d0b97b75ca77d8266a7235225e48cf10a2499db",
+      "filepath": "/full/peridot/20260814/dtbo.img",
+      "sha1": "6d3c414eecd4fd2f803bc43c05946715fca06c81",
+      "sha256": "d65ae128791a903ad05b87d1701b4ff1f5d2ec66a81d19349b2f003f08d5cf3c",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/peridot/20260807/init_boot.img",
-      "sha1": "3bb699097d2f578f54f8f1227b29c038abf25fe7",
-      "sha256": "eae6e919e5f35ff502c46e08884b2a7216e2012fc93d3a8f2e58b2ae75bf06f7",
+      "filepath": "/full/peridot/20260814/init_boot.img",
+      "sha1": "a2122a01c525ef2cfc788e85084c6884c0d0d9c6",
+      "sha256": "5e96d1afd6988cf2743cbe5519e8958399627c45677a230f90226866bf7c9cbf",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/peridot/20260807/recovery.img",
-      "sha1": "97376ea0a51c6d318f05e96b7c9b22829967a22e",
-      "sha256": "b9cdd6c7e28ff842a95fa8b350a4435d8a870bd2cd913665e16148b94d4be528",
+      "filepath": "/full/peridot/20260814/recovery.img",
+      "sha1": "d4a1651400f2a17046480330d070baec6aa32802",
+      "sha256": "98b67b258193d34f12c4d30acd70eb133ff2b5f1edd7fcdcf1763c26cb0d9b4b",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/peridot/20260807/super_empty.img",
+      "filepath": "/full/peridot/20260814/super_empty.img",
       "sha1": "a554ec2c41c21861da3b10379c0fe160f3e86e0d",
       "sha256": "76efe009e7dd21eeb178ba657ade86466bf6e2cb56448974e7915d40582bc305",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/peridot/20260807/vbmeta.img",
-      "sha1": "3328d00bd3a529bbb0d85fd3826bafc85e551060",
-      "sha256": "84ec8772837bb51be7e414b0e2e7ebba7063061cc8af9bf206cee6034356983c",
+      "filepath": "/full/peridot/20260814/vbmeta.img",
+      "sha1": "3d9f8a7f1d6771a384b517938f7a37b65cd852fd",
+      "sha256": "cf3776411ed6244f102674d7e93e5d7cdfb8844f283deb8591e6f107700239c3",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/peridot/20260807/vendor_boot.img",
-      "sha1": "39d93dc390f53e2ddc4bac039ea1b3eed7d9aa88",
-      "sha256": "39295c91ddd74f0b8f42e89527e9ee757e3521a6ba99af88184a6fe65abb6277",
+      "filepath": "/full/peridot/20260814/vendor_boot.img",
+      "sha1": "56714aa61bd4f7242ba9b3d92f911efa54fc8a2e",
+      "sha256": "edcc0dd23b401cd7753174e006335adbe63e3a5b6170f40cd745d6b366155217",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/peridot/20260807/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/peridot/20260814/build-manifest.xml",
+      "sha1": "428a1492c6b03c2010020666498a03ccc4cb9336",
+      "sha256": "846d3c83afb977265a271f790e3f72ca8f19688c9486892a9c38b330a2e60e00",
+      "size": 286216,
+      "url": "https://mirrorbits.lineageos.org/full/peridot/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
