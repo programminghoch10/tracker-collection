@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786064820,
+  "date": "2026-08-14",
+  "datetime": 1786700060,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786064820,
-      "filename": "lineage-23.2-20260807-nightly-zippo-signed.zip",
-      "filepath": "/full/zippo/20260807/lineage-23.2-20260807-nightly-zippo-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786700060,
+      "filename": "lineage-23.2-20260814-nightly-zippo-signed.zip",
+      "filepath": "/full/zippo/20260814/lineage-23.2-20260814-nightly-zippo-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
       "ota_property_files": "metadata:69:326,metadata.pb:463:206                 ",
-      "sha1": "298d228d3480c34026fbbfc0408a8fa072551ff5",
-      "sha256": "9c0b87e70abaec430a0ee5729b4f51f20bfe7e6515665a0953c92bdc8b7aa225",
-      "size": 1173841516,
+      "sha1": "2f45e7c75aaf133d72d9ef2f9d09c27f03c2b3be",
+      "sha256": "6111f060507df33747793a7a4699f1d5e42f15f1baa371895dac4b5ea8368fd8",
+      "size": 1173831341,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260807/lineage-23.2-20260807-nightly-zippo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260814/lineage-23.2-20260814-nightly-zippo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/zippo/20260807/boot.img",
-      "sha1": "d1a1ff4c5ca3fd5aba5a323b724e81735a4a0715",
-      "sha256": "9dce590cebf7e527fd82481db3685d9d1f0009d7f5438c86c699a9ec31312afb",
+      "filepath": "/full/zippo/20260814/boot.img",
+      "sha1": "98aa2d9474d88681ea292b2650c172bcbf9472af",
+      "sha256": "9f90bed54351d5ab56c9dabd0fe7f084762c47811dad5b9c07eefad480b5fb65",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/zippo/20260807/dtbo.img",
-      "sha1": "8f14819c7250cd96adf8976fb626154cf4758d87",
-      "sha256": "aa4588748757118cd26dcb60eb00b3dd7d40a06a27d8ed689f75a69fe0303f3f",
+      "filepath": "/full/zippo/20260814/dtbo.img",
+      "sha1": "f16c7eaab00cf31b74dbf23e0f20a2472eef6ab7",
+      "sha256": "58158f86948a7395a3d50ff78ed0fec1476cd53db4eae235b2ca4aee30d6329c",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260814/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/zippo/20260807/recovery.img",
-      "sha1": "3865d8e3af01d5d4f944a86961beb34bf8f69639",
-      "sha256": "7ad5b89732f07d5ae131d49239f757506384d19f6699a8da978b3fcb8cfc8e77",
+      "filepath": "/full/zippo/20260814/recovery.img",
+      "sha1": "d18b716f822362737126f957b33e1020f8b7c7ca",
+      "sha256": "3d5a59a84d9bbd8d6c8000cbf901cd4c5a9094508227ddb46047a7948e2ec112",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260807/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260814/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/zippo/20260807/super_empty.img",
+      "filepath": "/full/zippo/20260814/super_empty.img",
       "sha1": "33a1c89a927a21003a296412704eb7568561fad5",
       "sha256": "1e5e2ae2028fae23b8d433c9b29d309465af2a1df051feae2cf499b1e07fc2fc",
       "size": 4708,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/zippo/20260807/vbmeta.img",
-      "sha1": "288f54acb3126ce2963177b165111de5c6cc4b38",
-      "sha256": "3d9023b552ac464457a83335ed5370d7b3e6b20c342cc9827695e85bc6a8fdc9",
+      "filepath": "/full/zippo/20260814/vbmeta.img",
+      "sha1": "8e2246b03e1079532604f46fbc1e16ac3c887d02",
+      "sha256": "d8f0476930f60d5628a8d48a0acd43bda192eea0397eafd46b7256284245b004",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/zippo/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260814/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/zippo/20260814/build-manifest.xml",
+      "sha1": "92ddf620a45380f7cda9242a8985e4d86bb75e5f",
+      "sha256": "3529309d18d4b1d64273bafb6d519c920df324e3f913b2421a8ec7d824f52ca7",
+      "size": 285716,
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
