@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786103266,
+  "date": "2026-08-14",
+  "datetime": 1786677891,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786103266,
-      "filename": "lineage-23.2-20260807-nightly-lexus-signed.zip",
-      "filepath": "/full/lexus/20260807/lineage-23.2-20260807-nightly-lexus-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786677891,
+      "filename": "lineage-23.2-20260814-nightly-lexus-signed.zip",
+      "filepath": "/full/lexus/20260814/lineage-23.2-20260814-nightly-lexus-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5009:213091,payload.bin:5009:2900563904,payload_properties.txt:2900568971:156,apex_info.pb:2291:1370,care_map.pb:3708:1254,metadata:69:690,metadata.pb:827:1416                        ",
-      "sha1": "46a57cc3847a2d26f16698a874beb89d239c0714",
-      "sha256": "67c0c55ae51bc1538700c0952a2f70ed1e570d02ed1bd7094a36792124911b1b",
-      "size": 2900572118,
+      "ota_property_files": "payload_metadata.bin:5009:213091,payload.bin:5009:2900562480,payload_properties.txt:2900567547:156,apex_info.pb:2291:1370,care_map.pb:3708:1254,metadata:69:690,metadata.pb:827:1416                        ",
+      "sha1": "c53a1ba44a23d340e0d6950594bd41159ad5f7e0",
+      "sha256": "5004dd1b0528cda99371c10301c50b1f83349d6db782202930e47eaefd695878",
+      "size": 2900570694,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/lineage-23.2-20260807-nightly-lexus-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/lineage-23.2-20260814-nightly-lexus-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lexus/20260807/boot.img",
-      "sha1": "e90c5011fb1fef996015cd337c22577c4224b5e1",
-      "sha256": "7a9dc305d9dc84568211ee8d1432b7f0ebec376b8f46b871cbd2333835d7530d",
+      "filepath": "/full/lexus/20260814/boot.img",
+      "sha1": "fdbb8180dedf6ca982237f665d871edf5049a8be",
+      "sha256": "bf54a8b9cb95114c37348227574cffd44dd749c254c1e2a72492580bd130c431",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lexus/20260807/dtbo.img",
-      "sha1": "a0e7c038cf87c95bd812783a61249403749e7427",
-      "sha256": "11d4bba5f099e44f730f1587e340c03256b7fbf63ce1e2d107a4372101e080ee",
+      "filepath": "/full/lexus/20260814/dtbo.img",
+      "sha1": "a3c5acadf6e01dbdcd640065f2dc9d120ccc2eb3",
+      "sha256": "8e112c3d63f95b69b4d2e240f07e79c1f44ec6f494b94aa377dbd1f6eda0cd03",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/lexus/20260807/init_boot.img",
-      "sha1": "93d729c22d8da3a65bd233e7845cbb5b63959786",
-      "sha256": "bfd316701e7c4d636508167ad30173fc4bf5cde00e3ce329fa474a1346a117f4",
+      "filepath": "/full/lexus/20260814/init_boot.img",
+      "sha1": "0dd7471b5c050669a681c6302e4b4faeb0ffbfdb",
+      "sha256": "1bc09359291010b896a2ca060c28e1403437a652975841713eb378cf96923c07",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/lexus/20260807/recovery.img",
-      "sha1": "a4971b8d5f36d9d213596fe287d2ed3ee2ad3d1c",
-      "sha256": "6b9d9ba7536b4bf94cfc7408a8f0094d714f98b41323947b3b56400662b10381",
+      "filepath": "/full/lexus/20260814/recovery.img",
+      "sha1": "3f1357b2a840a71f0309827db73e1b511d0ebd2a",
+      "sha256": "d325c5ef01a7955a4867f9921ac7e05989f69a22f10e4275cf74a131f2a859f6",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lexus/20260807/super_empty.img",
+      "filepath": "/full/lexus/20260814/super_empty.img",
       "sha1": "27974cd2688bba37a41d32745ae58738daf1c188",
       "sha256": "5e96e040266c9539b11678d6abd9638c8bc04c459fbbfe2e5022567df4eced6d",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lexus/20260807/vbmeta.img",
-      "sha1": "c51429ebe0dee9605c7bcc6745d48d248fef2ce2",
-      "sha256": "46f5ef9ac479baac56dde2f334f80883683f4b9105b9a68574998d864e4d2b97",
+      "filepath": "/full/lexus/20260814/vbmeta.img",
+      "sha1": "e90f4d12ba5e12bc62f8250be94b0af264f5ba26",
+      "sha256": "2422e9793633b3de4295a6112e7c822d198c543a42afd2bd05d3e4263e41ef26",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lexus/20260807/vendor_boot.img",
-      "sha1": "b7b7575c7ba5e0f8a90439ba3eae00ab94233a46",
-      "sha256": "189e51953dff32c01f3efc3b799fdf1491c3b291e066e6baeaffc74102aa034c",
+      "filepath": "/full/lexus/20260814/vendor_boot.img",
+      "sha1": "8c77899b98b975bf59d03a5939aa4e9ac529576c",
+      "sha256": "c73dd22cde11b1a4393929f71e153976e39e27e3c9d06d7d6e2d114130afa271",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/lexus/20260807/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/lexus/20260814/build-manifest.xml",
+      "sha1": "2375ada028863f8b0262a4f2d688366979210b9b",
+      "sha256": "5dd4acca27285d0a4c7b6a9334b387e1eb5eb18fa8886a266e2dfb5671ddf83d",
+      "size": 286474,
+      "url": "https://mirrorbits.lineageos.org/full/lexus/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
