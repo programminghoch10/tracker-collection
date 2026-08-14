@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786068431,
+  "date": "2026-08-14",
+  "datetime": 1786683914,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786068431,
-      "filename": "lineage-22.2-20260807-nightly-vela-signed.zip",
-      "filepath": "/full/vela/20260807/lineage-22.2-20260807-nightly-vela-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786683914,
+      "filename": "lineage-22.2-20260814-nightly-vela-signed.zip",
+      "filepath": "/full/vela/20260814/lineage-22.2-20260814-nightly-vela-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
       "ota_property_files": "metadata:69:321,metadata.pb:458:200                 ",
-      "sha1": "767a67a155752b133df3f7868b5bae96264b9d07",
-      "sha256": "8a6d0b447e89481235acaeb4ffd3e26ecf37399b821f1eea53364d9117d07de7",
-      "size": 1239396955,
+      "sha1": "98d6482a4eb3c2b04225df8dafd0e888a7d255f9",
+      "sha256": "4a5a74b9067dec2afba29451faa9f88a58a06f0327325418053419986064361c",
+      "size": 1239485590,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260807/lineage-22.2-20260807-nightly-vela-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260814/lineage-22.2-20260814-nightly-vela-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/vela/20260807/boot.img",
-      "sha1": "48646cb3d7d5a63e681df8a3eb681eb53d2b05f9",
-      "sha256": "7a83d304730336900a51fef7325ba6350fd74fdd880373350914f31a5bd534e9",
+      "filepath": "/full/vela/20260814/boot.img",
+      "sha1": "68ad774b5bbf639df7fba8d13fe352d936f33f35",
+      "sha256": "96523da9afdfbf4361e845b3a4e3fd8fe2b8c6cf1a4d305165bc237b7a59dc6d",
       "size": 134217728,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/vela/20260807/dtbo.img",
-      "sha1": "fe9dac61eab9c4e37aa1623961c522e532bbd367",
-      "sha256": "e9592c245a49698702773ac86c1837fb4a8af38bdb0d8d87800aa8f4527bc676",
+      "filepath": "/full/vela/20260814/dtbo.img",
+      "sha1": "dd06a21dd278efac676206bc2ffc8f6101db15eb",
+      "sha256": "6ff92aeec792d774eed511ba208b39c1eba9de7372e9146936321c20b36172d5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260814/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/vela/20260807/recovery.img",
-      "sha1": "24140b10cb37ea48a6fcb82570081c01da570dc5",
-      "sha256": "ac736d7175af909464feb2c36cfa1db24020370b3fd6fc14e009fbf24c284281",
+      "filepath": "/full/vela/20260814/recovery.img",
+      "sha1": "7c617c35f8df3c56ce66d7d12eaedf44d56b7b94",
+      "sha256": "444560c67f5afc5a09d881f1a03d28d16c0be4adce2ca5567027e37d730dd493",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260807/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260814/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/vela/20260807/super_empty.img",
+      "filepath": "/full/vela/20260814/super_empty.img",
       "sha1": "c3fa809c333fb2b9ce98d2ee2e2525490d39e839",
       "sha256": "bacc830739789f2d169a8eda7e67b129cab5d8680c4f47cd43c427a6f0fdc678",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/vela/20260807/vbmeta.img",
-      "sha1": "267cfba0fd733f090c7b1e2538a7e16f85b58529",
-      "sha256": "21cd213498170f2cbd77ced7bf1c02da13f691263eaff5abcbb5d46ec7d1e91b",
+      "filepath": "/full/vela/20260814/vbmeta.img",
+      "sha1": "41bbdc5e36e15876a1d609b9af65842dbdff8ce3",
+      "sha256": "87ba8e2e2bbe824c518b8fd3671078a2629b74e7e226d268f8a343a6a7b7b60d",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/vela/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260814/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/vela/20260814/build-manifest.xml",
+      "sha1": "09c70fd82b9c1183bf1b377b961c11358abb6d3b",
+      "sha256": "e22d92f8e258a4b186500223852fbf46bec34841b168185ddfb0a6094636703d",
+      "size": 284328,
+      "url": "https://mirrorbits.lineageos.org/full/vela/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
