@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786061122,
+  "date": "2026-08-14",
+  "datetime": 1786671936,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786061122,
-      "filename": "lineage-23.2-20260807-nightly-kirin-signed.zip",
-      "filepath": "/full/kirin/20260807/lineage-23.2-20260807-nightly-kirin-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786671936,
+      "filename": "lineage-23.2-20260814-nightly-kirin-signed.zip",
+      "filepath": "/full/kirin/20260814/lineage-23.2-20260814-nightly-kirin-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:2898:107858,payload.bin:2898:918390283,payload_properties.txt:918393239:155,apex_info.pb:1572:1279,metadata:69:606,metadata.pb:743:781                  ",
-      "sha1": "92cff4c2e71db3abea45e9843415085cda7a2691",
-      "sha256": "ee02edba3360012405a34ee4a46e51e29b0161c71baa66b1aa942aeb37b87071",
-      "size": 918396322,
+      "ota_property_files": "payload_metadata.bin:2898:107858,payload.bin:2898:918392145,payload_properties.txt:918395101:155,apex_info.pb:1572:1279,metadata:69:606,metadata.pb:743:781                  ",
+      "sha1": "db67713cc561da40f87cf6136ec582add7003f93",
+      "sha256": "7b50c7205ade2307a65860398703ae7f9377770addc56cd0edb6740bce9711fd",
+      "size": 918398184,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/kirin/20260807/lineage-23.2-20260807-nightly-kirin-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/kirin/20260814/lineage-23.2-20260814-nightly-kirin-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/kirin/20260807/boot.img",
-      "sha1": "8362564a5455d71785d84108c8659da7f08635d3",
-      "sha256": "f4028a00fceb998c63b5163e49a8679c520ed6aaf4887a9c013b7bbe7751950c",
+      "filepath": "/full/kirin/20260814/boot.img",
+      "sha1": "1be725fd8082d91cb1ce1db8925977431cfb5b16",
+      "sha256": "92b79f8db69c1d59f1c9ed250313cbfe92d3077856eefbac74635697155fd59f",
       "size": 35954688,
-      "url": "https://mirrorbits.lineageos.org/full/kirin/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/kirin/20260814/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/kirin/20260814/build-manifest.xml",
+      "sha1": "d958aa15a62e767bc9a0dab92fe48439a2134369",
+      "sha256": "849d20fd4492e2c492c25cc56c5f52214d34b1137ca107dbff06697672708072",
+      "size": 286686,
+      "url": "https://mirrorbits.lineageos.org/full/kirin/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
