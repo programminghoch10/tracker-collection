@@ -1,44 +1,52 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786060919,
+  "date": "2026-08-14",
+  "datetime": 1786696577,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786060919,
-      "filename": "lineage-22.2-20260807-nightly-akari-signed.zip",
-      "filepath": "/full/akari/20260807/lineage-22.2-20260807-nightly-akari-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786696577,
+      "filename": "lineage-22.2-20260814-nightly-akari-signed.zip",
+      "filepath": "/full/akari/20260814/lineage-22.2-20260814-nightly-akari-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3540:144743,payload.bin:3540:1009818506,payload_properties.txt:1009822104:156,apex_info.pb:1747:1157,care_map.pb:2951:542,metadata:69:677,metadata.pb:814:885                         ",
-      "sha1": "5d1480f3f4c61030691196986d5a525c3014e5d9",
-      "sha256": "4eff859a738e8afcc018da1b6af543f0087429d49f836ea6f7908be15767c634",
-      "size": 1009825255,
+      "ota_property_files": "payload_metadata.bin:3540:144743,payload.bin:3540:1009797242,payload_properties.txt:1009800840:156,apex_info.pb:1747:1157,care_map.pb:2951:542,metadata:69:677,metadata.pb:814:885                         ",
+      "sha1": "ddfcc420b4f7ed21342122babf4de83a7263e4d9",
+      "sha256": "881c1c699c8a9aff44eec4b2771fe7f44e428d4a889c8c4acec4ba3ed1816073",
+      "size": 1009803991,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260807/lineage-22.2-20260807-nightly-akari-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260814/lineage-22.2-20260814-nightly-akari-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/akari/20260807/boot.img",
-      "sha1": "41138dc9d215f88057a9d68f5c5470c808382c05",
-      "sha256": "3b358caf8760242c3570280957940a347de3cdd9d5375ad734fd21b763c233d8",
+      "filepath": "/full/akari/20260814/boot.img",
+      "sha1": "0b9f09712f254b9f9e28da126a758c40e693edc4",
+      "sha256": "1cde9bd08d5569a36b5af89c42cd10a73bd40da70540f6be76eb3f7d195b1da4",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/akari/20260807/dtbo.img",
-      "sha1": "fee7efbb5fa31f8af25fc9cef3721f85de0fd631",
-      "sha256": "bceedc85a8a02bf5e7c19ddb17fcb701fc122e0aa86625e5a16bfe1851170369",
+      "filepath": "/full/akari/20260814/dtbo.img",
+      "sha1": "e4720c31c59ebd07a3b7f4befe02e745b69bad1c",
+      "sha256": "c2631bf2fb3df0f0a27ec238653050247187e222d9c001fd57aa9497dcbf59df",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260814/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/akari/20260807/vbmeta.img",
-      "sha1": "3cd8825c7ad663df1b1b42e028fe1f90b7c374c2",
-      "sha256": "d47ee5694123ddb3d9778606d5f9647212dbb8d7ad576af347988c1962a05387",
+      "filepath": "/full/akari/20260814/vbmeta.img",
+      "sha1": "1af2d667635d5e886add72cd5847af8bf5bd2af6",
+      "sha256": "b5d46b6bb80f99acad4bcea4b7fa53c167a61f17f90131d15e26927f8f42b1c8",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/akari/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260814/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/akari/20260814/build-manifest.xml",
+      "sha1": "281a35c94fa96f84aa82510ff9f1d77b65bf08d3",
+      "sha256": "07ee7babf510377c85f7cc2f008cb2c3711eb0df7a1a12ee4a41b55abe2458a0",
+      "size": 284346,
+      "url": "https://mirrorbits.lineageos.org/full/akari/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
