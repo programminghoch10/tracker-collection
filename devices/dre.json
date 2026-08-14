@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786066893,
+  "date": "2026-08-14",
+  "datetime": 1786691875,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786066893,
-      "filename": "lineage-23.2-20260807-nightly-dre-signed.zip",
-      "filepath": "/full/dre/20260807/lineage-23.2-20260807-nightly-dre-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786691875,
+      "filename": "lineage-23.2-20260814-nightly-dre-signed.zip",
+      "filepath": "/full/dre/20260814/lineage-23.2-20260814-nightly-dre-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4788:138484,payload.bin:4788:1312843866,payload_properties.txt:1312848712:156,apex_info.pb:2285:1279,care_map.pb:3611:1130,metadata:69:716,metadata.pb:853:1384                        ",
-      "sha1": "54f76566985866d5f28346bb7892547e6e63a13d",
-      "sha256": "a887992d36fc079cb5dee9f72025535ca8ba232fb56a8a92a56d6f129d8e6364",
-      "size": 1312851859,
+      "ota_property_files": "payload_metadata.bin:4788:138484,payload.bin:4788:1312851624,payload_properties.txt:1312856470:156,apex_info.pb:2285:1279,care_map.pb:3611:1130,metadata:69:716,metadata.pb:853:1384                        ",
+      "sha1": "bcc8604e9fce5ad11c0116a569f2845ab1028a73",
+      "sha256": "e9d6a26b9ad32ec2d0b18f35290a4c58c759caaa0f51183e958febd8eb0514ab",
+      "size": 1312859617,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/dre/20260807/lineage-23.2-20260807-nightly-dre-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/dre/20260814/lineage-23.2-20260814-nightly-dre-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/dre/20260807/boot.img",
-      "sha1": "cc6492e79f883e8aac67623ad8893158da9e9cfb",
-      "sha256": "ad9c52e66a15e1ef69c8a6919e92027130f23b755cf5b4e8c0428614529e52de",
+      "filepath": "/full/dre/20260814/boot.img",
+      "sha1": "d2c09bb10d14c43b1d13a7049c1c32cfcfdfb583",
+      "sha256": "a325910d78c5efbb038bd09396865150e40daf78c07b39b8dd87298d2223559a",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dre/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dre/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/dre/20260807/dtbo.img",
-      "sha1": "a99f1391645513fa6b9df19275c089b2ea220492",
-      "sha256": "5b40cb8908f41d4d916e0d5cdaa845d89d77e66a6302da356c3091492b42d1f7",
+      "filepath": "/full/dre/20260814/dtbo.img",
+      "sha1": "129805884f26b8a1072d156fb569be33f4e2f3c8",
+      "sha256": "80ab9df9d1cbfdf0ba926a2527e321493b58d8705ff6a34af354d0b8f981feeb",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/dre/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/dre/20260814/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/dre/20260807/super_empty.img",
+      "filepath": "/full/dre/20260814/super_empty.img",
       "sha1": "58be45889fca6cb907dabd0a59123773ce25c110",
       "sha256": "0591d3800b0922e688d870ea0bd2599412aa611da1d142eb21cebf62de476fa2",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/dre/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/dre/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/dre/20260807/vbmeta.img",
-      "sha1": "abbd74b73be6e99be8f98e41c067f4267ff3edb8",
-      "sha256": "f3c6264c42367e2c9746b142e40e5f8ff53dbc77ec5f54e049599c474f44990c",
+      "filepath": "/full/dre/20260814/vbmeta.img",
+      "sha1": "7aef8d1debdba07fcb7577ed26c848c10af136d3",
+      "sha256": "493413528ef182a2b2d60ab822f2ef577d76d8967fd75ff22472202712995739",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/dre/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/dre/20260814/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/dre/20260807/vendor_boot.img",
-      "sha1": "c80db3649557fe263d8f159aeb71d9c96c49d765",
-      "sha256": "87d2ce7c1e8751ae00b6130b2a911ae729ea004db1dfc16fbcdd95bb090856ae",
+      "filepath": "/full/dre/20260814/vendor_boot.img",
+      "sha1": "9cfd2a1254425b878f912709b1a1cc8953893aa1",
+      "sha256": "03d095cb4a487c3c265d6ad05585d1e8868d36ea9320da2fa4593a709d9aaa0c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dre/20260807/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dre/20260814/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/dre/20260814/build-manifest.xml",
+      "sha1": "0811b9b7554afeedc17625aadeea62f860b528b9",
+      "sha256": "87aad260c1ac54227a9580c3e2bb9c7500d62128c7c85a6d5f1f34b109d154bd",
+      "size": 285690,
+      "url": "https://mirrorbits.lineageos.org/full/dre/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
