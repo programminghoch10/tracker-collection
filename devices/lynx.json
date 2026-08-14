@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786100440,
+  "date": "2026-08-14",
+  "datetime": 1786693042,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786100440,
-      "filename": "lineage-23.2-20260807-nightly-lynx-signed.zip",
-      "filepath": "/full/lynx/20260807/lineage-23.2-20260807-nightly-lynx-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786693042,
+      "filename": "lineage-23.2-20260814-nightly-lynx-signed.zip",
+      "filepath": "/full/lynx/20260814/lineage-23.2-20260814-nightly-lynx-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4698:142512,payload.bin:4698:1435534858,payload_properties.txt:1435539614:156,apex_info.pb:1976:1602,care_map.pb:3625:1026,metadata:69:665,metadata.pb:802:1126                        ",
-      "sha1": "0e91d1ee340c7864d2acc23c5c08fe97859785fc",
-      "sha256": "e0b2d811e7b80b59017f62e9559fc57127ccfa4b7d3d50babee9ad227b622d66",
-      "size": 1435542761,
+      "ota_property_files": "payload_metadata.bin:4698:142512,payload.bin:4698:1435541481,payload_properties.txt:1435546237:156,apex_info.pb:1976:1602,care_map.pb:3625:1026,metadata:69:665,metadata.pb:802:1126                        ",
+      "sha1": "d54bf48e24712e7522197d2068ce80243196cf3c",
+      "sha256": "0a2dbba0ef1f3c79f5f88ac663f2c43c3e6faa339d7a0f85d16fe2b8f7ce8e04",
+      "size": 1435549384,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/lineage-23.2-20260807-nightly-lynx-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/lineage-23.2-20260814-nightly-lynx-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lynx/20260807/boot.img",
-      "sha1": "5ee013208040dd78353c1388b40b29836d1e9cff",
-      "sha256": "331b79d2fe88dd67ad0cde5786d1bdb92e8201b0db49cdf08314ce6150419f08",
+      "filepath": "/full/lynx/20260814/boot.img",
+      "sha1": "38a6cb5e978dbdea1cbe0835b1bd99919897c377",
+      "sha256": "2fc8aadd7d254222ee342ebf12cf651242d0cbffc0b2a25b608293438cdeb6b6",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lynx/20260807/dtbo.img",
-      "sha1": "6f88589391576d04ad7fd094707069c2e50a7629",
-      "sha256": "9cef19f7d53eb889f209a939addcebcd5953744eddcc86c9f8c58b65a56b2ec0",
+      "filepath": "/full/lynx/20260814/dtbo.img",
+      "sha1": "345d93a601d5f38ded28942c06ffdb320b996865",
+      "sha256": "fb847df7aafb4a5fe44d9157ce3ab3c7b0efec3c839155f65952d140d43df597",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/lynx/20260807/init_boot.img",
-      "sha1": "3d99494f46bf3f7f985c1df86111fe12614b12dd",
-      "sha256": "36f98335265c48d2e59764c265dad8a4659ff434837c640ed44c40ff2a12ebdc",
+      "filepath": "/full/lynx/20260814/init_boot.img",
+      "sha1": "a2e7253d3b3c37e8d6bea7912ee7f51c1b39d095",
+      "sha256": "1971ad4c12dffecf8907adbede9af7d2038e9aaea077d14e0b16e5de0c72cc5c",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lynx/20260807/super_empty.img",
+      "filepath": "/full/lynx/20260814/super_empty.img",
       "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
       "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lynx/20260807/vbmeta.img",
-      "sha1": "28261374e878e5d27a404b9f9d3ab1124fb2b91b",
-      "sha256": "d582c6f22a57864247b2cf420a152036a7e8f4e410c0c64de2080f0056f33655",
+      "filepath": "/full/lynx/20260814/vbmeta.img",
+      "sha1": "c3a0cbae5ee3770ca70e70ca9683067bf08cd0e4",
+      "sha256": "b2dfdddb9dac851fb983f9f74662013b9761b583337fce53e23447d7099793a8",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/lynx/20260807/vendor_boot.img",
-      "sha1": "5a8a2a846e853b78c05dcbe61874b0d0768bb834",
-      "sha256": "9e32955d80b8b771f604d9fbfc1ba7451fcf5437bf6340452bc41bc84b4e38a2",
+      "filepath": "/full/lynx/20260814/vendor_boot.img",
+      "sha1": "f69c656365a40c63456e99aef2f087e16b215702",
+      "sha256": "5cd2eef860c1a4bc8ef9d70c9e91371ae8038292a4ca1f6e0f9f864f07594778",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/lynx/20260807/vendor_kernel_boot.img",
-      "sha1": "2c14384ba26f4f5cebf8c2a330494d82557d8e0e",
-      "sha256": "eea12fef180f26923f53fbf5ea01e55af3cc82036c0af2165a803b7fbe50e385",
+      "filepath": "/full/lynx/20260814/vendor_kernel_boot.img",
+      "sha1": "a2000e2c32b9ba7e3c2de1d62c87e6bd1bc1fdec",
+      "sha256": "dec23294500ba6c4a1682587bb8b2d5143dc47c2bb72fc04d5d519e4de58d529",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lynx/20260807/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/vendor_kernel_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/lynx/20260814/build-manifest.xml",
+      "sha1": "9782733d8ca1f96a1f31ffb1b0ce9e7e2b9e18a5",
+      "sha256": "370174c37a23d9603cb9eb558a6c66ef4fa64f0910e42dad5ff642ea87b94fef",
+      "size": 285956,
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
