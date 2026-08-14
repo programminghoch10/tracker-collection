@@ -1,76 +1,84 @@
 {
-  "date": "2026-08-07",
-  "datetime": 1786068549,
+  "date": "2026-08-14",
+  "datetime": 1786684052,
   "files": [
     {
-      "date": "2026-08-07",
-      "datetime": 1786068549,
-      "filename": "lineage-23.2-20260807-nightly-salami-signed.zip",
-      "filepath": "/full/salami/20260807/lineage-23.2-20260807-nightly-salami-signed.zip",
+      "date": "2026-08-14",
+      "datetime": 1786684052,
+      "filename": "lineage-23.2-20260814-nightly-salami-signed.zip",
+      "filepath": "/full/salami/20260814/lineage-23.2-20260814-nightly-salami-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5124:188419,payload.bin:5124:2180297965,payload_properties.txt:2180303147:156,apex_info.pb:2430:1279,care_map.pb:3756:1321,metadata:69:711,metadata.pb:848:1534                        ",
-      "sha1": "764f20bd55e766cae6e62ac854cb5a0ffff2c45d",
-      "sha256": "3fdf3ee5394afdde626a0e39e87c38fbbaf2a3f77fd1668de152342b757479c5",
-      "size": 2180306294,
+      "ota_property_files": "payload_metadata.bin:5124:188477,payload.bin:5124:2180382011,payload_properties.txt:2180387193:156,apex_info.pb:2430:1279,care_map.pb:3756:1321,metadata:69:711,metadata.pb:848:1534                        ",
+      "sha1": "494c006bb695033bc7f236e6c3669c6c72071512",
+      "sha256": "e65cc40c195590acfdd2e67883320bd3a37e1430a3cf55e372e0c9f5979156f7",
+      "size": 2180390340,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/lineage-23.2-20260807-nightly-salami-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/lineage-23.2-20260814-nightly-salami-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/salami/20260807/boot.img",
-      "sha1": "87f906f5a66da41321ce5f216331cf9fc2d14302",
-      "sha256": "4daf3d54a870a67d7a16f71422dc625696a16f7619ce9519b855c41dcb3114a1",
+      "filepath": "/full/salami/20260814/boot.img",
+      "sha1": "1eb35694c6f601b043eb92ffc2591b9de4076264",
+      "sha256": "fcf13ba8ad4adccdad5c920592ccb73ff9731a4fc0f6bd51895b0ada89a1f83d",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/salami/20260807/dtbo.img",
-      "sha1": "106cb335f9758d07a941b2f568372adce73d08bd",
-      "sha256": "57d360e6ca828eab8afe75dbd936bb025d425c8e5f0093795bfd39662b256fab",
+      "filepath": "/full/salami/20260814/dtbo.img",
+      "sha1": "103753239d37aa7d3a21b1e384293b4d9ac67129",
+      "sha256": "ba0d642c52d9b844846926577e6e3d0d8f1cedd227948e7b16448009c3c68546",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/salami/20260807/init_boot.img",
-      "sha1": "7a6fc9a28654c644baa67d6c86f4b9f4760b97a0",
-      "sha256": "a76dc2f0f7134f490956f9100582aa2a14ba9d2343697813ef2ff16286e08975",
+      "filepath": "/full/salami/20260814/init_boot.img",
+      "sha1": "6837b05650741cbf858d2d726e31bda85f19247e",
+      "sha256": "82c03d4c1c7a7dbc26ee56b969c2c4a593dfc7ccef286b4664feac7c6c65e3be",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/salami/20260807/recovery.img",
-      "sha1": "b439f40a8c82d706c88c5e0d94adfe4d4105d8ac",
-      "sha256": "519a5266ef38a9e8a155ac044938790422bbb2d6a53c7a9fd0d5657b5185292f",
+      "filepath": "/full/salami/20260814/recovery.img",
+      "sha1": "a72cdd275dfa72cde3a8b33e61c9382403be8ca1",
+      "sha256": "d3c32d81090e0151d8f947d10c4e2c71e3b13974b03e6725d6a481aa72b0f56a",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/salami/20260807/super_empty.img",
+      "filepath": "/full/salami/20260814/super_empty.img",
       "sha1": "d9bdbb85da3c1d1c6078f50ecb7d340d09184858",
       "sha256": "a18752a7b94d01e3d50f09d2f7addec837bbca1dcb565ad5e675a3a9691ef9c2",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/salami/20260807/vbmeta.img",
-      "sha1": "ff1bb7b3c8b1bb79fc6daaf3d1053187f64a6e31",
-      "sha256": "80a387d4625377dde7d9913011a055abd79b8c0290d7beedf60dc9cb7e21e7c6",
+      "filepath": "/full/salami/20260814/vbmeta.img",
+      "sha1": "b84d84af9210ff8786fbb5da68a9eaa71379c040",
+      "sha256": "228a1b79d015bcfd4d14d6ae59e337526002455294cbb18ba64bafa11e0ce779",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/salami/20260807/vendor_boot.img",
-      "sha1": "ce9983436fbdce166e76fd9cfa44d883cf2930b1",
-      "sha256": "cf65c7f1f0217a87558780e9207475f9e8e75db5db9d6328d4db6b9fe9265d25",
+      "filepath": "/full/salami/20260814/vendor_boot.img",
+      "sha1": "fd4b1efc4619fca6873340cccf628690d9fb6b78",
+      "sha256": "aa0980cd8fd758814e69cc4e3109d8a8248872abaf224f2319a34e64ecc32bbd",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/salami/20260807/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/salami/20260814/build-manifest.xml",
+      "sha1": "ce8ca2df2ba766ede97345955168443f022fd6ac",
+      "sha256": "c72cddaada92e8f605988d95b9a665429632fc3403b5f9bc440daed9ac201671",
+      "size": 286736,
+      "url": "https://mirrorbits.lineageos.org/full/salami/20260814/build-manifest.xml"
     }
   ],
   "type": "nightly",
