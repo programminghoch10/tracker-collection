@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-08",
-  "datetime": 1786181040,
+  "date": "2026-08-15",
+  "datetime": 1786760248,
   "files": [
     {
-      "date": "2026-08-08",
-      "datetime": 1786181040,
-      "filename": "lineage-22.2-20260808-nightly-payton-signed.zip",
-      "filepath": "/full/payton/20260808/lineage-22.2-20260808-nightly-payton-signed.zip",
+      "date": "2026-08-15",
+      "datetime": 1786760248,
+      "filename": "lineage-22.2-20260815-nightly-payton-signed.zip",
+      "filepath": "/full/payton/20260815/lineage-22.2-20260815-nightly-payton-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:2772:134013,payload.bin:2772:925650239,payload_properties.txt:925653069:155,apex_info.pb:1568:1157,metadata:69:605,metadata.pb:742:778                  ",
-      "sha1": "f5a16d94fc0dc1751184362bd79716eb5f3d575d",
-      "sha256": "be5e1ac209491cfd8019cd489b97fca953b3cd3062c1f9b6ab416d4ead0bb261",
-      "size": 925656156,
+      "ota_property_files": "payload_metadata.bin:2772:134013,payload.bin:2772:925648543,payload_properties.txt:925651373:155,apex_info.pb:1568:1157,metadata:69:605,metadata.pb:742:778                  ",
+      "sha1": "c2e3968a48b76bc8f4127cba0e823e728c73ec3c",
+      "sha256": "48609e0f3956189c760de3cedbbf1ef6fefe9d75007ae565ddd98baab8069fe3",
+      "size": 925654460,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/payton/20260808/lineage-22.2-20260808-nightly-payton-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/payton/20260815/lineage-22.2-20260815-nightly-payton-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/payton/20260808/boot.img",
-      "sha1": "af18e101cc79bfee42674cd35dd178170ebde641",
-      "sha256": "7e357a6ce3397e59387fc69afd63252b79e8736b04f847aa8dbb59b3c3ff9ba9",
+      "filepath": "/full/payton/20260815/boot.img",
+      "sha1": "1c0fac4496a5eed5e1c44277b714ae69fc25b007",
+      "sha256": "747da0adfe1995b220bb3fd9fea18e5de47fc5608a7754895ad7c8cf28cf4327",
       "size": 30298112,
-      "url": "https://mirrorbits.lineageos.org/full/payton/20260808/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/payton/20260815/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/payton/20260815/build-manifest.xml",
+      "sha1": "8e41e6e484bd2549a41665a4037a00fc73ddfb5a",
+      "sha256": "d56c62be4825db4d834fa4e647bd0d52465d2939cdf4081843fd2d225bebb75d",
+      "size": 284578,
+      "url": "https://mirrorbits.lineageos.org/full/payton/20260815/build-manifest.xml"
     }
   ],
   "type": "nightly",
