@@ -1,60 +1,68 @@
 {
-  "date": "2026-08-08",
-  "datetime": 1786147327,
+  "date": "2026-08-15",
+  "datetime": 1786755925,
   "files": [
     {
-      "date": "2026-08-08",
-      "datetime": 1786147327,
-      "filename": "lineage-23.2-20260808-nightly-xpeng-signed.zip",
-      "filepath": "/full/xpeng/20260808/lineage-23.2-20260808-nightly-xpeng-signed.zip",
+      "date": "2026-08-15",
+      "datetime": 1786755925,
+      "filename": "lineage-23.2-20260815-nightly-xpeng-signed.zip",
+      "filepath": "/full/xpeng/20260815/lineage-23.2-20260815-nightly-xpeng-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4129:145184,payload.bin:4129:1379757032,payload_properties.txt:1379761219:156,apex_info.pb:1950:1279,care_map.pb:3276:806,metadata:69:675,metadata.pb:812:1090                        ",
-      "sha1": "3b3604df8ba0f9e9e58cef664058c01a35fc42b3",
-      "sha256": "5ab48df707fb9fd9cbfe208c90ef0e93cd2f4a86f507a5243187c4bd543a45b6",
-      "size": 1379764366,
+      "ota_property_files": "payload_metadata.bin:4129:145186,payload.bin:4129:1379768065,payload_properties.txt:1379772252:156,apex_info.pb:1950:1279,care_map.pb:3276:806,metadata:69:675,metadata.pb:812:1090                        ",
+      "sha1": "665484c294bbc9b2fa873919c801197e8810ba55",
+      "sha256": "3b89b983c8b53aa2f7f55ddc1ca3d4098b1c1aa00f515014171604c3bea4c6de",
+      "size": 1379775399,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260808/lineage-23.2-20260808-nightly-xpeng-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260815/lineage-23.2-20260815-nightly-xpeng-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/xpeng/20260808/boot.img",
-      "sha1": "6a2fae79ba345c0cc9208fb028a15feed3fa9cdb",
-      "sha256": "753512a143900869915244b6529b2197ddb846f346294a209536e9cf2150308a",
+      "filepath": "/full/xpeng/20260815/boot.img",
+      "sha1": "02f3e8f2c7b996a414140e5b1faf86a5c1440794",
+      "sha256": "7e448e861084fb59aa04908df71280e4b3ca14bcd634c0091b95b9d47f4f7994",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260808/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260815/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/xpeng/20260808/dtbo.img",
-      "sha1": "a8e54b7e991b2545c09b5034ac164a660748e0ea",
-      "sha256": "16f631afd95489b8b2b50a62682aaa520dbaeb3c0227de5767c5308a3cc1175e",
+      "filepath": "/full/xpeng/20260815/dtbo.img",
+      "sha1": "8371000c7f36dd941d86101a051d09c7959ad2fe",
+      "sha256": "4612984360e2383a17174835c45820ad006227bb9aad30fa0aff3a62d598c388",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260808/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260815/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/xpeng/20260808/super_empty.img",
+      "filepath": "/full/xpeng/20260815/super_empty.img",
       "sha1": "132a517edbf50330de5c7c6ced995a7f0f040c12",
       "sha256": "edad590e7ceb9a0f2a31a6af4c4761c45e84d1fca7889a81f16debff96006bfd",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260808/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260815/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/xpeng/20260808/vbmeta.img",
-      "sha1": "0c29e6421c8737850cf624ab2dedc75c2ac9d842",
-      "sha256": "605e21ffe90f526f12d2419aed051b2027e898152e5d5be38dcf87b38dbd6ca7",
+      "filepath": "/full/xpeng/20260815/vbmeta.img",
+      "sha1": "d23c28c73cfcd58c01dbf61b1712206319d5a500",
+      "sha256": "5808c6135a122fc5f304031598c5ff0d40946d1d0b645bf1f6a997bba25d70db",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260808/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260815/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/xpeng/20260808/vendor_boot.img",
-      "sha1": "39912511ac5fd92bf27fe27268ba240cc3646fa8",
-      "sha256": "4bcded611ef636b4eb849c5fd8b04d4f946d04793b38d26e3a50977194f73837",
+      "filepath": "/full/xpeng/20260815/vendor_boot.img",
+      "sha1": "c26f0117c813eb74f70edb2e4e2b991d22706204",
+      "sha256": "1fcc4e69f916f8dda805b7daa322f615f60876eb21116776b49c379b3c9eaa99",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260808/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260815/vendor_boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/xpeng/20260815/build-manifest.xml",
+      "sha1": "fc5515c9b2f80d994ca168b7d493dc7dee4550ae",
+      "sha256": "466d9924cb8f5ea23da188b70f2eceaed5ff1067f1bde6fadab6a11a2c6cae10",
+      "size": 285962,
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20260815/build-manifest.xml"
     }
   ],
   "type": "nightly",
