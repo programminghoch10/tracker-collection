@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-08",
-  "datetime": 1786173364,
+  "date": "2026-08-15",
+  "datetime": 1786815748,
   "files": [
     {
-      "date": "2026-08-08",
-      "datetime": 1786173364,
-      "filename": "lineage-22.2-20260808-nightly-marlin-signed.zip",
-      "filepath": "/full/marlin/20260808/lineage-22.2-20260808-nightly-marlin-signed.zip",
+      "date": "2026-08-15",
+      "datetime": 1786815748,
+      "filename": "lineage-22.2-20260815-nightly-marlin-signed.zip",
+      "filepath": "/full/marlin/20260815/lineage-22.2-20260815-nightly-marlin-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:2802:119768,payload.bin:2802:884955521,payload_properties.txt:884958381:155,apex_info.pb:1598:1157,metadata:69:611,metadata.pb:748:802                  ",
-      "sha1": "c50e7551df062d034f3460747998eab8c251f9a7",
-      "sha256": "45cee9ea37480ae966eeb915393f5f883926bb8cdc9a389dec341080f4ad4879",
-      "size": 884961468,
+      "ota_property_files": "payload_metadata.bin:2802:119768,payload.bin:2802:884947823,payload_properties.txt:884950683:155,apex_info.pb:1598:1157,metadata:69:611,metadata.pb:748:802                  ",
+      "sha1": "97a83f732d531fa11c36d2828eec1840b1e0311a",
+      "sha256": "8126acd0872015f8bff916101f0966cc10943484971ba1821ead8d4ef4630522",
+      "size": 884953770,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/marlin/20260808/lineage-22.2-20260808-nightly-marlin-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/marlin/20260815/lineage-22.2-20260815-nightly-marlin-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/marlin/20260808/boot.img",
-      "sha1": "bcfbe6a2ed026c7a9417c21ef37cbc09b269840f",
-      "sha256": "f93ecea50c0cb12f90b827540e9e3694972a1da9fd2623de124b693c00aee648",
+      "filepath": "/full/marlin/20260815/boot.img",
+      "sha1": "1170b0464f68578f05c948f2b107485caf44bd9a",
+      "sha256": "c5ef87231f288c369f770df911ce1b8b9f4fa1d268839e8fe608207190d18eee",
       "size": 31170560,
-      "url": "https://mirrorbits.lineageos.org/full/marlin/20260808/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/marlin/20260815/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/marlin/20260815/build-manifest.xml",
+      "sha1": "43a87acced46e684b50cc240dbd6b4713b94fa03",
+      "sha256": "6776286b81eaead89342dc3f164c1138dc03306896e98208f63429923c03818f",
+      "size": 284092,
+      "url": "https://mirrorbits.lineageos.org/full/marlin/20260815/build-manifest.xml"
     }
   ],
   "type": "nightly",
