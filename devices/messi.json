@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-08",
-  "datetime": 1786151814,
+  "date": "2026-08-15",
+  "datetime": 1786761117,
   "files": [
     {
-      "date": "2026-08-08",
-      "datetime": 1786151814,
-      "filename": "lineage-22.2-20260808-nightly-messi-signed.zip",
-      "filepath": "/full/messi/20260808/lineage-22.2-20260808-nightly-messi-signed.zip",
+      "date": "2026-08-15",
+      "datetime": 1786761117,
+      "filename": "lineage-22.2-20260815-nightly-messi-signed.zip",
+      "filepath": "/full/messi/20260815/lineage-22.2-20260815-nightly-messi-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:2816:117672,payload.bin:2816:897290651,payload_properties.txt:897293525:155,apex_info.pb:1612:1157,metadata:69:614,metadata.pb:751:813                  ",
-      "sha1": "f42eb58f34ae1d456a1c8b45fecf5daded4f1a52",
-      "sha256": "d15a1ef55effe9e8d3fc248a6540c6b0f52889aed2d762fabeb1c3850d1fe8cb",
-      "size": 897296612,
+      "ota_property_files": "payload_metadata.bin:2816:117672,payload.bin:2816:897280955,payload_properties.txt:897283829:155,apex_info.pb:1612:1157,metadata:69:614,metadata.pb:751:813                  ",
+      "sha1": "e24c10c2ea88316394106eec2ea959bf92e368a5",
+      "sha256": "b63017824cb59a99c1705503afe1697ce0107b8b0fe39b1684f1821c9bc05ac0",
+      "size": 897286916,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/messi/20260808/lineage-22.2-20260808-nightly-messi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/messi/20260815/lineage-22.2-20260815-nightly-messi-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/messi/20260808/boot.img",
-      "sha1": "55393e843ea3d7fcfc23ab6177726207a5c86e8e",
-      "sha256": "ec77c0631e850e372be1761435b6b84e48bbbdebacc8b23bf4990715f6dc9370",
+      "filepath": "/full/messi/20260815/boot.img",
+      "sha1": "4585ef54f4a32157da15570b2645eaeb977edcb6",
+      "sha256": "bc6059de8548b7a8c2952d4e1defdeaddb43dcb73f7c44475266a327fea932a1",
       "size": 33132544,
-      "url": "https://mirrorbits.lineageos.org/full/messi/20260808/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/messi/20260815/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/messi/20260815/build-manifest.xml",
+      "sha1": "5568f686c97d88ba85dc9fd633530fb14fc7ae73",
+      "sha256": "94e9410ec240bec93970b98027e50baeef0aa0b57acc0169ee36bd181df63db2",
+      "size": 284576,
+      "url": "https://mirrorbits.lineageos.org/full/messi/20260815/build-manifest.xml"
     }
   ],
   "type": "nightly",
