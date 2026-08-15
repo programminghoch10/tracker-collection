@@ -1,28 +1,36 @@
 {
-  "date": "2026-08-08",
-  "datetime": 1786170260,
+  "date": "2026-08-15",
+  "datetime": 1786752295,
   "files": [
     {
-      "date": "2026-08-08",
-      "datetime": 1786170260,
-      "filename": "lineage-23.2-20260808-nightly-mermaid-signed.zip",
-      "filepath": "/full/mermaid/20260808/lineage-23.2-20260808-nightly-mermaid-signed.zip",
+      "date": "2026-08-15",
+      "datetime": 1786752295,
+      "filename": "lineage-23.2-20260815-nightly-mermaid-signed.zip",
+      "filepath": "/full/mermaid/20260815/lineage-23.2-20260815-nightly-mermaid-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:2910:107859,payload.bin:2910:918327317,payload_properties.txt:918330285:155,apex_info.pb:1584:1279,metadata:69:608,metadata.pb:745:791                  ",
-      "sha1": "b36b006bb48a20a6d7666dfb145766e7659249d6",
-      "sha256": "7de2d6191446f224fed4640e9d460bec32df687e39eda4a5a1fff4b5fcd08f03",
-      "size": 918333368,
+      "ota_property_files": "payload_metadata.bin:2910:107859,payload.bin:2910:918394316,payload_properties.txt:918397284:155,apex_info.pb:1584:1279,metadata:69:608,metadata.pb:745:791                  ",
+      "sha1": "a19200fde7d1b713be9de643fa34a1911d441203",
+      "sha256": "dd0e71174619d54e470fcedbff53b6e8d75b28f7d17b12bb0f59becbaa23d8c2",
+      "size": 918400367,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260808/lineage-23.2-20260808-nightly-mermaid-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260815/lineage-23.2-20260815-nightly-mermaid-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/mermaid/20260808/boot.img",
-      "sha1": "8d4fde9fde4839a666166843951e3232b6fa7c06",
-      "sha256": "52c34496f8da887bb2adf220fa328fb2fbdd128bc27d95c8b4544d7d40b92ba2",
-      "size": 36274176,
-      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260808/boot.img"
+      "filepath": "/full/mermaid/20260815/boot.img",
+      "sha1": "7fa9f7d5cfc0daacc431a67bc40d19dd975e1230",
+      "sha256": "145db260ce1fd8f898a1ea93571c1d098c9abcb7afd31c72459e722bcd72dac1",
+      "size": 36282368,
+      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260815/boot.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/mermaid/20260815/build-manifest.xml",
+      "sha1": "f975d6b7cb8649ae9e359ee483c18f81e03d1a6f",
+      "sha256": "9479d2928f9c80b7ecda96a2534cff85ce608d327d1ce164387929a71d955e00",
+      "size": 286690,
+      "url": "https://mirrorbits.lineageos.org/full/mermaid/20260815/build-manifest.xml"
     }
   ],
   "type": "nightly",
