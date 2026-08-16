@@ -1,52 +1,60 @@
 {
-  "date": "2026-08-08",
-  "datetime": 1786159562,
+  "date": "2026-08-15",
+  "datetime": 1786835421,
   "files": [
     {
-      "date": "2026-08-08",
-      "datetime": 1786159562,
-      "filename": "lineage-22.2-20260808-nightly-sargo-signed.zip",
-      "filepath": "/full/sargo/20260808/lineage-22.2-20260808-nightly-sargo-signed.zip",
+      "date": "2026-08-15",
+      "datetime": 1786835421,
+      "filename": "lineage-22.2-20260815-nightly-sargo-signed.zip",
+      "filepath": "/full/sargo/20260815/lineage-22.2-20260815-nightly-sargo-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3918:115376,payload.bin:3918:1130671257,payload_properties.txt:1130675233:156,apex_info.pb:1882:1191,care_map.pb:3120:751,metadata:69:665,metadata.pb:802:1032                        ",
-      "sha1": "a34e24889bb40f4316d8179ba67d756000692b60",
-      "sha256": "a84c04594f2c3b6e3a856500b5ebfde9dc3b3a5789c6731f84f13c6e328645cd",
-      "size": 1130678384,
+      "ota_property_files": "payload_metadata.bin:3918:115376,payload.bin:3918:1130696384,payload_properties.txt:1130700360:156,apex_info.pb:1882:1191,care_map.pb:3120:751,metadata:69:665,metadata.pb:802:1032                        ",
+      "sha1": "b728040ee91e0b33efaa584ec22cb4d9b2910e6c",
+      "sha256": "d1c7899b19e0cbfdb2cefd4d40c4f1d15f579a7a1f708d77c5a8f84acdc0d1bd",
+      "size": 1130703511,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260808/lineage-22.2-20260808-nightly-sargo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260815/lineage-22.2-20260815-nightly-sargo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/sargo/20260808/boot.img",
-      "sha1": "67f690b0956462651a56e08d02bf62fb6d5f84bf",
-      "sha256": "26a14563629a59377124794890fc97618baa8ce1def63bdc422e023b404a2b0e",
+      "filepath": "/full/sargo/20260815/boot.img",
+      "sha1": "98117fca81fb6ffab2466fba5b465e8085054636",
+      "sha256": "21461e8941df1e53dd56382b04c9e5f497c83c99d3829910a5881e7ee4964462",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260808/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260815/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/sargo/20260808/dtbo.img",
-      "sha1": "865b061d50a48c1c5b5ffd20c15296627e77806a",
-      "sha256": "c863021432cc6997b7fbb7229bd21bff00c73397395fae3f18864620f4e47157",
+      "filepath": "/full/sargo/20260815/dtbo.img",
+      "sha1": "724dfcc4f7b64fefc4c9918dbd8d1f4dcfa0e656",
+      "sha256": "6283c6ccd8322ed93ec3dceea936b534d646d84c7c28c9661f1182cf18119121",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260808/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260815/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/sargo/20260808/super_empty.img",
+      "filepath": "/full/sargo/20260815/super_empty.img",
       "sha1": "63bc61d1abc09a2bdc1b1ba606411f889f3facba",
       "sha256": "62024718661d2d02841a0ffc84e63ad815e60a4b3090ffe26e4c70abfab3197b",
       "size": 4656,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260808/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260815/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/sargo/20260808/vbmeta.img",
-      "sha1": "f3a09d223f92538824432d1cc9dd5c1bba3c076a",
-      "sha256": "596262cf03a7001d821bea01b0d9172396f02a7618172e3190dd070dbadb63f6",
+      "filepath": "/full/sargo/20260815/vbmeta.img",
+      "sha1": "88bc38e2473ff3e3f88b5e54378eb95f6377ac4a",
+      "sha256": "fd7b0cba7a4e2c0a7d1afe521ddf1e691d865e92902fa54dbce669bfbf92e7b4",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/sargo/20260808/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260815/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/sargo/20260815/build-manifest.xml",
+      "sha1": "a6d20e80d9975854e7c71d06b4a58e2ef0fbcc01",
+      "sha256": "f55aac0a25b5b059ea3d8657c1d4b084cffb2a7b0ba5e47a9884071119b46f46",
+      "size": 284588,
+      "url": "https://mirrorbits.lineageos.org/full/sargo/20260815/build-manifest.xml"
     }
   ],
   "type": "nightly",
