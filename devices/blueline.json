@@ -1,60 +1,60 @@
 {
-  "date": "2026-08-10",
-  "datetime": 1786323653,
+  "date": "2026-08-17",
+  "datetime": 1786934888,
   "files": [
     {
-      "date": "2026-08-10",
-      "datetime": 1786323653,
-      "filename": "lineage-22.2-20260810-nightly-blueline-signed.zip",
-      "filepath": "/full/blueline/20260810/lineage-22.2-20260810-nightly-blueline-signed.zip",
+      "date": "2026-08-17",
+      "datetime": 1786934888,
+      "filename": "lineage-22.2-20260817-nightly-blueline-signed.zip",
+      "filepath": "/full/blueline/20260817/lineage-22.2-20260817-nightly-blueline-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:4004:113836,payload.bin:4004:1096603552,payload_properties.txt:1096607614:156,apex_info.pb:1966:1157,care_map.pb:3170:787,metadata:69:677,metadata.pb:814:1104                        ",
-      "sha1": "4e798748b8071678698b7f5365f7f1e5261c1e34",
-      "sha256": "1ac5db9cbab70f09db9f7a0ca391b29baaca8b80c08e76d9b7fcb98b2ba5a32e",
-      "size": 1096610765,
+      "ota_property_files": "payload_metadata.bin:4004:113836,payload.bin:4004:1096589624,payload_properties.txt:1096593686:156,apex_info.pb:1966:1157,care_map.pb:3170:787,metadata:69:677,metadata.pb:814:1104                        ",
+      "sha1": "0c49b64316042e7c47924d54d5d2fb49be282e94",
+      "sha256": "fc8f4b2f3f1eb32c727fa161446f96156bb4496a43262f8a685f430ec3f4b0b1",
+      "size": 1096596837,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260810/lineage-22.2-20260810-nightly-blueline-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260817/lineage-22.2-20260817-nightly-blueline-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/blueline/20260810/boot.img",
-      "sha1": "cc03a720ad03f46ddc9d960b5d592df30eb624c0",
-      "sha256": "8394359eb83f0edcf7f8dd5298c03b2c7519636c8f03a0942965e8c6ff8cebdd",
+      "filepath": "/full/blueline/20260817/boot.img",
+      "sha1": "475d843f69150cd5ec523b1b4628e1254102a81d",
+      "sha256": "76c7f6962f58c61c770cf11a8fd1f921a1e77fcafd4b7521868a376e74b40b66",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260810/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260817/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/blueline/20260810/dtbo.img",
-      "sha1": "3fc51f2cb5666d3fc662dd6b37cd2e2e3e0d2aa9",
-      "sha256": "dbd0459f02f362c9f70380efbe95c1c3f4ca4bd11fb42c91f2b0b05729870f9d",
+      "filepath": "/full/blueline/20260817/dtbo.img",
+      "sha1": "70603cb9efb2eaba01e7f7bbf74440f424073a50",
+      "sha256": "1fdb70c75676fa55235aa8e37c40107e1d4ba6ccf4a7536b7333478851f6fe0f",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260810/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260817/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/blueline/20260810/super_empty.img",
+      "filepath": "/full/blueline/20260817/super_empty.img",
       "sha1": "937e8c88b3a4daa09b88e0dfba8798dd3e4351bf",
       "sha256": "91e88fad448ba9cff9ba752a750b2151c3778f5b2252bf066014973b73a6ff88",
       "size": 4720,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260810/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260817/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/blueline/20260810/vbmeta.img",
-      "sha1": "65a20633d728eba7a35038d7951fd6079cad9860",
-      "sha256": "9416312057f7cd455e9a772a0d785f1ef032aff4f5496fd07dd6a58e35da5472",
+      "filepath": "/full/blueline/20260817/vbmeta.img",
+      "sha1": "d43774d319c2dc53a093c104e8a411ef1b32c102",
+      "sha256": "d0c856ee984492afa9bd8d26c79c611a01df2e54dadd971ca9284a564a9e0187",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260810/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260817/vbmeta.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/blueline/20260810/build-manifest.xml",
-      "sha1": "33d2b213540a5c11e09510e59c7d1420b672f010",
-      "sha256": "749f6b4df1e30929fecb074f25da4e4b666701f841669b240d18ea573785f21e",
+      "filepath": "/full/blueline/20260817/build-manifest.xml",
+      "sha1": "e141fdac17cb213e1317fba2103b3539713b09fc",
+      "sha256": "c4b55fb1e4f2e5f0db5c8adedcea3d0584e1389b905ebec6518e1bfe6aa86bcf",
       "size": 284602,
-      "url": "https://mirrorbits.lineageos.org/full/blueline/20260810/build-manifest.xml"
+      "url": "https://mirrorbits.lineageos.org/full/blueline/20260817/build-manifest.xml"
     }
   ],
   "type": "nightly",
