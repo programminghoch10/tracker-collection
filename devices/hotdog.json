@@ -1,60 +1,60 @@
 {
-  "date": "2026-08-21",
-  "datetime": 1787297148,
+  "date": "2026-08-28",
+  "datetime": 1787882390,
   "files": [
     {
-      "date": "2026-08-21",
-      "datetime": 1787297148,
-      "filename": "lineage-23.2-20260821-nightly-hotdog-signed.zip",
-      "filepath": "/full/hotdog/20260821/lineage-23.2-20260821-nightly-hotdog-signed.zip",
+      "date": "2026-08-28",
+      "datetime": 1787882390,
+      "filename": "lineage-23.2-20260828-nightly-hotdog-signed.zip",
+      "filepath": "/full/hotdog/20260828/lineage-23.2-20260828-nightly-hotdog-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4713:151973,payload.bin:4713:1176652503,payload_properties.txt:1176657274:156,apex_info.pb:2221:1279,care_map.pb:3547:1119,metadata:69:696,metadata.pb:833:1340                        ",
-      "sha1": "00a888673812c9acf27609f0fcdc091b0fc538a5",
-      "sha256": "9fc444710a5c9d88698ce484dbba53c4846d0ef0fb6f18a1fb01ad3354850d39",
-      "size": 1176660421,
+      "ota_property_files": "payload_metadata.bin:4713:151973,payload.bin:4713:1176765556,payload_properties.txt:1176770327:156,apex_info.pb:2221:1279,care_map.pb:3547:1119,metadata:69:696,metadata.pb:833:1340                        ",
+      "sha1": "602771ecb7354bf56534b7c446572e5eef2d69c5",
+      "sha256": "ab376a21509b061b215b83c87332d63ae4a75e47e89ddfcd815d3733a7a58027",
+      "size": 1176773474,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260821/lineage-23.2-20260821-nightly-hotdog-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260828/lineage-23.2-20260828-nightly-hotdog-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/hotdog/20260821/boot.img",
-      "sha1": "673c725e2c58458f0ecb8070d007ace166faeb5b",
-      "sha256": "8c6816181ba27421ce15cabc60f9da923c33d2bb943495bdbb33d2cd32fdafbf",
+      "filepath": "/full/hotdog/20260828/boot.img",
+      "sha1": "cc6a658178d7001aed4c6bd5a10edb3f2083ec8b",
+      "sha256": "52a0b48cb909de130d69d12485d010cb95a2087d6b0100f45ceeee4c1fe30a00",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260821/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260828/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/hotdog/20260821/dtbo.img",
-      "sha1": "56fe6bfb4c25f84d30f98dac5a2f354d3888329d",
-      "sha256": "431bf20b83d8c15f4957fd70b95dec409d18c8b3765069d99077623824c42fb7",
+      "filepath": "/full/hotdog/20260828/dtbo.img",
+      "sha1": "1e4ea7bcf07d74f2410a72ea29a051e82a866274",
+      "sha256": "797b697c3314f5853453198a7bbd952c8f23d83f0f8b67cd4ac845b519e70890",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260821/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260828/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/hotdog/20260821/recovery.img",
-      "sha1": "53f0f1df21ddc01c047d0fc834d0c9323baa3eb2",
-      "sha256": "940b6301fa74842a547cbd9fd51d07beb5c58d5f1d038614e5b2cef09720f4eb",
+      "filepath": "/full/hotdog/20260828/recovery.img",
+      "sha1": "b91cbb26bab9fbe8232aeb9b9d68eb17d1b2c96f",
+      "sha256": "7a0ac8f25bd05dfb7091a548510e0a53db04eadabc060b6bbf07871ce24c1a3b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260821/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260828/recovery.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/hotdog/20260821/vbmeta.img",
-      "sha1": "bf686870a5bdbc07ef14245a029192a9817a9885",
-      "sha256": "f779d4cb799edd65d39d592130aff1651569f7660646f834aa057e077e097e74",
+      "filepath": "/full/hotdog/20260828/vbmeta.img",
+      "sha1": "b4498cf184713decc4bd560aeb430a7e1267710a",
+      "sha256": "8018f1f2eb278786c0415fb1a69887cc27a146b791fd5685537a1e67deff8970",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260821/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260828/vbmeta.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/hotdog/20260821/build-manifest.xml",
-      "sha1": "608f1c178c57308a81db21a74fb4ab0015800b0a",
-      "sha256": "2ff4dc3c638618d613386f985e3488ad4240aa96a7c629157dce490ad52188e2",
-      "size": 285952,
-      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260821/build-manifest.xml"
+      "filepath": "/full/hotdog/20260828/build-manifest.xml",
+      "sha1": "d3c650a5a0c46fb2ec80730dc566417069ea8819",
+      "sha256": "cae2c07587b1baa8c6adcddee657f659e75baff879c8da656f37611228ab5bff",
+      "size": 285939,
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20260828/build-manifest.xml"
     }
   ],
   "type": "nightly",
