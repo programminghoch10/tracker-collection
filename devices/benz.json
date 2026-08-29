@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-22",
-  "datetime": 1787357114,
+  "date": "2026-08-29",
+  "datetime": 1787984795,
   "files": [
     {
-      "date": "2026-08-22",
-      "datetime": 1787357114,
-      "filename": "lineage-23.2-20260822-nightly-benz-signed.zip",
-      "filepath": "/full/benz/20260822/lineage-23.2-20260822-nightly-benz-signed.zip",
+      "date": "2026-08-29",
+      "datetime": 1787984795,
+      "filename": "lineage-23.2-20260829-nightly-benz-signed.zip",
+      "filepath": "/full/benz/20260829/lineage-23.2-20260829-nightly-benz-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5047:188643,payload.bin:5047:2281293058,payload_properties.txt:2281298163:156,apex_info.pb:2375:1279,care_map.pb:3701:1299,metadata:69:699,metadata.pb:836:1491                        ",
-      "sha1": "2f1c3f8319d629a8c6a8548eac56979b5fdd52b8",
-      "sha256": "953656be937377f7460f446d1e29f94e89c77f3cd8ce47811f12e23b3e3cb164",
-      "size": 2281301310,
+      "ota_property_files": "payload_metadata.bin:5047:188533,payload.bin:5047:2280010195,payload_properties.txt:2280015300:156,apex_info.pb:2375:1279,care_map.pb:3701:1299,metadata:69:699,metadata.pb:836:1491                        ",
+      "sha1": "ca3e3e9448854d98a87f798f5ac45533023838a7",
+      "sha256": "bfd0e45e960ac2f9972f64967cbee1414cf66ee365b164b816b7f3443f3b8ef9",
+      "size": 2280018447,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/lineage-23.2-20260822-nightly-benz-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/lineage-23.2-20260829-nightly-benz-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/benz/20260822/boot.img",
-      "sha1": "c583cb98594999dfbfd23f6ac16fc7b8b55fe788",
-      "sha256": "d94837366f4886d028a3707ed56c47759a9f61731da0f45a7cde52406c1a44a8",
+      "filepath": "/full/benz/20260829/boot.img",
+      "sha1": "c0881e55a91e69ad80ef501c9d0fb842fe6b44cf",
+      "sha256": "d0753c475cfa352512a22f34131b0123abdf1278a69a786d40cc46688dbddf0a",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/benz/20260822/dtbo.img",
-      "sha1": "28a971d38bf24925e52aeed48741b6d67338f189",
-      "sha256": "98a9bf256cd097de7068aec7b61471e217ae2ab82e27244c485665101d1805ea",
+      "filepath": "/full/benz/20260829/dtbo.img",
+      "sha1": "e8add1945c7cfb029f2e863bb41ace42ed0fd3d4",
+      "sha256": "61a91f5ceb733c7fb3a19f4f4a2eb4cccf299178f4caafc5ad335611833c5edd",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/benz/20260822/init_boot.img",
-      "sha1": "6a20d9da1c2230c784a7448ea26063a53b65c4fd",
-      "sha256": "bbab8e4b5ba977ac7af5499b2b64c53bccf1ccbb12ddfa127d1233468404f061",
+      "filepath": "/full/benz/20260829/init_boot.img",
+      "sha1": "a110b9e7820e3cba7480ffb0d89d3ae821028ced",
+      "sha256": "2543a0809275d52a59313ea5145226927922cf6ae56761782c56cd73d3bb7821",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/benz/20260822/recovery.img",
-      "sha1": "818659ea58414a631313e4bb33e100bc0fc5195f",
-      "sha256": "b01128e0c9736198be1003f2ace30bdc76a03bb87d6835d7d4e861eefd37eb84",
+      "filepath": "/full/benz/20260829/recovery.img",
+      "sha1": "f4bc583d7f5e730c97f5abd9aaed2d46adcd3c80",
+      "sha256": "48c58f410ae686af406de795fcfe13da5ef03d154faceea6da143d45e030b01c",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/benz/20260822/super_empty.img",
+      "filepath": "/full/benz/20260829/super_empty.img",
       "sha1": "029f49f7b1743240fdbf3e699283f0e2a22ab9b0",
       "sha256": "8a493c6ce30079714de310fc0ebf4e33b89b67662244bb222dad926488e17156",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/benz/20260822/vbmeta.img",
-      "sha1": "17ba2d0b3842ca362163d5bbec1edd61d3046d82",
-      "sha256": "95ec844c9eac587698f87409642fd894075640dcec799c4276a426e96d753d58",
+      "filepath": "/full/benz/20260829/vbmeta.img",
+      "sha1": "5a2e8676f597d3339fc536a073c10314547767bc",
+      "sha256": "302a3782472e51a6d1e60e5c73cb3da65ea62b6c339b3a61aebb69026810ef3f",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/benz/20260822/vendor_boot.img",
-      "sha1": "606edc8fe9abbc18a3025e251869c735059bc803",
-      "sha256": "163ee0829995e8cc8f0227d6439eab1dce1fb8c4146b0f53699cc955c513b759",
+      "filepath": "/full/benz/20260829/vendor_boot.img",
+      "sha1": "98c4503aefbfcdfe91a7693f33d8ff3c705be787",
+      "sha256": "73ff6e1c8037a762775c793205ca4840558c6025c3d99e20c512dab5ad851b46",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/benz/20260822/build-manifest.xml",
-      "sha1": "c4cf5d40a0da85e0376d7338bc0829a4b34c0ddf",
-      "sha256": "7a343c31c747cc5f86a27a754af4d948731687e4617a46e93c40cc51b8287a4a",
-      "size": 286476,
-      "url": "https://mirrorbits.lineageos.org/full/benz/20260822/build-manifest.xml"
+      "filepath": "/full/benz/20260829/build-manifest.xml",
+      "sha1": "59ea4f05bbceab3a786b4b39a76715df21d4d9a9",
+      "sha256": "460387f05d1da5fc9734457625dd86f0a2e26cd88039443d68ecc017c284b2e3",
+      "size": 286463,
+      "url": "https://mirrorbits.lineageos.org/full/benz/20260829/build-manifest.xml"
     }
   ],
   "type": "nightly",
