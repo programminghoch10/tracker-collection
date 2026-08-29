@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-22",
-  "datetime": 1787369837,
+  "date": "2026-08-29",
+  "datetime": 1787988321,
   "files": [
     {
-      "date": "2026-08-22",
-      "datetime": 1787369837,
-      "filename": "lineage-23.2-20260822-nightly-pdx245-signed.zip",
-      "filepath": "/full/pdx245/20260822/lineage-23.2-20260822-nightly-pdx245-signed.zip",
+      "date": "2026-08-29",
+      "datetime": 1787988321,
+      "filename": "lineage-23.2-20260829-nightly-pdx245-signed.zip",
+      "filepath": "/full/pdx245/20260829/lineage-23.2-20260829-nightly-pdx245-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4977:142921,payload.bin:4977:1379481728,payload_properties.txt:1379486763:156,apex_info.pb:2302:1346,care_map.pb:3695:1235,metadata:69:696,metadata.pb:833:1421                        ",
-      "sha1": "c7d60163cf5869c81d2f081e3a5bd84047406d95",
-      "sha256": "91082c67e86850db4a9d51a7f9115567e8f76c03e5fd9b3e2f3bc7875b52e97e",
-      "size": 1379489910,
+      "ota_property_files": "payload_metadata.bin:4977:142864,payload.bin:4977:1378187511,payload_properties.txt:1378192546:156,apex_info.pb:2302:1346,care_map.pb:3695:1235,metadata:69:696,metadata.pb:833:1421                        ",
+      "sha1": "2026ae2785677206ec14e2616a058968df75619f",
+      "sha256": "35082f7e9ca11ce1fc6fae1ed51a3533ea68335845be8275cb9c75b1b3684cf3",
+      "size": 1378195693,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/lineage-23.2-20260822-nightly-pdx245-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/lineage-23.2-20260829-nightly-pdx245-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/pdx245/20260822/boot.img",
-      "sha1": "96fe64e6990caef3e4782b7549727f51a1366532",
-      "sha256": "25699fe717c49670350899d177befaffc3e3e451994f7145389f66055739ee6c",
+      "filepath": "/full/pdx245/20260829/boot.img",
+      "sha1": "59e1fe91b3bad556cd8e4d841b0540f3e8afbb9b",
+      "sha256": "23e866bd4cf72b4fd49bb43e4ba936c6e7b5eec10b9d4adc399120aa0f54f419",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/pdx245/20260822/dtbo.img",
-      "sha1": "108fce402682c1f8ddaa248ac909392d0bfe75ea",
-      "sha256": "86746612d1215b56a73531ee40d3dccdfbe28bc67ec2aeff63651d8e9e1197d4",
+      "filepath": "/full/pdx245/20260829/dtbo.img",
+      "sha1": "75fdb35eeb10dc307db6bd6125d4227fbcd6cefe",
+      "sha256": "d375e9f7f9c6fccc81a0ceffc59be1cd95aa3582d169dd0d207aa70b90329d78",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/pdx245/20260822/init_boot.img",
-      "sha1": "9c11d527875d8042d9de65d6cc9aa2c3e6d274e0",
-      "sha256": "fa2c1cdec8a79a82d5e4b8c380fab40ead30b733c8d7ef036d0f5f0cd62e7d75",
+      "filepath": "/full/pdx245/20260829/init_boot.img",
+      "sha1": "10ca4db32e1f479e46907f75875ce4e9cf849f38",
+      "sha256": "6e531e27b27c9071ff660d0934bf289b341c5488e22428769150d28aa183cf0d",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/pdx245/20260822/recovery.img",
-      "sha1": "7a08ded367c7095ee5bf606c886314a8a80c7c8b",
-      "sha256": "5b6bb99346a18e42c769cb6386bd64ceb4e1520f70c958f7c07d949890fc1dca",
+      "filepath": "/full/pdx245/20260829/recovery.img",
+      "sha1": "db399d39ac8037f20b7bd420de972e744509e449",
+      "sha256": "2ae09684f3b28adb9f44566ca3ab13a8e2e3db905be7cf75d32b0c5244326c5b",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/pdx245/20260822/super_empty.img",
+      "filepath": "/full/pdx245/20260829/super_empty.img",
       "sha1": "54ea9dfe41c685d320eb9286ad838afded7feabb",
       "sha256": "ec03e8b68bd343bb47ae856af55cd76c7daf5b6d5be563cd5464bb1d3091725c",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/pdx245/20260822/vbmeta.img",
-      "sha1": "3a7dd858db47c8ae0e9477aa2fe52cda7df7b26b",
-      "sha256": "a4f36f4e5b55f26f75a80ccafdb709195f290b1622ff027b498d0ae39f6955cb",
+      "filepath": "/full/pdx245/20260829/vbmeta.img",
+      "sha1": "15451992b4d5e85123b1b027a15eb33b466f7b2c",
+      "sha256": "af008e96d7be73380b6b8603f5f74d2acb9c3f6ca7fe601e4ef21b67d07701b9",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/pdx245/20260822/vendor_boot.img",
-      "sha1": "a9463844e1bd97e61234ce98172174afa2f05484",
-      "sha256": "cc245d0b46729c6a12359e5b4532b6153f98e6d2163e66afc5537a97ee6f8dee",
+      "filepath": "/full/pdx245/20260829/vendor_boot.img",
+      "sha1": "6ed26d0d10423e9ed84acb2b700a388e53032a88",
+      "sha256": "88c02a85e386b854b05eba6a205d876e439fdd8746deea22540e3662e57fb9c9",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/pdx245/20260822/build-manifest.xml",
-      "sha1": "19df9c4db85ea70163e8d61bd9e03abb23abe9c9",
-      "sha256": "71184dcea1c85d0c15ce4198bfa1cf2968335cd793c8cb49bf3d22657af559ce",
-      "size": 286444,
-      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260822/build-manifest.xml"
+      "filepath": "/full/pdx245/20260829/build-manifest.xml",
+      "sha1": "f437b5b0649a3254bc1e21ac6c97018e989c6778",
+      "sha256": "b3965529b64a5ca1c9192bcdf4649fe90d29107cdc52f5453b73a2c953dbda77",
+      "size": 286431,
+      "url": "https://mirrorbits.lineageos.org/full/pdx245/20260829/build-manifest.xml"
     }
   ],
   "type": "nightly",
