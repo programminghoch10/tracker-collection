@@ -1,61 +1,78 @@
 {
-  "date": "2024-12-28",
-  "datetime": 1735344000,
+  "date": "2026-09-06",
+  "datetime": 1788708714,
   "files": [
     {
-      "date": "2024-12-28",
-      "datetime": 1735344000,
-      "filename": "lineage-20.0-20241228-nightly-lancelot-signed.zip",
-      "filepath": "/full/lancelot/20241228/lineage-20.0-20241228-nightly-lancelot-signed.zip",
-      "os_patch_level": "2024-12",
-      "sha1": "bccbcc9c962946b1cb1ab5509ed74f124b74c108",
-      "sha256": "1bdc497999ecf319dc4c2ce07ddadfb53708fc7c5160605d60a80d53858d43e2",
-      "size": 990496855,
+      "date": "2026-09-06",
+      "datetime": 1788708714,
+      "filename": "lineage-23.2-20260906-nightly-lancelot-signed.zip",
+      "filepath": "/full/lancelot/20260906/lineage-23.2-20260906-nightly-lancelot-signed.zip",
+      "os_patch_level": "2026-08-01",
+      "os_sdk_level": 36,
+      "ota_property_files": "metadata:69:352,metadata.pb:489:250                 ",
+      "sha1": "9ebee09d9c84ccd47a7b84bc2186c2e70d23de82",
+      "sha256": "107c9632f088ab7b797e663fc006528bd98730e5106bc62577df58e5c287664a",
+      "size": 1242262878,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/lancelot/20241228/lineage-20.0-20241228-nightly-lancelot-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/lineage-23.2-20260906-nightly-lancelot-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/lancelot/20241228/boot.img",
-      "sha1": "419de406f6da46eade254b0dd08990efa612b6e2",
-      "sha256": "92c59c2361359224ff0929bb9ff9c487c9ed4b2b3af9b5474b1a250e86c28039",
+      "filepath": "/full/lancelot/20260906/boot.img",
+      "sha1": "19ac3121ccf0f124f87a755ca29de44f868ad366",
+      "sha256": "9005912d504d2239cee8114ad6297e2516961d8d23f4948861933bc766073710",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lancelot/20241228/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/lancelot/20241228/dtbo.img",
-      "sha1": "dde153cac613c6de625187f1e776a4c4b79bbfcf",
-      "sha256": "1f274e6a67969c5e7f01d64e8603e8d9962af5a99399ca9b235f37841d665e35",
+      "filepath": "/full/lancelot/20260906/dtbo.img",
+      "sha1": "736d7957fbd9a43f942716c9b2b501a042626366",
+      "sha256": "5ec1664b65b8eb9ac98438bea4f961976d5c8b8f5920a481d39124a1f6e5b0bf",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/lancelot/20241228/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/dtbo.img"
+    },
+    {
+      "filename": "lk.img",
+      "filepath": "/full/lancelot/20260906/lk.img",
+      "sha1": "ee56ec5aaa9dfcd12ac4c252e879aeb67cc29bd8",
+      "sha256": "c00a7a317e9676cb5d168f5079bb42c9ad62ca894d56f9eb432df9168c1922ec",
+      "size": 1157200,
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/lk.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/lancelot/20241228/recovery.img",
-      "sha1": "d875d30bd00d56003eab279ff971300e3426b6c1",
-      "sha256": "d3e3726e5cae037aa1f809afb537c81108103460e23aee5fc5690fa172a7e114",
+      "filepath": "/full/lancelot/20260906/recovery.img",
+      "sha1": "a84121c7f8868ddf61b5602a83ccc183471b0f6a",
+      "sha256": "46f4031428e77ceefff2e758192c18984d85c1b1606f007e8266a9cb2e7d98e2",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/lancelot/20241228/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/lancelot/20241228/super_empty.img",
+      "filepath": "/full/lancelot/20260906/super_empty.img",
       "sha1": "445a6efa579aa899bd34a0315f1922c3e819f190",
       "sha256": "8887352ab4725dba6426ece7a68da6a7b9c9f38727ab3d6a699074d980248e20",
       "size": 4592,
-      "url": "https://mirrorbits.lineageos.org/full/lancelot/20241228/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/lancelot/20241228/vbmeta.img",
-      "sha1": "47fa13edf469f08da42dc40342283ab7af2a736a",
-      "sha256": "1cf8bc7dab905005c758e5c037234d4e2e9b79223f74b961a2bd358296dbecd3",
+      "filepath": "/full/lancelot/20260906/vbmeta.img",
+      "sha1": "2d2c99d3e68b1ff560c468ec13050e77b38644ee",
+      "sha256": "118e92d0d7880cdcd343b20305a9a18965f23ee487f108a27d07b3d4303a7959",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/lancelot/20241228/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/lancelot/20260906/build-manifest.xml",
+      "sha1": "04cb82a03cd7cf874976a7548bb0c3b5c80bf9ff",
+      "sha256": "0b86b1ff9c38599ed067350d397b2ff1aaa37fc73cb92f3f6312b15f6ff01420",
+      "size": 286288,
+      "url": "https://mirrorbits.lineageos.org/full/lancelot/20260906/build-manifest.xml"
     }
   ],
-  "os_patch_level": "2024-12",
   "type": "nightly",
-  "version": "20.0"
+  "version": "23.2"
 }
