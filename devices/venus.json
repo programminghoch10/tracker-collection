@@ -1,60 +1,60 @@
 {
-  "date": "2026-09-02",
-  "datetime": 1788314018,
+  "date": "2026-09-09",
+  "datetime": 1788931936,
   "files": [
     {
-      "date": "2026-09-02",
-      "datetime": 1788314018,
-      "filename": "lineage-23.2-20260902-nightly-venus-signed.zip",
-      "filepath": "/full/venus/20260902/lineage-23.2-20260902-nightly-venus-signed.zip",
+      "date": "2026-09-09",
+      "datetime": 1788931936,
+      "filename": "lineage-23.2-20260909-nightly-venus-signed.zip",
+      "filepath": "/full/venus/20260909/lineage-23.2-20260909-nightly-venus-signed.zip",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4591:158885,payload.bin:4591:1548687293,payload_properties.txt:1548691942:156,apex_info.pb:2118:1279,care_map.pb:3444:1100,metadata:69:684,metadata.pb:821:1249                        ",
-      "sha1": "f1d8a5b12de42e364b10d1ae7049231dda6ef897",
-      "sha256": "a58b432374eeb3999a69e3a4dbf66e8add21b1d34b99154c86e563e5fda711f8",
-      "size": 1548695089,
+      "ota_property_files": "payload_metadata.bin:4591:158886,payload.bin:4591:1548755098,payload_properties.txt:1548759747:156,apex_info.pb:2118:1279,care_map.pb:3444:1100,metadata:69:684,metadata.pb:821:1249                        ",
+      "sha1": "4d290f8538a7aa12aeb98878e72c88787055e255",
+      "sha256": "31c932dc542380ecb22058e7300a39511c2cc590fb0cf648d846511a5052613b",
+      "size": 1548762894,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/venus/20260902/lineage-23.2-20260902-nightly-venus-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/venus/20260909/lineage-23.2-20260909-nightly-venus-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/venus/20260902/boot.img",
-      "sha1": "98af2a09a7bda5af9d38782df23ded4a8cff5253",
-      "sha256": "d922a80546c8e47ab175845a0d706ff650a52a8e37ed5f8be7635e232f7a9bea",
+      "filepath": "/full/venus/20260909/boot.img",
+      "sha1": "3c2623286e12e866cc891d1541a48cb72bc277ca",
+      "sha256": "328b25d51ad7e607a09d23aacb335eac2983e089158f9a02f4a25f987fbce064",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/venus/20260902/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/venus/20260909/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/venus/20260902/dtbo.img",
-      "sha1": "0c129b716093b6d4c7247dab9acb17b81397d05f",
-      "sha256": "81a90e48b39613c21107eb4a0088285dd651ce93095d5b6e89df2ffb8685b502",
+      "filepath": "/full/venus/20260909/dtbo.img",
+      "sha1": "0f1a3d2ac480f678b8669521dae1920f257888cc",
+      "sha256": "f419720f0e9a69eb9d307cf833c806a1535640567d104f4389f68ef5007b86a8",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/venus/20260902/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/venus/20260909/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/venus/20260902/vbmeta.img",
-      "sha1": "fc9b9791a46f997cca2502980521e81c2794004b",
-      "sha256": "75eb92df212d1354e09eb96dd3e2614b52bfbfc4ba719256b3caddf81bdf0bd6",
+      "filepath": "/full/venus/20260909/vbmeta.img",
+      "sha1": "a172b1c5cceb15b805a7cb61d12d2f4125d96ce4",
+      "sha256": "53d26d5d4e0f33f89df6e573b8d2a4937b5c877632ffd8863111722afde31ea9",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/venus/20260902/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/venus/20260909/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/venus/20260902/vendor_boot.img",
-      "sha1": "60a8132049ae43264c7e9029cf262f7acb4ed6af",
-      "sha256": "5b0ee14ef1082b089e9238aed27a5046f3bf722da28a75736d9d0c6657d6c71a",
+      "filepath": "/full/venus/20260909/vendor_boot.img",
+      "sha1": "1815beb58d1deb16352aa804abf7af17ba473664",
+      "sha256": "bfb7e7d2f7d39c71722d52651d1fb95b97c254a3f35037e42441b28935d8a347",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/venus/20260902/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/venus/20260909/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/venus/20260902/build-manifest.xml",
-      "sha1": "487d88983e097e33189162ca5ad9120f748ecd2e",
-      "sha256": "e6729510cc5f5e348ca531ede723c35a2ff8e2756cbeb913d7f686b60264f78a",
-      "size": 285933,
-      "url": "https://mirrorbits.lineageos.org/full/venus/20260902/build-manifest.xml"
+      "filepath": "/full/venus/20260909/build-manifest.xml",
+      "sha1": "8a5f923762103a57813a940d0155d751d25c08a3",
+      "sha256": "49b18a9586657600f48d89fd7e97f1fdfe9ae7daa8521ac68f064cc96e1b1061",
+      "size": 285790,
+      "url": "https://mirrorbits.lineageos.org/full/venus/20260909/build-manifest.xml"
     }
   ],
   "type": "nightly",
