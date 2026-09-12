@@ -1,68 +1,68 @@
 {
-  "date": "2026-09-05",
-  "datetime": 1788605601,
+  "date": "2026-09-12",
+  "datetime": 1789171329,
   "files": [
     {
-      "date": "2026-09-05",
-      "datetime": 1788605601,
-      "filename": "lineage-23.2-20260905-nightly-tundra-signed.zip",
-      "filepath": "/full/tundra/20260905/lineage-23.2-20260905-nightly-tundra-signed.zip",
-      "os_patch_level": "2026-08-01",
+      "date": "2026-09-12",
+      "datetime": 1789171329,
+      "filename": "lineage-23.2-20260912-nightly-tundra-signed.zip",
+      "filepath": "/full/tundra/20260912/lineage-23.2-20260912-nightly-tundra-signed.zip",
+      "os_patch_level": "2026-09-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4156:142035,payload.bin:4156:1296589868,payload_properties.txt:1296594082:156,apex_info.pb:1979:1279,care_map.pb:3305:804,metadata:69:679,metadata.pb:816:1115                        ",
-      "sha1": "59e062431b552e02ddedd42ba4bfcc8bfb754b80",
-      "sha256": "2d67439168f062eac9322f9e13e8647a9005854cf2dd6d4f0ffe1d0952824559",
-      "size": 1296597229,
+      "ota_property_files": "payload_metadata.bin:4156:142092,payload.bin:4156:1297812233,payload_properties.txt:1297816447:156,apex_info.pb:1979:1279,care_map.pb:3305:804,metadata:69:679,metadata.pb:816:1115                        ",
+      "sha1": "ceacad60647c6b8a7628af09a2660e6107e6d9b5",
+      "sha256": "2735cfeed2556250b696b26af908b2622483d90158cf57c6f885e8ea4912bcd5",
+      "size": 1297819594,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tundra/20260905/lineage-23.2-20260905-nightly-tundra-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20260912/lineage-23.2-20260912-nightly-tundra-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tundra/20260905/boot.img",
-      "sha1": "8bca41fdf4b066a225c21acacf4ec27e4c767ff6",
-      "sha256": "6c477bb39cf20bbf1381321577536e47cdfaf1551a94de3659d02b52badb86fa",
+      "filepath": "/full/tundra/20260912/boot.img",
+      "sha1": "4e99eaf0112d60ac3d7641e1624a23e1e5030350",
+      "sha256": "70e201fb4bd4b5ebc8cb5bc9be6010e19b8b3d7d1339fe56f8df864141fc5f96",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/tundra/20260905/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20260912/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tundra/20260905/dtbo.img",
-      "sha1": "148ba5bbe7593c31a70a393b3c6d51ad4add828f",
-      "sha256": "d909645f55148c7ecc3824fed8d468ddb25fa0291510ebe9d5e95c75a39ea9c6",
+      "filepath": "/full/tundra/20260912/dtbo.img",
+      "sha1": "13b8cb05a95d18b0d479101bebfd99b5014ad37c",
+      "sha256": "b91d48dc9eeebac8057a3f50caefaf78ecb337d52b86d603628ab7c6e8632167",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/tundra/20260905/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20260912/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tundra/20260905/super_empty.img",
+      "filepath": "/full/tundra/20260912/super_empty.img",
       "sha1": "394d330480c1e08e5dc79b700d6558a8a65801a6",
       "sha256": "6bafd5e5f19d58642e40be81a07cf0b4105bb30a04f7527d4d5faf8a1b63f7c3",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/tundra/20260905/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20260912/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tundra/20260905/vbmeta.img",
-      "sha1": "3f3a03d2aa4e8e19e51b745e0e1a6d99fcf813c6",
-      "sha256": "ac38de8921f2ca66d96d20d07a43343f5a66f5d5998bdae15f6c28131c3150f8",
+      "filepath": "/full/tundra/20260912/vbmeta.img",
+      "sha1": "b43c7b069db57d1ad63e0dba914b08f11727a3fc",
+      "sha256": "2776b04d1183fc02b4081346e5410b18df7c4344d319ab222c42ea519415e48e",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tundra/20260905/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20260912/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/tundra/20260905/vendor_boot.img",
-      "sha1": "f32bb837be46be609b3438f94ad6eecd41ef8cfe",
-      "sha256": "f2fbba98dc7cc01a362a8f0f7607b42802dcb90ffa40919c05783a028649e819",
+      "filepath": "/full/tundra/20260912/vendor_boot.img",
+      "sha1": "9479011d93f4ddc8faf97c673dd50ecf05ff787f",
+      "sha256": "c2f031cbf7ddde7764e5b1a57260d9d083fbbb209514168732413f500bf709e9",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/tundra/20260905/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20260912/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/tundra/20260905/build-manifest.xml",
-      "sha1": "85c16ef6e0eefc1fa6fe0477d907f2bb371de326",
-      "sha256": "13d47cec578b95d1f626eb9f7f256cdd9ab5ea9042588fbcf7ec33778e1f132c",
-      "size": 285951,
-      "url": "https://mirrorbits.lineageos.org/full/tundra/20260905/build-manifest.xml"
+      "filepath": "/full/tundra/20260912/build-manifest.xml",
+      "sha1": "7c5348f287c1db12081914b21a3ceae0e844a350",
+      "sha256": "1ec9a5927d176610d7cbcfc912a855cf6ad4247a964e02bb6bc4d726349510a9",
+      "size": 285808,
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20260912/build-manifest.xml"
     }
   ],
   "type": "nightly",
