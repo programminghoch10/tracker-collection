@@ -1,84 +1,84 @@
 {
-  "date": "2026-09-05",
-  "datetime": 1788573495,
+  "date": "2026-09-12",
+  "datetime": 1789192647,
   "files": [
     {
-      "date": "2026-09-05",
-      "datetime": 1788573495,
-      "filename": "lineage-23.2-20260905-nightly-socrates-signed.zip",
-      "filepath": "/full/socrates/20260905/lineage-23.2-20260905-nightly-socrates-signed.zip",
-      "os_patch_level": "2026-08-01",
+      "date": "2026-09-12",
+      "datetime": 1789192647,
+      "filename": "lineage-23.2-20260912-nightly-socrates-signed.zip",
+      "filepath": "/full/socrates/20260912/lineage-23.2-20260912-nightly-socrates-signed.zip",
+      "os_patch_level": "2026-09-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4900:162412,payload.bin:4900:1567097173,payload_properties.txt:1567102131:156,apex_info.pb:2291:1279,care_map.pb:3617:1236,metadata:69:690,metadata.pb:827:1416                        ",
-      "sha1": "0594c3151d74bb15da00bbcc20d93b62a1276bea",
-      "sha256": "f4087ddf4a2764abe714ddaaab0504a5d416a75f33ad5eb08c1aee6f577880e1",
-      "size": 1567105278,
+      "ota_property_files": "payload_metadata.bin:4900:162468,payload.bin:4900:1568389638,payload_properties.txt:1568394596:156,apex_info.pb:2291:1279,care_map.pb:3617:1236,metadata:69:690,metadata.pb:827:1416                        ",
+      "sha1": "3248c1a623a13bf3a69e53df470e825967889396",
+      "sha256": "9a8626b6a9f43d1414917fc99d22b8058a09ddeec367d74a602cf1cd61fadd71",
+      "size": 1568397743,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/lineage-23.2-20260905-nightly-socrates-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/lineage-23.2-20260912-nightly-socrates-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/socrates/20260905/boot.img",
-      "sha1": "9f41032ab7eb75f011514c0b0332fa77b04674ff",
-      "sha256": "5838e4ae2cee078e0940236069ef7103111637b38f52db587431fe66eec89b01",
+      "filepath": "/full/socrates/20260912/boot.img",
+      "sha1": "3e02292db8629c17690720e6902e19076072c8d8",
+      "sha256": "410a56fb0c14ce7f61b11f5d62e09c754c4e809a5a58f064336598193af3a935",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/socrates/20260905/dtbo.img",
-      "sha1": "1d9446f514ad252e537726052e0b6105bfce108e",
-      "sha256": "4311ac33e83b74da4ee35af1728951f95c69f8add719319c850959297bb4755c",
+      "filepath": "/full/socrates/20260912/dtbo.img",
+      "sha1": "dbe0f0ad85db494eb4364cd2b3e4312933a84c80",
+      "sha256": "d7080a4339f08267158e7132b5e42a4cd9880b736491af677c6412f5ca41f3d5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/socrates/20260905/init_boot.img",
-      "sha1": "da46cf91d6de348e88e2c72c78d6b2ccffa37383",
-      "sha256": "a09a036f078a5ea81c5f0e35d870d1980a287f425ff8a8753903025898153b8e",
+      "filepath": "/full/socrates/20260912/init_boot.img",
+      "sha1": "d0c9de4ab3084099e0b90d5a19155efd1d3c11c2",
+      "sha256": "ca37392d67e4d5537c555dfa78a40b85152b7096145dbcba8d037fbbc1f60bd4",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/socrates/20260905/recovery.img",
-      "sha1": "672da66c895d25e6f2eef3fdf4de64e84e0452d5",
-      "sha256": "5460910ede9b6343bf38d627d0f488c51c7f4da395ff50fd05410bf9241b4c46",
+      "filepath": "/full/socrates/20260912/recovery.img",
+      "sha1": "12875ed1215994675ed5c5b36b6103213a6de83a",
+      "sha256": "05096ccff46ddf50e32cd760a0f271e1601d01f426cdbe11d818797c854b7cb0",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/socrates/20260905/super_empty.img",
+      "filepath": "/full/socrates/20260912/super_empty.img",
       "sha1": "9ef449029f0a99ae9e621c6391a09b47329db2d7",
       "sha256": "e6843857f8ff612e1bd468f36e89607c80b792db606b4728a2d14b538c3df575",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/socrates/20260905/vbmeta.img",
-      "sha1": "8449cc579bbedcd4654609cef6ca9f03b06bca1f",
-      "sha256": "c5ab1aec2138d6a9fbae90c00f69754d7420faa606105275b3549c507f28b8c7",
+      "filepath": "/full/socrates/20260912/vbmeta.img",
+      "sha1": "fce1f9ba78e1790e66535d96cb91b0fa50eeacef",
+      "sha256": "7bc60d4f30a7724788065e26df481a32f9db8e2887a0ee68e0b6c0d8831428f1",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/socrates/20260905/vendor_boot.img",
-      "sha1": "5433702aab565f636bbfd25b50285299857ed1f3",
-      "sha256": "298f2304e0a38eaaad79c7bd2c38a60f6b839ae8cec4d79916dab9c06e5ff38c",
+      "filepath": "/full/socrates/20260912/vendor_boot.img",
+      "sha1": "280fbf48846229c8be4217d46432f1e515b2cfa7",
+      "sha256": "2af068b96ea131f578683259102320d84b8710d939f0f3f09099c43bb78dd7df",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/socrates/20260905/build-manifest.xml",
-      "sha1": "5512831734765316bf5fde948bb1d8e4fdcbd826",
-      "sha256": "4eefacf1845f920bfddeb74b6bb350645e0662c0cf57b3fbeb89aeae95407935",
-      "size": 286459,
-      "url": "https://mirrorbits.lineageos.org/full/socrates/20260905/build-manifest.xml"
+      "filepath": "/full/socrates/20260912/build-manifest.xml",
+      "sha1": "528dc0747f4d433d1ba8b41b2ea36ff144e38ca3",
+      "sha256": "1513ec9a1fa034f33550b97b7d9688d5d5de8f1e1662d7bb5c2acaea32d48b48",
+      "size": 286316,
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20260912/build-manifest.xml"
     }
   ],
   "type": "nightly",
