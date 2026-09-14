@@ -1,45 +1,54 @@
 {
-  "date": "2026-02-24",
-  "datetime": 1771905553,
+  "date": "2026-09-13",
+  "datetime": 1789321878,
   "files": [
     {
-      "date": "2026-02-24",
-      "datetime": 1771905553,
-      "filename": "lineage-23.0-20260224-nightly-laurel_sprout-signed.zip",
-      "filepath": "/full/laurel_sprout/20260224/lineage-23.0-20260224-nightly-laurel_sprout-signed.zip",
-      "os_patch_level": "2026-02-01",
-      "sha1": "f6e0c6cd28579f61a1c36302efe15dd17cea7aa8",
-      "sha256": "b531643cf234ff75baa3cd8e75c8bd45d27839a15738ac2e69116a4279352738",
-      "size": 1130050660,
+      "date": "2026-09-13",
+      "datetime": 1789321878,
+      "filename": "lineage-23.2-20260913-nightly-laurel_sprout-signed.zip",
+      "filepath": "/full/laurel_sprout/20260913/lineage-23.2-20260913-nightly-laurel_sprout-signed.zip",
+      "os_patch_level": "2026-09-01",
+      "os_sdk_level": 36,
+      "ota_property_files": "payload_metadata.bin:3832:124668,payload.bin:3832:1167715503,payload_properties.txt:1167719393:156,apex_info.pb:1870:1279,care_map.pb:3196:589,metadata:69:700,metadata.pb:837:985                         ",
+      "sha1": "c34238b2833e10c999f3fd8009bf9dd568b53d89",
+      "sha256": "c65a58cd0c6213de4be9f4a3a331ddc46e1d5c4050d20ae6b7679946cb901214",
+      "size": 1167722540,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260224/lineage-23.0-20260224-nightly-laurel_sprout-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260913/lineage-23.2-20260913-nightly-laurel_sprout-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/laurel_sprout/20260224/boot.img",
-      "sha1": "e4fc811dd1fb706ecc2285fed6abdb27c552a240",
-      "sha256": "d491d1b99e057c87934bb45d7c9662e03cc2b6479d1d3e095162be9e909b1390",
+      "filepath": "/full/laurel_sprout/20260913/boot.img",
+      "sha1": "4bedfe78b49e48fc5c1207224aab37b30e3f69f8",
+      "sha256": "616f8ff0195f4c1dc4584b50b60574830679cec6def2c8eb844e8bf2ae290be7",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260224/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260913/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/laurel_sprout/20260224/dtbo.img",
-      "sha1": "6f5630f7164ce054fbf5c42b37b06bc9428f24fe",
-      "sha256": "033b4ac5d36f123bb45879014df61f88fb927e64ec6ee5590bb9d05f0413ad64",
+      "filepath": "/full/laurel_sprout/20260913/dtbo.img",
+      "sha1": "3c14c4970bd1d19161c01e7ade79266014ecda0e",
+      "sha256": "287f16df738666472867fe2e184e4921b5d3479ef2fa1b2f9d6522c946fb44f6",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260224/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260913/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/laurel_sprout/20260224/vbmeta.img",
-      "sha1": "366eb17af3165059995c0d7954baabc72fdccc39",
-      "sha256": "e600bbd0df04b82a50bc7ab902c28cbebc16e7ab1b5af8c5624e9c8aa3bd8b8d",
+      "filepath": "/full/laurel_sprout/20260913/vbmeta.img",
+      "sha1": "fdd7f21a124a2fd915d4607c72cd5d48db6cb4a3",
+      "sha256": "ab97a91918a0018776b77a8672502d55181bfae291a95a2aa3091629761754bd",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260224/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260913/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/laurel_sprout/20260913/build-manifest.xml",
+      "sha1": "090a977d55bcf1b0404346540fb7a49b7f1305f6",
+      "sha256": "f5b8b7f1cdec45d2a895e4fe5e22e0165f184853fd59794ad0a3a5c4788d4759",
+      "size": 285806,
+      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20260913/build-manifest.xml"
     }
   ],
-  "os_patch_level": "2026-02-01",
   "type": "nightly",
-  "version": "23.0"
+  "version": "23.2"
 }
