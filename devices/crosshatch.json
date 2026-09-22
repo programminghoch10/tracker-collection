@@ -1,60 +1,60 @@
 {
-  "date": "2026-09-15",
-  "datetime": 1789454712,
+  "date": "2026-09-22",
+  "datetime": 1790060849,
   "files": [
     {
-      "date": "2026-09-15",
-      "datetime": 1789454712,
-      "filename": "lineage-22.2-20260915-nightly-crosshatch-signed.zip",
-      "filepath": "/full/crosshatch/20260915/lineage-22.2-20260915-nightly-crosshatch-signed.zip",
+      "date": "2026-09-22",
+      "datetime": 1790060849,
+      "filename": "lineage-22.2-20260922-nightly-crosshatch-signed.zip",
+      "filepath": "/full/crosshatch/20260922/lineage-22.2-20260922-nightly-crosshatch-signed.zip",
       "os_patch_level": "2026-09-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:4062:113892,payload.bin:4062:1097622367,payload_properties.txt:1097626487:156,apex_info.pb:2008:1157,care_map.pb:3212:803,metadata:69:683,metadata.pb:820:1140                        ",
-      "sha1": "4bb186930fdfa8e2a17e3444a06c2b3daf966b7a",
-      "sha256": "3082e9e2bc237da4d1696a5670bad62e226ecf434360c3249a579302ed0b9455",
-      "size": 1097629638,
+      "ota_property_files": "payload_metadata.bin:4062:113890,payload.bin:4062:1097664026,payload_properties.txt:1097668146:156,apex_info.pb:2008:1157,care_map.pb:3212:803,metadata:69:683,metadata.pb:820:1140                        ",
+      "sha1": "260b2639979ace6d2a89c6a22c4562cb8653bf36",
+      "sha256": "fec36bc8acf9aced2dc87d9ae7807e1dd6cd8fb78608d157f762c6e09508dfeb",
+      "size": 1097671297,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260915/lineage-22.2-20260915-nightly-crosshatch-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260922/lineage-22.2-20260922-nightly-crosshatch-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/crosshatch/20260915/boot.img",
-      "sha1": "765eb4be46b00e578ffd6a530981b35f82b9c4de",
-      "sha256": "04dc21d99ffab9a4283b9b2e17beb38e7b83ffd9ac55fe84fec1890db5580575",
+      "filepath": "/full/crosshatch/20260922/boot.img",
+      "sha1": "b6d08f7fe779e99be75557f39f8478def3ce20ba",
+      "sha256": "9b754fc9526aa55e87bb4c54747a8b2f99962b4dbe4d8fb2ed6b35a65baa41ff",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260915/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260922/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/crosshatch/20260915/dtbo.img",
-      "sha1": "ea775491feb6e6090c0eed981684a01fc475a4fb",
-      "sha256": "dbffac65d1eb84c1ba07a46b1b676021d8d7f052b17706a13f8df7c4c182740d",
+      "filepath": "/full/crosshatch/20260922/dtbo.img",
+      "sha1": "3c41ef387b4c868109677b3b2de989442233cdc9",
+      "sha256": "d8d26ecfb3ed438205db0a095f4d7d97da41c1b0036cb374630ebab2174b4973",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260915/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260922/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/crosshatch/20260915/super_empty.img",
+      "filepath": "/full/crosshatch/20260922/super_empty.img",
       "sha1": "937e8c88b3a4daa09b88e0dfba8798dd3e4351bf",
       "sha256": "91e88fad448ba9cff9ba752a750b2151c3778f5b2252bf066014973b73a6ff88",
       "size": 4720,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260915/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260922/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/crosshatch/20260915/vbmeta.img",
-      "sha1": "b61a5717cf2f36b945efd51da3e7671d72231371",
-      "sha256": "fb96b533311aada49018d1ad46132cb8e1ece5104ac44d17395e657f8476237b",
+      "filepath": "/full/crosshatch/20260922/vbmeta.img",
+      "sha1": "e53bcb03f9aff87452c8418b21324212d20ab119",
+      "sha256": "d299eeee99d48b952538104f554b609656c364d1fb152adb2ec2391443bd1577",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260915/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260922/vbmeta.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/crosshatch/20260915/build-manifest.xml",
-      "sha1": "caa013c74caf40d12901bcf8f106dc133e4c60cc",
-      "sha256": "4fa79f8f85171ae0e83493178ee53bff0c8646cff216d49fe86b9f6fdfa58315",
-      "size": 284298,
-      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260915/build-manifest.xml"
+      "filepath": "/full/crosshatch/20260922/build-manifest.xml",
+      "sha1": "2716c8c7b4e73eb8ec11b16d19f5728699c2d59c",
+      "sha256": "5df6c034abf01e4c72beac801afedce3e061dac75c7f9021cb48716dac4f1f9e",
+      "size": 284253,
+      "url": "https://mirrorbits.lineageos.org/full/crosshatch/20260922/build-manifest.xml"
     }
   ],
   "type": "nightly",
