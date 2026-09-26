@@ -1,60 +1,60 @@
 {
-  "date": "2026-09-19",
-  "datetime": 1789776125,
+  "date": "2026-09-26",
+  "datetime": 1790412197,
   "files": [
     {
-      "date": "2026-09-19",
-      "datetime": 1789776125,
-      "filename": "lineage-22.2-20260919-nightly-bonito-signed.zip",
-      "filepath": "/full/bonito/20260919/lineage-22.2-20260919-nightly-bonito-signed.zip",
+      "date": "2026-09-26",
+      "datetime": 1790412197,
+      "filename": "lineage-22.2-20260926-nightly-bonito-signed.zip",
+      "filepath": "/full/bonito/20260926/lineage-22.2-20260926-nightly-bonito-signed.zip",
       "os_patch_level": "2026-09-01",
       "os_sdk_level": 35,
-      "ota_property_files": "payload_metadata.bin:3947:115375,payload.bin:3947:1130453420,payload_properties.txt:1130457425:156,apex_info.pb:1903:1191,care_map.pb:3141:759,metadata:69:668,metadata.pb:805:1050                        ",
-      "sha1": "892954d177dd5ef66e12cb18543540d999ea4956",
-      "sha256": "590a08772e71f967c50b407eb5be1fa06ed57de70d3039f9f015da28d45c706c",
-      "size": 1130460576,
+      "ota_property_files": "payload_metadata.bin:3947:115373,payload.bin:3947:1130516349,payload_properties.txt:1130520354:156,apex_info.pb:1903:1191,care_map.pb:3141:759,metadata:69:668,metadata.pb:805:1050                        ",
+      "sha1": "2905c06f91f6ede60190ec976f9947581c4c8aad",
+      "sha256": "500f83b7be67161d88cf23b6eb32bfb9d6dff6b3baf18ed52c1953a8d1f31f74",
+      "size": 1130523505,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260919/lineage-22.2-20260919-nightly-bonito-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260926/lineage-22.2-20260926-nightly-bonito-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/bonito/20260919/boot.img",
-      "sha1": "062841f964cdfb9b4b8ee9b2a0b9b41cd1bed300",
-      "sha256": "eabc147b473c996fa5090b684ad8a07a31d68d347551b2bf808fe0498e6cce08",
+      "filepath": "/full/bonito/20260926/boot.img",
+      "sha1": "7edd1624a3ba32fa3e0e5bf508483264bf683be8",
+      "sha256": "e0642d15a511e2e570d8fd3ad3d7d1d9a9293720d96108d35e15a052a34c3db8",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260919/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260926/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/bonito/20260919/dtbo.img",
-      "sha1": "d1768c673e50cbc5c84e8af16c4935c134e6780a",
-      "sha256": "ac4e5a644412bcb0186cc4d126cb39740bceb9ebee468e60e948429249bb1570",
+      "filepath": "/full/bonito/20260926/dtbo.img",
+      "sha1": "1e555cbdcca24d5219b9e3b577a16d2eedf9c14d",
+      "sha256": "18ea46f3754a832fc1825060a2b9725f3281e9af3ead93a6eedae96f25e7c6b2",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260919/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260926/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/bonito/20260919/super_empty.img",
+      "filepath": "/full/bonito/20260926/super_empty.img",
       "sha1": "63bc61d1abc09a2bdc1b1ba606411f889f3facba",
       "sha256": "62024718661d2d02841a0ffc84e63ad815e60a4b3090ffe26e4c70abfab3197b",
       "size": 4656,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260919/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260926/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/bonito/20260919/vbmeta.img",
-      "sha1": "d4ca9730822530c03cb89eb922a980e6b84f4541",
-      "sha256": "dffdd7df5456b8bdb4d4cb4d9e45c4b85e3fbabf0414c8093add33c023870cb2",
+      "filepath": "/full/bonito/20260926/vbmeta.img",
+      "sha1": "2495eab9907608c2d509b7fb0549ffce4a7291a7",
+      "sha256": "df04b5f599c6ce347ae7a624ef0d7cdb1b78eeb05e296970bdf0c5c97fa7bcfe",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260919/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260926/vbmeta.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/bonito/20260919/build-manifest.xml",
-      "sha1": "8af8bd00705b9ca81903f896ccc4f7f52acb24e0",
-      "sha256": "35d42a900508ff2387a0af17459f0543ac9ee4146c11c77d3e44aa6cc3dd2c9b",
-      "size": 284290,
-      "url": "https://mirrorbits.lineageos.org/full/bonito/20260919/build-manifest.xml"
+      "filepath": "/full/bonito/20260926/build-manifest.xml",
+      "sha1": "898807e8e87827b3b935749515a6cff50931c3a9",
+      "sha256": "7cd35a924bd9c22405f7b75fb1cb346dbe205ea29ef5fe7bca74a07ad98b961c",
+      "size": 284245,
+      "url": "https://mirrorbits.lineageos.org/full/bonito/20260926/build-manifest.xml"
     }
   ],
   "type": "nightly",
