@@ -1,70 +1,70 @@
 {
-  "date": "2026-10-07",
-  "datetime": 1791350828,
+  "date": "2026-10-11",
+  "datetime": 1791726634,
   "files": [
     {
-      "date": "2026-10-07",
-      "datetime": 1791350828,
-      "filename": "lineage-23.2-20261007-nightly-caprip-signed.zip",
-      "filepath": "/full/caprip/20261007/lineage-23.2-20261007-nightly-caprip-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4223:144814,payload.bin:4223:1109661630,payload_properties.txt:1109665911:156,apex_info.pb:2021:1279,care_map.pb:3347:829,metadata:69:685,metadata.pb:822:1151                        ",
-      "sha1": "d2d6e8e47f339ec354eb39fbcbfe35b1396b8feb",
-      "sha256": "99b5d5bbc4a6cd2cdf21ee18dbc4577c993f3d050b8747aa74927ab176ee7099",
-      "size": 1109669058,
+      "date": "2026-10-11",
+      "datetime": 1791726634,
+      "filename": "lineage-24.0-20261011-nightly-caprip-signed.zip",
+      "filepath": "/full/caprip/20261011/lineage-24.0-20261011-nightly-caprip-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4360:146385,payload.bin:4360:1143651324,payload_properties.txt:1143655742:156,apex_info.pb:2022:1414,care_map.pb:3483:830,metadata:69:685,metadata.pb:822:1152                        ",
+      "sha1": "90224d44302297792507aaf2a15ae2d8c76c278f",
+      "sha256": "79ed0d92857b54b2cfd41c1801107f41cf5a1b93f4bc7e9f2dcbd993cd3b1f4d",
+      "size": 1143658889,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20261007/lineage-23.2-20261007-nightly-caprip-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20261011/lineage-24.0-20261011-nightly-caprip-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/caprip/20261007/boot.img",
-      "sha1": "39144d0165da5fb0b400e2201e388d2279a36e5d",
-      "sha256": "5cc545f56f822a931ce1dde76d81a88565bac90ac6e76f47c870d0db16164515",
+      "filepath": "/full/caprip/20261011/boot.img",
+      "sha1": "91b930e8785fca79680849c18f67448af235f748",
+      "sha256": "ed44d6b05a6b14fc9dc75fcc8babe343a65395f945796a2e50548d5d4551892c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20261007/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20261011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/caprip/20261007/dtbo.img",
-      "sha1": "9bbe080e688e56f3eac0b412a1f149ac0773113f",
-      "sha256": "54ca7b4dbbd90eaa39dabc240e5e0b932599a72b5d6f1b8d6277dcbfe82cb344",
+      "filepath": "/full/caprip/20261011/dtbo.img",
+      "sha1": "d69b50c03b57f0ce2d125974f618b90214d1a3b6",
+      "sha256": "3bbd86dee30e1d838791d2e285d661536bd6370cc04862b5fcd40147d405d923",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20261007/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20261011/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/caprip/20261007/super_empty.img",
-      "sha1": "b70b7ff3e5885821502e61e4073152a0ffc723b8",
-      "sha256": "ad915e77f8129014079419a01bd630478aaad5884ac75658f6fc4b30001fdeed",
+      "filepath": "/full/caprip/20261011/super_empty.img",
+      "sha1": "",
+      "sha256": "",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20261007/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20261011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/caprip/20261007/vbmeta.img",
-      "sha1": "589e787ae35471acd2f6fa6314dd0426a41ad095",
-      "sha256": "7f88b330aa760b0102377aa62801af73b0d50d5b2ffbc4944ef5982825318aea",
+      "filepath": "/full/caprip/20261011/vbmeta.img",
+      "sha1": "d0cfc780a7dd5e2f86eb03041fecd6f0fd4a144b",
+      "sha256": "b3381ecbb57d9ab3270f604d5a8a3991a86f703f930baba57a0f0036d0073230",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20261007/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20261011/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/caprip/20261007/vendor_boot.img",
-      "sha1": "f35eff5aab963602de893571eb1083df5d735fe0",
-      "sha256": "c8158ef97b51c1276feae9c7d0d99fabf34d1ce05a661e6531748d86b9f4d8cc",
+      "filepath": "/full/caprip/20261011/vendor_boot.img",
+      "sha1": "5d9fc6a61acef080be54cf13634601a2c3ad8b07",
+      "sha256": "c7e6ed1b9e854c2f976dc23e8ae5835b052c866eff5f55628e3dc6754c20c22c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20261007/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20261011/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/caprip/20261007/build-manifest.xml",
-      "sha1": "d5d2e8ff971faa851d70e5551c96b39a18fcc763",
-      "sha256": "39cf52837849f4a93e5210b2676d6aa42db2bad24c09c67b433c1f120816e2c7",
-      "size": 285756,
-      "url": "https://mirrorbits.lineageos.org/full/caprip/20261007/build-manifest.xml"
+      "filepath": "/full/caprip/20261011/build-manifest.xml",
+      "sha1": "947f5eba11ad8323bd7b15aa47a2266359e3e560",
+      "sha256": "b353287df7dbc9f14517eb2a558461a3a94d68305e393f34bf2c9fd96b33de99",
+      "size": 305463,
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20261011/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
