@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-06",
-  "datetime": 1791245175,
+  "date": "2026-10-11",
+  "datetime": 1791698009,
   "files": [
     {
-      "date": "2026-10-06",
-      "datetime": 1791245175,
-      "filename": "lineage-23.2-20261006-nightly-caiman-signed.zip",
-      "filepath": "/full/caiman/20261006/lineage-23.2-20261006-nightly-caiman-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4784:152145,payload.bin:4784:1593686777,payload_properties.txt:1593691619:156,apex_info.pb:2024:1632,care_map.pb:3703:1034,metadata:69:671,metadata.pb:808:1168                        ",
-      "sha1": "1d91480a5f5944857dbfe9c57d8f7e9cea82fc1b",
-      "sha256": "72d129c3f399aa81ec41e2b9f33637752d1f9a6e82a28f125dd9363a53bb2908",
-      "size": 1593694766,
+      "date": "2026-10-11",
+      "datetime": 1791698009,
+      "filename": "lineage-24.0-20261011-nightly-caiman-signed.zip",
+      "filepath": "/full/caiman/20261011/lineage-24.0-20261011-nightly-caiman-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4910:156289,payload.bin:4910:1720829558,payload_properties.txt:1720834526:156,apex_info.pb:2040:1714,care_map.pb:3801:1062,metadata:69:671,metadata.pb:808:1184                        ",
+      "sha1": "70027413e36b06a6ef21c6da6506c0cbf9a998a2",
+      "sha256": "787d2ead4b5f97a6e5a59fcdc6893af18673b1583dfb3970bdf9a7f89d26d6c2",
+      "size": 1720837673,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/lineage-23.2-20261006-nightly-caiman-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/lineage-24.0-20261011-nightly-caiman-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/caiman/20261006/boot.img",
-      "sha1": "b5680fa3f5e5d3f6fde635267796c9b141f3dced",
-      "sha256": "18233af8a26092c673ce5a3665870c43bba00599bd6a392f2dc86e807f12aee5",
+      "filepath": "/full/caiman/20261011/boot.img",
+      "sha1": "9605a7e69d60ed300d5cb2848f9c8fd8258db1b5",
+      "sha256": "7ad5b59eeb97446a7007729be031eed6dfcdf48404a792ca2746474da948cc56",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/caiman/20261006/dtbo.img",
-      "sha1": "3a8c93669129f3cbed7f99ee6fa9ed4dfc14afe5",
-      "sha256": "94a765348daaac4ae96172de127683aa118cc66c9317a38155ed588f829f15e4",
+      "filepath": "/full/caiman/20261011/dtbo.img",
+      "sha1": "a8f416414de3ecdec3896dae09453fe2a4134df3",
+      "sha256": "98a585dce2416858c53ef139e613fd047d0901048b30b466185c1688781456ab",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/caiman/20261006/init_boot.img",
-      "sha1": "02b23cbdc077ab1f4a2c4dabf6dbc8a73f16defe",
-      "sha256": "dcf53bd6f7a9df6d915d86a643bbf2660b422354adb9e2d7d1536def6de056ff",
+      "filepath": "/full/caiman/20261011/init_boot.img",
+      "sha1": "f45ec37e8fe62e96241a63ed31aa5b75f5249bce",
+      "sha256": "ede9a92e64cf4c8e10da72300620e43421542c05624f37115d9a9f099a30b17f",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/caiman/20261006/super_empty.img",
-      "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
-      "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
+      "filepath": "/full/caiman/20261011/super_empty.img",
+      "sha1": "",
+      "sha256": "",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/caiman/20261006/vbmeta.img",
-      "sha1": "f6098757b1b67c0bcd9186f9c6fc9acd27b466e1",
-      "sha256": "4f0b4ffa83e505d108515c6e21bccc474694f381df87474182356e9b3fdea9c1",
+      "filepath": "/full/caiman/20261011/vbmeta.img",
+      "sha1": "9a7b5c29a004ff7c4835e96eff61a80d8faf7929",
+      "sha256": "3a4144048e96fc48c18c0b054356357948233b5fbcfadbcca8d48cda9dc9213a",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/caiman/20261006/vendor_boot.img",
-      "sha1": "b519ab957513c456ee9c7084b969b375302d8cb7",
-      "sha256": "9b9cd93aaed397d4fc28d6eda33f15683e45f31fd23bacee960cf7791b596ecf",
+      "filepath": "/full/caiman/20261011/vendor_boot.img",
+      "sha1": "84da5d9644fd555156a7a77f27053db8162f35a2",
+      "sha256": "c2087c3f361f2ac1f412b572c91daff8723635ffb72c5abb36cda27bb54f615f",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/caiman/20261006/vendor_kernel_boot.img",
-      "sha1": "a8827dcc5965119af2a8d50558fd68412ac786b1",
-      "sha256": "8112a74937905acb9545558aa1010d9da63c56164f93001e31a92c60032c5ff4",
+      "filepath": "/full/caiman/20261011/vendor_kernel_boot.img",
+      "sha1": "03785a4c9918806cdc1efee8f0e9e4340a523359",
+      "sha256": "ea9c2ca5166cdf54e668e9194ff9d05feb878048816d2cf39e7e5016df3ca98b",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/vendor_kernel_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/caiman/20261006/build-manifest.xml",
-      "sha1": "0a240d4924b2da5a7bf863b287fa7217f81fda16",
-      "sha256": "07caeacbadc9d35a517f436bb5d9c53288f9f17322979f36cd25b0bc3b40374f",
-      "size": 286004,
-      "url": "https://mirrorbits.lineageos.org/full/caiman/20261006/build-manifest.xml"
+      "filepath": "/full/caiman/20261011/build-manifest.xml",
+      "sha1": "68aa68f5708df5e6afc0b6def241692fd9cff893",
+      "sha256": "95c29e9e8843f6b207c1e007fc7d01726095fa26f548d3cc916596f24118c948",
+      "size": 305465,
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20261011/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
