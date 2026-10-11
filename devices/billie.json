@@ -1,61 +1,70 @@
 {
-  "date": "2025-10-06",
-  "datetime": 1759708800,
+  "date": "2026-10-11",
+  "datetime": 1791695158,
   "files": [
     {
-      "date": "2025-10-06",
-      "datetime": 1759708800,
-      "filename": "lineage-21.0-20251006-nightly-billie-signed.zip",
-      "filepath": "/full/billie/20251006/lineage-21.0-20251006-nightly-billie-signed.zip",
-      "os_patch_level": "2025-09",
-      "sha1": "fa5623f94ad6c90ac9f331d12c3f29fe10cefafb",
-      "sha256": "65d20997d1e8d2f07870965484f37990ef5208863450da8c63eb5d0f12f48a91",
-      "size": 1247181027,
+      "date": "2026-10-11",
+      "datetime": 1791695158,
+      "filename": "lineage-24.0-20261011-nightly-billie-signed.zip",
+      "filepath": "/full/billie/20261011/lineage-24.0-20261011-nightly-billie-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4488:159357,payload.bin:4488:1402381471,payload_properties.txt:1402386017:156,apex_info.pb:2044:1414,care_map.pb:3505:936,metadata:69:691,metadata.pb:828:1168                        ",
+      "sha1": "e2412279d617f50fdc3d34be71e317aa43e6c27f",
+      "sha256": "b2fc0e5c081f31c8d0ed9b6af14fb08f9c028dd9f44cd685d4518068cda061b9",
+      "size": 1402389164,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/billie/20251006/lineage-21.0-20251006-nightly-billie-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20261011/lineage-24.0-20261011-nightly-billie-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/billie/20251006/boot.img",
-      "sha1": "b1b26c04b2765d26ffc9ccbba2845f0b57d9fb36",
-      "sha256": "0f561b619c4a3dce3df6306c1752eab75c7f1f6d381969392b4a03dbf0f1f3d2",
+      "filepath": "/full/billie/20261011/boot.img",
+      "sha1": "456e33e35d47b5aba9dff6110f06403b25222425",
+      "sha256": "fca19f991a7cb6ad2296c82afce3623e28b658ff31249332ba4cacae4d934a09",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20251006/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20261011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/billie/20251006/dtbo.img",
-      "sha1": "9ea1f6866010b58d49c013fc7ca430183e20b79e",
-      "sha256": "018d8308264dbab8355cddf8b9b6573c47a00488c3ef4aa91aaa31123704b702",
+      "filepath": "/full/billie/20261011/dtbo.img",
+      "sha1": "2224ce29f86e9f9220fa05b97c1c06fda321ccdf",
+      "sha256": "0c3aec60cb5071dc9236ccdb93ceacfccc486d6587f4d50f5dba9ee8c869c938",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20251006/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20261011/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/billie/20251006/recovery.img",
-      "sha1": "2e11b7ed5e5d1447db382f7e6a5587d0bb1fcdc3",
-      "sha256": "bf38d053c451d603f51e4be4c30ce84a54525f777598a4d488754fd97934d42a",
+      "filepath": "/full/billie/20261011/recovery.img",
+      "sha1": "d52ecc5f214cfb27643e0549ecc8ce105c493687",
+      "sha256": "61e6426f1bbbc3723fc766c6d95b3eba91ae8724e0924df21074a2f2a9662574",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20251006/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20261011/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/billie/20251006/super_empty.img",
-      "sha1": "5c46196f84f276a32ab226f91278f584a05d0dcb",
-      "sha256": "ab447fce7e5743bcba1e0de4a4a831eda72bf4bb416aa1360436201a8811858f",
+      "filepath": "/full/billie/20261011/super_empty.img",
+      "sha1": "",
+      "sha256": "",
       "size": 4952,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20251006/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20261011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/billie/20251006/vbmeta.img",
-      "sha1": "64c121219abac801e2e22fbd7f1e7ec591529e66",
-      "sha256": "6ebd4bb52cadfc6a3090e5b6adcc62f271444e139131b9d212d11e9e9ff651a7",
+      "filepath": "/full/billie/20261011/vbmeta.img",
+      "sha1": "c76b108824513434163cef245539559b873b652c",
+      "sha256": "c1cee644adc0f2a7c93fee0191cc9837b47d18f146c1518fae77cd18830e65b1",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/billie/20251006/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/billie/20261011/vbmeta.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/billie/20261011/build-manifest.xml",
+      "sha1": "e788c3a844b23f991845d082aca77d6c34773ad8",
+      "sha256": "e1bf26a0ef3050dfe3eca937293c6add667281ed6df41a785dffb89570353b73",
+      "size": 305199,
+      "url": "https://mirrorbits.lineageos.org/full/billie/20261011/build-manifest.xml"
     }
   ],
-  "os_patch_level": "2025-09",
   "type": "nightly",
-  "version": "21.0"
+  "version": "24.0"
 }
