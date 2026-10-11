@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-06",
-  "datetime": 1791245120,
+  "date": "2026-10-11",
+  "datetime": 1791709893,
   "files": [
     {
-      "date": "2026-10-06",
-      "datetime": 1791245120,
-      "filename": "lineage-23.2-20261006-nightly-dodge-signed.zip",
-      "filepath": "/full/dodge/20261006/lineage-23.2-20261006-nightly-dodge-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:5197:216269,payload.bin:5197:3112081649,payload_properties.txt:3112086904:156,apex_info.pb:2411:1369,care_map.pb:3827:1323,metadata:69:709,metadata.pb:846:1517                        ",
-      "sha1": "e662aa6239db25a62b49be78210b546098641f90",
-      "sha256": "e78cb47962c6e33654b0e6830ea62b6e77ceba12d1553f9e610366f91eaf07a1",
-      "size": 3112090051,
+      "date": "2026-10-11",
+      "datetime": 1791709893,
+      "filename": "lineage-24.0-20261011-nightly-dodge-signed.zip",
+      "filepath": "/full/dodge/20261011/lineage-24.0-20261011-nightly-dodge-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:5325:217499,payload.bin:5325:3182101295,payload_properties.txt:3182106678:156,apex_info.pb:2415:1508,care_map.pb:3970:1308,metadata:69:711,metadata.pb:848:1519                        ",
+      "sha1": "b418bcee856527f63e064d093c531b19f7b43ecb",
+      "sha256": "85baf5c61485df9e6496ee9192b561038b40d0363244ab718739bcd88a17694c",
+      "size": 3182109825,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/lineage-23.2-20261006-nightly-dodge-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/lineage-24.0-20261011-nightly-dodge-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/dodge/20261006/boot.img",
-      "sha1": "4e48caf50cac619146820fb8fe11a88a7edd871f",
-      "sha256": "1504faf18d28f2b01aea234d3eed29edd1d0a1880ae03a95dd56ea0d02970331",
+      "filepath": "/full/dodge/20261011/boot.img",
+      "sha1": "949c3e242f1b912f74edb0b8508659606ad44f25",
+      "sha256": "1e0b2f8661168a6fcbe7e30b68092232ea4f5881e70463ba854679bfe5bf02ef",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/dodge/20261006/dtbo.img",
-      "sha1": "f1ebdc7af749a6c5630c00f7dfc01da2d6f1b703",
-      "sha256": "deea3d59c64eede2255524d36cb043220cfdb49fdd4b2c4d0a614c141470259c",
+      "filepath": "/full/dodge/20261011/dtbo.img",
+      "sha1": "ab778a5f242738ffb977d58a8e666b9911ebf68c",
+      "sha256": "68c4e7fee3bf4a3fbf7ad328d3b71d37380aa4665afc5184a71a00bc6f61ef95",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/dodge/20261006/init_boot.img",
-      "sha1": "d8670e8d7b3b485e76c177c5d1a8353ff3443659",
-      "sha256": "8c24308ae7f43992625afc6137f7fbe66267449c0a3f6a8c750111b22ff69c2a",
+      "filepath": "/full/dodge/20261011/init_boot.img",
+      "sha1": "e4ded4881b283bd439d0a4b7fbdd089b3b8cd191",
+      "sha256": "51d0c6368c55996c4f007ff91a1842fb0b11633a1605170231940f247fd531b3",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/dodge/20261006/recovery.img",
-      "sha1": "13cf63010372c328fbab0c86da5accd61ab45acb",
-      "sha256": "e944df2f519bf18f23c76102aff67570212966e05954fdb1ca4be4a4e7c376b2",
+      "filepath": "/full/dodge/20261011/recovery.img",
+      "sha1": "955c0bfc28c551b5c8e62ef8b513bf85c4affdd2",
+      "sha256": "a0c4962b6768b09a8654bc943b2817456386fb31795fa3194aed193812feb97b",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/dodge/20261006/super_empty.img",
-      "sha1": "16ae3a5d647a825a3666955fd7463e300ae12747",
-      "sha256": "f4c40de64d3a1bfb62a46fe8d12a1ee107801cca51a7037d6a058d4379b3d6cf",
+      "filepath": "/full/dodge/20261011/super_empty.img",
+      "sha1": "",
+      "sha256": "",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/dodge/20261006/vbmeta.img",
-      "sha1": "a5e6e31007a06589f5bc4cbac4f3abb71fc061ff",
-      "sha256": "4051c98e94597ce6148548cbc5ed501d78fc7d911da667af1fea3d61fed75896",
+      "filepath": "/full/dodge/20261011/vbmeta.img",
+      "sha1": "9ccf4364af38af9a597b54329fff50a43684374a",
+      "sha256": "b8c905c81a4e0336b93bd2a39802174755cb8d15e189728edb889096b61e85b9",
       "size": 12288,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/dodge/20261006/vendor_boot.img",
-      "sha1": "2ea1719f20317e848c5b4b6a217c052d4488224f",
-      "sha256": "76759d472e9b3e6b3d06c909b308165fca15f7498e1cd2ba00096c0e4d463a69",
+      "filepath": "/full/dodge/20261011/vendor_boot.img",
+      "sha1": "130936c4abdb239e970a53718f640a4975b2f0c0",
+      "sha256": "f41ca6ab668b56552a7e8a2f63186325a5db9f1b03cb2afb44acdb727eb97d1b",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/dodge/20261006/build-manifest.xml",
-      "sha1": "138f6f923afabf60d7390c7d5dae81d9f257aaba",
-      "sha256": "7e1a8c0c5cdf901fe085b0acc187d5548ea89a7203f4c759fdcb440a43859302",
-      "size": 286266,
-      "url": "https://mirrorbits.lineageos.org/full/dodge/20261006/build-manifest.xml"
+      "filepath": "/full/dodge/20261011/build-manifest.xml",
+      "sha1": "a9e62bf195a066af245da16f2f65992d0111da89",
+      "sha256": "d3673026b8239f706cdeb6f1d0bfac14ad78e7fa325afa794303093b77d76dff",
+      "size": 305973,
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20261011/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
