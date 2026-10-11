@@ -1,70 +1,70 @@
 {
-  "date": "2026-10-08",
-  "datetime": 1791427348,
+  "date": "2026-10-11",
+  "datetime": 1791709596,
   "files": [
     {
-      "date": "2026-10-08",
-      "datetime": 1791427348,
-      "filename": "lineage-23.2-20261008-nightly-denver-signed.zip",
-      "filepath": "/full/denver/20261008/lineage-23.2-20261008-nightly-denver-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4223:131869,payload.bin:4223:1136112002,payload_properties.txt:1136116283:156,apex_info.pb:2021:1279,care_map.pb:3347:829,metadata:69:685,metadata.pb:822:1151                        ",
-      "sha1": "0a6c4d6bad385a438da30b42adda10c860577fdb",
-      "sha256": "a02559f5199c57228ec6e8a6172142bdfea4ea1e87a4444dddc807110d297867",
-      "size": 1136119430,
+      "date": "2026-10-11",
+      "datetime": 1791709596,
+      "filename": "lineage-24.0-20261011-nightly-denver-signed.zip",
+      "filepath": "/full/denver/20261011/lineage-24.0-20261011-nightly-denver-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4360:133498,payload.bin:4360:1168265880,payload_properties.txt:1168270298:156,apex_info.pb:2022:1414,care_map.pb:3483:830,metadata:69:685,metadata.pb:822:1152                        ",
+      "sha1": "571c51f7dfaa8513d86172c4fa27216040e15dec",
+      "sha256": "0e96dc83f9a155cc0a538dc37606b0084e8b106b913180f7eefb7984f6f9d59a",
+      "size": 1168273445,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/denver/20261008/lineage-23.2-20261008-nightly-denver-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20261011/lineage-24.0-20261011-nightly-denver-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/denver/20261008/boot.img",
-      "sha1": "64cf0b52e51ad7e43ce9c6109c290c7d403617a3",
-      "sha256": "85302dc666dc9536c4f3374e2e87bbf081977f739e55f63623611b5f8a65f06c",
+      "filepath": "/full/denver/20261011/boot.img",
+      "sha1": "2326eedbfdd7c6cef35ffb615b7f47decb5997c6",
+      "sha256": "700bf7b95a1a4d4de95e81d163d77c0cb860ebe7a9728bb89f518299436c51db",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20261008/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20261011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/denver/20261008/dtbo.img",
-      "sha1": "8c4931d9292c383f0e040e6f80f6a06a222532ba",
-      "sha256": "e596a95acdac8a4897142d47b8d3f75524614828140e3d00c08d35358c171e22",
+      "filepath": "/full/denver/20261011/dtbo.img",
+      "sha1": "2a6c94085c62eb58903b27c02ed8ee7ef8091375",
+      "sha256": "e2b509e92816bd7f7ab313c1514c91d914785465815694cbadc32c2eb77f2fe8",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20261008/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20261011/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/denver/20261008/super_empty.img",
-      "sha1": "a002ed8cddb90025c295debafcde687d4f0a325b",
-      "sha256": "2deaed6997e33f7d739cdcb494444868beee8bb1d49002c35d752be671021629",
+      "filepath": "/full/denver/20261011/super_empty.img",
+      "sha1": "",
+      "sha256": "",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20261008/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20261011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/denver/20261008/vbmeta.img",
-      "sha1": "bd72394e8451da576fc30fc3cb6e2dc4eadbf6fb",
-      "sha256": "299e748cd8e642ebba8f3d6d33ba112e9eb4bfc833a214f001b55562770dd0d7",
+      "filepath": "/full/denver/20261011/vbmeta.img",
+      "sha1": "3f3384c0adbb9f25245f67127abfb98cec9bc4b2",
+      "sha256": "1513733c6aeb9f4a9b337a43833bcf61b5398d675d0bdb561cb983584baec866",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20261008/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20261011/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/denver/20261008/vendor_boot.img",
-      "sha1": "613a316b4975ed04c347218334d35eb576bbdabc",
-      "sha256": "ddcfa0980922567f45a0dff41a7dcd0f18724ec586daf8ead743870584e4a267",
+      "filepath": "/full/denver/20261011/vendor_boot.img",
+      "sha1": "76aa3fbfa10572ea4711388e1753be16c9990048",
+      "sha256": "1efca1a744a06e2230f6907b0a45c4765f7527d986d073de009ebf59d917c071",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20261008/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/denver/20261011/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/denver/20261008/build-manifest.xml",
-      "sha1": "515b94b9d7769abb9bb36630bb5e6f3f4ae482cd",
-      "sha256": "8e29d2bd774d5740d607b9593bc1e7ce5ab580f09d78819ab9b96b28f5df6b9a",
-      "size": 285756,
-      "url": "https://mirrorbits.lineageos.org/full/denver/20261008/build-manifest.xml"
+      "filepath": "/full/denver/20261011/build-manifest.xml",
+      "sha1": "29bb2094b779333e02323fa5d48c305df23c9b2f",
+      "sha256": "2b1557c1314fe286a09b8d9a57d817e74eba6cb358e0c6515ee7f0528727e71c",
+      "size": 305463,
+      "url": "https://mirrorbits.lineageos.org/full/denver/20261011/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
