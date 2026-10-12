@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-05",
-  "datetime": 1791158526,
+  "date": "2026-10-11",
+  "datetime": 1791734420,
   "files": [
     {
-      "date": "2026-10-05",
-      "datetime": 1791158526,
-      "filename": "lineage-23.2-20261005-nightly-fuxi-signed.zip",
-      "filepath": "/full/fuxi/20261005/lineage-23.2-20261005-nightly-fuxi-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4715:184482,payload.bin:4715:2179030849,payload_properties.txt:2179035622:156,apex_info.pb:2170:1279,care_map.pb:3496:1172,metadata:69:677,metadata.pb:814:1308                        ",
-      "sha1": "5c12c25011fe1bf97c49215d9cc284a1f6891a23",
-      "sha256": "c6e23f75a93598ffdd4456c753c6a863cc78c9d2b8a011f7c1c336fbc885b73e",
-      "size": 2179038769,
+      "date": "2026-10-11",
+      "datetime": 1791734420,
+      "filename": "lineage-24.0-20261011-nightly-fuxi-signed.zip",
+      "filepath": "/full/fuxi/20261011/lineage-24.0-20261011-nightly-fuxi-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4856:185812,payload.bin:4856:2203321888,payload_properties.txt:2203326802:156,apex_info.pb:2173:1414,care_map.pb:3634:1175,metadata:69:677,metadata.pb:814:1311                        ",
+      "sha1": "c77a3ee8b8de2676fa9d34066602f750dd75bdd7",
+      "sha256": "19535c91772dc81e43ae439d2a189dd316b5f772b4e7ec1d5466a88160a41ea8",
+      "size": 2203329949,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/lineage-23.2-20261005-nightly-fuxi-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/lineage-24.0-20261011-nightly-fuxi-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/fuxi/20261005/boot.img",
-      "sha1": "45bdde33eab66f8a22b6976197acac872370f865",
-      "sha256": "009d8a854a0040bd2427edf3ed8c40586b352b67e09c68ca39747ded0825d609",
+      "filepath": "/full/fuxi/20261011/boot.img",
+      "sha1": "f019cf3e8cc0f93971c95af81efbed892c71df23",
+      "sha256": "52a8ff50d2408ff6d10dc1d00d22eb47800d63e73370b4c68d3a544d063e4022",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/fuxi/20261005/dtbo.img",
-      "sha1": "c8f8977d947c91cc5afd717ab9414d15a8f49f4d",
-      "sha256": "28c9af2c813571a1bde58661f6e3455bd576faab2c42e456ebe74a9f8b25cbb1",
+      "filepath": "/full/fuxi/20261011/dtbo.img",
+      "sha1": "12934c9c09fd68f27ab578dec06770391b51c9e3",
+      "sha256": "011faee9286dd20eec428727840521fceb991cbc4ee2e2eb1de4d96dfdc10b23",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/fuxi/20261005/init_boot.img",
-      "sha1": "108474636b85eeb45632fc7be6ee55b2d8ed9dc6",
-      "sha256": "24f57e21136831f22c95d5ce0288bab6559297889c20db1236b568445488b845",
+      "filepath": "/full/fuxi/20261011/init_boot.img",
+      "sha1": "9fe5607d1fda13656559d55b86fff9923d9d0ff8",
+      "sha256": "af2c2b9f52b4e7076ea93610df0559162af90176f21a31071bb8f7419f7dc049",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/fuxi/20261005/recovery.img",
-      "sha1": "784a0a6d092a39fc65ef8af93f688d7b4e257f92",
-      "sha256": "e3c8fbb594c9c02b125c79b1b18f53b74da13fa986c0de91276de1d8953f6821",
+      "filepath": "/full/fuxi/20261011/recovery.img",
+      "sha1": "5bdbe543c864fc3fe66b782ff1c04a8de02a60c8",
+      "sha256": "cfb5c0456ced9b5c2bf247ef5537a22e814c41d18c9f47246d09c1baf776d184",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/fuxi/20261005/super_empty.img",
-      "sha1": "9ef449029f0a99ae9e621c6391a09b47329db2d7",
-      "sha256": "e6843857f8ff612e1bd468f36e89607c80b792db606b4728a2d14b538c3df575",
+      "filepath": "/full/fuxi/20261011/super_empty.img",
+      "sha1": "",
+      "sha256": "",
       "size": 5288,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/fuxi/20261005/vbmeta.img",
-      "sha1": "35462e6216fcfc248d192d73efbdcd7d5572164c",
-      "sha256": "7d6cd9b225a3d79f6f5594aafee14535cfdc41133eb6878d3a1e55331b548363",
+      "filepath": "/full/fuxi/20261011/vbmeta.img",
+      "sha1": "59bc53203f0aa304af6da36fd7b8a4a1c6aaffe5",
+      "sha256": "891b7932938805d071edb606ed2378306fa0bff2524716ed0db398fb967dee24",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/fuxi/20261005/vendor_boot.img",
-      "sha1": "53cd81b143be5084e5b468afd049bfc637b98b99",
-      "sha256": "87fa8e9c9230ee392605d013694b3e9703d8be491f26c4a98968e1a342dbeab7",
+      "filepath": "/full/fuxi/20261011/vendor_boot.img",
+      "sha1": "ae7715939b4bd58d05c79885fdd89edb2331c63e",
+      "sha256": "51a3d06c47a75be930df96f9ae34ae8fe1af8969fa9fcbdd27f8f3db3774bf72",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/fuxi/20261005/build-manifest.xml",
-      "sha1": "26d8f430e7d296db03449e785738e352662d6888",
-      "sha256": "5b7df47669f7f6fb75d595bbe1a7d7eba0e8041cff5fe3a5433b011b18bd7c23",
-      "size": 286256,
-      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261005/build-manifest.xml"
+      "filepath": "/full/fuxi/20261011/build-manifest.xml",
+      "sha1": "8199f3aa33bba20f740aea8a47fe74de51ddb857",
+      "sha256": "67dffd2663dbb98a6c41304500371286544ef0f759689b8abf07fc45009829c2",
+      "size": 305963,
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20261011/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
