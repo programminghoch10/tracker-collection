@@ -1,70 +1,70 @@
 {
-  "date": "2026-10-04",
-  "datetime": 1791085172,
+  "date": "2026-10-11",
+  "datetime": 1791745288,
   "files": [
     {
-      "date": "2026-10-04",
-      "datetime": 1791085172,
-      "filename": "lineage-23.2-20261004-nightly-ibiza-signed.zip",
-      "filepath": "/full/ibiza/20261004/lineage-23.2-20261004-nightly-ibiza-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4204:132039,payload.bin:4204:1138650421,payload_properties.txt:1138654683:156,apex_info.pb:2006:1279,care_map.pb:3332:825,metadata:69:683,metadata.pb:820:1138                        ",
-      "sha1": "78bf132a5197605d934956b830f8ce355c002aad",
-      "sha256": "36b85df4d84b5e5b3775f09224a0a0c368af3de7691d39335f3c8f934e6bad79",
-      "size": 1138657830,
+      "date": "2026-10-11",
+      "datetime": 1791745288,
+      "filename": "lineage-24.0-20261011-nightly-ibiza-signed.zip",
+      "filepath": "/full/ibiza/20261011/lineage-24.0-20261011-nightly-ibiza-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4339:133668,payload.bin:4339:1171022870,payload_properties.txt:1171027267:156,apex_info.pb:2006:1414,care_map.pb:3467:825,metadata:69:683,metadata.pb:820:1138                        ",
+      "sha1": "3c4dc4d91826f518150799963ce758b257dc112f",
+      "sha256": "4a986528e1a26a7f0020a66c8a194a87facb26ae4639834f78d54508e983db2c",
+      "size": 1171030414,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261004/lineage-23.2-20261004-nightly-ibiza-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261011/lineage-24.0-20261011-nightly-ibiza-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/ibiza/20261004/boot.img",
-      "sha1": "7e52daf1bd31c099b3675d0b1bd7b147d6983f09",
-      "sha256": "8cd44c5f6688e133419e725df07a794045939ab2c775c2374329f97120d7e531",
+      "filepath": "/full/ibiza/20261011/boot.img",
+      "sha1": "106b5a6adf12f4d1dfb847253d25bb77c3dc64a2",
+      "sha256": "046d4fb3c4446599932dc372a9e9f437f9fff84ecbd631e55d77d1c723a0f8a2",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261004/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261011/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/ibiza/20261004/dtbo.img",
-      "sha1": "73ce96fbe22779d0e689b72604817f4e188e2bba",
-      "sha256": "97574e6bf697aae08cd0f58c1d47b15b8d610a3699d650990078db2f78076b5e",
+      "filepath": "/full/ibiza/20261011/dtbo.img",
+      "sha1": "2490a4ead4bda59f04e8808f1d022672c0adca7e",
+      "sha256": "cc70e7f3fdbaadaa09a18a86452edfec3b7c54dcd33232313989a93fe2947852",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261004/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261011/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/ibiza/20261004/super_empty.img",
+      "filepath": "/full/ibiza/20261011/super_empty.img",
       "sha1": "63714ed83553afc19e8da77e5caa8bf5ac4d9ad4",
       "sha256": "075e61b156b0706dc86d827ecf1e908b9343f0fb8d78e148db78d06fa0f46af9",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261004/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261011/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/ibiza/20261004/vbmeta.img",
-      "sha1": "588a3e9a0696388f4560948affaf673700793b02",
-      "sha256": "af77dd4c8905510bc01eeaf4650692792b3666d3c8b3ce1516c97cbfc9dc62ee",
+      "filepath": "/full/ibiza/20261011/vbmeta.img",
+      "sha1": "78e520a2e6e6ac2df7a0966447c55970fd5c34d0",
+      "sha256": "e83df43b52b7faf6cd5c43d03843271a7f2a3ab61f8affdda9cace00e5add283",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261004/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261011/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/ibiza/20261004/vendor_boot.img",
-      "sha1": "b5ba39e8c8d5fcb8311c35bf11fedbcba7b9dcdf",
-      "sha256": "832fac8773b3a39041ad0ffa9cb2320e4c17f02969507bc166b4e7442eddaa3a",
+      "filepath": "/full/ibiza/20261011/vendor_boot.img",
+      "sha1": "22b1c2e65f8d2319721866e6bb6ba897c7b81ecd",
+      "sha256": "031a305633d949f7c61e25341fb7c3c29646e341ece86ec16e094e6cda8501d1",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261004/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261011/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/ibiza/20261004/build-manifest.xml",
-      "sha1": "06790536fa0d72b86cfc570f3a12c74c424245e5",
-      "sha256": "75e657b0abc28951370be62cbe9384545a7f61a08b115ee4c10c1847ca63d96d",
-      "size": 285754,
-      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261004/build-manifest.xml"
+      "filepath": "/full/ibiza/20261011/build-manifest.xml",
+      "sha1": "f5ff89760528fad41dcea648e42c94d8c97c0e5f",
+      "sha256": "a6d8c30276e3803296c2d274f91a218bd2e5610f2ff5db9d0a1c40614de50838",
+      "size": 305461,
+      "url": "https://mirrorbits.lineageos.org/full/ibiza/20261011/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
