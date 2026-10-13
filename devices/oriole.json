@@ -1,70 +1,70 @@
 {
-  "date": "2026-10-05",
-  "datetime": 1791158744,
+  "date": "2026-10-12",
+  "datetime": 1791787153,
   "files": [
     {
-      "date": "2026-10-05",
-      "datetime": 1791158744,
-      "filename": "lineage-23.2-20261005-nightly-oriole-signed.zip",
-      "filepath": "/full/oriole/20261005/lineage-23.2-20261005-nightly-oriole-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4487:135234,payload.bin:4487:1335440839,payload_properties.txt:1335445384:156,apex_info.pb:1917:1553,care_map.pb:3517:923,metadata:69:669,metadata.pb:806:1063                        ",
-      "sha1": "46bdc8242e78edf009a69f96fd6e098d109eeed0",
-      "sha256": "4aa85e19906d1bc314f9430c497f14de5725a2261e48908382bcb2eff047b923",
-      "size": 1335448531,
+      "date": "2026-10-12",
+      "datetime": 1791787153,
+      "filename": "lineage-24.0-20261012-nightly-oriole-signed.zip",
+      "filepath": "/full/oriole/20261012/lineage-24.0-20261012-nightly-oriole-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4601:137221,payload.bin:4601:1444152830,payload_properties.txt:1444157489:156,apex_info.pb:1933:1635,care_map.pb:3615:939,metadata:69:669,metadata.pb:806:1079                        ",
+      "sha1": "a2cc8a5f0bcac459fc97c27d63db565c0a3e7726",
+      "sha256": "2a4bdd2400931889f0767af3f59d006b0fee2100360252dcc03d4294753b4606",
+      "size": 1444160636,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/oriole/20261005/lineage-23.2-20261005-nightly-oriole-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20261012/lineage-24.0-20261012-nightly-oriole-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/oriole/20261005/boot.img",
-      "sha1": "1626af538d05cbe47ba744eb0ebe311beea2ed33",
-      "sha256": "f1a6037cec3bbf14e670a66d1b3871ef1e0e93c33cf12ac1cee154f9643fe483",
+      "filepath": "/full/oriole/20261012/boot.img",
+      "sha1": "21d03a440f2e128a6e31863cf87030787d273821",
+      "sha256": "9b45dec4db1a0e8c9e31b59e1d09b294e3285ec5a433a353df2cd629bb35e6ac",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/oriole/20261005/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20261012/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/oriole/20261005/dtbo.img",
-      "sha1": "3a114e2dc18fcfa9a7ca90a21828ac06a193cc85",
-      "sha256": "7f9a91cbc861af6d170c55c607ad09ab36468cb3c8117d435443a605c3388db3",
+      "filepath": "/full/oriole/20261012/dtbo.img",
+      "sha1": "b211096a57b5b024d50ba26d5072b3ff071dc647",
+      "sha256": "32c36c9248f0c3af43f1ed458128535f045af368b8c623bbe554d4d8737f0761",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/oriole/20261005/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20261012/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/oriole/20261005/super_empty.img",
+      "filepath": "/full/oriole/20261012/super_empty.img",
       "sha1": "300d7312014fbcd6cf096da1432532d18c4eca13",
       "sha256": "e8c08d04c6d67fb8dc57047b4c1c3854650bffd5e7c56a9f614623a415123e07",
       "size": 5080,
-      "url": "https://mirrorbits.lineageos.org/full/oriole/20261005/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20261012/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/oriole/20261005/vbmeta.img",
-      "sha1": "0fe3b0def700b00cf6ca42d196b3177bdcb37874",
-      "sha256": "266924f0ed06bce43c60a893994517d6a698991a9e1607e92b5ce0745623dd02",
+      "filepath": "/full/oriole/20261012/vbmeta.img",
+      "sha1": "d8aa607f11e8f2abf3821ff25071828205000dd3",
+      "sha256": "e324c8dc84232c0d818a6bf717b78f6c4bcb9f8c5261b490867de090d87470c5",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/oriole/20261005/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20261012/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/oriole/20261005/vendor_boot.img",
-      "sha1": "9d2fdbb295a406a779c1ea8ef4b83c5e5f00615e",
-      "sha256": "5cfa45149ee67a903774c7a766031e060f5e82b909251fdb53ace14c1448caed",
+      "filepath": "/full/oriole/20261012/vendor_boot.img",
+      "sha1": "6e2f3f013d40b83ff5c66d3dad95999aa629fde4",
+      "sha256": "2e9beb2e6bc5bcf5ddc509bfbad1fec3e98cd317d4f08a0d50af439b807bcfda",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/oriole/20261005/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20261012/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/oriole/20261005/build-manifest.xml",
-      "sha1": "842085e5f02d006ad5e56327f15c6c07ac9abcd0",
-      "sha256": "db48704765f08a7142bb31b111de2396130be8264fca906bf7a2b5bf69f73add",
-      "size": 286000,
-      "url": "https://mirrorbits.lineageos.org/full/oriole/20261005/build-manifest.xml"
+      "filepath": "/full/oriole/20261012/build-manifest.xml",
+      "sha1": "85e807afe3f629a6b7e911dfda9cab151be6f3a6",
+      "sha256": "30f32852227e72b25555dd658ff03c5e0dafc3bc561b5055c9387bd6d28f294b",
+      "size": 305461,
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20261012/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
