@@ -1,70 +1,70 @@
 {
-  "date": "2026-10-05",
-  "datetime": 1791158517,
+  "date": "2026-10-12",
+  "datetime": 1791826900,
   "files": [
     {
-      "date": "2026-10-05",
-      "datetime": 1791158517,
-      "filename": "lineage-23.2-20261005-nightly-redfin-signed.zip",
-      "filepath": "/full/redfin/20261005/lineage-23.2-20261005-nightly-redfin-signed.zip",
-      "os_patch_level": "2026-09-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4186:132415,payload.bin:4186:1266983393,payload_properties.txt:1266987637:156,apex_info.pb:1931:1386,care_map.pb:3364:775,metadata:69:672,metadata.pb:809:1074                        ",
-      "sha1": "22f18bea65cba6293e5aa23ca6cd3d38a443d96b",
-      "sha256": "22eea9c56add83dcfaa00bf00e02e95e80f2749cec159dcece83cbbdb536e0b2",
-      "size": 1266990784,
+      "date": "2026-10-12",
+      "datetime": 1791826900,
+      "filename": "lineage-24.0-20261012-nightly-redfin-signed.zip",
+      "filepath": "/full/redfin/20261012/lineage-24.0-20261012-nightly-redfin-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4294:133295,payload.bin:4294:1292383514,payload_properties.txt:1292387866:156,apex_info.pb:1945:1464,care_map.pb:3456:791,metadata:69:672,metadata.pb:809:1088                        ",
+      "sha1": "356eebd5f146abe0f0eeeb733f1646fc60773c1a",
+      "sha256": "0e0ec32a7bf1736b67f0aa4439850ac17d02111bdf98ebd7011cd00d4a402a18",
+      "size": 1292391013,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20261005/lineage-23.2-20261005-nightly-redfin-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20261012/lineage-24.0-20261012-nightly-redfin-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/redfin/20261005/boot.img",
-      "sha1": "39058683ab338a2e2a653e4284f827e1c2032965",
-      "sha256": "9e4eea3e56f58a6a188c6e793c526eec468aa1083de53785219e4fa3fe6c8999",
+      "filepath": "/full/redfin/20261012/boot.img",
+      "sha1": "a067f5b1d9a2f17f846490b8c1149bb5f8f93088",
+      "sha256": "33c66776cada65a43cbf3909227d44e5f7cbf220cbd320c41929bcfc4d87c09f",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20261005/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20261012/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/redfin/20261005/dtbo.img",
-      "sha1": "312eb0e649ab02ad862675fec1eb466c4f38c2da",
-      "sha256": "6af618cf8b8e57b904247c3950996850fe2bbf7175792e4b190b96694b68b044",
+      "filepath": "/full/redfin/20261012/dtbo.img",
+      "sha1": "f7d8a9310a1688608bb55fe548a21faf61adacd6",
+      "sha256": "867413162ae30d1426402579a585a00e5a47e66d8bf35cdcef89afe68e00c99e",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20261005/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20261012/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/redfin/20261005/super_empty.img",
+      "filepath": "/full/redfin/20261012/super_empty.img",
       "sha1": "26ceb9fa2595e21718d6d7e3a4cf1b88f95bc708",
       "sha256": "aa8d46924aa1c1a936825a8baaa103036289a7c663054b2ebdbc4e1ea23ea0f6",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20261005/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20261012/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/redfin/20261005/vbmeta.img",
-      "sha1": "02d0e6db22af6d37b7f67ea03a7b6da418130e14",
-      "sha256": "c00951c6acff5977524df58caadb64455f08d8fe3dde6078554c370a64d6ff6d",
+      "filepath": "/full/redfin/20261012/vbmeta.img",
+      "sha1": "b08d8936a09b38cd726546c063a1d02e33df9dd9",
+      "sha256": "e1e3356833bf936358e796f7b4efb0baaabde69fd5a096c52f3ec07a7b477c73",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20261005/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20261012/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/redfin/20261005/vendor_boot.img",
-      "sha1": "eb6ae3a47856a2b6cd086c3270459c9e3811ac3b",
-      "sha256": "ae8c57664bca1ec9f24d113b512eefae6fe023c900d4e81e5efeb9e7f5564206",
+      "filepath": "/full/redfin/20261012/vendor_boot.img",
+      "sha1": "184ea0bfa1bcd53ea4e80b5fb99759d3d89bb0e6",
+      "sha256": "170958d1fb6ef676699af2c73f53849117ac0114cb75fb9601582e725d666851",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20261005/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20261012/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/redfin/20261005/build-manifest.xml",
-      "sha1": "cedb1fde79defdd64d5c98f7fa86b7e52ca66342",
-      "sha256": "7e127fb7e6bafd9f87ce4808970e214333853e3dd50ab25f8d47d4460991179a",
-      "size": 285500,
-      "url": "https://mirrorbits.lineageos.org/full/redfin/20261005/build-manifest.xml"
+      "filepath": "/full/redfin/20261012/build-manifest.xml",
+      "sha1": "3f1c051697218fd67a20bdcdcab5d91e6217a6ea",
+      "sha256": "93efc1b254b46f2b043ee8bb7a25c084833da5bf18be69ebad8fb1c4ac336220",
+      "size": 305207,
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20261012/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
