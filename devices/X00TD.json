@@ -1,37 +1,54 @@
 {
-  "date": "2024-12-28",
-  "datetime": 1735344000,
+  "date": "2026-10-14",
+  "datetime": 1791987462,
   "files": [
     {
-      "date": "2024-12-28",
-      "datetime": 1735344000,
-      "filename": "lineage-20.0-20241228-nightly-X00TD-signed.zip",
-      "filepath": "/full/X00TD/20241228/lineage-20.0-20241228-nightly-X00TD-signed.zip",
-      "os_patch_level": "2024-12",
-      "sha1": "1fce482e82812faab85704d5cd540cc64c6fe62f",
-      "sha256": "4f1e62a65de2c51717cc710e6eea0b7e9ff03f3837df772046f4c573d9ce89af",
-      "size": 936048865,
+      "date": "2026-10-14",
+      "datetime": 1791987462,
+      "filename": "lineage-24.0-20261014-nightly-X00TD-signed.zip",
+      "filepath": "/full/X00TD/20261014/lineage-24.0-20261014-nightly-X00TD-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "metadata:69:348,metadata.pb:485:245                 ",
+      "sha1": "07444d4262a5b32fb8462f5e3848332d3238076b",
+      "sha256": "cfcd6087857ca08b18516dde4c00997d4874e95216ba6ccb1ae061fb5417fb86",
+      "size": 1138528488,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/X00TD/20241228/lineage-20.0-20241228-nightly-X00TD-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/X00TD/20261014/lineage-24.0-20261014-nightly-X00TD-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/X00TD/20241228/boot.img",
-      "sha1": "30fda6e8396a7648cd1d4a337b24732c68f0755e",
-      "sha256": "9d32c7682a6d677020357582e6c01c58a270e1833918dedd8013d1e73dd093af",
-      "size": 14296360,
-      "url": "https://mirrorbits.lineageos.org/full/X00TD/20241228/boot.img"
+      "filepath": "/full/X00TD/20261014/boot.img",
+      "sha1": "77621a19cb369e6249248255c8de807e1759493d",
+      "sha256": "de6e262ee40214c429938a89014f5380b8824f31378d66bb6c92a018caf94db7",
+      "size": 24440832,
+      "url": "https://mirrorbits.lineageos.org/full/X00TD/20261014/boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/X00TD/20241228/recovery.img",
-      "sha1": "1d531cc2c5dda2247329041fcb4297e080836288",
-      "sha256": "81b76ac480921650ed34a47f558ea8b22b50d7d8d7f5c5cba5c0f07b23dbcf35",
-      "size": 24896812,
-      "url": "https://mirrorbits.lineageos.org/full/X00TD/20241228/recovery.img"
+      "filepath": "/full/X00TD/20261014/recovery.img",
+      "sha1": "22d759dc356f3f1f5cad24c1066ac151a2e07c95",
+      "sha256": "707bdaea5bb84f40332c3cfdaff400bccf421bad71a73562ceaf02c804d2d14b",
+      "size": 38785024,
+      "url": "https://mirrorbits.lineageos.org/full/X00TD/20261014/recovery.img"
+    },
+    {
+      "filename": "super_empty.img",
+      "filepath": "/full/X00TD/20261014/super_empty.img",
+      "sha1": "be8b414f61491574379f41f0703d1bd7a9e9b047",
+      "sha256": "152f2ebaddaafec52ba25dea4b4ad140387c15d065ca35c90b7421541d70cfcf",
+      "size": 4708,
+      "url": "https://mirrorbits.lineageos.org/full/X00TD/20261014/super_empty.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/X00TD/20261014/build-manifest.xml",
+      "sha1": "1370327d538c7a7ed4809fe471845a4c0b92ea82",
+      "sha256": "59483edb2a6020032fc417bbf82f4411f5592186586a5274e9c6a674c50a6de5",
+      "size": 305164,
+      "url": "https://mirrorbits.lineageos.org/full/X00TD/20261014/build-manifest.xml"
     }
   ],
-  "os_patch_level": "2024-12",
   "type": "nightly",
-  "version": "20.0"
+  "version": "24.0"
 }
