@@ -1,60 +1,60 @@
 {
-  "date": "2026-10-12",
-  "datetime": 1791844426,
+  "date": "2026-10-16",
+  "datetime": 1792141657,
   "files": [
     {
-      "date": "2026-10-12",
-      "datetime": 1791844426,
-      "filename": "lineage-24.0-20261012-nightly-troika-signed.zip",
-      "filepath": "/full/troika/20261012/lineage-24.0-20261012-nightly-troika-signed.zip",
+      "date": "2026-10-16",
+      "datetime": 1792141657,
+      "filename": "lineage-24.0-20261016-nightly-troika-signed.zip",
+      "filepath": "/full/troika/20261016/lineage-24.0-20261016-nightly-troika-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4612:107230,payload.bin:4612:976231619,payload_properties.txt:976236289:155,apex_info.pb:2150:1414,care_map.pb:3611:954,metadata:69:688,metadata.pb:825:1277                      ",
-      "sha1": "3f50403c7efff19f369fd1fd09c783d5501f074c",
-      "sha256": "6e7fa8ac7839ad299a6c12d422787d26cdf1d0cf505d7c049e7e3eb54631c4d2",
-      "size": 976239435,
+      "ota_property_files": "payload_metadata.bin:4612:107455,payload.bin:4612:978177884,payload_properties.txt:978182554:155,apex_info.pb:2150:1414,care_map.pb:3611:954,metadata:69:688,metadata.pb:825:1277                      ",
+      "sha1": "a4ab41c3d8ff08d2d357eea167180c3e4f146854",
+      "sha256": "19c31d31a0df2a502bf67f52f89cedb8eecc84fff7e84db02b0ae64cabfa048a",
+      "size": 978185700,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/troika/20261012/lineage-24.0-20261012-nightly-troika-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20261016/lineage-24.0-20261016-nightly-troika-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/troika/20261012/boot.img",
-      "sha1": "251fe9a57e0ae0ccf9f5a23925a03fa0c5a118ec",
-      "sha256": "2bafb8fed7f74192de41cf9f9d42a9bfc48100010a43a2b9aa3a2e2892f12a0b",
+      "filepath": "/full/troika/20261016/boot.img",
+      "sha1": "15788151d0a44a4cb4f7452e18cf77df0f23b198",
+      "sha256": "1f239e69730ef5f8906114b248c82343840e29ea62f521e140c3d9806317c513",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20261012/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20261016/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/troika/20261012/dtbo.img",
-      "sha1": "39f33fee19ffce54d77f686996596d1f60f8a832",
-      "sha256": "c6a15990ec699cc7e0f8343b1c9ca0c8658d40d6f013a6e8b9d344227af1fc00",
+      "filepath": "/full/troika/20261016/dtbo.img",
+      "sha1": "82bf20aa7972210777290ee0aa8d4785221bb57e",
+      "sha256": "42b05b189eb4b42a8f7a2a38c6d05b5a4ff9ef80ddc4ef2c677cc1c8c99932d5",
       "size": 1048576,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20261012/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20261016/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/troika/20261012/super_empty.img",
+      "filepath": "/full/troika/20261016/super_empty.img",
       "sha1": "d4f3581dac893c0332224aad9995e45b79661ffb",
       "sha256": "2a75b50e19add1453d72c079b24bcc88b656bdbaf9cac7466d6c72f960277243",
       "size": 4772,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20261012/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20261016/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/troika/20261012/vbmeta.img",
-      "sha1": "14a2c675b61aa45a9ba4537e8b315a5ed0cc4beb",
-      "sha256": "bfb2ad51c052d931b1a4addd341b2b4cdfe38dcf6c1239f81d8019e910b43f85",
+      "filepath": "/full/troika/20261016/vbmeta.img",
+      "sha1": "d9f36a172e48629293e80c6df404b2efbbfa5244",
+      "sha256": "539551af41d949505d46b52e5b6c4c32d40433b1b979b49e5ec37acef364cdfd",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20261012/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/troika/20261016/vbmeta.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/troika/20261012/build-manifest.xml",
-      "sha1": "5df2fc76371b51987b6812aa4223203ff93e1b46",
-      "sha256": "9f88598f170f1f13789dafc0efc151e11f7312ab3596d1a7e94d89b2a5b9f72a",
-      "size": 309213,
-      "url": "https://mirrorbits.lineageos.org/full/troika/20261012/build-manifest.xml"
+      "filepath": "/full/troika/20261016/build-manifest.xml",
+      "sha1": "2400741e6400e6909cdffea2a2431895e527c283",
+      "sha256": "b12ce7f93e728e9832b8e61866452547f8aaf15339dc2ed2c6167ed3ab107115",
+      "size": 309174,
+      "url": "https://mirrorbits.lineageos.org/full/troika/20261016/build-manifest.xml"
     }
   ],
   "type": "nightly",
