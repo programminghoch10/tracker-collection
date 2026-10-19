@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-12",
-  "datetime": 1791781686,
+  "date": "2026-10-19",
+  "datetime": 1792368118,
   "files": [
     {
-      "date": "2026-10-12",
-      "datetime": 1791781686,
-      "filename": "lineage-24.0-20261012-nightly-oscaro-signed.zip",
-      "filepath": "/full/oscaro/20261012/lineage-24.0-20261012-nightly-oscaro-signed.zip",
+      "date": "2026-10-19",
+      "datetime": 1792368118,
+      "filename": "lineage-24.0-20261019-nightly-oscaro-signed.zip",
+      "filepath": "/full/oscaro/20261019/lineage-24.0-20261019-nightly-oscaro-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4782:155301,payload.bin:4782:1608935310,payload_properties.txt:1608940150:156,apex_info.pb:2168:1414,care_map.pb:3629:1106,metadata:69:690,metadata.pb:827:1293                        ",
-      "sha1": "93cebdfc5d734d3cfa821da5eaaaf61ba13e385f",
-      "sha256": "8729736814df4deb48087030d3882a61b4ff76168c53b9fa0e69dfb3040f8f61",
-      "size": 1608943297,
+      "ota_property_files": "payload_metadata.bin:4782:155467,payload.bin:4782:1610811250,payload_properties.txt:1610816090:156,apex_info.pb:2168:1414,care_map.pb:3629:1106,metadata:69:690,metadata.pb:827:1293                        ",
+      "sha1": "a9fdc0c28fda1a5f443df434ed1b391362427af2",
+      "sha256": "458888f8e764e2ebd8be5fc4c39a4e7652a3b2cd04e9bc74323697f08284aa70",
+      "size": 1610819237,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261012/lineage-24.0-20261012-nightly-oscaro-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261019/lineage-24.0-20261019-nightly-oscaro-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/oscaro/20261012/boot.img",
-      "sha1": "9bbd9fb7147f38bf6e92da46ef69d6f895b75745",
-      "sha256": "ac03f958adb6dc337fe410e1d5a022bb69516fadf125acfa1371161e86a37e47",
+      "filepath": "/full/oscaro/20261019/boot.img",
+      "sha1": "c03f9f1c274183456fee5ba9ee78d038bc08c2f9",
+      "sha256": "c343dbf7d8be66aec80554a198d240ab1bc6df02cccd68aa793edc4ef97bb653",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261012/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261019/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/oscaro/20261012/dtbo.img",
-      "sha1": "f1c801f847ebd0a4a95f18bfecb1b31680fbc949",
-      "sha256": "eb9f85bb84ca89cd4826b8b66f47030cd5289b662dc090714d9ab2619d6c4e9f",
+      "filepath": "/full/oscaro/20261019/dtbo.img",
+      "sha1": "4991417a00bce93456584db6a5c81d7701d9a433",
+      "sha256": "7335b80bb2863be065c3417ae114ac2e8862ebc5b215e3c06ab98e7ea1ed3a0b",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261012/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261019/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/oscaro/20261012/super_empty.img",
-      "sha1": "fb386e9b83e2aba6b75a3f387af63b4ea1ce2e07",
-      "sha256": "1bcb34b6a98ad77887debd2133252dc857bdaddefbe9548aa03cea8035ef06ce",
+      "filepath": "/full/oscaro/20261019/super_empty.img",
+      "sha1": "9fd75a4351102d52a45b8e84d7cac1c847d584a5",
+      "sha256": "bfe0ca831318647ea06fbdbc56732d01ac1ffddb6d7ec8dacfb64158ad92052d",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261012/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261019/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/oscaro/20261012/vbmeta.img",
-      "sha1": "fbe98b1c7dd9e9f54c232ea80443df87d3b05324",
-      "sha256": "b4d237d17b69a91da332749c6c3b5c4cafb90635fb4f9ee86c8dc686c3d7c969",
+      "filepath": "/full/oscaro/20261019/vbmeta.img",
+      "sha1": "c7d707bc7dad35a946b9168a5748f4c013dbdf8f",
+      "sha256": "303ce6a35c4ae9d471797d6261e0381f906249f9daa0f6f391fb961d9923272e",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261012/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261019/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/oscaro/20261012/vendor_boot.img",
-      "sha1": "501c8258275b2b652cdefab18b567c474643643f",
-      "sha256": "0377d522c41d89f83b3325d9f1e6d36e3eaf87e71ce9854146556aa744bd4d0d",
+      "filepath": "/full/oscaro/20261019/vendor_boot.img",
+      "sha1": "f6ffb5b3be6c0a1cc22c31f6b9f07218465a70cb",
+      "sha256": "994bda06d9b041b9637a28f53f7360722e6e57e62e94e7ad709274d078abf3fb",
       "size": 167772160,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261012/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261019/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/oscaro/20261012/build-manifest.xml",
-      "sha1": "6c839c6e5c5ed5d1219dcddb4845e21bb975afe3",
-      "sha256": "9a2f1acef105d8799c8844afcd1cfb0f36ae8093b9be9c112d1fcf8abe0fc255",
-      "size": 305451,
-      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261012/build-manifest.xml"
+      "filepath": "/full/oscaro/20261019/build-manifest.xml",
+      "sha1": "273c4324a31adeb85e1939a2b18b15ac66fee121",
+      "sha256": "36861095abf41959157e2d1f31c29dfaae4a1f6c877541c74668a24aa94c4848",
+      "size": 305412,
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20261019/build-manifest.xml"
     }
   ],
   "type": "nightly",
