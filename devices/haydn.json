@@ -1,60 +1,60 @@
 {
-  "date": "2026-10-13",
-  "datetime": 1791883787,
+  "date": "2026-10-20",
+  "datetime": 1792464850,
   "files": [
     {
-      "date": "2026-10-13",
-      "datetime": 1791883787,
-      "filename": "lineage-23.2-20261013-nightly-haydn-signed.zip",
-      "filepath": "/full/haydn/20261013/lineage-23.2-20261013-nightly-haydn-signed.zip",
+      "date": "2026-10-20",
+      "datetime": 1792464850,
+      "filename": "lineage-23.2-20261020-nightly-haydn-signed.zip",
+      "filepath": "/full/haydn/20261020/lineage-23.2-20261020-nightly-haydn-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4657:159978,payload.bin:4657:1611596990,payload_properties.txt:1611601705:156,apex_info.pb:2158:1279,care_map.pb:3484:1126,metadata:69:694,metadata.pb:831:1279                        ",
-      "sha1": "0310db668fb22cf7e0192e8b5c1ee06f414568d0",
-      "sha256": "7ede0e57b4a8ef7607d8d4ca79bb7cf857440e156fdbc2f65225bcfd63513e55",
-      "size": 1611604852,
+      "ota_property_files": "payload_metadata.bin:4657:159978,payload.bin:4657:1611925402,payload_properties.txt:1611930117:156,apex_info.pb:2158:1279,care_map.pb:3484:1126,metadata:69:694,metadata.pb:831:1279                        ",
+      "sha1": "79a7df0a05b0c4219a685eee307c25f39d08f984",
+      "sha256": "c494930841d280d17f419475b565967c7e0011364cf779f063aa3c9e2abe0203",
+      "size": 1611933264,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/haydn/20261013/lineage-23.2-20261013-nightly-haydn-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/haydn/20261020/lineage-23.2-20261020-nightly-haydn-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/haydn/20261013/boot.img",
-      "sha1": "4b0bf0c54064960aaf0900ccd6b59706809c13ee",
-      "sha256": "824dcf8b6c4960010ab6a44df831d94b06b2ed1e4e2b4745fcfcf7db56d017f2",
+      "filepath": "/full/haydn/20261020/boot.img",
+      "sha1": "fd7528cc3549d138546664cea473ef36318edbbf",
+      "sha256": "4d3ef87f2f9f4d8877ad90060248f6a565d7fd1e4c80d46f67061d8b210c82df",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/haydn/20261013/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/haydn/20261020/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/haydn/20261013/dtbo.img",
-      "sha1": "dc9b9db99e84634db6977520b1f76cec30985dd2",
-      "sha256": "3dc2865ad6d8984bb5bb5b21c2cf288856db6c56ff8ea051ee6a336add271196",
+      "filepath": "/full/haydn/20261020/dtbo.img",
+      "sha1": "f9416d03913570e98f536cd8d424ab76fe331a2f",
+      "sha256": "b937c80e4a8ef16b7dbf24ad729c8e4c8e281113d32242189eeea74e4cbe38c5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/haydn/20261013/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/haydn/20261020/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/haydn/20261013/vbmeta.img",
-      "sha1": "9f5554945dd714ee5bace76314e60c27945b74c1",
-      "sha256": "23345b61eeb5fe942c0dcb0301e98a7826f435baaf088f0b6ea34f0e52887903",
+      "filepath": "/full/haydn/20261020/vbmeta.img",
+      "sha1": "8367cfdc6ca5b4bec841752a29d37a853717d569",
+      "sha256": "f8146a816267264b2bec590c3ecaf2d4f2e647097be0fc05254b1565eda25c7f",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/haydn/20261013/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/haydn/20261020/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/haydn/20261013/vendor_boot.img",
-      "sha1": "7a331de6c8677bfc69067098cb1523268aae23af",
-      "sha256": "406cae6f905a7fdf13cb23b1aa223b28cc19a4a93eba7d6a9874b68b8b03c8c7",
+      "filepath": "/full/haydn/20261020/vendor_boot.img",
+      "sha1": "d21f45e735c587f2ac5d390e7f2794671433f8c6",
+      "sha256": "1ff2413ecf8d3373f0992dc201a891ae9b6bd4e892f492c533ccbadc1a6428f0",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/haydn/20261013/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/haydn/20261020/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/haydn/20261013/build-manifest.xml",
-      "sha1": "d1aeb0ff85d7ffe973d9ec857955ea367d2f9e89",
-      "sha256": "a2089bfe83aa8fa23bd95ca1309e5b83dde6959890eb99304689c6285b396a19",
+      "filepath": "/full/haydn/20261020/build-manifest.xml",
+      "sha1": "975f8dc90ce763fccdcd42aec5648f586ee3ee13",
+      "sha256": "4b690d8a5f9e8ede6ffa423ff3140153ab7664df5cb8dbe64afa9cb4f7423114",
       "size": 285738,
-      "url": "https://mirrorbits.lineageos.org/full/haydn/20261013/build-manifest.xml"
+      "url": "https://mirrorbits.lineageos.org/full/haydn/20261020/build-manifest.xml"
     }
   ],
   "type": "nightly",
