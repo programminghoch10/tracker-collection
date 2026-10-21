@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-12",
-  "datetime": 1791801342,
+  "date": "2026-10-21",
+  "datetime": 1792541317,
   "files": [
     {
-      "date": "2026-10-12",
-      "datetime": 1791801342,
-      "filename": "lineage-24.0-20261012-nightly-akita-signed.zip",
-      "filepath": "/full/akita/20261012/lineage-24.0-20261012-nightly-akita-signed.zip",
+      "date": "2026-10-21",
+      "datetime": 1792541317,
+      "filename": "lineage-24.0-20261021-nightly-akita-signed.zip",
+      "filepath": "/full/akita/20261021/lineage-24.0-20261021-nightly-akita-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4878:141732,payload.bin:4878:1501612398,payload_properties.txt:1501617334:156,apex_info.pb:2018:1714,care_map.pb:3779:1052,metadata:69:668,metadata.pb:805:1165                        ",
-      "sha1": "23192e95bb16fe943ae7b835b8e5cb620463d1f6",
-      "sha256": "5041aedfb84ae6fb887a79b3ddcb4137dd8dd407af1df2390e0366d1186fc3ed",
-      "size": 1501620481,
+      "ota_property_files": "payload_metadata.bin:4878:141896,payload.bin:4878:1503374188,payload_properties.txt:1503379124:156,apex_info.pb:2018:1714,care_map.pb:3779:1052,metadata:69:668,metadata.pb:805:1165                        ",
+      "sha1": "e7292a1c0d8047a18d1f126dcd11a4e82205eb9d",
+      "sha256": "2f0b10bab46ddfff3f75ee9aa007de0ac4a4191d4b77e5527a4db608896ff988",
+      "size": 1503382271,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/lineage-24.0-20261012-nightly-akita-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/lineage-24.0-20261021-nightly-akita-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/akita/20261012/boot.img",
-      "sha1": "f9ed752d0bb8ff9b3aa7839fc0203cc7c91e81b3",
-      "sha256": "eeaa42d53f719d0e2bead71120c4cfe5225b4a47bea0df317d02d91893287f68",
+      "filepath": "/full/akita/20261021/boot.img",
+      "sha1": "3cfad95a808cba4e8c57492c7383a20291edb1cd",
+      "sha256": "e41e2f54b5cb12b9aa9c4f3f4b15f0837ef816a6a84a0b4d33339b17c94e8a0d",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/akita/20261012/dtbo.img",
-      "sha1": "b4c95f88ee056a75690228f3fd01eb5efb15f1d6",
-      "sha256": "88306ff6f310e475ca0223f8fd1c52f81a6e7d9ad8b5c18278cde30cd8d244c9",
+      "filepath": "/full/akita/20261021/dtbo.img",
+      "sha1": "4e5cac952d83f84666371dd27b907351f654bc4f",
+      "sha256": "e82836de95bbef4f7b97ac16c45a18ce85bae313aaab75134792654b99ec8396",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/akita/20261012/init_boot.img",
-      "sha1": "0fb9979372b37232cb995e75b5ab7f3ab8e1f7b8",
-      "sha256": "0ff76712931efa67dbc2262e5f3d8675e9c041527ca1afaf4d1a58c830865e9d",
+      "filepath": "/full/akita/20261021/init_boot.img",
+      "sha1": "2817df8870d3d12c3b757caf299926ed8b8bc9b0",
+      "sha256": "6c2881212d4f61f4514869be08506e8cbeacbf68d3cd63aaac4b25ecb2aa67be",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/akita/20261012/super_empty.img",
-      "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
-      "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
+      "filepath": "/full/akita/20261021/super_empty.img",
+      "sha1": "9300c9f63ea3919c8d7802d35f4e4cf1798db2c1",
+      "sha256": "34cbe5c51a222b464a1983ec800a4877fec147481bf907ff326454b5d380c036",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/akita/20261012/vbmeta.img",
-      "sha1": "1af9e139705fc2fb09a3a6a5371754d482c72d63",
-      "sha256": "17286dae8588812603394f49fc2adf913127635e1e27da7677de89c495d2c516",
+      "filepath": "/full/akita/20261021/vbmeta.img",
+      "sha1": "6f15ab7ad59fe4834120173c9035aadbe5b7284d",
+      "sha256": "9839e93c4f172cac408b04a96ae7d0d3754691d03950bc32a656c56dbf3d547f",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/akita/20261012/vendor_boot.img",
-      "sha1": "28e49ed3d2074c8e24b5d9b5fbd62e26e9a78b9a",
-      "sha256": "19fd061a628e7aa7e88de2d10b3c5959a591e9638e9fdd8b143667ffbc559a88",
+      "filepath": "/full/akita/20261021/vendor_boot.img",
+      "sha1": "a296d794d2375f313f44d48aa0484788ebc5a4ed",
+      "sha256": "b0d2328856abc8a5cd39d952bf9eb1e26f02f3d12c127a284eee72d2fbb86989",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/akita/20261012/vendor_kernel_boot.img",
-      "sha1": "d9989d9f76e5e5b07be183bb54fb5c4fcce4883b",
-      "sha256": "bfdefd460e92a8f105edbdacbd462d149579a145629f2e1d7f04f6e9949d4b89",
+      "filepath": "/full/akita/20261021/vendor_kernel_boot.img",
+      "sha1": "2e46e62f6d0d84939081e89fc0b0e7f72bf491ef",
+      "sha256": "845cdb074d5621b1c3e9152bae1f0bcbde1dcedfa7f956659eec35dec58c8e9a",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/vendor_kernel_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/akita/20261012/build-manifest.xml",
-      "sha1": "7f6c0e8f3c39f66afa843fa9322c4f0683b13161",
-      "sha256": "9b99c07a0be9ba215ec69aa3edd3c6f62f1251c0c8d436e6d412922929db43c3",
-      "size": 305211,
-      "url": "https://mirrorbits.lineageos.org/full/akita/20261012/build-manifest.xml"
+      "filepath": "/full/akita/20261021/build-manifest.xml",
+      "sha1": "7b0a331d8b77f7eeac5c73b583f44597639db61c",
+      "sha256": "21cdf3df98d2bad26eacf1c6f500499f16367bd90592fb6e2cffd46cbcc55150",
+      "size": 305159,
+      "url": "https://mirrorbits.lineageos.org/full/akita/20261021/build-manifest.xml"
     }
   ],
   "type": "nightly",
