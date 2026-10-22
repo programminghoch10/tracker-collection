@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-15",
-  "datetime": 1792037447,
+  "date": "2026-10-22",
+  "datetime": 1792639877,
   "files": [
     {
-      "date": "2026-10-15",
-      "datetime": 1792037447,
-      "filename": "lineage-24.0-20261015-nightly-capri-signed.zip",
-      "filepath": "/full/capri/20261015/lineage-24.0-20261015-nightly-capri-signed.zip",
+      "date": "2026-10-22",
+      "datetime": 1792639877,
+      "filename": "lineage-24.0-20261022-nightly-capri-signed.zip",
+      "filepath": "/full/capri/20261022/lineage-24.0-20261022-nightly-capri-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4247:146275,payload.bin:4247:1145353815,payload_properties.txt:1145358120:156,apex_info.pb:1946:1414,care_map.pb:3407:793,metadata:69:673,metadata.pb:810:1088                        ",
-      "sha1": "c1f5aab6295ce58ee54b60649b3c3f68d6d37ec1",
-      "sha256": "e3a2c1fa090fa3784ccd815b8aa6eda9df078f7c5887a8b8fdcb096e2702439f",
-      "size": 1145361267,
+      "ota_property_files": "payload_metadata.bin:4247:146332,payload.bin:4247:1146035801,payload_properties.txt:1146040106:156,apex_info.pb:1946:1414,care_map.pb:3407:793,metadata:69:673,metadata.pb:810:1088                        ",
+      "sha1": "2b26c08e67e0a4aab90f03c79875c4e37507b22b",
+      "sha256": "9130c2dc41ae9bd509a38c1b2e3bcfe077b027ee6b7042d5c3983aaeb3362e1a",
+      "size": 1146043253,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/capri/20261015/lineage-24.0-20261015-nightly-capri-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20261022/lineage-24.0-20261022-nightly-capri-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/capri/20261015/boot.img",
-      "sha1": "33f947e1e1b1d25bf03f72e5cd3fef7709fc7dd8",
-      "sha256": "0aed1a7d4ada06fbfdae5c02aa14de34b7b9ca4fd6bbd879453d121d27b4ecfa",
+      "filepath": "/full/capri/20261022/boot.img",
+      "sha1": "07df58b66a66cbd887c3cf3dba4de86df930ecf8",
+      "sha256": "207b952b80a786438f38cff34802ea47f11f001d4db2cd34198692d0422b838a",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20261015/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20261022/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/capri/20261015/dtbo.img",
-      "sha1": "c20171c5102f0a2dc37dde43b43930bcd00c51e3",
-      "sha256": "93f7b43b195b0cadbfc6ec1fa9ce67005c6552aff647326eb00be63f559790d5",
+      "filepath": "/full/capri/20261022/dtbo.img",
+      "sha1": "69f76e6214e868746d2885a11c17ff841228d836",
+      "sha256": "86ca6702ba699f9a577979b2c9a705134d182a06aae66155fab744d7b8f45247",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20261015/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20261022/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/capri/20261015/super_empty.img",
-      "sha1": "3b6a96721d52ee02c12524666f8cef0fdbe4ca8d",
-      "sha256": "ca14b86653a5a188b402d2c97dcc1ed91558acfa2c48d21dbe3fce4d5dc023f0",
+      "filepath": "/full/capri/20261022/super_empty.img",
+      "sha1": "05738efe65a6c424118093dcf1d7e054e81d6518",
+      "sha256": "f2551893ea0691087c27c29cc01fae5627552dce0fc3a9e8747f45b1a2c863ad",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20261015/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20261022/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/capri/20261015/vbmeta.img",
-      "sha1": "3696b7dcea4a212c1785e936e28499228de383a7",
-      "sha256": "55360329ced432211a568a67a1230c3af79df39c57d833423af9e589b4a6d146",
+      "filepath": "/full/capri/20261022/vbmeta.img",
+      "sha1": "a69f9f4366ae3c5eb40b53c524f4fb5eec5c4691",
+      "sha256": "9ef064e7b429e331db008b924b6d8dcc92f3c5207dbb3872cbb45dc554b6bbc8",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20261015/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20261022/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/capri/20261015/vendor_boot.img",
-      "sha1": "46917271b52556752fa4879c5f40690e72098591",
-      "sha256": "66cd2e9abe8d84c855c2475ebf36a114fe3deecae7fa7e702541bde417c2cae9",
+      "filepath": "/full/capri/20261022/vendor_boot.img",
+      "sha1": "a05fe09cf54a40446fa32b983e4e58d7a54655e0",
+      "sha256": "c8fd8ba3095aa00af20466fb692bc7695f8effb16d9982cc906dcd276dd0e4bd",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20261015/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/capri/20261022/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/capri/20261015/build-manifest.xml",
-      "sha1": "c0c4c404859cbd293ffc2be12e526f47d9816b0f",
-      "sha256": "5211161de94eb6aee4e4e92c9c9bd684ec007fb45c6e99385a3c3e199df49ab4",
-      "size": 305422,
-      "url": "https://mirrorbits.lineageos.org/full/capri/20261015/build-manifest.xml"
+      "filepath": "/full/capri/20261022/build-manifest.xml",
+      "sha1": "dbefecf5fe9197bf290d82c6cfbc6652e2031a7c",
+      "sha256": "7da693d1fef2ef276a7f92e9d38665e65d1c513f2bf22548e902803be93d1264",
+      "size": 305383,
+      "url": "https://mirrorbits.lineageos.org/full/capri/20261022/build-manifest.xml"
     }
   ],
   "type": "nightly",
