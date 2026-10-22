@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-15",
-  "datetime": 1792022707,
+  "date": "2026-10-22",
+  "datetime": 1792636513,
   "files": [
     {
-      "date": "2026-10-15",
-      "datetime": 1792022707,
-      "filename": "lineage-24.0-20261015-nightly-fogo-signed.zip",
-      "filepath": "/full/fogo/20261015/lineage-24.0-20261015-nightly-fogo-signed.zip",
+      "date": "2026-10-22",
+      "datetime": 1792636513,
+      "filename": "lineage-24.0-20261022-nightly-fogo-signed.zip",
+      "filepath": "/full/fogo/20261022/lineage-24.0-20261022-nightly-fogo-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4298:136243,payload.bin:4298:1226771748,payload_properties.txt:1226776104:156,apex_info.pb:1948:1444,care_map.pb:3439:812,metadata:69:674,metadata.pb:811:1089                        ",
-      "sha1": "580c0cd81ba75f51d054a275725b410ce0c029f7",
-      "sha256": "7be1a5c5cc2bdd54b671c69b17d0814f85b960b95fb88f1f5be0c29acb68d0b3",
-      "size": 1226779251,
+      "ota_property_files": "payload_metadata.bin:4298:136303,payload.bin:4298:1226926090,payload_properties.txt:1226930446:156,apex_info.pb:1948:1444,care_map.pb:3439:812,metadata:69:674,metadata.pb:811:1089                        ",
+      "sha1": "8301fd0d3c60737ebdfd63e7532681fc5780273b",
+      "sha256": "d2e7cd4bb675f2eb5ea0791f1a79eb6549a9f284a52cd92dea80163f2a3dac3a",
+      "size": 1226933593,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/fogo/20261015/lineage-24.0-20261015-nightly-fogo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20261022/lineage-24.0-20261022-nightly-fogo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/fogo/20261015/boot.img",
-      "sha1": "b6e9f294a40bef5fbe7677a4cda3a22b9d6c23f5",
-      "sha256": "ceab154adcb9c4071be771c1fa0fe5a076b8af87bec5be80bfe4065cd4ff06dd",
+      "filepath": "/full/fogo/20261022/boot.img",
+      "sha1": "d762b91d88023e43b728e9f55644ee2ccee3a2e3",
+      "sha256": "1c17ea8903c9fa053b528c81002ed69eaa5ade80dbd06ce84a14b85b41a72b7c",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/fogo/20261015/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20261022/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/fogo/20261015/dtbo.img",
-      "sha1": "b93f02a8bb60d0aa7a9cc847761afaf775a7c2ec",
-      "sha256": "5071fdd254a6e71c614e1738082617acaeda54cd136e12da37e3099bae592c99",
+      "filepath": "/full/fogo/20261022/dtbo.img",
+      "sha1": "08902ebf9e362eaba56309fc6635ea49fbf10cdd",
+      "sha256": "96a7b455b3fcd00ac59d64398f97e0b5f0572e750e87a9fcc69576c48d421dca",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/fogo/20261015/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20261022/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/fogo/20261015/super_empty.img",
-      "sha1": "08d82174d12329aa7b04a38568cd674f942e33df",
-      "sha256": "91b18ee33d58bdfba7b6a2a6a977b20dfab23bbc5ba76c18bf874253b693b620",
+      "filepath": "/full/fogo/20261022/super_empty.img",
+      "sha1": "6428370da5269caf3143ef50d075ef1ca18f40ee",
+      "sha256": "a1e84a1ca7d5da496443ed204df9c8e2908c0eeb76b7ac7ae53973c43d5dc742",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/fogo/20261015/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20261022/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/fogo/20261015/vbmeta.img",
-      "sha1": "726b8308fad42e7fdc0c90c3d4b9f78611ff19f8",
-      "sha256": "55cdf95b486a64ce54aa18d6fc496f82cbcd1cdb063646f69e58c9907b6f9fa4",
+      "filepath": "/full/fogo/20261022/vbmeta.img",
+      "sha1": "330728155a92f2f2610ecf46d9229c8136fb131d",
+      "sha256": "23192f68b29db991f788ff8f3f56dc68aebca02dfcb063da376cd117cc7d9150",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/fogo/20261015/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20261022/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/fogo/20261015/vendor_boot.img",
-      "sha1": "ffb0df5e51b56db6ea3a18cd9b47a185d242ff28",
-      "sha256": "068d2056863f76911683837dd5b369f72d1901e4c8228e9b7f15c65e488dcbe1",
+      "filepath": "/full/fogo/20261022/vendor_boot.img",
+      "sha1": "515b399e26d0bd14d09fdfeac7c8fc1be6055498",
+      "sha256": "825d8a673a5a281c41a81a16f4338a579497622df9c677fc768a2ec6255561bf",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/fogo/20261015/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20261022/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/fogo/20261015/build-manifest.xml",
-      "sha1": "3e44823bd72b64aa37f7e14d2f42aa02a526b23b",
-      "sha256": "b702fd8e1fb1153e76f8bd69f1546d6b3ca6586a77d5dbf204f84e3809704112",
-      "size": 305420,
-      "url": "https://mirrorbits.lineageos.org/full/fogo/20261015/build-manifest.xml"
+      "filepath": "/full/fogo/20261022/build-manifest.xml",
+      "sha1": "2774d90fe99322998ae5ee0ec5c806b036e560ee",
+      "sha256": "3edb383a3e04c1c57afc1b5ead45de99093396183c520658cf68648b3069139b",
+      "size": 305381,
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20261022/build-manifest.xml"
     }
   ],
   "type": "nightly",
