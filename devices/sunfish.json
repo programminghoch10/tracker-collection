@@ -1,60 +1,60 @@
 {
-  "date": "2026-10-15",
-  "datetime": 1792032549,
+  "date": "2026-10-22",
+  "datetime": 1792648299,
   "files": [
     {
-      "date": "2026-10-15",
-      "datetime": 1792032549,
-      "filename": "lineage-24.0-20261015-nightly-sunfish-signed.zip",
-      "filepath": "/full/sunfish/20261015/lineage-24.0-20261015-nightly-sunfish-signed.zip",
+      "date": "2026-10-22",
+      "datetime": 1792648299,
+      "filename": "lineage-24.0-20261022-nightly-sunfish-signed.zip",
+      "filepath": "/full/sunfish/20261022/lineage-24.0-20261022-nightly-sunfish-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4353:124076,payload.bin:4353:1226599062,payload_properties.txt:1226603473:156,apex_info.pb:1964:1498,care_map.pb:3509:797,metadata:69:675,metadata.pb:812:1104                        ",
-      "sha1": "a55e0b5d8e9f80c6c9b2530c608d9da0e3f67216",
-      "sha256": "ab23e8fe0c991a07d44a03878aec4aef74b91b2f20c83edfb84efbaa31e5ab1f",
-      "size": 1226606620,
+      "ota_property_files": "payload_metadata.bin:4353:124081,payload.bin:4353:1227129721,payload_properties.txt:1227134132:156,apex_info.pb:1964:1498,care_map.pb:3509:797,metadata:69:675,metadata.pb:812:1104                        ",
+      "sha1": "7d4664991e1def792d1714cc3e641cb094730154",
+      "sha256": "faddd497fe34fb8b57a46f42aa27b38f3276b8dc8a10fea5e91a93ac51e08f03",
+      "size": 1227137279,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261015/lineage-24.0-20261015-nightly-sunfish-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261022/lineage-24.0-20261022-nightly-sunfish-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/sunfish/20261015/boot.img",
-      "sha1": "0a11d42e8cda55cc38cfeb16043187d4738659d2",
-      "sha256": "6754f577708c1ea041c3ed5171ccfe77f7c59708e2fe9a5d2c9c55aa56a1d030",
+      "filepath": "/full/sunfish/20261022/boot.img",
+      "sha1": "be677a67cac327233a2a2f64eedef9e2b6ec0427",
+      "sha256": "713bd2d54b59541a4ec10895cdf6a397d1ea8cd5bc2030a15b3e096eb16ba988",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261015/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261022/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/sunfish/20261015/dtbo.img",
-      "sha1": "d8c8362a1b60f31dce3a41352e2131b787cd99fd",
-      "sha256": "f2a25447770adc654ace0dac4411a42de6223d8ba22332d3345f7d608657a9b4",
+      "filepath": "/full/sunfish/20261022/dtbo.img",
+      "sha1": "2cc921592cb994d04099781909c5e53a77af8d26",
+      "sha256": "7a65fd8e8a3d8e40e6d3e90601d89617a71959e403158f600bfd5d0d8e7c2f8a",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261015/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261022/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/sunfish/20261015/super_empty.img",
-      "sha1": "89fa029b4b985982dbc834f09845025422714c97",
-      "sha256": "3cd413454b2259ac22de1539dd568f1fcc4dbebbd611e457322863ea82170e2a",
+      "filepath": "/full/sunfish/20261022/super_empty.img",
+      "sha1": "650537c380d2d16b3ead68eabaf1e20fef773ac9",
+      "sha256": "11fcbda3c1136b37a4181a117ccbbc19b944d83a5b1f2bcb83d04ee88f2b59ae",
       "size": 4848,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261015/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261022/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/sunfish/20261015/vbmeta.img",
-      "sha1": "b1129fa02dc82b9687a3908a14a0748cb019bc3b",
-      "sha256": "b496ee6a4c02e10c3c05756935cfe1893ec8145549ff885c03764a28546cb02f",
+      "filepath": "/full/sunfish/20261022/vbmeta.img",
+      "sha1": "e24f4f945465a5b2fb84391c575b217a10913afa",
+      "sha256": "5dd97f259843c54629e5248595201b07d7987636bab783f1a3d22a17c704ad8a",
       "size": 4096,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261015/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261022/vbmeta.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/sunfish/20261015/build-manifest.xml",
-      "sha1": "2750a94acdf04a87711c0a592ca65d41180adaac",
-      "sha256": "09e61f04e56a04146392847b0d501e0142cb4e6265bef10f3843f2e30e36c84b",
-      "size": 304930,
-      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261015/build-manifest.xml"
+      "filepath": "/full/sunfish/20261022/build-manifest.xml",
+      "sha1": "ad38f576afbe6b602ba92c576ef67bca8acdbd90",
+      "sha256": "2ec895d0266f5b10e14bddfd360d8ede9b98480086dbe77d66e096b97feb1a7c",
+      "size": 304891,
+      "url": "https://mirrorbits.lineageos.org/full/sunfish/20261022/build-manifest.xml"
     }
   ],
   "type": "nightly",
