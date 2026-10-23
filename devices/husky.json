@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-16",
-  "datetime": 1792127374,
+  "date": "2026-10-23",
+  "datetime": 1792727456,
   "files": [
     {
-      "date": "2026-10-16",
-      "datetime": 1792127374,
-      "filename": "lineage-24.0-20261016-nightly-husky-signed.zip",
-      "filepath": "/full/husky/20261016/lineage-24.0-20261016-nightly-husky-signed.zip",
+      "date": "2026-10-23",
+      "datetime": 1792727456,
+      "filename": "lineage-24.0-20261023-nightly-husky-signed.zip",
+      "filepath": "/full/husky/20261023/lineage-24.0-20261023-nightly-husky-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4864:141898,payload.bin:4864:1510265395,payload_properties.txt:1510270317:156,apex_info.pb:2018:1714,care_map.pb:3779:1038,metadata:69:668,metadata.pb:805:1165                        ",
-      "sha1": "55f02a1ab2a1388bbc8d3d69383c7c39459603a1",
-      "sha256": "d92021d820197cfdd16caf356c84f3bb3c127b2748753c70c0cbadf143363b21",
-      "size": 1510273464,
+      "ota_property_files": "payload_metadata.bin:4909:142255,payload.bin:4909:1503970547,payload_properties.txt:1503975514:156,apex_info.pb:2033:1714,care_map.pb:3794:1068,metadata:69:668,metadata.pb:805:1180                        ",
+      "sha1": "ebf9126e207672b120137319629206f458274b18",
+      "sha256": "d0eb2338530a934771c890e33019af28638a87ea8da359b3b709cc38ab3968bb",
+      "size": 1503978661,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/lineage-24.0-20261016-nightly-husky-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/lineage-24.0-20261023-nightly-husky-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/husky/20261016/boot.img",
-      "sha1": "ca1945d5456ef41feab37c54db83a4aa49785302",
-      "sha256": "5252c62fed90e78c004af390e44b0a4fb18c572443ffdbead92774cbf38acd51",
+      "filepath": "/full/husky/20261023/boot.img",
+      "sha1": "4ff1c2f5edc73f943fa6d510e52de553b2c504a0",
+      "sha256": "17efe2309f553792385bbd996f1f7614ea7e6ebfb24fab7e72ba243bbd90e50c",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/husky/20261016/dtbo.img",
-      "sha1": "3d181a777a8cc8dff01106d35516470792d7ca98",
-      "sha256": "fe2ce1f0621a4cfe1b6ec0b5ee8e21176b0ced54f48457b61d157b224f65b729",
+      "filepath": "/full/husky/20261023/dtbo.img",
+      "sha1": "e58b672d470161838407395c03544973d869ff90",
+      "sha256": "f359c9d7b7645e23bd16add1292be81d3bd67987f52fae235ce1f38bdfdb114a",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/husky/20261016/init_boot.img",
-      "sha1": "bb2f4398423e662cc51a61e9d21812dd05794ec8",
-      "sha256": "eab55dabac96a114bb68021ba7e7be563897f999f7fb80d2c9ba65769e9aa053",
+      "filepath": "/full/husky/20261023/init_boot.img",
+      "sha1": "83c2bcc7f07dfdebebf2a6ba67e52b342ba4a18a",
+      "sha256": "51c14b6bccc0349497419e990bb8927101225e44f5a4b6771c3e7e8e5e9396c2",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/husky/20261016/super_empty.img",
-      "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
-      "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
+      "filepath": "/full/husky/20261023/super_empty.img",
+      "sha1": "9300c9f63ea3919c8d7802d35f4e4cf1798db2c1",
+      "sha256": "34cbe5c51a222b464a1983ec800a4877fec147481bf907ff326454b5d380c036",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/husky/20261016/vbmeta.img",
-      "sha1": "d74f32f4fd4ffa94a91ccabb5ae3616104cacbf8",
-      "sha256": "5fc85aacb2c45bfbaf457d8413d92cb239f6715b43b32df562ef886a10ae6d42",
+      "filepath": "/full/husky/20261023/vbmeta.img",
+      "sha1": "07f3cd08b302f4bb93a45fc6bd55ef8d89a06265",
+      "sha256": "48361fd4319badfe781981cf93547368ca1bc1a9d889476d13e95b504f5fe4db",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/husky/20261016/vendor_boot.img",
-      "sha1": "5284048e28260fbf70ebd0a8767ee18df511c8ee",
-      "sha256": "271154e163a5032d01cd1f12d770f51bc5ba0400d948d153e6d6b1f172c306d0",
+      "filepath": "/full/husky/20261023/vendor_boot.img",
+      "sha1": "d61e297962e3905f6949ecf9bf6101e478b84f3e",
+      "sha256": "009fee0a2c7972b8aa4ef22c017491bafc1a2099a9c01c26ff66b571e2da8595",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/husky/20261016/vendor_kernel_boot.img",
-      "sha1": "4f8f4043fe8f5324e71d859a41a4de0365cc0e49",
-      "sha256": "09e6f54d084411485520ed881ea2b69191bf60180e6665915ab4564ef4bca063",
+      "filepath": "/full/husky/20261023/vendor_kernel_boot.img",
+      "sha1": "a91e3f6b6cb92c47efacd9eb58ffd32ff67475c2",
+      "sha256": "c8c5b96f346094794d7502365173c1ce1dbd72c32b94c72b52e440387fa7a15d",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/vendor_kernel_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/husky/20261016/build-manifest.xml",
-      "sha1": "9b7755613f1e8263fdfd894c1500b32520305a50",
-      "sha256": "e6f37f38726e1f7b757a902febc87e3f9260f406888634287bb962216fb77d78",
-      "size": 305414,
-      "url": "https://mirrorbits.lineageos.org/full/husky/20261016/build-manifest.xml"
+      "filepath": "/full/husky/20261023/build-manifest.xml",
+      "sha1": "8f5ffa399eab4e222d70bd10cef662ea567931f5",
+      "sha256": "8b111a802983e3a9e9dd3a0ea84607b0fe66c5d916046aed72e039075cf8614d",
+      "size": 305375,
+      "url": "https://mirrorbits.lineageos.org/full/husky/20261023/build-manifest.xml"
     }
   ],
   "type": "nightly",
