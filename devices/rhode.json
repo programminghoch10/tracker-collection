@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-17",
-  "datetime": 1792200954,
+  "date": "2026-10-24",
+  "datetime": 1792818636,
   "files": [
     {
-      "date": "2026-10-17",
-      "datetime": 1792200954,
-      "filename": "lineage-24.0-20261017-nightly-rhode-signed.zip",
-      "filepath": "/full/rhode/20261017/lineage-24.0-20261017-nightly-rhode-signed.zip",
+      "date": "2026-10-24",
+      "datetime": 1792818636,
+      "filename": "lineage-24.0-20261024-nightly-rhode-signed.zip",
+      "filepath": "/full/rhode/20261024/lineage-24.0-20261024-nightly-rhode-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4284:125346,payload.bin:4284:1127848140,payload_properties.txt:1127852482:156,apex_info.pb:1970:1414,care_map.pb:3431:806,metadata:69:677,metadata.pb:814:1108                        ",
-      "sha1": "8e7f651df2a2a41d85cda91a8d5db611bfb84d8d",
-      "sha256": "e6be3fd26384aaf5da64f1d955d114a4d38ff59a818db4a8fa9037f9fbb4a7d1",
-      "size": 1127855629,
+      "ota_property_files": "payload_metadata.bin:4284:125455,payload.bin:4284:1128768903,payload_properties.txt:1128773245:156,apex_info.pb:1970:1414,care_map.pb:3431:806,metadata:69:677,metadata.pb:814:1108                        ",
+      "sha1": "45b3c80f2de4d1b9fb9982ad594bfa859a983c05",
+      "sha256": "ac64ca15aef849ff13ab3c1b8452dfe8a3c743156b64e81f02944a304dab0cac",
+      "size": 1128776392,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20261017/lineage-24.0-20261017-nightly-rhode-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20261024/lineage-24.0-20261024-nightly-rhode-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rhode/20261017/boot.img",
-      "sha1": "f3c59d8c9dc1b18ccefc8a2272a6f4a1b5a5359a",
-      "sha256": "898f9b367edfaa478c4666c11f8b72bd487f1379dc62c7758123d49b4d05fc17",
+      "filepath": "/full/rhode/20261024/boot.img",
+      "sha1": "c628a2e66b2bee44477d467584caf0ba6940ddc1",
+      "sha256": "aa7efe8e236ada464f33e97776dfe1fede631ceb2e293ba3a40788dd0db33417",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20261017/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20261024/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rhode/20261017/dtbo.img",
-      "sha1": "96891e603b9ebb68b2ca55ee890cfb8cf63ca454",
-      "sha256": "b7118626de44866f50b368ff2e745e1057d83ed3bb96f7f264ed4f8ff54b2988",
+      "filepath": "/full/rhode/20261024/dtbo.img",
+      "sha1": "5af392b761136c0590b47b5a92d04b077abdaead",
+      "sha256": "96cb85c4828c2d9801785c3b60b8f575193c94a2f9a2c6b2626f2f86dae8a7cb",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20261017/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20261024/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rhode/20261017/super_empty.img",
-      "sha1": "da8fc41736746e722c512866f7e028ae0b647fdf",
-      "sha256": "0af59ad1e465cfd9338b7046fbd313e12a5d0203cfe81cbac6a9fc37858d595a",
+      "filepath": "/full/rhode/20261024/super_empty.img",
+      "sha1": "bf0f5b666010123c68315e97a3666f3539533c89",
+      "sha256": "9f9536ab047df277c4365b91d2aea2439600b83a90a0a12051bb90d4f731087a",
       "size": 4976,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20261017/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20261024/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rhode/20261017/vbmeta.img",
-      "sha1": "87790a62481a5b99897acefdc106194def7e7154",
-      "sha256": "05be6cb9b27a7bcd2a675f4391d6c466c6df8d103613f9c701d21e516e9828d4",
+      "filepath": "/full/rhode/20261024/vbmeta.img",
+      "sha1": "3b44e749049ed2a3011573a5c10e90fb3f6afc4e",
+      "sha256": "394018cf03ab3a57c0837769a962ef19a3fa9da0e5a6409b05ad0761b7afe5b3",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20261017/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20261024/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/rhode/20261017/vendor_boot.img",
-      "sha1": "2fad556d2b16a8a492cdd021c19cb87ea2ff7770",
-      "sha256": "e0930d002cb6790162de5780245ffa32eb6e72e38f833e93549228a0cb9b0e00",
+      "filepath": "/full/rhode/20261024/vendor_boot.img",
+      "sha1": "e1bcf60f588c9097769716898f24d717f93f2ab4",
+      "sha256": "27c063634c9da85d7dd302d54ca1823fa2938296842b4d7356c37c8b94e9aa18",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20261017/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20261024/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/rhode/20261017/build-manifest.xml",
-      "sha1": "2553be92eec5c31c76ed0095cb57474fd4d76816",
-      "sha256": "e5e7a42b4420d82d8066d5e23b6ad1ecd39af7141798829af22aa5254a793b88",
-      "size": 305672,
-      "url": "https://mirrorbits.lineageos.org/full/rhode/20261017/build-manifest.xml"
+      "filepath": "/full/rhode/20261024/build-manifest.xml",
+      "sha1": "16e15a0d5e6f83ff6fc95991540cc1f287d0b034",
+      "sha256": "1f6963591313a73ed1e187d4137d42f1be4c4da8546ef98bc32f56975ac9ed2a",
+      "size": 305633,
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20261024/build-manifest.xml"
     }
   ],
   "type": "nightly",
