@@ -1,76 +1,76 @@
 {
-  "date": "2026-10-17",
-  "datetime": 1792226109,
+  "date": "2026-10-24",
+  "datetime": 1792800336,
   "files": [
     {
-      "date": "2026-10-17",
-      "datetime": 1792226109,
-      "filename": "lineage-24.0-20261017-nightly-ingot-signed.zip",
-      "filepath": "/full/ingot/20261017/lineage-24.0-20261017-nightly-ingot-signed.zip",
+      "date": "2026-10-24",
+      "datetime": 1792800336,
+      "filename": "lineage-24.0-20261024-nightly-ingot-signed.zip",
+      "filepath": "/full/ingot/20261024/lineage-24.0-20261024-nightly-ingot-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4411:146223,payload.bin:4411:1317964563,payload_properties.txt:1317969032:156,apex_info.pb:1950:1414,care_map.pb:3411:953,metadata:69:659,metadata.pb:796:1106                        ",
-      "sha1": "65321c3111fe22340cfc4091e0524bcf976fc26e",
-      "sha256": "c00754c58530aad846a925d43834da9787686e557be30474a39e1d829c21e39b",
-      "size": 1317972179,
+      "ota_property_files": "payload_metadata.bin:4411:146280,payload.bin:4411:1318890410,payload_properties.txt:1318894879:156,apex_info.pb:1950:1414,care_map.pb:3411:953,metadata:69:659,metadata.pb:796:1106                        ",
+      "sha1": "0f6703b8cf84599cc40e547fd1085ea2c8a41325",
+      "sha256": "ce54a85e0703c5527ee942f78ef50e5ce94701deff39479a06c9d60ad3282ff7",
+      "size": 1318898026,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/lineage-24.0-20261017-nightly-ingot-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/lineage-24.0-20261024-nightly-ingot-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/ingot/20261017/boot.img",
-      "sha1": "44a4332a96564b36cfc5a694fbc1dc045d0674a2",
-      "sha256": "2fbb9339d86f30da51a9c69e1b90a8b44c33a9bfe7ec47f8adb1c7b5ce94b5a4",
+      "filepath": "/full/ingot/20261024/boot.img",
+      "sha1": "9764cb2ecdfdcce313671375ec25d003e8fb3067",
+      "sha256": "64aa6e9749b3411146aadf509eafb272813bd3ef0f9831af943577d1d09f8742",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/ingot/20261017/dtbo.img",
-      "sha1": "ed33682511b63e036c63830bc3d7c07eda24853f",
-      "sha256": "27684b3175a6c975fc6a62c931d5fdfad74c6fab1eaf054729d9fa9a1a4cda6f",
+      "filepath": "/full/ingot/20261024/dtbo.img",
+      "sha1": "22bd9fe8f7dd6506fd217f58ba051b02c91cf085",
+      "sha256": "ee2fd2e32bf5cb81f3bd0db486200ac010f93f8682c25ac864fd5c3d3f6fc2a6",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/ingot/20261017/recovery.img",
-      "sha1": "494b63d5aa533fea6939b422580d424f16bfd85b",
-      "sha256": "584347bd32f7b9d2d88a4c9ad26bff52ee0a5c6c67d57e3b982d137d784226d6",
+      "filepath": "/full/ingot/20261024/recovery.img",
+      "sha1": "d74065bc74748b6f42121fff82a332ba539b33e7",
+      "sha256": "d7f0019aee555b7cc75800f958d0ef4a164ead5f433f3407ac21a69e6ae0b128",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/ingot/20261017/super_empty.img",
-      "sha1": "e8e1a10c8978610b5e57993e72ff229004915e48",
-      "sha256": "fc319e984d23a936e66a68f883ae78b78a0db1bd3cda412a0b96a97aa54310db",
+      "filepath": "/full/ingot/20261024/super_empty.img",
+      "sha1": "929afc4c3fe683e3b821c3e3b154d02468f27a0d",
+      "sha256": "26a2ebaa6d49c9376012fde3bb097158795c7bfbe97e1af7b1c60317a9b22183",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/ingot/20261017/vbmeta.img",
-      "sha1": "564a8ebf525d2ac44421f6707bb041be1df34c44",
-      "sha256": "7dab89cfed796d6a3a99f05dca70792802d84b1c1ac56896fb634435b954f504",
+      "filepath": "/full/ingot/20261024/vbmeta.img",
+      "sha1": "9533186bb80d89cdf55d533cc108ba6aa6bcb95e",
+      "sha256": "9a2ca8dad9535900bd05032b33bacdd03f61b461bfd0e82d0e29d46898223faa",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/ingot/20261017/vendor_boot.img",
-      "sha1": "eb34b9d92cbebf0ecb53a604502a702039f2f7a9",
-      "sha256": "3a837ded3b2e285cc4e6c15175ffb837ed102d823831ac7980b8fac0d8c2f8a7",
+      "filepath": "/full/ingot/20261024/vendor_boot.img",
+      "sha1": "de56f780db8262434f9924fac1ff0e9c0d2f3430",
+      "sha256": "2a64d131561d53641050f32ea81c7cc233608206e412b80b2065d087351713ac",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/ingot/20261017/build-manifest.xml",
-      "sha1": "d3daacf89a8210fcf9a812a3a2e689e7b903922e",
-      "sha256": "c2454c57e3900c752417c9b970dc8d4d5d31915a87849be10a33ba7dab394633",
-      "size": 305426,
-      "url": "https://mirrorbits.lineageos.org/full/ingot/20261017/build-manifest.xml"
+      "filepath": "/full/ingot/20261024/build-manifest.xml",
+      "sha1": "c01fdc7decf209412f8236e4d2a2e964079f1853",
+      "sha256": "eb644731c4a2cea6a33e5046808591a13f5a89c36cad0b43b1dd9a95aedd8a87",
+      "size": 305387,
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20261024/build-manifest.xml"
     }
   ],
   "type": "nightly",
