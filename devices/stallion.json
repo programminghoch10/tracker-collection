@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-18",
-  "datetime": 1792302285,
+  "date": "2026-10-25",
+  "datetime": 1792895311,
   "files": [
     {
-      "date": "2026-10-18",
-      "datetime": 1792302285,
-      "filename": "lineage-24.0-20261018-nightly-stallion-signed.zip",
-      "filepath": "/full/stallion/20261018/lineage-24.0-20261018-nightly-stallion-signed.zip",
+      "date": "2026-10-25",
+      "datetime": 1792895311,
+      "filename": "lineage-24.0-20261025-nightly-stallion-signed.zip",
+      "filepath": "/full/stallion/20261025/lineage-24.0-20261025-nightly-stallion-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4976:149750,payload.bin:4976:1668960698,payload_properties.txt:1668965732:156,apex_info.pb:2084:1714,care_map.pb:3845:1084,metadata:69:677,metadata.pb:814:1222                        ",
-      "sha1": "c77d6e1fd6c3abf1fceaf04c1259d880f1528e4e",
-      "sha256": "a447596946be26c140bb883929fe7f2a5d48d03b6b4a292c3879e9d953e5ddfc",
-      "size": 1668968879,
+      "ota_property_files": "payload_metadata.bin:5007:149806,payload.bin:5007:1662799233,payload_properties.txt:1662804298:156,apex_info.pb:2099:1714,care_map.pb:3860:1100,metadata:69:677,metadata.pb:814:1237                        ",
+      "sha1": "2dd662191d33550c89b090089dadc95c56dec45e",
+      "sha256": "51d367ccc710a929ce81bf8543924cbe242a40acafcecd473061bfe62b31de33",
+      "size": 1662807445,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/lineage-24.0-20261018-nightly-stallion-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/lineage-24.0-20261025-nightly-stallion-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/stallion/20261018/boot.img",
-      "sha1": "87ce420e919ac16d2469b7fc9ebd2ad9140f89df",
-      "sha256": "c3a1a184c34a69abdb68c1cde5b8feddb4d433b771284ed8c8d6d989ac39df4a",
+      "filepath": "/full/stallion/20261025/boot.img",
+      "sha1": "c6917d695fc8426de0e546f8b27f8120cc7212c3",
+      "sha256": "9c2ce5e0d8ef9f33fe5272c52fd47c2333c6e333a80f26683c2050749be12bd4",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/stallion/20261018/dtbo.img",
-      "sha1": "9defeb30f1ffb8c8375a02faf9d4f490711c2c11",
-      "sha256": "4f5a6d12c7bf8a9cd09086a5dc85c11046df9b904915ceaffec51353368835c7",
+      "filepath": "/full/stallion/20261025/dtbo.img",
+      "sha1": "c00898e38b09cbd7684244a8103cecd6be009985",
+      "sha256": "3aed95cb4445cbd49a76d8615c5ef465c6d3d6145043c51e4ada74c3422cdbbe",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/stallion/20261018/init_boot.img",
-      "sha1": "011673bac0d68f8d4e63ec20a470bd5acb784e0c",
-      "sha256": "8b993aa29e5d60a2117eace1c6464bdb36fcfad449f789e464ce23fe840199fc",
+      "filepath": "/full/stallion/20261025/init_boot.img",
+      "sha1": "b5e66f47c8ee90b7a28288ffcdd649683e3909d7",
+      "sha256": "3c2f88679fba7222bdc19a68116314f5050187d78fd63dad0bd1cc0c8fd4fa02",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/stallion/20261018/super_empty.img",
-      "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
-      "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
+      "filepath": "/full/stallion/20261025/super_empty.img",
+      "sha1": "9300c9f63ea3919c8d7802d35f4e4cf1798db2c1",
+      "sha256": "34cbe5c51a222b464a1983ec800a4877fec147481bf907ff326454b5d380c036",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/stallion/20261018/vbmeta.img",
-      "sha1": "b55da835fa084c6335e8d1b75d7d21bcbcbdbb0d",
-      "sha256": "6daf1387a4a4aefa711f241a2eb5bc58e47a025a1aa38af8a4ec0e261dd4ca23",
+      "filepath": "/full/stallion/20261025/vbmeta.img",
+      "sha1": "21baa0441fd356671adbc243c5f847211b8e19ca",
+      "sha256": "ce94836d936b00da06aa92e6313ea95d3a1136fcdea60c2b669d66697c4ad237",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/stallion/20261018/vendor_boot.img",
-      "sha1": "b613b99f54020f8bb21e05565d929e41a748d0e2",
-      "sha256": "c683770fc7a5609d824bd64c7016cf6a59e9ecd0faf683b937d514fa56554bd5",
+      "filepath": "/full/stallion/20261025/vendor_boot.img",
+      "sha1": "5ced253b4d3288446d25061f32aeddb2ef81b549",
+      "sha256": "1df046fd63d7c0b70fc082fb663611179ac1d6ff89014b24047c48bdf1176db2",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/stallion/20261018/vendor_kernel_boot.img",
-      "sha1": "90ee16144a6be45a24f08e5afffaaba5598c181a",
-      "sha256": "b90d5271f6a9d595a6a51ae2b0fa1d2ceeda7a907d0fe153dbc41997285a717f",
+      "filepath": "/full/stallion/20261025/vendor_kernel_boot.img",
+      "sha1": "e48c4dbd6731295f21c310bf293ad25ecedc972b",
+      "sha256": "786882dae8dadb9df4821094b48e2547db232bc5c6ce2504a8886bba0120590a",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/vendor_kernel_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/stallion/20261018/build-manifest.xml",
-      "sha1": "1ef4dc4c55d63a06f87ff4ae0f38ea4bdf1d9f86",
-      "sha256": "1c4a223a352caf8411794fd863f63a97e64336f98fd9ffc6fcc95ad24872f80d",
-      "size": 305190,
-      "url": "https://mirrorbits.lineageos.org/full/stallion/20261018/build-manifest.xml"
+      "filepath": "/full/stallion/20261025/build-manifest.xml",
+      "sha1": "01bd86933f65b4977a7219975771cf3d65157d3a",
+      "sha256": "87449b1c2aa3a843a3ce83ee141c5445ec1b411134c63252f04af5d4bc41d74d",
+      "size": 305151,
+      "url": "https://mirrorbits.lineageos.org/full/stallion/20261025/build-manifest.xml"
     }
   ],
   "type": "nightly",
