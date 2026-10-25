@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-18",
-  "datetime": 1792299284,
+  "date": "2026-10-25",
+  "datetime": 1792910644,
   "files": [
     {
-      "date": "2026-10-18",
-      "datetime": 1792299284,
-      "filename": "lineage-24.0-20261018-nightly-shiba-signed.zip",
-      "filepath": "/full/shiba/20261018/lineage-24.0-20261018-nightly-shiba-signed.zip",
+      "date": "2026-10-25",
+      "datetime": 1792910644,
+      "filename": "lineage-24.0-20261025-nightly-shiba-signed.zip",
+      "filepath": "/full/shiba/20261025/lineage-24.0-20261025-nightly-shiba-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4864:141442,payload.bin:4864:1500543183,payload_properties.txt:1500548105:156,apex_info.pb:2018:1714,care_map.pb:3779:1038,metadata:69:668,metadata.pb:805:1165                        ",
-      "sha1": "a57d34e3269a61a70e1bf9a2a9c55646f4dbb072",
-      "sha256": "1a8a70a83974382690ab93fb5a4fb3a40d41612f0b4bf06235855c23d5c6635d",
-      "size": 1500551252,
+      "ota_property_files": "payload_metadata.bin:4909:141738,payload.bin:4909:1495682995,payload_properties.txt:1495687962:156,apex_info.pb:2033:1714,care_map.pb:3794:1068,metadata:69:668,metadata.pb:805:1180                        ",
+      "sha1": "b5a2369f58629ef829fcd3461e400e43f6923ed1",
+      "sha256": "337530d8a2885fc138f040d8bb9336b78d9659c27ac006abaa911562a71b02ac",
+      "size": 1495691109,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/lineage-24.0-20261018-nightly-shiba-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/lineage-24.0-20261025-nightly-shiba-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/shiba/20261018/boot.img",
-      "sha1": "bf45febed42ac48042f143dee71b011cb9e72681",
-      "sha256": "3f7a1327d70ee5f47cfe791614ae71832d9c0b818cf4172853d092be9cc304eb",
+      "filepath": "/full/shiba/20261025/boot.img",
+      "sha1": "cfa79018212a12f2ed2bb7d65c6eb03f4c7f52af",
+      "sha256": "6b67097171850256010d92936ce9f72570c642bfe1b23f0546c04025d1810a1d",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/shiba/20261018/dtbo.img",
-      "sha1": "d84416bc07ecd6bbb07fdfe624da935e6625e99b",
-      "sha256": "7ec7c0da75af1d82234f149c1d1e2f73c6603abda7c460786ea22afb48ab3806",
+      "filepath": "/full/shiba/20261025/dtbo.img",
+      "sha1": "e5c07d5e1e6e08b1cbf1c1e014666eac1bd24148",
+      "sha256": "c0f163f46c506c21a7e43c8ea457b64340725089bbd8cd3870caec765164f7ae",
       "size": 16777216,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/shiba/20261018/init_boot.img",
-      "sha1": "e2753c5f5f095a4d8b0a99580852c569f1c23413",
-      "sha256": "eca5cf2a2fa7cdae6954211fcc98ea08b70373d553651efde63f444637cc4f05",
+      "filepath": "/full/shiba/20261025/init_boot.img",
+      "sha1": "c4c6a0694980a9aa4c24cb346c05d06704d24011",
+      "sha256": "120e13096539fde78d59792fb48a191bc38abd9025ef7f80106dd62c55ee8e43",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/init_boot.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/shiba/20261018/super_empty.img",
-      "sha1": "2995fc27a3513f0a79ae8c4b6b70d665f9e2dbff",
-      "sha256": "3e9b0895933a92ee23e74c9aa0cc4e6222daea31f81222e47ec839c979fafae8",
+      "filepath": "/full/shiba/20261025/super_empty.img",
+      "sha1": "9300c9f63ea3919c8d7802d35f4e4cf1798db2c1",
+      "sha256": "34cbe5c51a222b464a1983ec800a4877fec147481bf907ff326454b5d380c036",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/shiba/20261018/vbmeta.img",
-      "sha1": "f15bf5ec5eb3bb3f6f48de2879478518ab3047c4",
-      "sha256": "a543642a96af73d1eda251ad49fe96700734a151f6527bf17630c002befd6d17",
+      "filepath": "/full/shiba/20261025/vbmeta.img",
+      "sha1": "aa4722d54c70b49da3da0b0bea1db8e438c6bc90",
+      "sha256": "dddb5f80fed2f59f5dffd8d91bcfeea3c3d790b2334f4e3c63ab8e030042fe11",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/shiba/20261018/vendor_boot.img",
-      "sha1": "04cd002ac8f733193188af4fceb5f4fcf0579e23",
-      "sha256": "96c360bf87d751628a3f4ad2d15326a6206a344e14ca775aa20908ee5c23de99",
+      "filepath": "/full/shiba/20261025/vendor_boot.img",
+      "sha1": "d1bba07f65440664f02cc448c5c8d59e3d754090",
+      "sha256": "6b4796820faef49767fc84a31204df592e348b1de2b88ae6db2baf943e11a2ec",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/vendor_boot.img"
     },
     {
       "filename": "vendor_kernel_boot.img",
-      "filepath": "/full/shiba/20261018/vendor_kernel_boot.img",
-      "sha1": "eb1bb20dd3360397be6e0ee69c724b7878ae359b",
-      "sha256": "c0a589f900f8bb8bb59542a6f0a38931a41e91b9947b2de871cb235d60aff85c",
+      "filepath": "/full/shiba/20261025/vendor_kernel_boot.img",
+      "sha1": "21561b318a02b802540038c03eb784e7ec852c37",
+      "sha256": "eae513d7377bf8a96f0024f7de52dd9ab145e289e6978ee216eaf7211fb39006",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/vendor_kernel_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/vendor_kernel_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/shiba/20261018/build-manifest.xml",
-      "sha1": "6b566de8763b92e2e6976f2e0ab84278438a0c19",
-      "sha256": "0015b3e840b068c4040d9dc5382adf2bd49ee7f2da87e5f3660a8d666f17d10f",
-      "size": 305414,
-      "url": "https://mirrorbits.lineageos.org/full/shiba/20261018/build-manifest.xml"
+      "filepath": "/full/shiba/20261025/build-manifest.xml",
+      "sha1": "c0aea4d4843d908010a72f8e4ae87fa650376f25",
+      "sha256": "d22b72d51d30553119c3f72036e04bfda6b7a55de0386319845febda1a4a8030",
+      "size": 305375,
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20261025/build-manifest.xml"
     }
   ],
   "type": "nightly",
