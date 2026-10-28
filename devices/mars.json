@@ -1,60 +1,60 @@
 {
-  "date": "2026-10-21",
-  "datetime": 1792550999,
+  "date": "2026-10-28",
+  "datetime": 1793153423,
   "files": [
     {
-      "date": "2026-10-21",
-      "datetime": 1792550999,
-      "filename": "lineage-23.2-20261021-nightly-mars-signed.zip",
-      "filepath": "/full/mars/20261021/lineage-23.2-20261021-nightly-mars-signed.zip",
+      "date": "2026-10-28",
+      "datetime": 1793153423,
+      "filename": "lineage-23.2-20261028-nightly-mars-signed.zip",
+      "filepath": "/full/mars/20261028/lineage-23.2-20261028-nightly-mars-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4568:168977,payload.bin:4568:1726462879,payload_properties.txt:1726467505:156,apex_info.pb:2093:1279,care_map.pb:3419:1102,metadata:69:681,metadata.pb:818:1227                        ",
-      "sha1": "73e2ef65bcd2936d6a264041d5a5a25cfeffe462",
-      "sha256": "8125463bfae089d77e0b8b8e70ed1f3b006e11228428972f1b2a158f555c9a99",
-      "size": 1726470652,
+      "ota_property_files": "payload_metadata.bin:4568:169089,payload.bin:4568:1727293984,payload_properties.txt:1727298610:156,apex_info.pb:2093:1279,care_map.pb:3419:1102,metadata:69:681,metadata.pb:818:1227                        ",
+      "sha1": "316c7e71e0687509209f1e4ee0609cab22bf4640",
+      "sha256": "eb3fbcdd372792a05f1f1b430ea9463e85ebe728c1b0da6c89602020c6268981",
+      "size": 1727301757,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/mars/20261021/lineage-23.2-20261021-nightly-mars-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20261028/lineage-23.2-20261028-nightly-mars-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/mars/20261021/boot.img",
-      "sha1": "880952a1b15d2808a416bc15129302c39e7978cb",
-      "sha256": "85484ac47af538cdef3a4a55830e83c4f0f69e6c1f7690add2d99539f7c22df2",
+      "filepath": "/full/mars/20261028/boot.img",
+      "sha1": "deeadee10204eabea71c92dbdd150b121da0ddf4",
+      "sha256": "09a9943eb7452e8706ec270fa477ea4c8f4f2cc8355a0111d868ba1a47af4ece",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20261021/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20261028/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/mars/20261021/dtbo.img",
-      "sha1": "04f30f218b72e8fc05101e50fe4ad2c263991f2b",
-      "sha256": "66b38eefb03d818b016d28c5e7f36df64bb263f50b4c6d88041c6cb5a46cb9af",
+      "filepath": "/full/mars/20261028/dtbo.img",
+      "sha1": "a7636496f3d7461b1f091657182713938ed79144",
+      "sha256": "cde04be7d4380ba3a849b3cfd2d5e0be909d2080cd99cd4069748d266d9a5fa6",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20261021/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20261028/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/mars/20261021/vbmeta.img",
-      "sha1": "86c404b826775f57bc5f13c9c94ba42bcbe69634",
-      "sha256": "192229e2c69bb614f527245f8b02935dead84e3830a90da4c93878dcb12107e3",
+      "filepath": "/full/mars/20261028/vbmeta.img",
+      "sha1": "8ff80fce55c391570e78628894faf043c9e37542",
+      "sha256": "89a0e6e11cb1cdbfeb6a144de9b3973d3440bc9840f4f467a5e9c0a0f1d5b321",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20261021/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20261028/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/mars/20261021/vendor_boot.img",
-      "sha1": "ab31bd96b4d6214b77ddda1ff36b583c48f8ae72",
-      "sha256": "45e80468fdfcf6207e9eda7c26a9e84157352cc7a7121dcb556311621aa5e786",
+      "filepath": "/full/mars/20261028/vendor_boot.img",
+      "sha1": "dd70c70426591348d92a46a157763dfe8874b925",
+      "sha256": "0990f224d2c6460304bd11e5b2b8fbadb6e02afae99ef96204ea338e61dd6384",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20261021/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/mars/20261028/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/mars/20261021/build-manifest.xml",
-      "sha1": "93c556f74f55c0e6cfa7a9e8656cb255a449eb8c",
-      "sha256": "1608dd7cebfe9983d565a1b37aa8316948efa1bd8342e793ae2f95906ac3ce98",
-      "size": 285736,
-      "url": "https://mirrorbits.lineageos.org/full/mars/20261021/build-manifest.xml"
+      "filepath": "/full/mars/20261028/build-manifest.xml",
+      "sha1": "26dcaacf61496bfd7966e9351a7e5d26161e2f03",
+      "sha256": "3cac7aae51c10a5449c70d03b36e914bd12eb872223c4afb0e51cca8af3562f4",
+      "size": 285710,
+      "url": "https://mirrorbits.lineageos.org/full/mars/20261028/build-manifest.xml"
     }
   ],
   "type": "nightly",
