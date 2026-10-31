@@ -1,60 +1,60 @@
 {
-  "date": "2026-10-24",
-  "datetime": 1792832021,
+  "date": "2026-10-31",
+  "datetime": 1793422417,
   "files": [
     {
-      "date": "2026-10-24",
-      "datetime": 1792832021,
-      "filename": "lineage-23.2-20261024-nightly-renoir-signed.zip",
-      "filepath": "/full/renoir/20261024/lineage-23.2-20261024-nightly-renoir-signed.zip",
+      "date": "2026-10-31",
+      "datetime": 1793422417,
+      "filename": "lineage-23.2-20261031-nightly-renoir-signed.zip",
+      "filepath": "/full/renoir/20261031/lineage-23.2-20261031-nightly-renoir-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4642:159289,payload.bin:4642:1507794353,payload_properties.txt:1507799053:156,apex_info.pb:2143:1279,care_map.pb:3469:1126,metadata:69:687,metadata.pb:824:1271                        ",
-      "sha1": "63d7e8a918516b431597a5b244e1d4eb12644737",
-      "sha256": "f5e03fc55991a88e8ee7f0ba387691f3a5f0b9a61a735efa6d97d709ac4dfa3e",
-      "size": 1507802200,
+      "ota_property_files": "payload_metadata.bin:4642:159340,payload.bin:4642:1507762645,payload_properties.txt:1507767345:156,apex_info.pb:2143:1279,care_map.pb:3469:1126,metadata:69:687,metadata.pb:824:1271                        ",
+      "sha1": "e1ee837545a2cdddf098c9530ef4de37da12d1c3",
+      "sha256": "a138f576258578e06775bb03e8a952ef4765314a11af80e90131383a24d0eede",
+      "size": 1507770492,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20261024/lineage-23.2-20261024-nightly-renoir-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20261031/lineage-23.2-20261031-nightly-renoir-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/renoir/20261024/boot.img",
-      "sha1": "c8baed060fcf0ddafb0950d97e70994a4ed20730",
-      "sha256": "ebcbead0428f52e6c1711faba9ec7a3ec3d9217b8c07233f067b7de6bec5eac6",
+      "filepath": "/full/renoir/20261031/boot.img",
+      "sha1": "4f75159a666ddb0d345fe5a559dbcc7e47918c6b",
+      "sha256": "e24d32b4465fe2be95f8f47f34548aafcfb63467265fd220202c7c2508753636",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20261024/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20261031/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/renoir/20261024/dtbo.img",
-      "sha1": "77c1ba7bc8f9aaae222f9ea127e1b2e444492a04",
-      "sha256": "19a4227c819278a8a33fb62b66ac493fa620e505091ff656c2c8154b2c7594c3",
+      "filepath": "/full/renoir/20261031/dtbo.img",
+      "sha1": "e7c3a8c960625ced7eb4e9423e68871fe31dffdf",
+      "sha256": "3f829295e62f23c82e6050a81160c392a7559127d0b91b73448610cc7ffaa10d",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20261024/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20261031/dtbo.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/renoir/20261024/vbmeta.img",
-      "sha1": "28ed29078d2fbd285fc6959ed373a66003092acb",
-      "sha256": "b161e4ef9c361219ac9360acb7da99d02e69bfd9e75a36649f0c25d2f8bec568",
+      "filepath": "/full/renoir/20261031/vbmeta.img",
+      "sha1": "ad6f8eb851c7e3f8ddcef06c8b6a148c519dbfa5",
+      "sha256": "e07cba65536f33f9e67e0881c30816a0a5846f3e9d77e6c90c6978846b601364",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20261024/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20261031/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/renoir/20261024/vendor_boot.img",
-      "sha1": "432ef7ae7da8260cc32ad31088eb82c8240764a9",
-      "sha256": "71007baa6edaef0151bd66189818aa7f0d3b36d0315cf9e57fd4f4d19a28ff17",
+      "filepath": "/full/renoir/20261031/vendor_boot.img",
+      "sha1": "415de4002b6e5c2314c9aca6f60b5c57d90047b8",
+      "sha256": "ad6c4598ed7456cbf3dc0dad06a6ee64f319c40476224ba3708f1d7f57cf909d",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20261024/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20261031/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/renoir/20261024/build-manifest.xml",
-      "sha1": "c5d69df609f23cb4dbd0a936d47dde53ef4ade57",
-      "sha256": "1ea96cdacc5623a0013224859302491806ffdd9f47d81802e4160f49bba40e39",
+      "filepath": "/full/renoir/20261031/build-manifest.xml",
+      "sha1": "4c9c368c90612ae7ff2c288dae19918d0b3cec32",
+      "sha256": "d960a6d6ad9f0e37b34b9168859bc2768b4506fbf7d24699698491c1bd8afdb1",
       "size": 285714,
-      "url": "https://mirrorbits.lineageos.org/full/renoir/20261024/build-manifest.xml"
+      "url": "https://mirrorbits.lineageos.org/full/renoir/20261031/build-manifest.xml"
     }
   ],
   "type": "nightly",
