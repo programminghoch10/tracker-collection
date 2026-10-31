@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-24",
-  "datetime": 1792823550,
+  "date": "2026-10-31",
+  "datetime": 1793409810,
   "files": [
     {
-      "date": "2026-10-24",
-      "datetime": 1792823550,
-      "filename": "lineage-24.0-20261024-nightly-rtwo-signed.zip",
-      "filepath": "/full/rtwo/20261024/lineage-24.0-20261024-nightly-rtwo-signed.zip",
+      "date": "2026-10-31",
+      "datetime": 1793409810,
+      "filename": "lineage-24.0-20261031-nightly-rtwo-signed.zip",
+      "filepath": "/full/rtwo/20261031/lineage-24.0-20261031-nightly-rtwo-signed.zip",
       "os_patch_level": "2026-10-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4757:255999,payload.bin:4757:2003757297,payload_properties.txt:2003762112:156,apex_info.pb:2067:1414,care_map.pb:3528:1182,metadata:69:676,metadata.pb:813:1206                        ",
-      "sha1": "b2e579b7fccbdb988ce376f487968806f154f24a",
-      "sha256": "fab4673cc8f89187613e593d4ef066360213568c7d4c303afb464850565bd999",
-      "size": 2003765259,
+      "ota_property_files": "payload_metadata.bin:4757:256393,payload.bin:4757:2007915314,payload_properties.txt:2007920129:156,apex_info.pb:2067:1414,care_map.pb:3528:1182,metadata:69:676,metadata.pb:813:1206                        ",
+      "sha1": "8da91a4e5e8103dc90e00775601bd4bf10e7c10a",
+      "sha256": "6f5ef53e9ac71c77954caaea0bc1748ec63829328d688e2b790043908e893163",
+      "size": 2007923276,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/lineage-24.0-20261024-nightly-rtwo-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/lineage-24.0-20261031-nightly-rtwo-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/rtwo/20261024/boot.img",
-      "sha1": "fbcd3ff08fb923f4d8ece64d37b47281a3feed12",
-      "sha256": "279c406efca1859eca8883cb92da19dcd113dce3bb3ca85a40ca5e753c848216",
+      "filepath": "/full/rtwo/20261031/boot.img",
+      "sha1": "89cb76ab78844acf58435f34564459f1db4d6d06",
+      "sha256": "8677c4c1549941cb811431c9e94f0f00ca0b95339d1203635df10d7b7b658350",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/rtwo/20261024/dtbo.img",
-      "sha1": "a1a61e8000e3ebb82bd252ce4e9fb0fc71f5c91b",
-      "sha256": "1e0ca4138d925133aebcf724820d30a5110dc59a89cb523a59f263a615449cef",
+      "filepath": "/full/rtwo/20261031/dtbo.img",
+      "sha1": "f6b1746bdb49e7bd6f95f63379195299dc9a893c",
+      "sha256": "52bd412f9846f3f5a499117dd7b498f2690adde2e897bb18162800cd97402816",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/dtbo.img"
     },
     {
       "filename": "init_boot.img",
-      "filepath": "/full/rtwo/20261024/init_boot.img",
-      "sha1": "8c8b7a9c5cf265b77bb1dfa098c971be0525df8f",
-      "sha256": "270c2359eba6e9ea0ccd4fb8883b9c4bd1edd8a7866f81e2115ce679a639fe2f",
+      "filepath": "/full/rtwo/20261031/init_boot.img",
+      "sha1": "ce37275ebe7b0ae7137a9be3dd1b6bdbdcb1ed80",
+      "sha256": "5793f9c0cbc23b5976d569a12989c17fecb34428449b7663c3e2b288189cbc17",
       "size": 8388608,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/init_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/init_boot.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/rtwo/20261024/recovery.img",
-      "sha1": "9cb3e336c89e71266393d6bf75669b62686f1661",
-      "sha256": "4515f510d622036d6490044c8df97f0e2a74bd4362307759e8d3e25b55e6f344",
+      "filepath": "/full/rtwo/20261031/recovery.img",
+      "sha1": "dfc075f3557e48e847b3edaa46e871fa044b7220",
+      "sha256": "6703e25981d858bbde57521b703440bec7c282ba0305f294626730f756e9e5a6",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/rtwo/20261024/super_empty.img",
+      "filepath": "/full/rtwo/20261031/super_empty.img",
       "sha1": "eba2e4ba873658809e1420e64211205ff8b6cbd8",
       "sha256": "faa2071adbfc7a7e4a19face75594004bcd8e6853cbdbe15995877c4a8ab4081",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/rtwo/20261024/vbmeta.img",
-      "sha1": "0c1551c531be6767c503b5b51d18af24097ebed0",
-      "sha256": "51d6b92d38fe28693a8b86f49947d3de7346c63ac8bc8d65d3c1f39964bcb147",
+      "filepath": "/full/rtwo/20261031/vbmeta.img",
+      "sha1": "93a03032976d2378e1b958a75f97b8b0fb13cf37",
+      "sha256": "83629d84f10781c56d72d19570c75450e1b53d9f6df50ffb899ab26a80416ff9",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/rtwo/20261024/vendor_boot.img",
-      "sha1": "83faf6e8778d38deeb9b52f2b756a1565d924c5d",
-      "sha256": "cadc7f65ed806846cc34267a92efbbdd9a2ee4e07dcf3068824b0dd1bd94a80f",
+      "filepath": "/full/rtwo/20261031/vendor_boot.img",
+      "sha1": "b43aaa8544c6eda33ed4e28cb787562bbca8cc2f",
+      "sha256": "269fb7bd3fddc8bad6234cb4174effb03e878c98dab0258b0ccec058b48e11c4",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/rtwo/20261024/build-manifest.xml",
-      "sha1": "421bf577dd68a63bebc8659eb3dc27a5dc2f87a5",
-      "sha256": "8894c419476ac19343609cc31594ed62f6bfd431787eaef6abc42ca50ca9bf30",
+      "filepath": "/full/rtwo/20261031/build-manifest.xml",
+      "sha1": "b6d1d345ec566221ac52e8eb28068672e451d960",
+      "sha256": "d11e7ad4c51f59206eb41cd27d88aa1b563726541795c3def387b5073d805d41",
       "size": 305909,
-      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261024/build-manifest.xml"
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20261031/build-manifest.xml"
     }
   ],
   "type": "nightly",
