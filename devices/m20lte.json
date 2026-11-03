@@ -1,9 +1,46 @@
 {
-  "datetime": 1666483200,
-  "filename": "lineage-18.1-20221023-nightly-m20lte-signed.zip",
-  "id": "f9d3c4122a78b1029ea85f83fcb787b9d388f845ec83e52c29291fdc6a5117cd",
-  "romtype": "nightly",
-  "size": 683714624,
-  "url": "https://mirrorbits.lineageos.org/full/m20lte/20221023/lineage-18.1-20221023-nightly-m20lte-signed.zip",
-  "version": "18.1"
+  "date": "2026-11-03",
+  "datetime": 1793715806,
+  "files": [
+    {
+      "date": "2026-11-03",
+      "datetime": 1793715806,
+      "filename": "lineage-22.2-20261103-nightly-m20lte-signed.zip",
+      "filepath": "/full/m20lte/20261103/lineage-22.2-20261103-nightly-m20lte-signed.zip",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 35,
+      "ota_property_files": "metadata:69:339,metadata.pb:476:225                 ",
+      "sha1": "1937ad6b66f6487707a76828590e054af63d7ec1",
+      "sha256": "8584b4795e1cff9bee0b6dd2e932eec13a46f8b19e3ce788eee0f49bacd28710",
+      "size": 954471432,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/m20lte/20261103/lineage-22.2-20261103-nightly-m20lte-signed.zip"
+    },
+    {
+      "filename": "boot.img",
+      "filepath": "/full/m20lte/20261103/boot.img",
+      "sha1": "2633115e555c1328651fe277f78a66ae0a5be7e4",
+      "sha256": "7175f6a306f7f9a60f1ba37dc8b0999381675c6df1b904f8000a29745ba44a29",
+      "size": 20596736,
+      "url": "https://mirrorbits.lineageos.org/full/m20lte/20261103/boot.img"
+    },
+    {
+      "filename": "recovery.img",
+      "filepath": "/full/m20lte/20261103/recovery.img",
+      "sha1": "1a9db69250510dc95281b89f1d5ca387499c3e27",
+      "sha256": "168b016642c4b78d406df74b6192a30a81ccac5e24701dd8d3f4bcd45d29b4ad",
+      "size": 33435648,
+      "url": "https://mirrorbits.lineageos.org/full/m20lte/20261103/recovery.img"
+    },
+    {
+      "filename": "build-manifest.xml",
+      "filepath": "/full/m20lte/20261103/build-manifest.xml",
+      "sha1": "3cd2abe0a842cd599798c45b3d61195b53d9d40c",
+      "sha256": "ff4a0955fef6c4569aab0f91ec040b210fb58c5acad37a4eafe0da46c6896cc8",
+      "size": 287215,
+      "url": "https://mirrorbits.lineageos.org/full/m20lte/20261103/build-manifest.xml"
+    }
+  ],
+  "type": "nightly",
+  "version": "22.2"
 }
