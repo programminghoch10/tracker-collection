@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-04",
-  "datetime": 1793750591,
+  "date": "2026-11-11",
+  "datetime": 1794363832,
   "files": [
     {
-      "date": "2026-11-04",
-      "datetime": 1793750591,
-      "filename": "lineage-24.0-20261104-nightly-tifa-signed.zip",
-      "filepath": "/full/tifa/20261104/lineage-24.0-20261104-nightly-tifa-signed.zip",
-      "os_patch_level": "2026-10-01",
+      "date": "2026-11-11",
+      "datetime": 1794363832,
+      "filename": "lineage-24.0-20261111-nightly-tifa-signed.zip",
+      "filepath": "/full/tifa/20261111/lineage-24.0-20261111-nightly-tifa-signed.zip",
+      "os_patch_level": "2026-11-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:4946:49934,payload.bin:4946:588383907,payload_properties.txt:588388911:154,apex_info.pb:2276:1409,care_map.pb:3732:1167,metadata:69:669,metadata.pb:806:1422                      ",
-      "sha1": "4cbe3313831537396abebbb51eb14332998b6588",
-      "sha256": "b936964e801155b7af5879160c204b6df64546bbdb8da5d4bbfcb1cbb9bfa961",
-      "size": 588392056,
+      "ota_property_files": "payload_metadata.bin:4946:49934,payload.bin:4946:588390481,payload_properties.txt:588395485:154,apex_info.pb:2276:1409,care_map.pb:3732:1167,metadata:69:669,metadata.pb:806:1422                      ",
+      "sha1": "5fefec7ebe3c9a215c3decbe0b2cf51dff922837",
+      "sha256": "510de2b35ad8ef0482d556adc3946c423b0f8a65e54e715a8874b725f855b20a",
+      "size": 588398630,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/tifa/20261104/lineage-24.0-20261104-nightly-tifa-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/tifa/20261111/lineage-24.0-20261111-nightly-tifa-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/tifa/20261104/boot.img",
-      "sha1": "e1975ba27e00916c94d44e862a8f515a9a9e9793",
-      "sha256": "3403d5863a89fbf8158e20428c04af901ea4c828489a2842422713348c65e2cb",
+      "filepath": "/full/tifa/20261111/boot.img",
+      "sha1": "27b407e910b1618c24bc8d2c176c75bd23cb773c",
+      "sha256": "56e7df6f3a0ac5bb9610170785197661e7cd41284d441f1c56321fd9f7546f23",
       "size": 67108864,
-      "url": "https://mirrorbits.lineageos.org/full/tifa/20261104/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tifa/20261111/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/tifa/20261104/dtbo.img",
-      "sha1": "9cfacff5731aaedc63ef5eb2b99f37fdf9e12ebc",
-      "sha256": "564211712b887f5f4001873e88b85eb59297578a7aee8a7fc0cd61c201e79e20",
+      "filepath": "/full/tifa/20261111/dtbo.img",
+      "sha1": "cf245d309751d73e2fb57c40542d9537c8d802c6",
+      "sha256": "999b7073d0cffc563dff35959569ade37973666d1d5ff22be3e83e60438a1840",
       "size": 2097152,
-      "url": "https://mirrorbits.lineageos.org/full/tifa/20261104/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/tifa/20261111/dtbo.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/tifa/20261104/super_empty.img",
+      "filepath": "/full/tifa/20261111/super_empty.img",
       "sha1": "563befd6d59d08c5cebff74d36f2aa7ef647f091",
       "sha256": "7f94eaf258d04e91bf9a24645cf5e015d93880d956adda60de30e7f7e3df7f58",
       "size": 5392,
-      "url": "https://mirrorbits.lineageos.org/full/tifa/20261104/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/tifa/20261111/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/tifa/20261104/vbmeta.img",
-      "sha1": "2302cd99ee107da8f34c00523c7dd39c52e78a8f",
-      "sha256": "fcd98b15ff51a4a81810a936ed7414671dac90089cfcffd8cdffca53926bd180",
+      "filepath": "/full/tifa/20261111/vbmeta.img",
+      "sha1": "dae29c0069934e91e7bc85d752fafa102f3b10e5",
+      "sha256": "279cd71a40b7988f45f8d24c8cf33cbcbfea7dd5da5e982c42e13f3ee0e9c0ca",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/tifa/20261104/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/tifa/20261111/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/tifa/20261104/vendor_boot.img",
-      "sha1": "2c61e0a7e1a3438dd1c12d4d422aeea6e469f577",
-      "sha256": "cbf57843137a5a268d863fb0b15608017e3036ea3488fd4367217ac69051df00",
+      "filepath": "/full/tifa/20261111/vendor_boot.img",
+      "sha1": "b5d22ed6534411428d275c46436bc3808cf34241",
+      "sha256": "4282b6654472ab1ee860b28b5b366be7e2af5309f01adcace09e4408b6317fc1",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/tifa/20261104/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/tifa/20261111/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/tifa/20261104/build-manifest.xml",
-      "sha1": "0f955b3cddecc5742df8ed44ec3ec986e4ca4c9f",
-      "sha256": "383dd071c68b900596e15ab21cace68eadff4c6105a23f9e3350856982ccddfe",
-      "size": 313311,
-      "url": "https://mirrorbits.lineageos.org/full/tifa/20261104/build-manifest.xml"
+      "filepath": "/full/tifa/20261111/build-manifest.xml",
+      "sha1": "3bd977ea0f637dff43a963f8f42e960a8d884c5f",
+      "sha256": "5d2d7b98cf09722a9a39557104da1378f61526b4f40c989a0fa230ac5a4ec5b9",
+      "size": 313298,
+      "url": "https://mirrorbits.lineageos.org/full/tifa/20261111/build-manifest.xml"
     }
   ],
   "type": "nightly",
