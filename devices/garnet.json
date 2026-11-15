@@ -1,78 +1,78 @@
 {
-  "date": "2026-11-11",
-  "datetime": 1794367511,
+  "date": "2026-11-14",
+  "datetime": 1794674716,
   "files": [
     {
-      "date": "2026-11-11",
-      "datetime": 1794367511,
-      "filename": "lineage-23.2-20261111-nightly-garnet-signed.zip",
-      "filepath": "/full/garnet/20261111/lineage-23.2-20261111-nightly-garnet-signed.zip",
-      "os_patch_level": "2026-10-01",
-      "os_sdk_level": 36,
-      "ota_property_files": "payload_metadata.bin:4643:136848,payload.bin:4643:1617832433,payload_properties.txt:1617837134:156,apex_info.pb:2159:1279,care_map.pb:3485:1111,metadata:69:689,metadata.pb:826:1285                        ",
-      "sha1": "a7c5e6f8467c434b9c78371d5b94415d5da09272",
-      "sha256": "f30daec129a76006d3613a988f1d1bde020138a692ff9503f6869952a1da5bde",
-      "size": 1617840281,
+      "date": "2026-11-14",
+      "datetime": 1794674716,
+      "filename": "lineage-24.0-20261114-nightly-garnet-signed.zip",
+      "filepath": "/full/garnet/20261114/lineage-24.0-20261114-nightly-garnet-signed.zip",
+      "os_patch_level": "2026-11-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:4768:138758,payload.bin:4768:1657805602,payload_properties.txt:1657810428:156,apex_info.pb:2154:1414,care_map.pb:3615:1106,metadata:69:689,metadata.pb:826:1280                        ",
+      "sha1": "e5296d241fe722f42dc8a40c4cae4dc4a6475441",
+      "sha256": "3ffff638d61d8b55a75b46a819e86fbb42a8b938870fe4147e2678b33db1d8a8",
+      "size": 1657813575,
       "type": "nightly",
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/lineage-23.2-20261111-nightly-garnet-signed.zip"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/lineage-24.0-20261114-nightly-garnet-signed.zip"
     },
     {
       "filename": "boot.img",
-      "filepath": "/full/garnet/20261111/boot.img",
-      "sha1": "dfad8aadf481afdf1182bbc2c020181a7bc98e62",
-      "sha256": "9d32266d0bd5ef973c65e5d2300b302a0c49f1819e60e633163b1151ddd9de05",
+      "filepath": "/full/garnet/20261114/boot.img",
+      "sha1": "bc269c0c9f639980058067d87ba7384c47e5cc1b",
+      "sha256": "0c7abe1b5fbb6853f8152e0bdf15a67d820fe5ae499059e5e1ad7b10226f18d9",
       "size": 201326592,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/boot.img"
     },
     {
       "filename": "dtbo.img",
-      "filepath": "/full/garnet/20261111/dtbo.img",
-      "sha1": "895945a8b97fbd369330732436cc4a42b32fc4fe",
-      "sha256": "d39ace99c09b8005aa1a5c5e55ba26bcdf6d8509d44abb2056ae0794a8ca3257",
+      "filepath": "/full/garnet/20261114/dtbo.img",
+      "sha1": "a570112e8a4e45125bc6a1b42dd0b6d55d5d6a7f",
+      "sha256": "389bc448795588cc12fae087276f9da87e049a139c4a3a1ca876a751584b9ba5",
       "size": 25165824,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/dtbo.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/dtbo.img"
     },
     {
       "filename": "recovery.img",
-      "filepath": "/full/garnet/20261111/recovery.img",
-      "sha1": "2b65ef7b596a756b2e978397914ece2ebe4dea72",
-      "sha256": "1660cdddfdef1dfcbee29894b0573e3af2ddbf8a435637324d399656e7074e01",
+      "filepath": "/full/garnet/20261114/recovery.img",
+      "sha1": "217eaaed4b2b5be3412201773c0e45608905c6cd",
+      "sha256": "cb83c5eaf07882bf3a22ad50057e4323cbafc2de5497a6355c2dd82edfc2ae87",
       "size": 104857600,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/recovery.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/recovery.img"
     },
     {
       "filename": "super_empty.img",
-      "filepath": "/full/garnet/20261111/super_empty.img",
-      "sha1": "a898e8440578de5187016891d2db0aef88cd07b0",
-      "sha256": "9df53e398531e77a5ca2709f312696b93fc9e6da98f60e4345128c92f59c96ac",
+      "filepath": "/full/garnet/20261114/super_empty.img",
+      "sha1": "8dda98857500b8712150676ca62f4328bcf3214d",
+      "sha256": "d3e3924640b953b6a4c4ab9d56900dc51d72c6616917c1e8c7a8e5a5c7936ee0",
       "size": 5184,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/super_empty.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/super_empty.img"
     },
     {
       "filename": "vbmeta.img",
-      "filepath": "/full/garnet/20261111/vbmeta.img",
-      "sha1": "c45307b83dd5e977d39ef58cdf477bf974530029",
-      "sha256": "70e0ba6d24abd54640daa6e4a4b249795be58cb2a049503c436ee3abd2dcdb04",
+      "filepath": "/full/garnet/20261114/vbmeta.img",
+      "sha1": "483885e51aa41c34dbab48823e8cd30d1ac41386",
+      "sha256": "eac5137b2df71405a24026777d41f8d08e15fc6e9b79f410e941ef3773852216",
       "size": 8192,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/vbmeta.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/vbmeta.img"
     },
     {
       "filename": "vendor_boot.img",
-      "filepath": "/full/garnet/20261111/vendor_boot.img",
-      "sha1": "1c577ead88e01a1a9ccdfce53df204eb73b8042a",
-      "sha256": "b189b5d16c4ad105f372709fb822645de6318d4412faeb4d3f7060e23e8854a8",
+      "filepath": "/full/garnet/20261114/vendor_boot.img",
+      "sha1": "b6bca765afcc7f4d336b20c33b86d21e318ef7a7",
+      "sha256": "825cfa7e05160e0694d5d60cf62b462d4635bfad93a53e4c3ebc49ae1dfe30c3",
       "size": 100663296,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/vendor_boot.img"
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/vendor_boot.img"
     },
     {
       "filename": "build-manifest.xml",
-      "filepath": "/full/garnet/20261111/build-manifest.xml",
-      "sha1": "3d08cef7d5ce6f6a95d42342368f543c6ce1f28f",
-      "sha256": "0ae4d925ea473e9e36d4b30e9af360c7bc8de2f4cbb831bef66f2ea6cedcca12",
-      "size": 285967,
-      "url": "https://mirrorbits.lineageos.org/full/garnet/20261111/build-manifest.xml"
+      "filepath": "/full/garnet/20261114/build-manifest.xml",
+      "sha1": "45a2672fb78a66f4a41a0d3509ef38303831b096",
+      "sha256": "0440bc9d890d24ce38fad5576c19264234eaf3ab502360681191e6bcbcd0ed34",
+      "size": 305494,
+      "url": "https://mirrorbits.lineageos.org/full/garnet/20261114/build-manifest.xml"
     }
   ],
   "type": "nightly",
-  "version": "23.2"
+  "version": "24.0"
 }
